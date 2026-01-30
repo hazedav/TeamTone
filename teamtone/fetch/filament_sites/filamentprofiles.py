@@ -36,7 +36,13 @@ class FilamentProfilesScraper(FilamentScraper):
     def site_url(self) -> str:
         return "https://3dfilamentprofiles.com"
 
-    def fetch(self, per_page: int = 100, delay: float = None, fetch_only: bool = False, **kwargs) -> dict[str, Any]:
+    def fetch(
+        self,
+        per_page: int = 100,
+        delay: float = None,
+        fetch_only: bool = False,
+        **kwargs,
+    ) -> dict[str, Any]:
         """
         Fetch filament data from 3dfilamentprofiles.com
 
@@ -59,13 +65,13 @@ class FilamentProfilesScraper(FilamentScraper):
 
         # Add custom headers with Chrome user agent
         headers = {
-            'User-Agent': self.USER_AGENT,
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-            'Accept-Language': 'en-US,en;q=0.5',
-            'Accept-Encoding': 'gzip, deflate' if not fetch_only else 'identity',
-            'DNT': '1',
-            'Connection': 'keep-alive',
-            'Upgrade-Insecure-Requests': '1',
+            "User-Agent": self.USER_AGENT,
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate" if not fetch_only else "identity",
+            "DNT": "1",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1",
         }
 
         # Fetch with retry logic for 429 errors
@@ -75,7 +81,9 @@ class FilamentProfilesScraper(FilamentScraper):
                 # Add delay before request (except first attempt)
                 if attempt > 0:
                     wait_time = self.RETRY_DELAY * attempt
-                    print(f"Retry {attempt}/{self.MAX_RETRIES - 1} after {wait_time}s...")
+                    print(
+                        f"Retry {attempt}/{self.MAX_RETRIES - 1} after {wait_time}s..."
+                    )
                     time.sleep(wait_time)
                 elif delay > 0:
                     time.sleep(delay)
@@ -91,7 +99,9 @@ class FilamentProfilesScraper(FilamentScraper):
                         continue
                     else:
                         print(f"Rate limited after {self.MAX_RETRIES} attempts.")
-                        print("Try again later or increase the delay with --delay parameter.")
+                        print(
+                            "Try again later or increase the delay with --delay parameter."
+                        )
                         sys.exit(1)
                 else:
                     print(f"HTTP Error: {e}")
@@ -108,8 +118,8 @@ class FilamentProfilesScraper(FilamentScraper):
         # If fetch_only mode, return raw HTML without parsing
         if fetch_only:
             # Get encoding information
-            detected_encoding = response.encoding or 'utf-8'
-            content_type = response.headers.get('Content-Type', 'unknown')
+            detected_encoding = response.encoding or "utf-8"
+            content_type = response.headers.get("Content-Type", "unknown")
 
             print(f"\nResponse Information:")
             print(f"  Status: {response.status_code}")
@@ -127,21 +137,23 @@ class FilamentProfilesScraper(FilamentScraper):
             }
 
         # Parse the HTML
-        soup = BeautifulSoup(response.content, 'html.parser')
+        soup = BeautifulSoup(response.content, "html.parser")
 
         filaments_data = {
             "source_url": url,
             "source_name": self.site_name,
             "raw_html_length": len(response.text),
-            "filaments": []
+            "filaments": [],
         }
 
         # Extract JSON data from Next.js script tag
-        filaments_data['filaments'] = self._parse_filaments(soup)
+        filaments_data["filaments"] = self._parse_filaments(soup)
 
-        if not filaments_data['filaments']:
+        if not filaments_data["filaments"]:
             print("Warning: No filaments found. The page structure may have changed.")
-            print("You may need to inspect the HTML and update the JSON extraction logic.")
+            print(
+                "You may need to inspect the HTML and update the JSON extraction logic."
+            )
 
         print(f"Found {len(filaments_data['filaments'])} filaments")
 
@@ -166,13 +178,17 @@ class FilamentProfilesScraper(FilamentScraper):
         filaments = []
 
         # Find all script tags
-        scripts = soup.find_all('script')
+        scripts = soup.find_all("script")
 
         for script in scripts:
             script_text = script.string if script.string else ""
 
             # Look for JSON objects with filament data (escaped format)
-            if 'brand_name' in script_text and 'material' in script_text and 'rgb' in script_text:
+            if (
+                "brand_name" in script_text
+                and "material" in script_text
+                and "rgb" in script_text
+            ):
                 try:
                     # The JSON is escaped, so we need to match: \\"brand_name\\":\\"value\\"
                     # Pattern matches entire JSON objects to extract all fields
@@ -196,20 +212,29 @@ class FilamentProfilesScraper(FilamentScraper):
                         }
 
                         # Add material_type if it's meaningful
-                        if material_type and material_type not in ('', '-- Other --', 'null'):
+                        if material_type and material_type not in (
+                            "",
+                            "-- Other --",
+                            "null",
+                        ):
                             # Combine material with type for richer info
-                            filament['material'] = f"{material} {material_type}"
+                            filament["material"] = f"{material} {material_type}"
 
                         # Extract website URL if present (primary source)
-                        website_match = re.search(r'\\"website\\":\\"(https?://[^"\\]+)\\"', full_match)
+                        website_match = re.search(
+                            r'\\"website\\":\\"(https?://[^"\\]+)\\"', full_match
+                        )
                         if website_match:
-                            filament['link'] = website_match.group(1)
+                            filament["link"] = website_match.group(1)
                         else:
                             # Extract Amazon ASIN from price_data as fallback
-                            price_data_match = re.search(r'\\"price_data\\":\{\\"bad\\":\\"([^"\\]+)\\"', full_match)
+                            price_data_match = re.search(
+                                r'\\"price_data\\":\{\\"bad\\":\\"([^"\\]+)\\"',
+                                full_match,
+                            )
                             if price_data_match:
                                 asin = price_data_match.group(1)
-                                filament['link'] = f"https://www.amazon.com/dp/{asin}"
+                                filament["link"] = f"https://www.amazon.com/dp/{asin}"
 
                         filaments.append(filament)
 
@@ -222,4 +247,3 @@ class FilamentProfilesScraper(FilamentScraper):
                     continue
 
         return filaments
-

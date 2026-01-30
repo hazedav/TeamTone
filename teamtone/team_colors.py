@@ -9,7 +9,8 @@ from pathlib import Path
 
 # Load team data from teams folder (one file per league)
 _current_dir = Path(__file__).parent
-_teams_folder = _current_dir / 'teams'
+_teams_folder = _current_dir / "teams"
+
 
 def _load_teams_from_folder(folder: Path) -> dict:
     """Load all team data from league YAML files in the teams folder"""
@@ -18,12 +19,13 @@ def _load_teams_from_folder(folder: Path) -> dict:
 
     all_teams = {}
 
-    for yaml_file in folder.glob('*.yaml'):
-        league_data = yaml.safe_load(open(yaml_file, 'r', encoding='utf-8'))
+    for yaml_file in folder.glob("*.yaml"):
+        league_data = yaml.safe_load(open(yaml_file, "r", encoding="utf-8"))
         if league_data:
             all_teams.update(league_data)
 
     return all_teams
+
 
 ALL_TEAMS = _load_teams_from_folder(_teams_folder)
 
@@ -52,7 +54,7 @@ def get_team_colors(team_name, league=None):
                         "team": team,
                         "league": league_upper,
                         "colors": colors["colors"],
-                        "hex": colors["hex"]
+                        "hex": colors["hex"],
                     }
     else:
         # Search across all leagues
@@ -63,7 +65,7 @@ def get_team_colors(team_name, league=None):
                         "team": team,
                         "league": league_name,
                         "colors": colors["colors"],
-                        "hex": colors["hex"]
+                        "hex": colors["hex"],
                     }
 
     return None
@@ -85,12 +87,14 @@ def search_teams(search_term):
     for league_name, teams in ALL_TEAMS.items():
         for team, colors in teams.items():
             if search_term_lower in team.lower():
-                results.append({
-                    "team": team,
-                    "league": league_name,
-                    "colors": colors["colors"],
-                    "hex": colors["hex"]
-                })
+                results.append(
+                    {
+                        "team": team,
+                        "league": league_name,
+                        "colors": colors["colors"],
+                        "hex": colors["hex"],
+                    }
+                )
 
     return results
 
@@ -132,7 +136,7 @@ if __name__ == "__main__":
         print(f"Colors: {', '.join(lakers['colors'])}")
         print(f"Hex Codes: {', '.join(lakers['hex'])}")
 
-    print("\n" + "="*50 + "\n")
+    print("\n" + "=" * 50 + "\n")
 
     # Example 2: Search for teams
     print("Example 2: Search for teams with 'New York' in name")
@@ -140,7 +144,7 @@ if __name__ == "__main__":
     for team in ny_teams:
         print(f"{team['team']} ({team['league']}): {', '.join(team['colors'])}")
 
-    print("\n" + "="*50 + "\n")
+    print("\n" + "=" * 50 + "\n")
 
     # Example 3: Get team by league
     print("Example 3: Get Dallas Cowboys colors (NFL)")
@@ -150,7 +154,7 @@ if __name__ == "__main__":
         print(f"Colors: {', '.join(cowboys['colors'])}")
         print(f"Hex Codes: {', '.join(cowboys['hex'])}")
 
-    print("\n" + "="*50 + "\n")
+    print("\n" + "=" * 50 + "\n")
 
     # Example 4: List all leagues
     print("Example 4: All supported leagues")
