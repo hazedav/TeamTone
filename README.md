@@ -1,6 +1,6 @@
 # TeamTone
 
-![CI](https://github.com/your-username/teamtone/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/hazedav/TeamTone/actions/workflows/ci.yml/badge.svg)
 
 **TeamTone** is a tool that helps makers match their favorite sports teams' official colors with real-world 3D printer filaments.
 
