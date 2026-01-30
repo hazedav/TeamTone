@@ -1,0 +1,182 @@
+TECOR:
+  PLA+/Pro Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#54BD65'
+      source: 3dfilamentprofiles.com
+      link: https://www.inkstation.com.au/2102/pla-3d-filament-175mm-green-1kg-roll-p-18269.html?variant=12231
+    Black:
+      hex: '#0A0A0A'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#8300B3'
+      source: 3dfilamentprofiles.com
+      link: https://www.inkstation.com.au/2102/pla-3d-filament-175mm-purple-1kg-roll-p-18292.html?variant=12241
+    Gray:
+      hex: '#6A6C6E'
+      source: 3dfilamentprofiles.com
+    Fuchsia:
+      hex: '#E230B6'
+      source: 3dfilamentprofiles.com
+      link: https://www.inkstation.com.au/2102/1-pla-3d-filament-175mm-fuchsia-1kg-p-17701.html
+    Bone White:
+      hex: '#E9D4B5'
+      source: 3dfilamentprofiles.com
+      link: https://www.inkstation.com.au/2102/1-pla-3d-filament-175mm-bone-1kg-p-28709.html
+    Dark Purple:
+      hex: '#382565'
+      source: 3dfilamentprofiles.com
+    Lemon Yellow:
+      hex: '#FFF44F'
+      source: 3dfilamentprofiles.com
+      link: https://www.inkstation.com.au/2102/1-pla-3d-filament-175mm-lemon-yellow-1kg-p-21462.html#21462
+    Forest Green:
+      hex: '#173904'
+      source: 3dfilamentprofiles.com
+    Sakura Pink:
+      hex: '#FED2DA'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#E01B24'
+      source: 3dfilamentprofiles.com
+      link: https://www.inkstation.com.au/2102/pla-3d-filament-175mm-1kg-p-26806.html?variant=12246
+    Coffee:
+      hex: '#7A4A00'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#198BF9'
+      source: 3dfilamentprofiles.com
+      link: https://www.inkstation.com.au/2102/pla-3d-filament-175mm-blue-1kg-roll-p-18257.html?variant=12223
+  PLA Glow:
+    Noctilucent Red:
+      hex: '#F82E27'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro 2.0:
+    Gold:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#E01B24'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#F9D243'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF8040'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+  PLA Marble:
+    Marble:
+      hex: '#C5C6D0'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Grey:
+      hex: '#797B7C'
+      source: 3dfilamentprofiles.com
+    Coffee:
+      hex: '#A25E0A'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#54BD65'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF8040'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#F9D243'
+      source: 3dfilamentprofiles.com
+  PLA Sparkle:
+    Twinkle Blue:
+      hex: '#A9E1FF'
+      source: 3dfilamentprofiles.com
+  HIPS Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  TPU Basic:
+    Blue:
+      hex: '#111BE3'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Translucent:
+    Transparent:
+      hex: '#F0F2F5'
+      source: 3dfilamentprofiles.com
+      link: https://www.inkstation.com.au/2102/1-pla-3d-filament-175mm-transparent-1kg-p-23862.html
+    Transparent Red:
+      hex: '#E01B24'
+      source: 3dfilamentprofiles.com
+      link: https://www.inkstation.com.au/2102/1-pla-3d-filament-175mm-transparent-red-1kg-p-23863.html
+  PETG Translucent:
+    Pink:
+      hex: '#E8B0D1'
+      source: 3dfilamentprofiles.com
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#B50E20'
+      source: 3dfilamentprofiles.com
+      link: https://www.inkstation.com.au/2102/1-petg-3d-filament-175mm-transparent-red-1kg-p-20130.html
+  ASA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.inkstation.com.au/2102/1-asa-3d-filament-175mm-black-1kg-p-25329.html
+  TPU 95A HF:
+    Grey:
+      hex: '#454545'
+      source: 3dfilamentprofiles.com
+  PVA Translucent:
+    Yellow:
+      hex: '#FFFFC5'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Noctilucent Blue:
+      hex: '#21A1DE'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#093E31'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#5A1C00'
+      source: 3dfilamentprofiles.com
+    Metal Like Aluminum:
+      hex: '#87919A'
+      source: 3dfilamentprofiles.com
+      link: https://www.inkstation.com.au/2102/1-pla-3d-filament-175mm-metal-like-aluminum-1kg-p-22552.html
+  PLA+/Pro Silk:
+    Red Copper:
+      hex: '#CB6D51'
+      source: 3dfilamentprofiles.com
+      link: https://www.inkstation.com.au/2102/1-silk-pla-3d-filament-175mm-brass-1kg-p-17697.html
+    Brass:
+      hex: '#F1A050'
+      source: 3dfilamentprofiles.com
+      link: https://www.inkstation.com.au/2102/1-silk-pla-3d-filament-175mm-brass-1kg-p-17697.html
+  PLA High Speed Marble:
+    Storm Marble:
+      hex: '#9DA4AA'
+      source: 3dfilamentprofiles.com
+  PLA Magic:
+    Sparkling Metallic Holographic Magic Pro Green:
+      hex: '#396552'
+      source: 3dfilamentprofiles.com

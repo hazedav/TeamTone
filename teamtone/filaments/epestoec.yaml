@@ -1,0 +1,11 @@
+EPESTOEC:
+  PLA Basic:
+    Bright White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Pure White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Deep Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

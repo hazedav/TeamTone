@@ -1,0 +1,65 @@
+Bestfilament:
+  ABS Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF8306'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#FF46FF'
+      source: 3dfilamentprofiles.com
+    Emerald:
+      hex: '#005B5B'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Lime:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#7F4829'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF8306'
+      source: 3dfilamentprofiles.com
+      link: https://bestfilament.ru/orange-petg-plastik-bestfilament-dlya-3d-printerov-05-kg-175-mm-2/
+  PLA Basic:
+    Серебристый металлик:
+      hex: '#A4A6A3'
+      source: 3dfilamentprofiles.com
+    Natural:
+      hex: '#FFE6C3'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF8306'
+      source: 3dfilamentprofiles.com
+      link: https://bestfilament.ru/pla-1-1.75-orange/
+  HIPS Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

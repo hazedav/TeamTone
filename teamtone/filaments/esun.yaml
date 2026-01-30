@@ -1,0 +1,1891 @@
+eSUN:
+  PLA_Plus:
+    Black:
+      hex: '#373838'
+      source: FilamentColors.xyz
+      temp_hotend: 205
+      temp_bed: 60
+    Gray:
+      hex: '#697481'
+      source: FilamentColors.xyz
+      temp_hotend: 205
+      temp_bed: 60
+    Skin:
+      hex: '#E3C7B0'
+      source: FilamentColors.xyz
+      temp_hotend: 205
+      temp_bed: 60
+    Peak Green:
+      hex: '#A1DA7D'
+      source: FilamentColors.xyz
+      temp_hotend: 205
+      temp_bed: 60
+  PLA CF:
+    Purple:
+      hex: '#1A0330'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-cf-product/
+    Brown:
+      hex: '#7D6E56'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-cf?VariantsId=12174
+    Green:
+      hex: '#33721D'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-cf-product/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-cf-product/
+    Dark Red/Brown:
+      hex: '#6A2020'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-cf-product/
+  TPU 95A:
+    Trans-Red:
+      hex: '#F00505,#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/tpu-95a
+    Transparent Orange:
+      hex: '#EF5205'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/tpu-95a
+    Natural:
+      hex: '#E6E6E6'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/tpu-95a
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/tpu-95a
+    Translucent Pink:
+      hex: '#E61990'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/tpu-95a
+    Translucent Blue:
+      hex: '#1C90E3'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/tpu-95a
+    Transparent Yellow:
+      hex: '#FFFF3C'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/tpu-95a
+    Clear:
+      hex: '#D4D4D4'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/etpu-95a-product/
+    Translucent Red:
+      hex: '#CC0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/etpu-95a-product/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/tpu-95a
+    Schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/tpu-95a
+    Grey:
+      hex: '#8A8F8B'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/tpu-95a
+    Transparent Green:
+      hex: '#02B31A'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/tpu-95a?VariantsId=12083
+    Transparent Purple:
+      hex: '#B5338A'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/tpu-95a
+    Trans - Blue:
+      hex: '#0616F4,#D4D4D4'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/tpu-95a
+  PLA+/Pro Basic:
+    Candy Pink:
+      hex: '#EAA1B2'
+      source: 3dfilamentprofiles.com
+    Peach Pink:
+      hex: '#FFF9F5'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Space Blue:
+      hex: '#4AC3F0'
+      source: 3dfilamentprofiles.com
+      link: https://www.bastelgarage.ch/3d-drucker/filament-1-75mm/pla/pla-2-236/pla-space-blau-filament-1-75mm-1kg-esun
+    Periwinkle Blue:
+      hex: '#8972E9'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Holly Green:
+      hex: '#004D28'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Baby Blue:
+      hex: '#98FFFF'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Matcha Green:
+      hex: '#C1F469'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Lilac:
+      hex: '#DEBBFF'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Haze Blue:
+      hex: '#3B6FA0'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Coral Orange:
+      hex: '#FF572F'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Jade Green:
+      hex: '#33C48F'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Baby Pink:
+      hex: '#DDA3B0'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Grass Green:
+      hex: '#009952'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Bone White (1750):
+      hex: '#E5DCC8'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Dark Blue:
+      hex: '#11204B'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstoreeu.com/products/pla-pro?VariantsId=12434
+    Very Peri:
+      hex: '#6667AB'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Fire Engine Red:
+      hex: '#91202B'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro?VariantsId=12466
+    Beige:
+      hex: '#DBBBA1'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Pink:
+      hex: '#EF7AA4'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Green:
+      hex: '#003C38'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Orange:
+      hex: '#EF774A'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/esun-pla-1-75mm-3d-filament-1kg-all-colors?variant=40444963193025
+    RGB Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstoreeu.com/products/pla-pro?VariantsId=12864
+    Apricot:
+      hex: '#FFCF56'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Mustard Green:
+      hex: '#E4FF82'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Mint Green:
+      hex: '#D8FFE6'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Almond Yellow:
+      hex: '#FFFFC3'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Skin:
+      hex: '#F9CB9C'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-pro-product/
+    cool white:
+      hex: '#F9FAFA'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-pro-product/
+    Green (Pantone 323C):
+      hex: '#005F61'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Grey:
+      hex: '#606D83'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Violet:
+      hex: '#6E3CA0'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Olive Green:
+      hex: '#555B46'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Purple:
+      hex: '#8350A5'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Light Blue:
+      hex: '#169BEA'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Milky White:
+      hex: '#D9E0E3'
+      source: 3dfilamentprofiles.com
+    Dark Grey:
+      hex: '#2A2A27'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Silver:
+      hex: '#8B888A'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Light Grey:
+      hex: '#B4B4B9'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Red:
+      hex: '#AE000C'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstoreeu.com/products/pla-pro?VariantsId=12440
+    Brick Red:
+      hex: '#9B5347'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-pro-product/1000/
+    Magenta:
+      hex: '#DA3B6D'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Light Brown:
+      hex: '#9B7348'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Warm White:
+      hex: '#FFFCFA'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Cold White:
+      hex: '#F5FAFF'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstoreeu.com/products/pla-pro?VariantsId=12435
+    Hot Pink:
+      hex: '#FF46A2'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Brown:
+      hex: '#775135'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstoreeu.com/products/pla-pro?VariantsId=12437
+    Dark Yellow:
+      hex: '#BA8E23'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Pine Green:
+      hex: '#00645F'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-pro-product/
+    Gold:
+      hex: '#C99B27,#D19001'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro
+    Light Khaki:
+      hex: '#D6C9AF'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-pro?VariantsId=12980
+    Blue:
+      hex: '#1932B3'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-pro-product/
+    Peak Green:
+      hex: '#BAFF72'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-pro-product/
+  PLA Silk Magic:
+    Gold Silver Copper:
+      hex: '#E7A20D'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstoreeu.com/products/epla-silk-magic?VariantsId=12608
+    Dark Twinkling Blue:
+      hex: '#0042AA'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-magic?VariantsId=12188
+    Dark Twinkling Green:
+      hex: '#263E0F'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-magic?VariantsId=12191
+    Red Gold:
+      hex: '#C94831,#C48E30'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/esilk-pla-magic-product/
+    Black Red:
+      hex: '#000000,#95021B'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-silk-magic?VariantsId=12149
+    Gold Silver:
+      hex: '#615942,#7D7D7D'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/esilk-pla-magic-product/
+    Green Blue:
+      hex: '#072811,#061089'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstoreeu.com/products/epla-silk-magic?VariantsId=12147
+    Red/Green:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstoreeu.com/products/epla-silk-magic?VariantsId=12154
+    Purple/Gold:
+      hex: '#23178B,#EDBD5C'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstoreeu.com/products/epla-silk-magic?VariantsId=12153
+    Blue/Silver:
+      hex: '#003166'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstoreeu.com/products/epla-silk-magic?VariantsId=12155
+    Dark Twinkling Gold:
+      hex: '#3F550E'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-magic?VariantsId=12190
+    Gold/Green/Black:
+      hex: '#E7A20D'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstoreeu.com/products/epla-silk-magic?VariantsId=12143
+    Red/Blue:
+      hex: '#C116E3,#008CF0'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstoreeu.com/products/epla-silk-magic?VariantsId=12146
+    Black/Green:
+      hex: '#295002,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/esilk-pla-magic-product/
+    Black Purple:
+      hex: '#531CBA,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/esilk-pla-magic-product/
+  PLA+/Pro Silk:
+    grey:
+      hex: '#919191'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#F1B731'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/esilk-pla-product/
+    Purple:
+      hex: '#8350A5'
+      source: 3dfilamentprofiles.com
+    Cyan:
+      hex: '#32A7D0'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#FBA7E5'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFE764'
+      source: 3dfilamentprofiles.com
+    Lime Green:
+      hex: '#A0CE4A'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#C4402B'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#B1B1B3'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/esilk-pla-product/
+  PA (Nylon) Translucent:
+    Natural - nocolor:
+      hex: '#CCCCCC'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Blue:
+      hex: '#0056D6'
+      source: 3dfilamentprofiles.com
+    Rainbow:
+      hex: '#52D6FC,#C3D117,#EE719E'
+      source: 3dfilamentprofiles.com
+    Universe:
+      hex: '#49B2FD,#4EF981,#F980A5'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#E3E0DD'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/esilk-pla-product/
+    Dark Yellow:
+      hex: '#D4A62F'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#7FCB44'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#DED74C'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-silk?VariantsId=12091
+    Red:
+      hex: '#C94831'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#B5C1C6'
+      source: 3dfilamentprofiles.com
+    Violet (FBeJcBj01C):
+      hex: '#DF0C7C'
+      source: 3dfilamentprofiles.com
+    Silk Rose Gold:
+      hex: '#E7A18E'
+      source: 3dfilamentprofiles.com
+    Cyan:
+      hex: '#00FFFF'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#67009E'
+      source: 3dfilamentprofiles.com
+    Copper:
+      hex: '#AE6B30'
+      source: 3dfilamentprofiles.com
+    Bronze:
+      hex: '#829173'
+      source: 3dfilamentprofiles.com
+    Peach:
+      hex: '#FFA57D'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#C48E30'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/esun-silk-pla-filament-1-75mm-metal-silk-pla-3d-printer-filament-1kg-2-2-lbs-spool-3d-printing-materials-for-3d-printers?variant=38050946515137
+    Jacinth:
+      hex: '#EE422A'
+      source: 3dfilamentprofiles.com
+      link: https://www.bastelgarage.ch/3d-drucker/filament-1-75mm/pla/silk-pla/silk-einfarbig/pla-silk-orange-jacinth-filament-1-75mm-1kg-esun
+    Candy Rouge Or Bleu:
+      hex: '#FF0000,#0000FF,#FAC905'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstoreeu.com/products/epla-silk-candy
+    Pink:
+      hex: '#F566C8'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/esilk-pla-product/
+  TPU 85A:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#2243A5'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro CMYK:
+    Magenta:
+      hex: '#F86B88'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/cmyk-product/
+    yellow:
+      hex: '#FCE300'
+      source: 3dfilamentprofiles.com
+    cyan:
+      hex: '#0086D6'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFFF88'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/cmyk-product/
+    Cyan:
+      hex: '#62AEDD'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/pla-cmyk?VariantsId=12656
+    White:
+      hex: '#FFFFFE'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/cmyk-product/
+  ABS High Speed:
+    Green:
+      hex: '#007A3F'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/eabs-pro-hs?VariantsId=12486
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/eabs-pro-hs?VariantsId=12486
+    yellow:
+      hex: '#D3BC12'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.uk/
+  PLA Glow:
+    Luminous Blue:
+      hex: '#0433FF'
+      source: 3dfilamentprofiles.com
+    Luminous Purple:
+      hex: '#874EFE'
+      source: 3dfilamentprofiles.com
+    Luminous Green:
+      hex: '#4DDC53'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-luminous?VariantsId=12298
+    Luminous Rainbow:
+      hex: '#ECF6FE'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-luminous-rainbow?VariantsId=12662
+  PLA Matte:
+    Dark Blue:
+      hex: '#00263A'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-matte-product/
+    Morandi Green:
+      hex: '#33586C'
+      source: 3dfilamentprofiles.com
+      link: https://esun3d.com
+    Mint Green:
+      hex: '#8AC09E'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-matte?VariantsId=12566
+    Brown:
+      hex: '#B18D76'
+      source: 3dfilamentprofiles.com
+      link: https://esun3d.com/epla-matte-product/
+    Almond Yellow:
+      hex: '#E9E795'
+      source: 3dfilamentprofiles.com
+    Dark Gray:
+      hex: '#36454F'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-matte?VariantsId=12563
+    Cream White:
+      hex: '#FEFCDD'
+      source: 3dfilamentprofiles.com
+      link: https://esun3d.com/epla-matte-product/
+    Morandi Purple (P175MP1):
+      hex: '#C77B87'
+      source: 3dfilamentprofiles.com
+      link: https://esun3d.com/epla-matte-product/
+    Lake Blue:
+      hex: '#9ED9EB'
+      source: 3dfilamentprofiles.com
+      link: https://esun3d.com
+    Honey Orange:
+      hex: '#FA754A'
+      source: 3dfilamentprofiles.com
+      link: https://esun3d.com/epla-matte-product/
+    Lilac:
+      hex: '#CF9AD0'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/nl/epla-matte-product/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://esun3d.com
+    Light Blue:
+      hex: '#6BC5F5'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-matte-product/
+    Matcha-green:
+      hex: '#D5E4AA,#E6F998'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-matte-product/
+    Fire Red:
+      hex: '#FE4F3E'
+      source: 3dfilamentprofiles.com
+      link: https://esun3d.com/epla-matte-product/
+    Strawberry Red:
+      hex: '#F57575'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-matte
+    Tangerine:
+      hex: '#EC704C'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-matte?VariantsId=12570
+    Light Khaki:
+      hex: '#FFFFCF'
+      source: 3dfilamentprofiles.com
+      link: https://esun3d.com
+    Olive Green:
+      hex: '#3F5C0E'
+      source: 3dfilamentprofiles.com
+      link: https://esun3d.com/epla-matte-product/
+    DEEP Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://tinyurl.com/4ctbaebe
+    Light Kakhi:
+      hex: '#DED1BE'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-matte-product/
+    Milky White:
+      hex: '#FFFFFB'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstoreeu.com/products/epla-matte?VariantsId=12577
+    Peach Pink:
+      hex: '#FFBDC4,#F8D8E6'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-matte?VariantsId=12567
+  PLA Translucent:
+    Glass Lemon Yellow:
+      hex: '#FAFA33'
+      source: 3dfilamentprofiles.com
+    Glass Light Blue:
+      hex: '#3872A8'
+      source: 3dfilamentprofiles.com
+    Glass Watermelon Red:
+      hex: '#ED333B'
+      source: 3dfilamentprofiles.com
+    Glass Purple:
+      hex: '#773E7E'
+      source: 3dfilamentprofiles.com
+    Glass Orange:
+      hex: '#FF8B4D'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#BEE68B'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-clear-product/
+    Orange:
+      hex: '#FFA500'
+      source: 3dfilamentprofiles.com
+    Ice Blue:
+      hex: '#9FD6FE'
+      source: 3dfilamentprofiles.com
+    Chameleon Tech Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Chameleon Raspberry Red:
+      hex: '#FF4013'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-chameleon-product/
+    Pink:
+      hex: '#EFCCED'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-clear-product/
+  PLA Luminous Rainbow:
+    Orange:
+      hex: '#EF774A'
+      source: 3dfilamentprofiles.com
+    Clear:
+      hex: '#C2C2C2'
+      source: 3dfilamentprofiles.com
+  PVA Support:
+    Natural:
+      hex: '#E6C272'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pva-product/
+  PETG Translucent:
+    Natural:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/petg
+    Purple:
+      hex: '#982ABC'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/petg
+    Blue:
+      hex: '#0091FF'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstoreeu.com/products/petg-basic?VariantsId=12704
+    Orange:
+      hex: '#FF7B00'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/petg
+    Magenta:
+      hex: '#9C020B'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/petg
+    Green:
+      hex: '#03720A'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/petg?VariantsId=12131
+    Yellow:
+      hex: '#F0CA42'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/petg?VariantsId=12130
+    Grey:
+      hex: '#9E9E9E'
+      source: 3dfilamentprofiles.com
+      link: https://www.bastelgarage.ch/3d-drucker/filament-1-75mm/petg/petg-grau-transparent-filament-1-75mm-1kg-esun
+  PLA Matte Dual:
+    Purple Yellow:
+      hex: '#A245D3'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-matte-dual-product/
+    Green Pink:
+      hex: '#00F900,#FF40FF'
+      source: 3dfilamentprofiles.com
+    Red Yellow:
+      hex: '#F9CA1F,#F51414'
+      source: 3dfilamentprofiles.com
+    Green Blue:
+      hex: '#2B3897,#174A43'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-matte-dual-product/
+    Black Red:
+      hex: '#000000,#95021B'
+      source: 3dfilamentprofiles.com
+    Purple Blue:
+      hex: '#DA83EC'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-matte-dual-product/
+    Rice Harvest:
+      hex: '#DAF28E,#89D352'
+      source: 3dfilamentprofiles.com
+    Red Blue:
+      hex: '#6972F7'
+      source: 3dfilamentprofiles.com
+    Green Purple:
+      hex: '#76C27B,#6B52A3'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-matte-dual-product/
+  PETG CF:
+    antique brass:
+      hex: '#3D2400'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Dark Grey:
+      hex: '#1E1E1E'
+      source: 3dfilamentprofiles.com
+    Dark Green:
+      hex: '#004000'
+      source: 3dfilamentprofiles.com
+    Deep Blue:
+      hex: '#012760'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstoreeu.com/products/petg-cf?VariantsId=12680
+    Black Red:
+      hex: '#5A0C1F'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epetg-cf-product/
+  PLA Lite:
+    Black:
+      hex: '#373838'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-lite-product/
+    Yellow:
+      hex: '#FFF700'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-lite-product/
+    Grey:
+      hex: '#929292'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-lite-product/
+    Red (12170):
+      hex: '#C4402B'
+      source: 3dfilamentprofiles.com
+      link: https://uk.esun3dstore.com/products/epla-lite?VariantsId=12170
+    Blue:
+      hex: '#012F7B'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-lite-product/
+    Red:
+      hex: '#FF2600'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-lite-product/
+    Green:
+      hex: '#1F4C35'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-lite-product/
+    B-Grey:
+      hex: '#545E77'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-lite-product/
+    Very Peri (Blue Purple):
+      hex: '#6667AB'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-lite-product/
+    Cold White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-lite-product/
+    White(natural):
+      hex: '#E1E4E7'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-lite-product/
+    Fire Engine Red:
+      hex: '#91202B'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-lite
+  PLA+/Pro High Speed:
+    Pink:
+      hex: '#FF9BB8'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/eplahs-product/
+    Pine Green:
+      hex: '#2E563E'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/eplahs-product/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-pro-hs
+    Purple:
+      hex: '#8350A5'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-pro-hs
+    Light Blue:
+      hex: '#169BEA'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-pro-hs
+    Rot:
+      hex: '#EA0027'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-pro-hs
+    Silver:
+      hex: '#8B888A'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-pro-hs?VariantsId=12534
+    Fire Engine Red:
+      hex: '#91202B'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-pro-hs
+    Olive Green:
+      hex: '#0A4D15'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-pro-hs
+    Green:
+      hex: '#2B434D'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-pro-hs?VariantsId=12592
+    Tannengrün:
+      hex: '#0A2400'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstoreeu.com/products/epla-pro-hs?VariantsId=12543
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/eplahs-product/?_gl=1*ozqdt7*_up*MQ..*_ga*MjY2NTQ0MTcxLjE3NDc2ODQ1MDY.*_ga_FZ5Q977YRS*czE3NDc2ODQ1MDUkbzEkZzEkdDE3NDc2ODQ1MTkkajAkbDAkaDAkZElUZUtKZzVvbXVqX2I0NGVCcU9aWmk3ajVRdXh5dzFUNmc.
+    Cool White:
+      hex: '#E1E9EB'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-pro-hs
+    Red:
+      hex: '#C4402B'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-pro-hs
+    Bone White (Sandstein):
+      hex: '#C2BAA8'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-pro-hs
+    Grey:
+      hex: '#5F6575'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-pro-hs?VariantsId=12533
+    Orange:
+      hex: '#EF774A'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-pro-hs?VariantsId=12535
+    Brown:
+      hex: '#6F513D'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-pro-hs?VariantsId=12596
+    Haze Blue:
+      hex: '#437FB0'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-pro-hs
+    Light Brown:
+      hex: '#9B7348'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-pro-hs
+    Gold:
+      hex: '#FFA933'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-pro-hs
+    Beige:
+      hex: '#FFFFD8'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-pro-hs
+    White:
+      hex: '#E1E9EB'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-pro-product/
+    Blue:
+      hex: '#005AA2'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-pro-hs
+  PLA Marble:
+    Grey:
+      hex: '#B4BBC0'
+      source: 3dfilamentprofiles.com
+    Marmor:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+    Natural:
+      hex: '#D6D6D6'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/de/emarble-product/
+  ABS Basic:
+    Yellow:
+      hex: '#EEF769'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#FF0066'
+      source: 3dfilamentprofiles.com
+      link: https://www.123-3d.nl/eSun-ABS-filament-1-75-mm-Pink-1-kg-i4247-t7366.html
+    Skin:
+      hex: '#E7B1A5'
+      source: 3dfilamentprofiles.com
+    Clear:
+      hex: '#CEE1EE'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/abs-product/
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#B99922'
+      source: 3dfilamentprofiles.com
+    Natural:
+      hex: '#CEC5BB'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0056D6'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#E06500'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#2E2E2E'
+      source: 3dfilamentprofiles.com
+  PLA Glitter:
+    Purple:
+      hex: '#800080'
+      source: 3dfilamentprofiles.com
+    eTwinkling Gold:
+      hex: '#FFBB29'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.ch/fr-CH/esun/etwinkling-gold
+    eTwinkling Clear:
+      hex: '#D6D6D6'
+      source: 3dfilamentprofiles.com
+    eTwinkling Pink:
+      hex: '#FFC0CB'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.no/esun-3d-utskriftsmateriale/etwinkling-pink
+    eTwinkling Warm Orange:
+      hex: '#AF4846'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#080808'
+      source: 3dfilamentprofiles.com
+    eTwinkling Red:
+      hex: '#990000'
+      source: 3dfilamentprofiles.com
+    eTwinkling Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    eTwinkling Blue:
+      hex: '#2A47A5'
+      source: 3dfilamentprofiles.com
+    eTwinkling Silver:
+      hex: '#D1D1D1'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.ch/fr-CH/esun/etwinkling-silver
+    eTwinkling Purple:
+      hex: '#8080FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.elefun.no/vare-53088/3d-print-filament-175mm-esun-etwinkling-pla-1kg-purple
+  PLA High Speed:
+    Green:
+      hex: '#008A59'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    BLUE:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#697481'
+      source: 3dfilamentprofiles.com
+    Sliver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#C4402B'
+      source: 3dfilamentprofiles.com
+    Rosa:
+      hex: '#FFC0CB'
+      source: 3dfilamentprofiles.com
+    Cold White:
+      hex: '#E1E4E7'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/eplahs-product/
+    Orange:
+      hex: '#EE7846'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla?VariantsId=12607
+    White:
+      hex: '#FFECE7'
+      source: 3dfilamentprofiles.com
+    Light Blue:
+      hex: '#5AA5CD'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#6B493A'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#999999'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epetg-hs
+    Purple:
+      hex: '#8350A5'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla?VariantsId=12605
+  PLA Silk Triple:
+    Candy (Red, Gold, Blue):
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Red Black Gold:
+      hex: '#FF4D4D,#F4AD15,#373B3E'
+      source: 3dfilamentprofiles.com
+    candy gold blue green:
+      hex: '#FFA85C,#18972D,#0D5CC7'
+      source: 3dfilamentprofiles.com
+    Blue Red Purple:
+      hex: '#001EFF,#FF0000,#AE00FF'
+      source: 3dfilamentprofiles.com
+  PLA Chameleon:
+    Tech Black:
+      hex: '#32383E'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-chameleon?VariantsId=12193
+    Nebula Purple:
+      hex: '#8A6AF6'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-chameleon-product/
+    Polaris:
+      hex: '#026423'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/es/epla-chameleon-product/
+    Raspberry Red:
+      hex: '#F77269'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-chameleon?VariantsId=12195
+    Galaxy Blue:
+      hex: '#354BA1'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-chameleon?VariantsId=12192
+  PLA+/Pro Matte:
+    Matcha Green:
+      hex: '#80A867'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-matte
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-matte
+    Fire Engine Red:
+      hex: '#91202B'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-matte
+    Deep Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-matte
+    Tangerine:
+      hex: '#F19837'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-matte-product/
+    Matte Rainbow:
+      hex: '#D0E3F0,#EBBDBD,#EEE8CE'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstoreeu.com/products/epla-matte?VariantsId=12584
+    Dark Grey:
+      hex: '#495467'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-matte
+  ABS CF:
+    Dark Blue:
+      hex: '#092B44'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/eabs-cf-product/
+    Dark Red:
+      hex: '#8A0A17'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/eabs-cf-product/
+    Schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/eabs-cf-product/
+  PLA Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla?VariantsId=12498
+    Brown:
+      hex: '#6B493A'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla
+    Pink:
+      hex: '#E1708D'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-basic-product/
+    Light Blue:
+      hex: '#6BC5F5'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-basic-product/
+    Light Brown:
+      hex: '#9B7348'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-basic-product/
+    Bone:
+      hex: '#F7E1CA'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-basic-product/
+    Silver:
+      hex: '#C4C4C4'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-basic-product/https://www.esun3d.com/pla-basic-product/
+    Blue:
+      hex: '#0000F9'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-basic-product/
+    Yellow:
+      hex: '#FEEB1B'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-lite-product/
+    Orange:
+      hex: '#FF6A00'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-basic-product/
+    White:
+      hex: '#F5FAFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-basic-product/
+    Beige:
+      hex: '#FFE2CB'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-basic-product/
+    Sky Blue:
+      hex: '#87CEEB'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-basic-product/
+    Very Peri (Purple):
+      hex: '#9F79E8'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-lite-product/
+    Negro:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://tinyurl.com/bdh89thn
+    Green:
+      hex: '#08E222'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-basic-product/
+    Holly Green:
+      hex: '#00645F'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-basic-product/
+    Cold White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-basic-product/
+    Fire Engine Red:
+      hex: '#8D091E'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstoreeu.com/products/epla?VariantsId=12501
+    Light Grey:
+      hex: '#536C8B'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-basic-product/
+    Red:
+      hex: '#F91411'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-basic-product/
+    Rose:
+      hex: '#FF64B1'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-basic-product/
+    Bone White:
+      hex: '#EED8C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-basic-product/
+    Grey:
+      hex: '#536C8B'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-basic-product/
+    Light Gray:
+      hex: '#667B92'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-basic-product/
+    Dark Blue:
+      hex: '#101670'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-basic-product/
+    Peak Green:
+      hex: '#BAFF72'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla
+    Olive Green:
+      hex: '#435D50'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla?VariantsId=13080
+    Violet:
+      hex: '#A61FA8'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-basic-product/
+    Purple:
+      hex: '#8350A5'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-basic-product/
+  PLA Galaxy:
+    Dark Twinkling Blue:
+      hex: '#053E66'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-magic?VariantsId=12188
+    eStars Galaxy Black:
+      hex: '#131A1B'
+      source: 3dfilamentprofiles.com
+  PLA:
+    Litho White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Litho Magenta:
+      hex: '#FF40FF'
+      source: 3dfilamentprofiles.com
+    Litho Yellow:
+      hex: '#FFFB00'
+      source: 3dfilamentprofiles.com
+    Litho Cyan:
+      hex: '#00FDFF'
+      source: 3dfilamentprofiles.com
+    Silk Candy Red Gold Blue:
+      hex: '#AA1537,#C58938,#0D259D'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-silk-candy?VariantsId=12096
+    Dark Twinkling Green:
+      hex: '#212A30'
+      source: 3dfilamentprofiles.com
+    Dark Twinkling Purple:
+      hex: '#382634'
+      source: 3dfilamentprofiles.com
+    Silk Candy Red Gold:
+      hex: '#E40E30,#FFA85C'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-silk-candy
+    Silk Candy Blue Green:
+      hex: '#0D5CC7,#18972D'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-silk-candy?VariantsId=12101
+    Translucent Pink:
+      hex: '#ECD0D5'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-clear-product/
+  PLA LW:
+    Natural:
+      hex: '#EBCFA7'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstoreeu.com/products/epla-lw
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstoreeu.com/products/epla-lw
+  PLA GF:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  ASA+ Basic:
+    Silver:
+      hex: '#838081'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#454545'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/asa-pro-product/
+    Green:
+      hex: '#007A3F'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#B92D5D'
+      source: 3dfilamentprofiles.com
+    Warm White:
+      hex: '#CECDC9'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/asa-pro-product/
+    Cold White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstoreeu.com/products/easa?VariantsId=12734
+  ABS+ Basic:
+    Green:
+      hex: '#008069'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/abs-pro
+    Pine Green:
+      hex: '#3C694F'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/abs-pro
+    Fire Engine Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/abs-pro
+    Blue:
+      hex: '#0161FD'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/abs-pro
+    Grey:
+      hex: '#616778'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/abs-pro-product/
+    Silver:
+      hex: '#C9D3DF'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/abs-pro
+    Pink:
+      hex: '#FF40FF'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/abs-pro
+    Red:
+      hex: '#B32821'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/abs-pro
+    Natural:
+      hex: '#F5F3E4'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/abs-pro
+    Cold White:
+      hex: '#F4FDFF'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/abs-pro
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/abs-pro
+    Noir:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/abs-pro
+    D-Grey:
+      hex: '#707070'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/it/abs-pro-product/
+    Peak Green:
+      hex: '#4DA036'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/abs-pro-product/
+    Purple:
+      hex: '#58427E'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/abs-pro-product/
+    Yellow:
+      hex: '#F9FF2D'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/abs-pro
+    Fire Truck Red:
+      hex: '#D74250'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/abs-pro
+    Light Blue:
+      hex: '#02A9CB'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/abs-pro
+    Orange:
+      hex: '#FF9300'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/abs-pro
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/abs-pro
+  HIPS Basic:
+    Blue:
+      hex: '#002AFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/hips-product/
+    Natural:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/hips-product/
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/hips-product/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/hips-product/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/hips-product/
+  PLA Rainbow:
+    Morning Glory:
+      hex: '#F07F79,#444955,#716D40'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-silk-rainbow?VariantsId=12200
+  PLA Metal:
+    Gold:
+      hex: '#FAD242'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-metal?VariantsId=12157
+    Antique Brass:
+      hex: '#998165'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-metal-product/
+  PLA PolyLite:
+    Fire Engine Red:
+      hex: '#910000'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-lite-product/
+  PLA+/Pro Translucent:
+    Translucent:
+      hex: '#E3E9ED'
+      source: 3dfilamentprofiles.com
+  PLA High Gloss:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FE343E'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-gloss-product/
+    Silver:
+      hex: '#D6D6D6'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-gloss-product/
+  PA (Nylon) CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/uploads/eSUN_ePA-CF-Filament_TDS_V4.01.pdf
+  PLA Silk Dual:
+    Black Gold:
+      hex: '#000000,#FDC700'
+      source: 3dfilamentprofiles.com
+    Gold Silver:
+      hex: '#B09C8F,#F99E35'
+      source: 3dfilamentprofiles.com
+    Blue Green:
+      hex: '#43A2A5,#224A9C'
+      source: 3dfilamentprofiles.com
+    Red/Blue:
+      hex: '#029DFD,#D26FB7'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-matte-dual-product/
+    Rose/Gold:
+      hex: '#C7886C'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/esilk-pla-product/
+  PETG High Speed:
+    Solid Orange:
+      hex: '#FD904D'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/esun-epetg-hs-1-75mm-3d-filament-1kg?variant=45029828690135
+    Transparent Purple:
+      hex: '#5B2067'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epetg-hs-product/
+    Fire Engine Red:
+      hex: '#D22D35'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epetg-hs
+    Solid Grey:
+      hex: '#787B8C'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/collections/3d-filament/products/esun-epetg-hs-1-75mm-3d-filament-1kg
+    Solid Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/collections/3d-filament/products/esun-epetg-hs-1-75mm-3d-filament-1kg
+    Weiß:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/collections/3d-filament/products/esun-epetg-hs-1-75mm-3d-filament-1kg
+    Blue:
+      hex: '#005AA2'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epetg-hs-product/
+    Solid Yellow:
+      hex: '#F1F50F'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epetg-hs
+    Grau:
+      hex: '#979FA5'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/collections/3d-filament/products/esun-epetg-hs-1-75mm-3d-filament-1kg
+    Solid Red:
+      hex: '#B00721'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/collections/3d-filament/products/esun-epetg-hs-1-75mm-3d-filament-1kg
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/collections/3d-filament/products/esun-epetg-hs-1-75mm-3d-filament-1kg
+    Green:
+      hex: '#008A59'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epetg-hs
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epetg-hs-product/
+  PETG Basic:
+    Solid Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/petg-product/
+    Solid Gray:
+      hex: '#71717F'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/petg
+    Solid Purple:
+      hex: '#7A4796'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/petg
+    Fire Engine Red:
+      hex: '#8D091E'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/petg
+    Solid Blue:
+      hex: '#0062FF'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/petg
+    Solid Silver:
+      hex: '#6B6B6B'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/petg-product/
+    Solid Green:
+      hex: '#088C3B'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/petg
+    Green:
+      hex: '#008A59'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/petg
+    Solid White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/petg-product/
+    Solid Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/petg
+    Solid Orange:
+      hex: '#FF814E'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/petg
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/petg
+    Solid Gold:
+      hex: '#B4A647'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/petg?VariantsId=12124
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.kingdom3d.com.au/products/esun-3d-printer-filament-1-75mm-petg-1kg
+    Solid Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/petg
+  ASA Basic:
+    Silver:
+      hex: '#838081'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#0F0002'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Wood:
+      hex: '#D6CCA3'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.uk/products/pla-wood
+  PLA Super Tough:
+    Black:
+      hex: '#101010'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-st-product/
+    Grey:
+      hex: '#626C78'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#E1E9EB'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-st-product/
+  PETG Matte:
+    Almond Yellow:
+      hex: '#F4F4A6'
+      source: 3dfilamentprofiles.com
+    Mint Green:
+      hex: '#98FF98'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/de/petg-matte-product/
+  PLA Matte Rainbow:
+    Pastels:
+      hex: '#9ED7FF,#CBFFB8,#E5BCF0'
+      source: 3dfilamentprofiles.com
+    Ocean:
+      hex: '#A8C9DA,#9DB1D2,#6BA3B5'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-matte?VariantsId=13114
+    Fruit Candy (CWBeJfJg0101033):
+      hex: '#A45B9B,#F76E75,#F76EF2'
+      source: 3dfilamentprofiles.com
+    Macaron (CWBeJfAj0101084):
+      hex: '#6E77F7,#D534B8,#6EF7A9'
+      source: 3dfilamentprofiles.com
+  PLA Silk Rainbow:
+    Morning Glow:
+      hex: '#B92D5D,#3B1E00,#3B4300'
+      source: 3dfilamentprofiles.com
+    Kosmic Rainbow:
+      hex: '#254640'
+      source: 3dfilamentprofiles.com
+    Scorching Sun:
+      hex: '#E57E2A,#F02F00'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-silk-rainbow?VariantsId=12199
+    Coral:
+      hex: '#FFDD00,#D36CF9,#4F45D9,#10E5D7'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-silk-rainbow-product/
+    Rainbow A:
+      hex: '#DE946F,#7AA793,#DEC382'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-silk-rainbow-product/
+  TPE 83A:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/elastic-tpe-83a-product/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/elastic-tpe-83a-product/
+  PC Basic:
+    Natural:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epc-product/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epc-product/
+  ABS+ High Speed:
+    White:
+      hex: '#E1E2E2'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/de/eabshs-product/
+    Red:
+      hex: '#B32821'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/de/eabshs-product/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/de/eabshs-product/
+    Green:
+      hex: '#007A3F'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/de/eabshs-product/
+    Orange:
+      hex: '#EE7846'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/de/eabshs-product/
+    Silver:
+      hex: '#A1A1A1'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/de/eabshs-product/
+    Fire Engine Red:
+      hex: '#A5211F'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/eabshs-product/
+    Grey:
+      hex: '#4F4F4F'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/de/eabshs-product/
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/de/eabshs-product/
+    Cold White:
+      hex: '#ECEAE2'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/eabshs-product/
+  TPU LW:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    GREY:
+      hex: '#ECEEEF'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/etpu-lw-product/
+  PLA Silk Mystic:
+    Mystic - Silk Blue Red and Purple:
+      hex: '#590833'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/esilk-pla-mystic-product/
+    Silk Three Color:
+      hex: '#23857A'
+      source: 3dfilamentprofiles.com
+    Red Green Gold:
+      hex: '#6A8355,#EB5F8B,#A15226'
+      source: 3dfilamentprofiles.com
+    Copper/Purple/Green:
+      hex: '#8F5443,#691E82,#3D6941'
+      source: 3dfilamentprofiles.com
+      link: https://esun3dstore.com/products/epla-silk-magic?VariantsId=12144
+    Gold Green Black:
+      hex: '#896326,#328D4E,#0D0D0D'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/esilk-pla-mystic-product/
+    Blue Orange Green:
+      hex: '#0000FF,#FFA500,#008000'
+      source: 3dfilamentprofiles.com
+  PLA Magic:
+    Dark Shiny Violet:
+      hex: '#705B6E'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-magic-product/
+    Dark Twnkling Blue:
+      hex: '#204B6A'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-magic-product/
+    Dark Twinkling Purple:
+      hex: '#3D0066,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-magic-product/
+    Dark twinkling green:
+      hex: '#006400'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epla-magic-product/
+  PLA+/Pro Tough:
+    Space Blue:
+      hex: '#4AC3F0'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Pro:
+    Grey:
+      hex: '#606D83'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-pro-product/
+    Light Brown:
+      hex: '#B28E5D'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-pro-product/
+    Brown:
+      hex: '#946037'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-pro-product/
+    Orange:
+      hex: '#FF6500'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-pro-product/
+  PLA Rock:
+    Pegmatite:
+      hex: '#6A5F5E,#DB8C48'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-rock-product/
+    Tiger-porphyry:
+      hex: '#FFFFFF,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-rock-product/
+    Limestone:
+      hex: '#363C42,#B3BCC3'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pla-rock-product/
+  PET Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pet-product/see
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pet-product/
+  PLA+/Pro Glow:
+    Luminous Blue:
+      hex: '#FFFFFF,#4580FF'
+      source: 3dfilamentprofiles.com
+  PLA Color Change (UV):
+    Purple:
+      hex: '#0D44E7'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro CF:
+    black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Lite:
+    Solid Grey:
+      hex: '#979797'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.no/esun-3d-utskriftsmateriale/epetg-lite-solid-grey
+    Plain Silver:
+      hex: '#D1D4D6'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/
+    Solid Red:
+      hex: '#F00024'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epetg-lite-product/
+  PC Special:
+    eClean:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/eclean-product/
+  PLA Pro:
+    Green:
+      hex: '#034654'
+      source: 3dfilamentprofiles.com
+  PA6 CF:
+    Schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PA12 CF:
+    Schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epa12-product/
+  PA12 Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/epa12-product/
+  PET Translucent:
+    Natural:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pet-product/
+    Green:
+      hex: '#0D2D0B'
+      source: 3dfilamentprofiles.com
+      link: https://www.esun3d.com/pet-product/
+  PET CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

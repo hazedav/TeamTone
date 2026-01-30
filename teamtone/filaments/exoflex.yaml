@@ -1,0 +1,14 @@
+Exoflex:
+  PETG Basic:
+    Blue:
+      hex: '#075294'
+      source: 3dfilamentprofiles.com
+      link: https://exoflex.ru/pet-gplastik
+  ABS Matte:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Red:
+      hex: '#E32400'
+      source: 3dfilamentprofiles.com

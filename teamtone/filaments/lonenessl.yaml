@@ -1,0 +1,12 @@
+LONENESSL:
+  PLA+/Pro Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    White:
+      hex: '#F7F7F8'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#092AD3'
+      source: 3dfilamentprofiles.com

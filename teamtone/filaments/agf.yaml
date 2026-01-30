@@ -1,0 +1,126 @@
+AGF:
+  ASA Basic:
+    WHITE:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/copy-abs-white-filament-%D7%92%D7%9C%D7%99%D7%9C-%D7%A4%D7%99%D7%9C%D7%9E%D7%A0%D7%98-%D7%9C%D7%91%D7%9F
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/collections/petg
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/petg-black-filament
+  PLA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/pla-white
+    Coral:
+      hex: '#E77E6A'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/pla-coral-filament-%D7%92%D7%9C%D7%99%D7%9C-%D7%A4%D7%99%D7%9C%D7%9E%D7%A0%D7%98-%D7%A7%D7%95%D7%A8%D7%9C-1
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/pla-black
+    Red:
+      hex: '#DC221E'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/pla-red
+    Yellow:
+      hex: '#E5D057'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/pla-yellow-filament-%D7%92%D7%9C%D7%99%D7%9C-%D7%A4%D7%99%D7%9C%D7%9E%D7%A0%D7%98-%D7%A6%D7%94%D7%95%D7%91
+    Brown:
+      hex: '#8C604B'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/pla-brown-filament-%D7%92%D7%9C%D7%99%D7%9C-%D7%A4%D7%99%D7%9C%D7%9E%D7%A0%D7%98-%D7%97%D7%95%D7%9D
+    Green:
+      hex: '#38922D'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/pla-green-filament-%D7%92%D7%9C%D7%99%D7%9C-%D7%A4%D7%99%D7%9C%D7%9E%D7%A0%D7%98-%D7%99%D7%A8%D7%95%D7%A7
+    Marble:
+      hex: '#A0A8AE'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/pla-marble-filament-%D7%92%D7%9C%D7%99%D7%9C-%D7%A4%D7%99%D7%9C%D7%9E%D7%A0%D7%98-%D7%90%D7%A4%D7%A7%D7%98-%D7%A9%D7%99%D7%A9
+    Purple:
+      hex: '#483AAA'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/pla-purple-filament-%D7%92%D7%9C%D7%99%D7%9C-%D7%A4%D7%99%D7%9C%D7%9E%D7%A0%D7%98-%D7%A1%D7%92%D7%95%D7%9C
+    CARAMEL:
+      hex: '#D19F4B'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/collections/pla
+    Skin:
+      hex: '#CDBE80'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/pla-skin-filament-%D7%92%D7%9C%D7%99%D7%9C-%D7%A4%D7%99%D7%9C%D7%9E%D7%A0%D7%98-%D7%A6%D7%91%D7%A2-%D7%A2%D7%95%D7%A8
+    METALLIC MENTHOL:
+      hex: '#92A6AB'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/pla-metallic-menthol-filament-%D7%92%D7%9C%D7%99%D7%9C-%D7%A4%D7%99%D7%9C%D7%9E%D7%A0%D7%98-%D7%9E%D7%A0%D7%98%D7%95%D7%9C-%D7%9E%D7%98%D7%9C%D7%99
+    NATURAL:
+      hex: '#E1DDDA'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/pla-black-filament-%D7%92%D7%9C%D7%99%D7%9C-%D7%A4%D7%99%D7%9C%D7%9E%D7%A0%D7%98-%D7%A9%D7%97%D7%95%D7%A8-copy
+    PINK:
+      hex: '#FF00F7'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/pla-pink-filament-%D7%92%D7%9C%D7%99%D7%9C-%D7%A4%D7%99%D7%9C%D7%9E%D7%A0%D7%98-%D7%95%D7%A8%D7%95%D7%93
+    BLUE SKY:
+      hex: '#3DC1E9'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/pla-blue-sky-filament-%D7%92%D7%9C%D7%99%D7%9C-%D7%A4%D7%99%D7%9C%D7%9E%D7%A0%D7%98-%D7%AA%D7%97%D7%9C%D7%AA
+    NEON PINK:
+      hex: '#ED3747'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/pla-skin-filament-%D7%92%D7%9C%D7%99%D7%9C-%D7%A4%D7%99%D7%9C%D7%9E%D7%A0%D7%98-%D7%A6%D7%91%D7%A2-%D7%A2%D7%95%D7%A8
+    LIGHT PINK:
+      hex: '#B17FB7'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/pla-light-pink-filament-%D7%92%D7%9C%D7%99%D7%9C-%D7%A4%D7%99%D7%9C%D7%9E%D7%A0%D7%98-%D7%95%D7%A8%D7%95%D7%93-%D7%A2%D7%93%D7%99%D7%9F
+    RED STRAWBERRY:
+      hex: '#FA2047'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/pla-red
+    ORANGE:
+      hex: '#DA5D2A'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/pla-orange-filament-%D7%92%D7%9C%D7%99%D7%9C-%D7%A4%D7%99%D7%9C%D7%9E%D7%A0%D7%98-%D7%9B%D7%AA%D7%95%D7%9D
+    GREY:
+      hex: '#6B6B6B'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/pla-grey-filament-%D7%92%D7%9C%D7%99%D7%9C-%D7%A4%D7%99%D7%9C%D7%9E%D7%A0%D7%98-%D7%90%D7%A4%D7%95%D7%A8
+    BLUE:
+      hex: '#0008FF'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/pla-blue-filament-%D7%92%D7%9C%D7%99%D7%9C-%D7%A4%D7%99%D7%9C%D7%9E%D7%A0%D7%98-%D7%9B%D7%97%D7%95%D7%9C
+    RED WINE:
+      hex: '#D92D35'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/pla-red-wine-filament-%D7%92%D7%9C%D7%99%D7%9C-%D7%A4%D7%99%D7%9C%D7%9E%D7%A0%D7%98-%D7%90%D7%93%D7%95%D7%9D-%D7%99%D7%99%D7%9F
+    Gold:
+      hex: '#DFA64F'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/copy-pla-black-filament-%D7%92%D7%9C%D7%99%D7%9C-%D7%A4%D7%99%D7%9C%D7%9E%D7%A0%D7%98-%D7%A9%D7%97%D7%95%D7%A8-1
+  PLA Silk:
+    HONEY GOLD:
+      hex: '#F29D38'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/pla-silk-honney-gold-filament-%D7%92%D7%9C%D7%99%D7%9C-%D7%A4%D7%99%D7%9C%D7%9E%D7%A0%D7%98-%D7%9E%D7%A9%D7%99-%D7%96%D7%94%D7%91-%D7%93%D7%91%D7%A9
+    RED CHERRY:
+      hex: '#DA425F'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/pla-silk-red-cherry-filament-%D7%92%D7%9C%D7%99%D7%9C-%D7%A4%D7%99%D7%9C%D7%9E%D7%A0%D7%98-%D7%9E%D7%A9%D7%99-%D7%90%D7%93%D7%95%D7%9D-%D7%93%D7%95%D7%91%D7%93%D7%91%D7%9F
+  ABS Basic:
+    NATURAL:
+      hex: '#E3E1DE'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/abs-black-filament-%D7%92%D7%9C%D7%99%D7%9C-%D7%A4%D7%99%D7%9C%D7%9E%D7%A0%D7%98-%D7%A9%D7%97%D7%95%D7%A8-copy
+    RED:
+      hex: '#C31714'
+      source: 3dfilamentprofiles.com
+      link: https://3dfarm.biz/products/abs-red

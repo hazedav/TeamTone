@@ -1,0 +1,54 @@
+Kaisertech:
+  PLA Basic:
+    Gras Green:
+      hex: '#008080'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+      link: https://www.kaisertech.de/pla-filament-1-75-mm-1-kg-spule-rolle-3d-drucker-printer-gold.html
+    Grey:
+      hex: '#7A7575'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#EB0000'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FCAC65'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#646464'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#EA0628'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+    green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+  ABS:
+    Neon Green:
+      hex: '#4EE74B'
+      source: 3dfilamentprofiles.com
+  TPU Basic:
+    Lila:
+      hex: '#D357FE'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Blau:
+      hex: '#0433FF'
+      source: 3dfilamentprofiles.com

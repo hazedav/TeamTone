@@ -1,0 +1,40 @@
+Pancolour:
+  PLA Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#E25827'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Light Green:
+      hex: '#B7D9B1'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#44271E'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#A72920'
+      source: 3dfilamentprofiles.com
+    Light Orange:
+      hex: '#F49971'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#2874B2'
+      source: 3dfilamentprofiles.com
+    Light Blue:
+      hex: '#6A93B0'
+      source: 3dfilamentprofiles.com
+    Light Purple:
+      hex: '#D37FA7'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com

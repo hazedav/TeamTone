@@ -1,0 +1,8 @@
+SeeMeCNC:
+  ABS Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#00F900'
+      source: 3dfilamentprofiles.com

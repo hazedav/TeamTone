@@ -1,0 +1,132 @@
+Aliz:
+  PETG Basic:
+    Nickel Black:
+      hex: '#232323'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PETG-3D-Printer-Filament-pd582146178.html
+    Milky White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PETG-3D-Printer-Filament-pd582146178.html
+    Coffee:
+      hex: '#5C3719'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PETG-3D-Printer-Filament-pd582146178.html
+    Brown:
+      hex: '#8B614D'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PETG-3D-Printer-Filament-pd582146178.html
+    Dark Green:
+      hex: '#3B5F3A'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PETG-3D-Printer-Filament-pd582146178.html
+    Wine Red:
+      hex: '#5C2223'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PETG-3D-Printer-Filament-pd582146178.html
+    Light Yellow:
+      hex: '#F7DE98'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PETG-3D-Printer-Filament-pd582146178.html
+    Skin:
+      hex: '#D9CBB8'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PETG-3D-Printer-Filament-pd582146178.html
+    Blue:
+      hex: '#2486B9'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PETG-3D-Printer-Filament-pd582146178.html
+    Pink:
+      hex: '#E0C8D1'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PETG-3D-Printer-Filament-pd582146178.html
+    Lake Blue:
+      hex: '#3170A7'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PETG-3D-Printer-Filament-pd582146178.html
+    Turquoise:
+      hex: '#57C3C2'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PETG-3D-Printer-Filament-pd582146178.html
+    Violet:
+      hex: '#8A4B9C'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PETG-3D-Printer-Filament-pd582146178.html
+    Yellow:
+      hex: '#FED71A'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PETG-3D-Printer-Filament-pd582146178.html
+    Blackish green:
+      hex: '#253D24'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PETG-3D-Printer-Filament-pd582146178.html
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PETG-3D-Printer-Filament-pd582146178.html
+    Green:
+      hex: '#43B244'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PETG-3D-Printer-Filament-pd582146178.html
+    Glitter Silver:
+      hex: '#7A7A7A'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PETG-3D-Printer-Filament-pd582146178.html
+    Red:
+      hex: '#C02C38'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PETG-3D-Printer-Filament-pd582146178.html
+    Orange:
+      hex: '#E52A00'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PETG-3D-Printer-Filament-pd582146178.html
+  PLA Matte:
+    Grass Gray:
+      hex: '#D7D3C8'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PLA-Matte-3D-Printer-Filament-pd590626568.html
+    Wood:
+      hex: '#D0B277'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PLA-Matte-3D-Printer-Filament-pd590626568.html
+    Milky White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PLA-Matte-3D-Printer-Filament-pd590626568.html
+    Morandi Green:
+      hex: '#BDCCB2'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PLA-Matte-3D-Printer-Filament-pd590626568.html
+    Sesame Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PLA-Matte-3D-Printer-Filament-pd590626568.html
+    Durian Yellow:
+      hex: '#DE952E'
+      source: 3dfilamentprofiles.com
+      link: https://www.longshanplas.com/PLA-Matte-3D-Printer-Filament-pd590626568.html
+  PETG Translucent:
+    Orange:
+      hex: '#C1651A'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#43B244'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#2486B9'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#D2B42C'
+      source: 3dfilamentprofiles.com
+    Cyan:
+      hex: '#4B8F8C'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#8A4B9C'
+      source: 3dfilamentprofiles.com
+    Tea:
+      hex: '#BE7E4A'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#80766E'
+      source: 3dfilamentprofiles.com

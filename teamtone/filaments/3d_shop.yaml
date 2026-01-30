@@ -1,0 +1,14 @@
+3D Shop:
+  PETG Fluorescent:
+    Rose:
+      hex: '#F50A68'
+      source: 3dfilamentprofiles.com
+      link: https://3dshop.com.ua/3dshop-petg-fluo-rose
+  PLA Multicolor:
+    Pink / Yellow:
+      hex: '#FFC0CB,#FFFF00'
+      source: 3dfilamentprofiles.com
+  PLA Silk Magic:
+    Silver / Blue:
+      hex: '#C0C0C0,#0000CD'
+      source: 3dfilamentprofiles.com

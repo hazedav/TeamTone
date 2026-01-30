@@ -1,0 +1,14 @@
+MakeShaper:
+  PLA Basic:
+    Neon Green:
+      hex: '#1EF669'
+      source: 3dfilamentprofiles.com
+    Neon Orange:
+      hex: '#FC9F1D'
+      source: 3dfilamentprofiles.com
+    Translucent Yellow:
+      hex: '#C2BC19'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#7A7E7F'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,11 @@
+KungFuFlex:
+  TPU 85A:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3deksperten.dk/products/kungfuflex-soft-flex-85a-panther-black-1-75mm
+  TPU 72D:
+    Royal Blue:
+      hex: '#3F43AD'
+      source: 3dfilamentprofiles.com
+      link: https://3deksperten.dk/products/kungfuflex-hard-flex-72d-royal-blue-1-75mm

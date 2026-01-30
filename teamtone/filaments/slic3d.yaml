@@ -1,0 +1,52 @@
+Slic3D:
+  PLA Basic:
+    Pink:
+      hex: '#FFB0D8'
+      source: 3dfilamentprofiles.com
+      link: https://www.jaycar.com.au/slic3d-pla-spool-less-pink-1-75mm-1kg-filament/p/TL6482
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.jaycar.com.au/slic3d-pla-spool-less-black-1-75mm-1kg-filament/p/TL6473
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.jaycar.com.au/slic3d-pla-spool-less-black-1-75mm-1kg-filament/p/TL6473
+    Red:
+      hex: '#C80000'
+      source: 3dfilamentprofiles.com
+      link: https://www.jaycar.com.au/slic3d-pla-spool-less-red-1-75mm-1kg-filament/p/TL6476
+    Grey:
+      hex: '#666666'
+      source: 3dfilamentprofiles.com
+      link: https://www.jaycar.com.au/slic3d-pla-spool-less-grey-1-75mm-1kg-filament/p/TL6475
+  PETG Lite:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: http://www.electusdistribution.com.au
+    Blue:
+      hex: '#022CAC'
+      source: 3dfilamentprofiles.com
+      link: https://www.jaycar.com.au/slic3d-petg-filament-black-1-75mm-1kg/p/TL6446
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.jaycar.com.au/slic3d-petg-filament-black-1-75mm-1kg/p/TL6446
+    Gray:
+      hex: '#ADAEB1'
+      source: 3dfilamentprofiles.com
+      link: https://www.jaycar.com.au/slic3d-petg-filament-black-1-75mm-1kg/p/TL6446
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.jaycar.com.au/slic3d-petg-filament-red-1-75mm-1kg/p/TL6448
+  PLA Lite:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.jaycar.com.au/slic3d-pla-spool-less-black-1-75mm-1kg-filament/p/TL6473

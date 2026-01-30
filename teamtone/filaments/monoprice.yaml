@@ -1,0 +1,57 @@
+Monoprice:
+  PLA Basic:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Transparent Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Wood:
+      hex: '#FFC077'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#A4A4A4'
+      source: 3dfilamentprofiles.com
+    Flourescent Purple:
+      hex: '#9401B2'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Gray:
+      hex: '#757B8A'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Natural/Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#7C7C83'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#663333'
+      source: 3dfilamentprofiles.com
+    Pine Green:
+      hex: '#005500'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Red:
+      hex: '#FF4143'
+      source: 3dfilamentprofiles.com

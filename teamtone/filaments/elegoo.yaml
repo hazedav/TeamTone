@@ -1,0 +1,1048 @@
+ELEGOO:
+  PETG Translucent:
+    Transparent Grey:
+      hex: '#444444'
+      source: 3dfilamentprofiles.com
+    Transparent:
+      hex: '#D3EFFF'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#E6BCE1'
+      source: 3dfilamentprofiles.com
+    Translucent Orange:
+      hex: '#F97101'
+      source: 3dfilamentprofiles.com
+    Burgundy Red:
+      hex: '#981B70'
+      source: 3dfilamentprofiles.com
+    Translucent Amber:
+      hex: '#BB762B'
+      source: 3dfilamentprofiles.com
+  TPU Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/en-pl/products/tpu-filament-1-75mm-colored-1kg
+  PLA Wood:
+    Teak Wood/Medium Brown:
+      hex: '#B6825D'
+      source: 3dfilamentprofiles.com
+    Oak Wood/Light Brown:
+      hex: '#C4AC99'
+      source: 3dfilamentprofiles.com
+    Tan Birch:
+      hex: '#DFD1C4'
+      source: 3dfilamentprofiles.com
+    Rosewood:
+      hex: '#60433F'
+      source: 3dfilamentprofiles.com
+    Wood Filled:
+      hex: '#C8A36F'
+      source: 3dfilamentprofiles.com
+    Teak Wood/Dark Brown:
+      hex: '#624133'
+      source: 3dfilamentprofiles.com
+      link: http://www.elegoo.com
+    Walnut:
+      hex: '#773F1A'
+      source: 3dfilamentprofiles.com
+  PETG Pro:
+    Green:
+      hex: '#00CC33'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/products/petg-pro-filament-1-75mm-colored-1kg
+    Olive Green:
+      hex: '#395429'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#1748BA'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#ADADAD'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFFB00'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/petg-pro-filament-1-75mm-colored-1kg?variant=51468448235701
+    Silver:
+      hex: '#66676C'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#FFA7F5'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#9E1ECC'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/products/petg-pro-filament-1-75mm-colored-1kg
+    Burgundy Red:
+      hex: '#400010'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/products/petg-pro-filament-1-75mm-colored-1kg
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG GF:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://elegoo.sjv.io/c/6327478/1692726/19663?u=https%3A%2F%2Fus.elegoo.com%2Fproducts%2Fpetg-gf-filament-1-75mm-colored-1kg%3Fvariant%3D51248332177589
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://elegoo.sjv.io/jejPn5
+    Grey:
+      hex: '#929399'
+      source: 3dfilamentprofiles.com
+      link: https://elegoo.sjv.io/c/6327478/1692726/19663?u=https%3A%2F%2Fus.elegoo.com%2Fproducts%2Fpetg-gf-filament-1-75mm-colored-1kg%3Fvariant%3D51248332144821
+  PLA+/Pro High Speed:
+    Rapid Beige:
+      hex: '#FEE7BF'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=44206327922869
+    Orange:
+      hex: '#FF6A00'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FEF953'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0280D9'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#9E6A4B'
+      source: 3dfilamentprofiles.com
+      link: https://www.amazon.com/dp/B0CPF7S5PS
+    Rapid Brown:
+      hex: '#935100'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#E23232'
+      source: 3dfilamentprofiles.com
+    BLACK:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Beige:
+      hex: '#FFD9A8'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#7F7F7F'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#8F949B'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Light Green:
+      hex: '#C0FF90'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/de/collections/filaments/products/elegoo-pla-filament-1-75mm-3d-printer-filament-1kg-spool-2-2-lbs
+    Sunflower Yellow:
+      hex: '#FEC600'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pla-basic-filament-1-75mm-colored-1kg?variant=51248966369461
+    Gray:
+      hex: '#8F949B'
+      source: 3dfilamentprofiles.com
+    Space Gray:
+      hex: '#7E7E7E'
+      source: 3dfilamentprofiles.com
+    Clear:
+      hex: '#BEBBC0'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/elegoo-pla-filament-1-75mm-3d-printer-filament-1kg-spool-2-2-lbs?variant=43734134030517
+    Neon Green:
+      hex: '#4EFF5A'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#45C8D6'
+      source: 3dfilamentprofiles.com
+    True Red:
+      hex: '#BF1932'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/de/collections/filaments/products/elegoo-pla-filament-1-75mm-3d-printer-filament-1kg-spool-2-2-lbs
+    Brown:
+      hex: '#9E6A4B'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#F5EC00'
+      source: 3dfilamentprofiles.com
+    Wood Color:
+      hex: '#B19870'
+      source: 3dfilamentprofiles.com
+    Cocoa Brown:
+      hex: '#725B4D'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/de/collections/filaments/products/elegoo-pla-filament-1-75mm-3d-printer-filament-1kg-spool-2-2-lbs
+    Cyan:
+      hex: '#499CEE'
+      source: 3dfilamentprofiles.com
+    Turquoise Green:
+      hex: '#54AFB2'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/de/collections/filaments/products/elegoo-pla-filament-1-75mm-3d-printer-filament-1kg-spool-2-2-lbs
+    Log:
+      hex: '#B5A79A'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/de/collections/filaments/products/elegoo-pla-filament-1-75mm-3d-printer-filament-1kg-spool-2-2-lbs
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#02CC6C'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/de/collections/filaments/products/elegoo-pla-filament-1-75mm-3d-printer-filament-1kg-spool-2-2-lbs
+    Hot Pink:
+      hex: '#FA7291'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/de/collections/filaments/products/elegoo-pla-filament-1-75mm-3d-printer-filament-1kg-spool-2-2-lbs
+    Pink:
+      hex: '#F9B0BD'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#EA140E'
+      source: 3dfilamentprofiles.com
+    Dark Blue:
+      hex: '#2240AF'
+      source: 3dfilamentprofiles.com
+    Mint Green:
+      hex: '#A7ECC1'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/de/collections/filaments/products/elegoo-pla-filament-1-75mm-3d-printer-filament-1kg-spool-2-2-lbs
+    Wood:
+      hex: '#E5B171'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/de/collections/filaments/products/elegoo-pla-filament-1-75mm-3d-printer-filament-1kg-spool-2-2-lbs
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Bronze Filled:
+      hex: '#785700'
+      source: 3dfilamentprofiles.com
+    Marble cement Grey:
+      hex: '#505253'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/de/collections/filaments/products/elegoo-pla-filament-1-75mm-3d-printer-filament-1kg-spool-2-2-lbs
+    APPLE GREEN:
+      hex: '#CCEF4E'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pla-basic-filament-1-75mm-colored-1kg?variant=51248966434997
+    Galaxy Purple:
+      hex: '#3A2F70'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/galaxy-pla-filament-1-75mm-colored-1kg?srsltid=AfmBOopLXmguZ90KmXxe5-z9ho6cqp1KxbovYQxkg_j6iFeglr-SQF-C
+    Beige:
+      hex: '#F4E0B8'
+      source: 3dfilamentprofiles.com
+    Galaxy Black:
+      hex: '#0F0F1B,#232940,#012D46'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/galaxy-pla-filament-1-75mm-colored-1kg
+    Violet Lavande:
+      hex: '#603BA0'
+      source: 3dfilamentprofiles.com
+    Basic Purple:
+      hex: '#4D2D73'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/de/collections/filaments/products/elegoo-pla-filament-1-75mm-3d-printer-filament-1kg-spool-2-2-lbs
+    Sea Green:
+      hex: '#08B690'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF9100'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#603BA0'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/de/collections/filaments/products/elegoo-pla-filament-1-75mm-3d-printer-filament-1kg-spool-2-2-lbs
+    Cobalt Blue:
+      hex: '#1341D2'
+      source: 3dfilamentprofiles.com
+  ASA:
+    'Black ':
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Blue / Green:
+      hex: '#0671B9,#2C9262'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/elegoo-silk-pla-filament-1-75mm-colored-1kg?variant=43734189146293
+    Silk Green Red:
+      hex: '#FF0080,#00FF40'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/elegoo-silk-pla-filament-1-75mm-colored-1kg?variant=43734189080757
+    Black Green:
+      hex: '#17632A,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/elegoo-silk-pla-filament-1-75mm-colored-1kg?variant=51638547415221
+    Yellow Purple:
+      hex: '#7206AC,#F4D848'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/elegoo-silk-pla-filament-1-75mm-colored-1kg?variant=51638530212021
+    Black / Purple:
+      hex: '#240038,#000000'
+      source: 3dfilamentprofiles.com
+    Blue Magenta:
+      hex: '#3458A6,#EE51B1'
+      source: 3dfilamentprofiles.com
+    Green Red:
+      hex: '#DA3842,#286030'
+      source: 3dfilamentprofiles.com
+    Black / Red:
+      hex: '#C64279,#090105'
+      source: 3dfilamentprofiles.com
+    Blue / Purple:
+      hex: '#478FEF,#800080'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/elegoo-silk-pla-filament-1-75mm-colored-1kg?variant=43734189146293
+  PETG High Speed:
+    Rapid PETG Grey:
+      hex: '#828282'
+      source: 3dfilamentprofiles.com
+      link: https://au.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg?variant=48229500748089
+    Rapid PETG Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://ca.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg?variant=47691662491926
+    Ruby Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://ca.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg?variant=47691662491926
+    Green:
+      hex: '#00C76A'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#66676C'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/collections/rapid-petg-filaments-for-fdm-3d-printers/products/rapid-petg-filament-1-75mm-colored-1kg
+    Rapid PETG Orange:
+      hex: '#F95B06'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg?variant=43734204481717
+    Red:
+      hex: '#802E3F,#DD2624'
+      source: 3dfilamentprofiles.com
+    Rapid PETG Transparent:
+      hex: '#F7F7F8'
+      source: 3dfilamentprofiles.com
+    Beige:
+      hex: '#EDE8D0'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#743824'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFEF47'
+      source: 3dfilamentprofiles.com
+    Rapid PETG White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg?variant=43734204285109
+    Rapid PETG Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg?variant=43734204481717
+    Space Gray:
+      hex: '#616161'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Blue:
+      hex: '#0042AA'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#00CC33'
+      source: 3dfilamentprofiles.com
+    Beige:
+      hex: '#EDE8D0'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#583400'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#F08000'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Space Gray:
+      hex: '#82BBDD'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#8F949B'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Metal:
+    Metallic Bronze:
+      hex: '#785700'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pla-metal-filament-1-75-mm-colored-1-kg?variant=51817080062133
+    Metallic Green:
+      hex: '#296E01'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pla-metal-filament-1-75-mm-colored-1-kg?variant=51817080127669
+    Metallic Gold:
+      hex: '#D4AF37'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pla-metal-filament-1-75-mm-colored-1-kg?variant=51817080127669
+    Bronze:
+      hex: '#A37E67'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pla-metal-filament-1-75-mm-colored-1-kg?variant=51817080062133
+    Metallic Blue:
+      hex: '#597C9F'
+      source: 3dfilamentprofiles.com
+      link: https://au.elegoo.com/products/pla-metal-filament-1-75-mm-colored-1-kg?variant=51112177664313
+  PLA High Speed:
+    Red:
+      hex: '#E22400'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#E0E7F0'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Light Blue:
+      hex: '#3AB3C5'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/collections/filaments/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg
+    Silver:
+      hex: '#93969C'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/collections/filaments/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg
+    Red:
+      hex: '#B80000'
+      source: 3dfilamentprofiles.com
+    Clear:
+      hex: '#DEDEDE'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/collections/filaments/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg
+    Beige:
+      hex: '#FFF1BA'
+      source: 3dfilamentprofiles.com
+    Wood Colour:
+      hex: '#9A7B4F'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/collections/filaments/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg
+    Burgundy Red:
+      hex: '#800020'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pla-pro-filament-1-75mm-colored-1kg?variant=43734185279669
+    Light Gold:
+      hex: '#E2AC02'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/collections/filaments/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg
+    Neon Green:
+      hex: '#4EFF5A'
+      source: 3dfilamentprofiles.com
+    Dark Yellow:
+      hex: '#E7BC00'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/collections/filaments/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg
+    Dark Blue:
+      hex: '#003EB1'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#603BA0'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#8F949B'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FBEC07'
+      source: 3dfilamentprofiles.com
+    True Red:
+      hex: '#C02E2F'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/collections/filaments/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg
+    Translucent:
+      hex: '#9DA6B8'
+      source: 3dfilamentprofiles.com
+    Klein Blue:
+      hex: '#3E0DF2'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/collections/filaments/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg
+    Orange:
+      hex: '#F64E00'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#9E6A4B'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#F9B0BD'
+      source: 3dfilamentprofiles.com
+    Sea Green:
+      hex: '#4FB590'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#45C8D6'
+      source: 3dfilamentprofiles.com
+    Space Gray:
+      hex: '#5D5D5D'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg?variant=43734140584117
+  PLA Matte:
+    Sky Blue:
+      hex: '#30C1DA'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pla-matte-filament-1-75mm-colored-1kg?
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pla-matte-filament-1-75mm-colored-1kg?
+    Sakura Pink:
+      hex: '#FFC2F4'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#090909'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Ruby Red:
+      hex: '#BB2C2E'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pla-matte-filament-1-75mm-colored-1kg?variant=43734199730357
+    Lavender Purple:
+      hex: '#B091EF'
+      source: 3dfilamentprofiles.com
+    Teal Green:
+      hex: '#85E2DD'
+      source: 3dfilamentprofiles.com
+    Slate Gray:
+      hex: '#969799'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#603BA0'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pla-matte-filament-1-75mm-colored-1kg?
+    Sunshine Yellow:
+      hex: '#F9E069'
+      source: 3dfilamentprofiles.com
+    Ice Blue:
+      hex: '#B4F5FE'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#9A6948'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pla-matte-filament-1-75mm-colored-1kg?
+    Earth Brown:
+      hex: '#9A6948'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pla-matte-filament-1-75mm-colored-1kg?
+    Mint Green:
+      hex: '#98FF98'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#ED944D'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pla-matte-filament-1-75mm-colored-1kg?
+    Navy Blue:
+      hex: '#2C3662'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pla-matte-filament-1-75mm-colored-1kg
+    Beige:
+      hex: '#EFD8BE'
+      source: 3dfilamentprofiles.com
+  PETG Rapid:
+    Red:
+      hex: '#EA140E'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg?variant=47708967076116
+    Space Grey:
+      hex: '#7E7E7E'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg?variant=48802771370260
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg
+    Grey:
+      hex: '#8F949B'
+      source: 3dfilamentprofiles.com
+      link: https://uk.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg?variant=48135919468825
+    Green:
+      hex: '#00CC33'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg
+    Silver:
+      hex: '#66676C'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg
+    Beige:
+      hex: '#DFD1A7'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg
+    Transparent:
+      hex: '#F3F3F3'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg?variant=44614467485877
+    Brown:
+      hex: '#9E6A4B'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg
+    Orange:
+      hex: '#FFA500'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg?variant=47708967108884
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/products/rapid-petg-filament-1-75mm-colored-1kg?variant=47708967010580
+  PLA Silk:
+    Sky Blue:
+      hex: '#7BC4EA'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=49399439458580
+    Copper (206,115,58):
+      hex: '#CE733A'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=49399439458580
+    Silver:
+      hex: '#93969C'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#D32F3C'
+      source: 3dfilamentprofiles.com
+    Bronze:
+      hex: '#B37A56'
+      source: 3dfilamentprofiles.com
+    Blue Green:
+      hex: '#4BDC86,#1887C6'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=49399439458580
+    Purple:
+      hex: '#7422AA'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=49399439458580
+    Coral Pink:
+      hex: '#DB6E6D'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/elegoo-silk-pla-filament-1-75mm-colored-1kg?variant=43734189179061
+    Sparkle Turquoise:
+      hex: '#60AAA7'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=49399439458580
+    Gold:
+      hex: '#F9B910'
+      source: 3dfilamentprofiles.com
+      link: https://au.elegoo.com/products/elegoo-silk-pla-filament-1-75mm-colored-1kg?variant=48229353423161
+    Black Red:
+      hex: '#000000,#BD0000'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=49399439458580
+    Sparkle Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=49399439458580
+    Blue Green Orange:
+      hex: '#C66529,#1F3E52,#4F8235'
+      source: 3dfilamentprofiles.com
+    Blue Purple:
+      hex: '#2842AA,#AB2D55'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=49399439458580
+    Red Bronze:
+      hex: '#C56C07'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=49399439458580
+    Black Purple:
+      hex: '#000000,#7B219F'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/elegoo-silk-pla-filament-1-75mm-colored-1kg?variant=44833148731573
+    White:
+      hex: '#E0E7F0'
+      source: 3dfilamentprofiles.com
+    Mint Green:
+      hex: '#00FFA2'
+      source: 3dfilamentprofiles.com
+    Holly Green:
+      hex: '#00C760'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Silk:
+    Gold:
+      hex: '#F9B910'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=47962863567124
+    Silver:
+      hex: '#E7EDF4'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=47962863599892
+  PLA+/Pro Rapid:
+    Orange:
+      hex: '#CC6A30'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=43734159753397
+    Green:
+      hex: '#01E227'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=43734159622325
+    Brown:
+      hex: '#9E6A4B'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=44206327988405
+    Red:
+      hex: '#AF3247'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/de/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233805588
+    Grey:
+      hex: '#A3A3A3'
+      source: 3dfilamentprofiles.com
+      link: https://www.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg
+    Yellow:
+      hex: '#FFF700'
+      source: 3dfilamentprofiles.com
+      link: https://www.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg
+    Blue:
+      hex: '#1E52FF'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/de/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=45521233805588
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg
+  TPU Rapid:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/rapid-tpu-filament-1-75mm-colored-1kg?
+  PLA+/Pro Translucent:
+    Translucent:
+      hex: '#BEC3C6'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg?variant=43734140715189
+  PLA Marble:
+    Marble:
+      hex: '#D5DFE7'
+      source: 3dfilamentprofiles.com
+    Brick Red:
+      hex: '#6E1C20'
+      source: 3dfilamentprofiles.com
+    Cement Grey:
+      hex: '#696969'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Matte:
+    Beige:
+      hex: '#B1AA95'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#9ACCFE'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF9500'
+      source: 3dfilamentprofiles.com
+  ASA Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.elegoo.com/products/asa-filament-1-75mm-colored-1kg
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#D61212'
+      source: 3dfilamentprofiles.com
+      link: https://elegoo.com/collections/asa-filaments-for-fdm-3d-printers/products/asa-filament-1-75mm-colored-1kg
+    Grey:
+      hex: '#8F949B'
+      source: 3dfilamentprofiles.com
+      link: https://au.elegoo.com/products/asa-filament-1-75mm-colored-1kg?variant=51277274710329
+    Blue:
+      hex: '#0C2388'
+      source: 3dfilamentprofiles.com
+      link: https://de.elegoo.com/products/asa-filament-1-75mm-colored-1kg?variant=44436805189771
+    Green:
+      hex: '#00CC33'
+      source: 3dfilamentprofiles.com
+      link: https://de.elegoo.com/products/asa-filament-1-75mm-colored-1kg?variant=44436805222539
+  PLA+/Pro HF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=43734159524021
+    Rapid White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=43734159556789
+    Rapid Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=43734159524021
+    Rapid Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=43734159524021
+    Rapid Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg
+    Gray:
+      hex: '#ACAEAF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Pro:
+    Green:
+      hex: '#169513'
+      source: 3dfilamentprofiles.com
+    Light Blue:
+      hex: '#2A94FA'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#1100FF'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#ECD800'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#A3A3A3'
+      source: 3dfilamentprofiles.com
+    Beige:
+      hex: '#F4E0B8'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/elegoo-rapid-pla-plus-filament-1-75mm-colored-1kg?variant=44206327922869
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Neon Green:
+      hex: '#3DF26A'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg?variant=43734140387509
+    Silver:
+      hex: '#BEBFBD'
+      source: 3dfilamentprofiles.com
+    Burgundy Red:
+      hex: '#990000'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#502F92'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://ca.elegoo.com/products/tpu-filament-1-75mm-colored-1kg?variant=50061628375318
+    Grey:
+      hex: '#999999'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/tpu-filament-1-75mm-colored-1kg?variant=45483072028853
+    Red:
+      hex: '#E20000'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#077FD5'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#2C992C'
+      source: 3dfilamentprofiles.com
+      link: https://elegoo.com/products/tpu-filament-1-75mm-colored-1kg
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Galaxy:
+    Peacock Blue:
+      hex: '#1D4965'
+      source: 3dfilamentprofiles.com
+    Galaxy Peacock Blue:
+      hex: '#0E3D6C'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/galaxy-pla-filament-1-75mm-colored-1kg?variant=44874008887477
+    Black:
+      hex: '#000026'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#1A0A53'
+      source: 3dfilamentprofiles.com
+  PC Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pc-filament-1-75mm-colored-1kg?variant=51248332341429
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pc-filament-1-75mm-colored-1kg?variant=51248332308661
+    Clear Black:
+      hex: '#3E4654'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pc-filament-1-75mm-colored-1kg?variant=51248332374197
+    Transparent:
+      hex: '#B0B0B0'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pc-filament-1-75mm-colored-1kg?variant=51248332406965
+  PLA Sparkle:
+    Dark Gray:
+      hex: '#878A8F'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pla-sparkle-filament-1-75mm-colored-1-kg
+    Green:
+      hex: '#004000'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pla-sparkle-filament-1-75mm-colored-1-kg
+    Turquoise:
+      hex: '#36B7B2'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pla-sparkle-filament-1-75mm-colored-1-kg
+    Purplish Gray:
+      hex: '#413B53'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pla-sparkle-filament-1-75mm-colored-1-kg
+    Black:
+      hex: '#010C13'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pla-sparkle-filament-1-75mm-colored-1-kg
+    Red:
+      hex: '#BF5043'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pla-sparkle-filament-1-75mm-colored-1-kg
+    Sparkle Green:
+      hex: '#38571A'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pla-sparkle-filament-1-75mm-colored-1-kg
+    Gold Yellow:
+      hex: '#FDD528'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/pla-sparkle-filament-1-75mm-colored-1-kg
+  PLA Translucent:
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PETG CF:
+    Grey:
+      hex: '#324B4F'
+      source: 3dfilamentprofiles.com
+      link: https://ca.elegoo.com/products/petg-cf-filament-1-75mm-colored-1kg?variant=50161168417046
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/petg-cf-filament-1-75mm-colored-1kg?variant=51248332046517
+  PLA+/Pro Neon:
+    neon green:
+      hex: '#8EEC8F'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/elegoo-pla-plus-3d-printer-filament-1-75mm-colored-1kg?variant=43734140387509
+  ABS Basic:
+    Grey:
+      hex: '#8F949B'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/abs-filament-1-75mm-colored-1kg?variant=51296906281141
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/abs-filament-1-75mm-colored-1kg?variant=51296906346677
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://uk.elegoo.com/products/abs-filament-1-75mm-colored-1kg?srsltid=AfmBOoouTjFhC9ZnRFrYZWNdzHP5gALHhQwFfWaOGlNqoV94QpA7yMwm
+  PLA Silk Triple:
+    Blue / Purple / Black:
+      hex: '#57217D,#1450A1,#292D34'
+      source: 3dfilamentprofiles.com
+    Blue / Green / Orange:
+      hex: '#0000FF,#00FF00,#FFA500'
+      source: 3dfilamentprofiles.com
+      link: https://eu.elegoo.com/products/silk-pla-filament-1-75mm-colored-1kg?variant=49488037642516
+  TPU 95A HF:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://uk.elegoo.com/products/rapid-tpu-filament-1-75mm-colored-1kg?variant=50807155917081
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://uk.elegoo.com/products/rapid-tpu-filament-1-75mm-colored-1kg?variant=50807156572441
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://elegoo.com/collections/3d-printing/products/rapid-tpu-filament-1-75mm-colored-1kg
+  PLA:
+    White:
+      hex: '#F5F5F5'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#9C6843'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Silk Triple:
+    Blue Green Orange:
+      hex: '#80FF80,#FF8000,#0080FF'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/elegoo-silk-pla-filament-1-75mm-colored-1kg?variant=44561620795573
+  PLA CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Economy:
+    Black PS:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  TPU Silk:
+    Royal Blue:
+      hex: '#141A64'
+      source: 3dfilamentprofiles.com
+  PLA Tough:
+    black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ASA Color Change (Temp):
+    Blue:
+      hex: '#005CB8'
+      source: 3dfilamentprofiles.com
+      link: https://de.elegoo.com/products/asa-filament-1-75mm-colored-1kg?variant=44436805189771
+  PLA Recycled:
+    Leaf Green:
+      hex: '#276235'
+      source: 3dfilamentprofiles.com
+      link: https://shop.spectrumfilaments.com/product-eng-1370-Filament-Spectrum-rPLA-1-75mm-LEAF-GREEN-1kg-RAL-6002.html
+  PAHT CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.elegoo.com/products/paht-cf-filament-1-75mm-colored-1kg

@@ -1,0 +1,90 @@
+Hello3D:
+  PLA Glow:
+    Glow in the Dark Rainbow:
+      hex: '#0095FF,#DFF769,#F76969'
+      source: 3dfilamentprofiles.com
+      link: https://www.hello3dprint.com/page2?product_category=59
+    Luminous Red:
+      hex: '#D6001C'
+      source: 3dfilamentprofiles.com
+      link: https://www.hello3dprint.com/page2?product_category=59
+    Firefly:
+      hex: '#D9D9D9'
+      source: 3dfilamentprofiles.com
+      link: https://www.hello3dprint.com/page2?product_category=59
+    Luminous White:
+      hex: '#E7E7DA'
+      source: 3dfilamentprofiles.com
+      link: https://www.hello3dprint.com/PRODUCTS1?product_id=574
+  PLA Silk:
+    Silk Copper:
+      hex: '#C76F36'
+      source: 3dfilamentprofiles.com
+      link: https://www.hello3dprint.com/page2?product_category=93
+    Rose Copper:
+      hex: '#FA8072'
+      source: 3dfilamentprofiles.com
+      link: https://www.hello3dprint.com/page2?product_category=93
+    Green:
+      hex: '#6BE623'
+      source: 3dfilamentprofiles.com
+      link: https://www.hello3dprint.com/page2?product_category=93
+    Fog Blue:
+      hex: '#7B5ED4'
+      source: 3dfilamentprofiles.com
+      link: https://www.hello3dprint.com/page2?product_category=93
+    Wine Red:
+      hex: '#C3687C'
+      source: 3dfilamentprofiles.com
+      link: https://www.hello3dprint.com/page2?product_category=93
+    Silver Grey:
+      hex: '#7E7C87'
+      source: 3dfilamentprofiles.com
+      link: https://www.hello3dprint.com/page2?product_category=93
+  PLA Basic:
+    Grey:
+      hex: '#383838'
+      source: 3dfilamentprofiles.com
+      link: https://www.hello3dprint.com/page2?product_category=46
+    Dark Blue:
+      hex: '#011892'
+      source: 3dfilamentprofiles.com
+      link: https://www.hello3dprint.com/page2?product_category=46
+    White:
+      hex: '#FEFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.hello3dprint.com/page2?product_category=46
+    Firefly:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.hello3dprint.com/page2?product_category=46
+  ABS Basic:
+    Silver Grey:
+      hex: '#A5AFB6'
+      source: 3dfilamentprofiles.com
+  PLA Special:
+    Light Change - UV Sensitive:
+      hex: '#BEBFB0'
+      source: 3dfilamentprofiles.com
+      link: https://www.hello3dprint.com/page2?product_category=60
+    Marble-Like:
+      hex: '#CCCCCC'
+      source: 3dfilamentprofiles.com
+      link: https://www.hello3dprint.com/page2?product_category=45
+  PLA Blend:
+    BLACK/GOLD:
+      hex: '#000000,#8F7000'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Black:
+      hex: '#101410'
+      source: 3dfilamentprofiles.com
+  PLA Premium:
+    Paper White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: http://www.hello3dprint.com/PRODUCTS1?product_id=131
+  TPU 95A:
+    Transparent Rainbow:
+      hex: '#FFFB00,#00F900,#0433FF'
+      source: 3dfilamentprofiles.com

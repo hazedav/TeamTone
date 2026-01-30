@@ -1,0 +1,15 @@
+FilamentWorks:
+  PLA+/Pro Basic:
+    Skin:
+      hex: '#D8B874'
+      source: 3dfilamentprofiles.com
+    pink:
+      hex: '#F5ADF3'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#09549F'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Clear:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

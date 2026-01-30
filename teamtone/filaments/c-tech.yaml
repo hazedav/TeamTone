@@ -1,0 +1,30 @@
+C-Tech:
+  ASA Basic:
+    Oriental red:
+      hex: '#810410'
+      source: 3dfilamentprofiles.com
+  ABS Premium:
+    Traffic Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Premium:
+    Traffic Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.c-tech.info/petg--dopravni-cerna--ral9017
+    Trafic red:
+      hex: '#B51A00'
+      source: 3dfilamentprofiles.com
+  PLA Premium:
+    Ivory Light, RAL1015:
+      hex: '#E6D3B5'
+      source: 3dfilamentprofiles.com
+      link: https://www.c-tech.info/pla--slonova-kost-svetla--ral1015
+    Steel Grey, RAL7011:
+      hex: '#4D5658'
+      source: 3dfilamentprofiles.com
+      link: https://www.c-tech.info/pla--ocelova-seda--ral7011
+    Traffic white:
+      hex: '#F7F7F7'
+      source: 3dfilamentprofiles.com
+      link: https://www.c-tech.info/category/3d-tiskove-struny/163

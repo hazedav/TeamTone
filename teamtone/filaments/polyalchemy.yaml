@@ -1,0 +1,87 @@
+Polyalchemy:
+  PLA Silk:
+    Bubblegum:
+      hex: '#F599B9'
+      source: 3dfilamentprofiles.com
+    Potion Purple:
+      hex: '#613FD1'
+      source: 3dfilamentprofiles.com
+    Misty Green:
+      hex: '#25807F'
+      source: 3dfilamentprofiles.com
+    Royal Ruby:
+      hex: '#EF322E'
+      source: 3dfilamentprofiles.com
+    Lucid Pearl:
+      hex: '#7588C0'
+      source: 3dfilamentprofiles.com
+    Aquamarine:
+      hex: '#3CB2B4'
+      source: 3dfilamentprofiles.com
+    Orange V2:
+      hex: '#ED9954'
+      source: 3dfilamentprofiles.com
+    Summer Daze:
+      hex: '#EFCC29'
+      source: 3dfilamentprofiles.com
+    Crimson Red:
+      hex: '#D77070'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#CED5DE'
+      source: 3dfilamentprofiles.com
+    Copper:
+      hex: '#D57B5D'
+      source: 3dfilamentprofiles.com
+    Natural:
+      hex: '#DBDDD8'
+      source: 3dfilamentprofiles.com
+    Gold Rush:
+      hex: '#DFA934'
+      source: 3dfilamentprofiles.com
+    Emerald City:
+      hex: '#47A461'
+      source: 3dfilamentprofiles.com
+    Night Sky:
+      hex: '#2C4298'
+      source: 3dfilamentprofiles.com
+    Abyss:
+      hex: '#565F66'
+      source: 3dfilamentprofiles.com
+    Onyx:
+      hex: '#636D7A'
+      source: 3dfilamentprofiles.com
+    Merlot:
+      hex: '#A61A5E'
+      source: 3dfilamentprofiles.com
+    Purple Rain:
+      hex: '#C97EFB'
+      source: 3dfilamentprofiles.com
+    Alpha Brass:
+      hex: '#AD9289'
+      source: 3dfilamentprofiles.com
+    Emerald Green Elixir:
+      hex: '#039900'
+      source: 3dfilamentprofiles.com
+      link: https://www.printedsolid.com/pages/search-results-page?q=elixir
+    Nightshade:
+      hex: '#5F5587'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/polyalchemy-elixir-silky-pla-075kg/sk/MS54QDAR
+  PLA Basic:
+    Limestone:
+      hex: '#ADA29C'
+      source: 3dfilamentprofiles.com
+  PLA Metal:
+    Metallic Aluminium:
+      hex: '#A9A9A9'
+      source: 3dfilamentprofiles.com
+  PLA Rock:
+    Sandstone:
+      hex: '#B4751D'
+      source: 3dfilamentprofiles.com
+  PLA Premium:
+    Metallic Bronze:
+      hex: '#826F1C'
+      source: 3dfilamentprofiles.com
+      link: https://polyalkemi.no/produkt/polyalkemi-pla-premium-metallic-bronze/

@@ -1,0 +1,69 @@
+Grilon3:
+  PLA Basic:
+    Negro:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://grilon3.com.ar/producto/filamento-3d-pla-negro-2/
+    Piel 162:
+      hex: '#FFBE9F'
+      source: 3dfilamentprofiles.com
+      link: https://grilon3.com.ar/producto/filamento-3d-pla-piel/
+    Rosa:
+      hex: '#FF7AED'
+      source: 3dfilamentprofiles.com
+      link: https://grilon3.com.ar/producto/filamento-3d-pla-rosa/
+    Blanco:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://grilon3.com.ar/producto/filamento-3d-pla-blanco/
+    Azul:
+      hex: '#0035A0'
+      source: 3dfilamentprofiles.com
+      link: https://grilon3.com.ar/producto/filamento-3d-pla-azul/
+    Amarillo:
+      hex: '#FEDF00'
+      source: 3dfilamentprofiles.com
+      link: https://grilon3.com.ar/producto/filamento-3d-pla-amarillo/
+    Amarillo Fluo:
+      hex: '#E0E721'
+      source: 3dfilamentprofiles.com
+      link: https://grilon3.com.ar/producto/filamento-3d-pla-amarillo-fluo/
+    Gris Plata:
+      hex: '#75787B'
+      source: 3dfilamentprofiles.com
+      link: https://grilon3.com.ar/producto/filamento-3d-pla-gris-plata/
+    Gris Espacial:
+      hex: '#E0E0E0'
+      source: 3dfilamentprofiles.com
+      link: https://grilon3.com.ar/producto/filamento-3d-pla-gris-espacial/
+    Butique Chocolate:
+      hex: '#6D462C'
+      source: 3dfilamentprofiles.com
+      link: https://grilon3.com.ar/producto/filamento-3d-pla-boutique-chocolate/
+    Verde:
+      hex: '#009A49'
+      source: 3dfilamentprofiles.com
+      link: https://grilon3.com.ar/producto/filamento-3d-pla-verde/
+    Verde Fluo:
+      hex: '#29F91A'
+      source: 3dfilamentprofiles.com
+      link: https://grilon3.com.ar/producto/filamento-3d-pla-verde-fluo/
+  HIPS Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://grilon3.com.ar/producto/filamento-3d-hips-negro/
+  PLA Silk:
+    Dorado/Gold:
+      hex: '#EDC244'
+      source: 3dfilamentprofiles.com
+      link: https://grilon3.com.ar/producto/pla-silk-dorado/
+  PLA Blend:
+    Boutique Esmeralda:
+      hex: '#126768'
+      source: 3dfilamentprofiles.com
+      link: https://grilon3.com.ar/categoria-producto/pla/
+    Boutique Carbón:
+      hex: '#212121'
+      source: 3dfilamentprofiles.com
+      link: https://grilon3.com.ar/categoria-producto/pla/

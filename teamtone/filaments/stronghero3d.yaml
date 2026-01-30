@@ -1,0 +1,210 @@
+Stronghero3d:
+  PETG CF:
+    Carbon:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Galaxy:
+    Gold Green:
+      hex: '#E7A20D,#2BFF00'
+      source: 3dfilamentprofiles.com
+      link: https://stronghero3d.com/products/stronghero3d-pla-3d-printer-filament-175mm-vertigo-galaxy-rainbow-multicolors-accuracy-005mm-net-weight-1kg22lbs-for-ender3-prusa
+    Mirror Chrome_BluePurple:
+      hex: '#6ABCF6,#371A94'
+      source: 3dfilamentprofiles.com
+      link: https://stronghero3d.com/products/stronghero3d-pla-3d-printer-filament-175mm-vertigo-galaxy-rainbow-multicolors-accuracy-005mm-net-weight-1kg22lbs-for-ender3-prusa
+    Chameleon:
+      hex: '#4B2D8F'
+      source: 3dfilamentprofiles.com
+      link: https://stronghero3d.com/products/stronghero3d-pla-3d-printer-filament-175mm-vertigo-galaxy-rainbow-multicolors-accuracy-005mm-net-weight-1kg22lbs-for-ender3-prusa
+    Starry Sky Obsidian, Black-Blue-Purple Glitter Galaxy:
+      hex: '#1B193E'
+      source: 3dfilamentprofiles.com
+      link: https://stronghero3d.com/products/stronghero3d-pla-3d-printer-filament-175mm-vertigo-galaxy-rainbow-multicolors-accuracy-005mm-net-weight-1kg22lbs-for-ender3-prusa
+    Galaxy Glitter Green Silk Blue Silk Gold:
+      hex: '#00F900,#0433FF'
+      source: 3dfilamentprofiles.com
+      link: https://stronghero3d.com/products/stronghero3d-pla-3d-printer-filament-175mm-vertigo-galaxy-rainbow-multicolors-accuracy-005mm-net-weight-1kg22lbs-for-ender3-prusa
+    BPY - Blue Purple Yellow:
+      hex: '#5981AB,#6B4688,#548C99'
+      source: 3dfilamentprofiles.com
+      link: https://stronghero3d.com/products/stronghero3d-pla-3d-printer-filament-175mm-vertigo-galaxy-rainbow-multicolors-accuracy-005mm-net-weight-1kg22lbs-for-ender3-prusa
+    Galaxy red,Silk Blue, Silk Purple:
+      hex: '#561029'
+      source: 3dfilamentprofiles.com
+      link: https://stronghero3d.com/products/stronghero3d-pla-3d-printer-filament-175mm-vertigo-galaxy-rainbow-multicolors-accuracy-005mm-net-weight-1kg22lbs-for-ender3-prusa
+    Chamelean:
+      hex: '#3A5773'
+      source: 3dfilamentprofiles.com
+      link: https://stronghero3d.com/products/stronghero3d-pla-3d-printer-filament-175mm-vertigo-galaxy-rainbow-multicolors-accuracy-005mm-net-weight-1kg22lbs-for-ender3-prusa
+  PLA Basic:
+    Silver Forge Blue:
+      hex: '#2C5987'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#0C6B05'
+      source: 3dfilamentprofiles.com
+    Red Gold:
+      hex: '#941100'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FEFFFF'
+      source: 3dfilamentprofiles.com
+    Summer:
+      hex: '#13EB0F'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Copper:
+      hex: '#8E402A'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#F8DA00'
+      source: 3dfilamentprofiles.com
+    Candy Silk Rainbow:
+      hex: '#F05CDC'
+      source: 3dfilamentprofiles.com
+    Silk Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+    Silk Gold Glitter:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+    Galaxy Red,Black,Silk Purple:
+      hex: '#530927'
+      source: 3dfilamentprofiles.com
+    Silver Forge Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Silver Red:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+    Black/Rose:
+      hex: '#9A3274'
+      source: 3dfilamentprofiles.com
+    Silverforge Red:
+      hex: '#B6C4CE,#FF0000'
+      source: 3dfilamentprofiles.com
+    Red/Black Blend:
+      hex: '#E90C17,#0D0D0D'
+      source: 3dfilamentprofiles.com
+      link: https://stronghero3d.com/products/n2-n3-3d-printing-filaments?VariantsId=10019
+    Silk Silver Galaxy Blue:
+      hex: '#002E7A,#C0C0C0'
+      source: 3dfilamentprofiles.com
+    Silk Gold / Galaxy Red:
+      hex: '#E1AE56,#FB0E0E'
+      source: 3dfilamentprofiles.com
+    Gold Forge Red:
+      hex: '#FF0000,#FECE2C'
+      source: 3dfilamentprofiles.com
+      link: https://www.stronghero3d.com/products/stronghero3dpla-glod-red.html
+  PLA Gradient:
+    Rainbow:
+      hex: '#FF0000,#FFFF00,#00FF00,#0000FF'
+      source: 3dfilamentprofiles.com
+    'Summer Green: Olive Green, Sigmal Green':
+      hex: '#278B2E'
+      source: 3dfilamentprofiles.com
+    Autumn:
+      hex: '#63B962,#E1EF73,#485823'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Dune Sand Wood:
+      hex: '#E4BD90'
+      source: 3dfilamentprofiles.com
+  PLA Multicolor:
+    Dual Color Red-Gold / Green-Blue:
+      hex: '#F04800,#076A83'
+      source: 3dfilamentprofiles.com
+    Spiral - Dune Red:
+      hex: '#8F0505,#F4E2D2'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Rainbow Gem:
+      hex: '#004D65,#FF4013,#371A94'
+      source: 3dfilamentprofiles.com
+    Blue/Purple Gradient:
+      hex: '#8000FF,#024FCA'
+      source: 3dfilamentprofiles.com
+    Blue Gradient:
+      hex: '#2478FF,#B7D3E6'
+      source: 3dfilamentprofiles.com
+    Aurora Blue Purple:
+      hex: '#5E30EB'
+      source: 3dfilamentprofiles.com
+    Transparent Blue:
+      hex: '#028FC6'
+      source: 3dfilamentprofiles.com
+    Purple Gradient:
+      hex: '#8080C0'
+      source: 3dfilamentprofiles.com
+    Rainbow V2:
+      hex: '#0E7009,#730808,#8F4700'
+      source: 3dfilamentprofiles.com
+    Red Gradient:
+      hex: '#FF2600'
+      source: 3dfilamentprofiles.com
+  PLA Metal:
+    Antique Bronze:
+      hex: '#804000'
+      source: 3dfilamentprofiles.com
+      link: https://www.stronghero3d.com/products/metallic-finish-3d-printing-filaments.html
+  PLA Rainbow:
+    EX51 Rainbow:
+      hex: '#F1C9FE,#64D5DD'
+      source: 3dfilamentprofiles.com
+    Spiral Tri Red Yellow Blue:
+      hex: '#FF0000,#004DB3,#FFF700'
+      source: 3dfilamentprofiles.com
+    Chameleon Mirror Chrome Multi Color:
+      hex: '#6D1F51,#A0C4BC,#5BA44E'
+      source: 3dfilamentprofiles.com
+    Winter 2:
+      hex: '#74A7FE,#EBEBEB,#0042AA'
+      source: 3dfilamentprofiles.com
+    EX 31 Rainbow:
+      hex: '#71BDF4'
+      source: 3dfilamentprofiles.com
+  PETG Chameleon:
+    Chameleon Mirror Chrome:
+      hex: '#A1D3F7'
+      source: 3dfilamentprofiles.com
+  PLA Glitter:
+    Black Green:
+      hex: '#035808,#000000'
+      source: 3dfilamentprofiles.com
+    Galaxy Glitter Gold Red Green:
+      hex: '#FECB3E,#77BB41,#AD3E00'
+      source: 3dfilamentprofiles.com
+  PLA Silk Rainbow:
+    Black-Red-Gold:
+      hex: '#000000,#5C0700,#A96800'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Red-Gold-Silver:
+      hex: '#AD0000,#D2C85B,#A7A8A9'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Chameleon:
+    Sparkling Rainbow:
+      hex: '#CD7892,#A697DB,#91B3D0,#71BDAE'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Matte Macraon Gradient:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Rock Yelow Brown Red Black:
+      hex: '#AA7941'
+      source: 3dfilamentprofiles.com
+  PETG Rainbow:
+    Translucent Rainbow:
+      hex: '#EE1111,#0D0AE6,#1EFF00'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    Green/Blue:
+      hex: '#56FBDA'
+      source: 3dfilamentprofiles.com
+      link: https://www.stronghero3d.cn/products/n2-n3-3d-printing-filaments?VariantsId=10019

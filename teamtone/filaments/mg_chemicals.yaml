@@ -1,0 +1,25 @@
+MG Chemicals:
+  ABS Basic:
+    Grey:
+      hex: '#7D7D7D'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#39190F'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://mgchemicals.com/products/discontinued-products/abs-filaments/
+  PLA Basic:
+    Brown:
+      hex: '#964B00'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Dark Wood:
+      hex: '#563D00'
+      source: 3dfilamentprofiles.com
+  PLA Color Change (Temp):
+    Thermochromic Red:
+      hex: '#FF0026,#EE7795'
+      source: 3dfilamentprofiles.com
+      link: https://mgchemicals.com/products/discontinued-products/pla-filament/

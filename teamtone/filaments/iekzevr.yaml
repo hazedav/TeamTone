@@ -1,0 +1,23 @@
+Iekzevr:
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#A5ACB1'
+      source: 3dfilamentprofiles.com
+    white:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Army Green:
+      hex: '#044305'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#F2F55C'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#5CCEF5'
+      source: 3dfilamentprofiles.com

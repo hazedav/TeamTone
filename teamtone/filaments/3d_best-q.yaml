@@ -1,0 +1,16 @@
+3D Best-Q:
+  PLA Basic:
+    Wood:
+      hex: '#56413E'
+      source: 3dfilamentprofiles.com
+  TPU Basic:
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+  PCTG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com

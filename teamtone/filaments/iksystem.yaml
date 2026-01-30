@@ -1,0 +1,22 @@
+IkSystem:
+  PLA Silk Triple:
+    Red/Green/Blue:
+      hex: '#FA0000,#02F232,#1100FF'
+      source: 3dfilamentprofiles.com
+    Gold/Purple/Red:
+      hex: '#AA9464,#E421A6,#FF0000'
+      source: 3dfilamentprofiles.com
+  PLA Silk Magic:
+    Red Yellow Blue:
+      hex: '#F78A6E'
+      source: 3dfilamentprofiles.com
+    Red Blue:
+      hex: '#FF0000,#0000FF'
+      source: 3dfilamentprofiles.com
+    Red Green:
+      hex: '#C600C6,#00D200'
+      source: 3dfilamentprofiles.com
+  PLA Silk Rainbow:
+    Red/Gold:
+      hex: '#FF0000,#D4AF37'
+      source: 3dfilamentprofiles.com

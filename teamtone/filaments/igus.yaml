@@ -1,0 +1,10 @@
+Igus:
+  PE:
+    IGLIDUR I170-PF:
+      hex: '#E3CC88'
+      source: 3dfilamentprofiles.com
+  PETG PTFE:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.igus.com/product/iglidur_I150_PF

@@ -1,0 +1,12 @@
+Blue Ember:
+  TPU 95A:
+    Yellow:
+      hex: '#E6F769'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#5FF55C'
+      source: 3dfilamentprofiles.com
+  TPE 85A:
+    Black:
+      hex: '#000305'
+      source: 3dfilamentprofiles.com

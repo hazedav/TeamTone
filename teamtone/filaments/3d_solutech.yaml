@@ -1,0 +1,89 @@
+3D Solutech:
+  PLA Basic:
+    Real Orange:
+      hex: '#FF6A00'
+      source: 3dfilamentprofiles.com
+    Hot Pink:
+      hex: '#E84566'
+      source: 3dfilamentprofiles.com
+    Merlot Red:
+      hex: '#6C323E'
+      source: 3dfilamentprofiles.com
+    Navy Blue:
+      hex: '#08063F'
+      source: 3dfilamentprofiles.com
+    Real Red:
+      hex: '#D60012'
+      source: 3dfilamentprofiles.com
+    Camo green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+    Sakura Pink:
+      hex: '#FFB7C5'
+      source: 3dfilamentprofiles.com
+    Eggplant Purple:
+      hex: '#3E0D59'
+      source: 3dfilamentprofiles.com
+    Silver Metal:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+    Teal Blue:
+      hex: '#00C6EA'
+      source: 3dfilamentprofiles.com
+    Real Blue:
+      hex: '#3C3CE0'
+      source: 3dfilamentprofiles.com
+    Olive Drab:
+      hex: '#5C6039'
+      source: 3dfilamentprofiles.com
+    Real White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+    Real Green:
+      hex: '#008502'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Lavender Purple:
+      hex: '#A77DC5'
+      source: 3dfilamentprofiles.com
+  PLA Marble:
+    Marble:
+      hex: '#CAD0D3'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    See Thru Green:
+      hex: '#00FF40'
+      source: 3dfilamentprofiles.com
+  PLA Premium:
+    Silver Metal:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+    Apple Green:
+      hex: '#00FF40'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Real Green:
+      hex: '#008502'
+      source: 3dfilamentprofiles.com
+  TPU Flexible:
+    Transparent Yellow:
+      hex: '#E0E25A'
+      source: 3dfilamentprofiles.com
+    Real White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    See Through Aqua Blue:
+      hex: '#0095FF'
+      source: 3dfilamentprofiles.com
+    See Through Orange:
+      hex: '#F77001'
+      source: 3dfilamentprofiles.com
+    See Through Purple:
+      hex: '#BC1A73'
+      source: 3dfilamentprofiles.com

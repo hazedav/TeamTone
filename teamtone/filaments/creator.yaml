@@ -1,0 +1,34 @@
+Creator:
+  PLA High Speed:
+    Aurora Purple:
+      hex: '#9052BA'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/hs-pla-multicolor?variant=41658893631566
+    Abyssal Red:
+      hex: '#5D203E'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/hs-pla-multicolor?variant=41658893631566
+    Light Green:
+      hex: '#75D769'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/hs-pla-multicolor?variant=41658893631566
+    Nebula Purple:
+      hex: '#0F4A9C,#501B83'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/hs-pla-multicolor?variant=41658893631566
+    Burnt Titanium:
+      hex: '#6D2463,#03608D'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/hs-pla-multicolor?variant=41658893598798
+    Olive Green:
+      hex: '#4E5D27'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/hs-pla-multicolor?variant=41658893631566
+  PETG High Speed:
+    Burnt Titanium:
+      hex: '#426973'
+      source: 3dfilamentprofiles.com
+  PLA CF:
+    Volcanic Rock Gray:
+      hex: '#6B6965'
+      source: 3dfilamentprofiles.com

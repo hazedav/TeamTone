@@ -1,0 +1,23 @@
+SunTop 3d:
+  PLA CF:
+    Black Carbon Fiber:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Bronze:
+      hex: '#665D1E'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#E0F066'
+      source: 3dfilamentprofiles.com
+  PLA:
+    Red - Food Safe:
+      hex: '#B63029'
+      source: 3dfilamentprofiles.com
+    Grass Green - Food Safe:
+      hex: '#4CA75E'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Latte Brown:
+      hex: '#6E634D'
+      source: 3dfilamentprofiles.com

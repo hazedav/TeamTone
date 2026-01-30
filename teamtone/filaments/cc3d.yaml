@@ -1,0 +1,781 @@
+CC3D:
+  PLA Silk:
+    Light Black:
+      hex: '#42424C'
+      source: 3dfilamentprofiles.com
+    Bright Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+    Dark Cyan:
+      hex: '#2E5578'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FA723E'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0033'
+      source: 3dfilamentprofiles.com
+    Silk Blue:
+      hex: '#51A3F5'
+      source: 3dfilamentprofiles.com
+      link: https://www.amazon.com/dp/B07N1FD3GL?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_4
+    Copper:
+      hex: '#9D6462'
+      source: 3dfilamentprofiles.com
+    Teal Blue:
+      hex: '#004D70,#002142'
+      source: 3dfilamentprofiles.com
+    Antique Gold:
+      hex: '#9B8A62'
+      source: 3dfilamentprofiles.com
+    Green Bronze:
+      hex: '#939058'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FBD036'
+      source: 3dfilamentprofiles.com
+    Jade Green:
+      hex: '#40EC59'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/silk-jade-green-pla-3d-printer-filament/
+    Rainbow:
+      hex: '#8E3C2D,#503B6E,#4F9AAC'
+      source: 3dfilamentprofiles.com
+    Enamel Blue:
+      hex: '#72FFFF'
+      source: 3dfilamentprofiles.com
+    Pearl White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Royal Blue:
+      hex: '#3F1E8C'
+      source: 3dfilamentprofiles.com
+    Dark Puple:
+      hex: '#61177C'
+      source: 3dfilamentprofiles.com
+    Purple Rose:
+      hex: '#8F0177'
+      source: 3dfilamentprofiles.com
+    Rose Red:
+      hex: '#D94080'
+      source: 3dfilamentprofiles.com
+    Iron Grey:
+      hex: '#727176'
+      source: 3dfilamentprofiles.com
+    Seide Lila:
+      hex: '#7F00FF'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#913EE6'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#28BE17'
+      source: 3dfilamentprofiles.com
+    Sapphire Blue:
+      hex: '#0095FF'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#CC7D83'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#D5A553'
+      source: 3dfilamentprofiles.com
+    Black Gold:
+      hex: '#383F49,#CABB68'
+      source: 3dfilamentprofiles.com
+    Silver Blue:
+      hex: '#B3C9F2'
+      source: 3dfilamentprofiles.com
+    Sage Green:
+      hex: '#3F948D'
+      source: 3dfilamentprofiles.com
+    Gloss Yellow:
+      hex: '#EED314'
+      source: 3dfilamentprofiles.com
+    Grape Purple:
+      hex: '#7D319D'
+      source: 3dfilamentprofiles.com
+    Forest Green:
+      hex: '#4B765A'
+      source: 3dfilamentprofiles.com
+    Bronze:
+      hex: '#87855F'
+      source: 3dfilamentprofiles.com
+    Mocha Brown:
+      hex: '#967969'
+      source: 3dfilamentprofiles.com
+    Cyan:
+      hex: '#50D0D9'
+      source: 3dfilamentprofiles.com
+    Dark Purple:
+      hex: '#4B3A81'
+      source: 3dfilamentprofiles.com
+    Silk Jade Green:
+      hex: '#17B36A'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/silk-jade-green-pla-3d-printer-filament/
+    Golden Yellow:
+      hex: '#FFDF00'
+      source: 3dfilamentprofiles.com
+    Rose Gold:
+      hex: '#7A6754'
+      source: 3dfilamentprofiles.com
+  PLA Max:
+    Lemon Yellow:
+      hex: '#FFC21A'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Brick Red:
+      hex: '#A7675D'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Army Green:
+      hex: '#404E31'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Evenning Sand:
+      hex: '#D9ACA0'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    White:
+      hex: '#F4F5F5'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Ocean Blue:
+      hex: '#0A6DE6'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Deep Navy Blue:
+      hex: '#0C2F83'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Grass Green:
+      hex: '#00704A'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Turquoise:
+      hex: '#42AC9E'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Gray:
+      hex: '#6D6E70'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Olive Green:
+      hex: '#283225'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Royal blue:
+      hex: '#4452BF'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Snow White:
+      hex: '#E6ECFF'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Fluorescent Green:
+      hex: '#04F22B'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Cherry Red:
+      hex: '#BD051F'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Dark Purple:
+      hex: '#7B598C'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/purple-pla-max-filament/
+    Chocolate Brown:
+      hex: '#5C453D'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Antique Gold:
+      hex: '#D0A649'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Bone White:
+      hex: '#FFE9D7'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Skin:
+      hex: '#E7B1A5'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Pink:
+      hex: '#FDE9F4'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Blue:
+      hex: '#1391DD'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Bluish Grey:
+      hex: '#AFBDC6'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product-category/pla-max-filament/
+    Lime Green:
+      hex: '#A5CC35'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Purple:
+      hex: '#8F55C5'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Steel Grey:
+      hex: '#9397A2'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Classic Green:
+      hex: '#33AD40'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Orange:
+      hex: '#FE6225'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Yellow:
+      hex: '#FFEA51'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+    Magenta Fuscia:
+      hex: '#D14CCB'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bone-white-pla-max-filament-1-75-mm-3d-printer-filament-1kg-2-2lbs-3d-printing-material-stronger-than-normal-pla/
+  PLA Silk Dual:
+    Black + Gold:
+      hex: '#D5A553,#000000'
+      source: 3dfilamentprofiles.com
+    Candy Blue Silver:
+      hex: '#0000FF,#D1D1D1'
+      source: 3dfilamentprofiles.com
+    Black Silver:
+      hex: '#2B2E31'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/silk-black-pla-filament/
+    Rose/Blue:
+      hex: '#2B59E1,#CA1A68'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    White:
+      hex: '#F4F5F5'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#050505'
+      source: 3dfilamentprofiles.com
+    FLOU Green:
+      hex: '#08F764'
+      source: 3dfilamentprofiles.com
+    Flame Orange:
+      hex: '#E66D0A'
+      source: 3dfilamentprofiles.com
+    Slate Gray:
+      hex: '#787878'
+      source: 3dfilamentprofiles.com
+    Grass Green:
+      hex: '#0A8F19'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#75079D'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#D3ED07'
+      source: 3dfilamentprofiles.com
+    Mailbox Red:
+      hex: '#D02A33'
+      source: 3dfilamentprofiles.com
+    Ocean Blue:
+      hex: '#0254F7'
+      source: 3dfilamentprofiles.com
+    Bone White:
+      hex: '#E3E8CF'
+      source: 3dfilamentprofiles.com
+    Brick red:
+      hex: '#C56962'
+      source: 3dfilamentprofiles.com
+    Royal Blue:
+      hex: '#5151FF'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/blue-pla-max-filament/
+    Lime Green:
+      hex: '#A5F740'
+      source: 3dfilamentprofiles.com
+    Army Green:
+      hex: '#5E5B40'
+      source: 3dfilamentprofiles.com
+  TPU:
+    White Nylon Composit 72D:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Blue 57D SILK:
+      hex: '#0899AC'
+      source: 3dfilamentprofiles.com
+    Royal Blue 57D SILK:
+      hex: '#2D2683'
+      source: 3dfilamentprofiles.com
+    Purple 57D SILK:
+      hex: '#6F57AF'
+      source: 3dfilamentprofiles.com
+    Silver 57D SILK:
+      hex: '#EEF1F6'
+      source: 3dfilamentprofiles.com
+    Golden Yellow 57D SILK:
+      hex: '#F7E565'
+      source: 3dfilamentprofiles.com
+    Black 57D SILK:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Gold 57D SILK:
+      hex: '#FFE061'
+      source: 3dfilamentprofiles.com
+  PETG Pro:
+    Jade Green:
+      hex: '#43A210'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product-category/petg-filament/
+    Blue Grey:
+      hex: '#99B7D3'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product-category/petg-filament/
+    Gold:
+      hex: '#E5B465'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product-category/petg-filament/
+    Transparent:
+      hex: '#ECEEF3'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product-category/petg-filament/
+    Bright Green:
+      hex: '#73F32D'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/bright-green-petg-filament/
+    Cherry Pink:
+      hex: '#FAB9E1'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product-category/petg-filament/
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/silver-petg-filament/
+    Red:
+      hex: '#C71A20'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product-category/petg-filament/
+    Black:
+      hex: '#0F0F10'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/black-petg-filament/
+    Blue:
+      hex: '#289DF0'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product-category/petg-filament/
+    Grass Green:
+      hex: '#50F270'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product-category/petg-filament/
+    Yellow:
+      hex: '#E3E4A0'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product-category/petg-filament/
+    Gray:
+      hex: '#AFAFB6'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/gray-petg-filament/
+  TPU 68D (For AMS):
+    Skin:
+      hex: '#E3BC9A'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Grass Green:
+      hex: '#0A8F19'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/products/
+    Chocolate Brown:
+      hex: '#5C4033'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/products/
+    Temp Change Yellow to Orange:
+      hex: '#F7F26E,#ED8B02'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/products/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/products/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/products/
+    Burnt Titanium:
+      hex: '#2F5B60'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/products/
+    Antique Gold:
+      hex: '#9B8A62'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/products/
+    Silver Blue:
+      hex: '#218CFF'
+      source: 3dfilamentprofiles.com
+  PLA Color Change (Temp):
+    Purple to Red:
+      hex: '#761183,#BD618D'
+      source: 3dfilamentprofiles.com
+    Green to Yellow:
+      hex: '#F4EE2A,#00AE42'
+      source: 3dfilamentprofiles.com
+      link: https://en.cc3dchina.com/products_details/18.html
+    Brown to Green:
+      hex: '#11FF00,#6E3B21'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/brown-to-green-color-change-3d-printer-pla-filament/
+    Violet Blue to White:
+      hex: '#592BDA,#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Purple Blue / Pink:
+      hex: '#772EFF,#FF47E7'
+      source: 3dfilamentprofiles.com
+    Brown to White:
+      hex: '#33050C,#FAF5F7'
+      source: 3dfilamentprofiles.com
+      link: https://www.amazon.com.au/CC3D-Temperature-Changing-Filament-Printer/dp/B0DZBSW2NK
+    Chocolate to Red:
+      hex: '#330505,#D60000'
+      source: 3dfilamentprofiles.com
+    Orange to Yellow:
+      hex: '#E2DE4A,#F37B27'
+      source: 3dfilamentprofiles.com
+  PETG:
+    Gold:
+      hex: '#D4AF37'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Transparent:
+      hex: '#ECEEF3'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#512B1A'
+      source: 3dfilamentprofiles.com
+    Cherry Pink:
+      hex: '#FAB9E1'
+      source: 3dfilamentprofiles.com
+    Light Gray:
+      hex: '#AFAFB6'
+      source: 3dfilamentprofiles.com
+    Black 2:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Blue Grey:
+      hex: '#99B7D3'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FDCB14'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#E5B465'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/silver-petg-filament/
+    Jade Green:
+      hex: '#2BC78A'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF9610'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#BFC6CE'
+      source: 3dfilamentprofiles.com
+    Dark Blue:
+      hex: '#0C2340'
+      source: 3dfilamentprofiles.com
+    Lime Green:
+      hex: '#6DE659'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#6E00B3'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#1273D2'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#A30000'
+      source: 3dfilamentprofiles.com
+    Leaf Green:
+      hex: '#09824F'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Burnt Titanium:
+      hex: '#2F5B60'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product-category/petg-filament/
+  PLA GF:
+    PBT Pro:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PC Basic:
+    Blue:
+      hex: '#044BE3'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/white-pc-filament-1-75-mm-3d-printer-filament/
+    Red:
+      hex: '#DB473B'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/white-pc-filament-1-75-mm-3d-printer-filament/
+    Yellow:
+      hex: '#FEE044'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/white-pc-filament-1-75-mm-3d-printer-filament/
+    Grey:
+      hex: '#BFC9C8'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/white-pc-filament-1-75-mm-3d-printer-filament/
+    Transparent:
+      hex: '#E6E6E6'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/white-pc-filament-1-75-mm-3d-printer-filament/
+    Green:
+      hex: '#3FB487'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/white-pc-filament-1-75-mm-3d-printer-filament/
+    Orange:
+      hex: '#FFAC63'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/white-pc-filament-1-75-mm-3d-printer-filament/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/white-pc-filament-1-75-mm-3d-printer-filament/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/white-pc-filament-1-75-mm-3d-printer-filament/
+  PETG CF:
+    Maroon Red:
+      hex: '#75535E'
+      source: 3dfilamentprofiles.com
+    Olive Green:
+      hex: '#59A171'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Indigo Blue:
+      hex: '#371A94'
+      source: 3dfilamentprofiles.com
+  PC Blend:
+    Blue:
+      hex: '#289DF0'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/
+  ABS+ Pro:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#EE372F'
+      source: 3dfilamentprofiles.com
+    Transparent:
+      hex: '#EDEDEF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#B3B3B3'
+      source: 3dfilamentprofiles.com
+    Dark Blue:
+      hex: '#5E69A1'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#FCCDEF'
+      source: 3dfilamentprofiles.com
+  PLA Marble:
+    Galaxy Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Sparkle Black Stone Rock:
+      hex: '#000000,#FFFFFF'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Sparkley Stone Rock:
+      hex: '#EDEDED'
+      source: 3dfilamentprofiles.com
+  PBT CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PBT GF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Max:
+    Orange:
+      hex: '#FFA500'
+      source: 3dfilamentprofiles.com
+    Navy Blue:
+      hex: '#083294'
+      source: 3dfilamentprofiles.com
+    Fluorescent Green:
+      hex: '#03DB28'
+      source: 3dfilamentprofiles.com
+    RED:
+      hex: '#FA0019'
+      source: 3dfilamentprofiles.com
+    Turquoise:
+      hex: '#6EBEF7'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/black-abs-filament-1-75-mm-3d-printer-filament/
+    Light Grey:
+      hex: '#B3B3B3'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/black-abs-filament-1-75-mm-3d-printer-filament/
+    Pink:
+      hex: '#FCCDEF'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/black-abs-filament-1-75-mm-3d-printer-filament/
+    Red:
+      hex: '#EE372F'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/black-abs-filament-1-75-mm-3d-printer-filament/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/black-abs-filament-1-75-mm-3d-printer-filament/
+    Dark Blue:
+      hex: '#5E69A1'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/black-abs-filament-1-75-mm-3d-printer-filament/
+    Transparent:
+      hex: '#EDEDEF'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/black-abs-filament-1-75-mm-3d-printer-filament/
+  PLA+/Pro Silk:
+    Gold:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+    Lime Green:
+      hex: '#32CD32'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#485A66'
+      source: 3dfilamentprofiles.com
+  PETG Glow:
+    White / Green:
+      hex: '#68FD9A'
+      source: 3dfilamentprofiles.com
+  PC CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PP GF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PBT Pro:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  ABS+ Basic:
+    Grey:
+      hex: '#BBBBBB'
+      source: 3dfilamentprofiles.com
+  PC:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://cc3dglobal.com/product/white-pc-filament-1-75-mm-3d-printer-filament/
+  PLA+/Pro Marble:
+    Marble:
+      hex: '#878787'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Candy Gold Blue Green:
+      hex: '#20EE9F'
+      source: 3dfilamentprofiles.com
+    Candy Gold Red Blue:
+      hex: '#D5A553,#FF0033,#1391DD'
+      source: 3dfilamentprofiles.com
+  ASA Basic:
+    Mint Green:
+      hex: '#00F5A6'
+      source: 3dfilamentprofiles.com
+  TPU 98A:
+    Skin:
+      hex: '#F5B693'
+      source: 3dfilamentprofiles.com
+  TPU 72D:
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Dynamic:
+    Green / Yellow:
+      hex: '#00E00F'
+      source: 3dfilamentprofiles.com
+  PBT Basic:
+    Black:
+      hex: '#00060A'
+      source: 3dfilamentprofiles.com
+  HIPS Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://en.cc3dchina.com/products_details/45.html
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://en.cc3dchina.com/products_details/45.html
+  PETG Fluorescent:
+    Fluorescent Green:
+      hex: '#03DB28'
+      source: 3dfilamentprofiles.com
+  TPU Super Tough:
+    Black TPU 72D:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Blend:
+    Silk Rose+Blue:
+      hex: '#D94080'
+      source: 3dfilamentprofiles.com
+  PETG Marble:
+    White Marble:
+      hex: '#C9C7C8,#FFFFFF,#000000'
+      source: 3dfilamentprofiles.com
+  TPE Basic:
+    Natural:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Grass Green (111826):
+      hex: '#02BE0F'
+      source: 3dfilamentprofiles.com

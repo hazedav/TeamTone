@@ -1,0 +1,273 @@
+MLB:
+  Arizona Diamondbacks:
+    colors:
+    - Sedona Red
+    - Sonoran Sand
+    - Black
+    hex:
+    - '#A71930'
+    - '#E3D4AD'
+    - '#000000'
+  Atlanta Braves:
+    colors:
+    - Navy Blue
+    - Red
+    - White
+    hex:
+    - '#CE1141'
+    - '#13274F'
+    - '#FFFFFF'
+  Baltimore Orioles:
+    colors:
+    - Orange
+    - Black
+    - White
+    hex:
+    - '#DF4601'
+    - '#000000'
+    - '#FFFFFF'
+  Boston Red Sox:
+    colors:
+    - Red
+    - Navy Blue
+    - White
+    hex:
+    - '#BD3039'
+    - '#0C2340'
+    - '#FFFFFF'
+  Chicago Cubs:
+    colors:
+    - Cubbie Blue
+    - Red
+    - White
+    hex:
+    - '#0E3386'
+    - '#CC3433'
+    - '#FFFFFF'
+  Chicago White Sox:
+    colors:
+    - Black
+    - Silver
+    - White
+    hex:
+    - '#27251F'
+    - '#C4CED4'
+    - '#FFFFFF'
+  Cincinnati Reds:
+    colors:
+    - Red
+    - Black
+    - White
+    hex:
+    - '#C6011F'
+    - '#000000'
+    - '#FFFFFF'
+  Cleveland Guardians:
+    colors:
+    - Navy Blue
+    - Red
+    - White
+    hex:
+    - '#0C2340'
+    - '#E31937'
+    - '#FFFFFF'
+  Colorado Rockies:
+    colors:
+    - Purple
+    - Black
+    - Silver
+    hex:
+    - '#33006F'
+    - '#000000'
+    - '#C4CED4'
+  Detroit Tigers:
+    colors:
+    - Navy Blue
+    - Orange
+    - White
+    hex:
+    - '#0C2340'
+    - '#FA4616'
+    - '#FFFFFF'
+  Houston Astros:
+    colors:
+    - Navy Blue
+    - Orange
+    - White
+    hex:
+    - '#002D62'
+    - '#EB6E1F'
+    - '#FFFFFF'
+  Kansas City Royals:
+    colors:
+    - Royal Blue
+    - Gold
+    - White
+    hex:
+    - '#004687'
+    - '#BD9B60'
+    - '#FFFFFF'
+  Los Angeles Angels:
+    colors:
+    - Red
+    - Navy Blue
+    - Silver
+    hex:
+    - '#BA0021'
+    - '#003263'
+    - '#C4CED4'
+  Los Angeles Dodgers:
+    colors:
+    - Dodger Blue
+    - Red
+    - White
+    hex:
+    - '#005A9C'
+    - '#EF3E42'
+    - '#FFFFFF'
+  Miami Marlins:
+    colors:
+    - Black
+    - Red
+    - Blue
+    - Silver
+    hex:
+    - '#000000'
+    - '#EF3340'
+    - '#0077C8'
+    - '#41748D'
+  Milwaukee Brewers:
+    colors:
+    - Navy Blue
+    - Gold
+    - White
+    hex:
+    - '#12284B'
+    - '#FFC52F'
+    - '#FFFFFF'
+  Minnesota Twins:
+    colors:
+    - Navy Blue
+    - Red
+    - White
+    hex:
+    - '#002B5C'
+    - '#D31145'
+    - '#FFFFFF'
+  New York Mets:
+    colors:
+    - Blue
+    - Orange
+    - White
+    hex:
+    - '#002D72'
+    - '#FF5910'
+    - '#FFFFFF'
+  New York Yankees:
+    colors:
+    - Navy Blue
+    - White
+    hex:
+    - '#003087'
+    - '#FFFFFF'
+  Oakland Athletics:
+    colors:
+    - Green
+    - Gold
+    - White
+    hex:
+    - '#003831'
+    - '#EFB21E'
+    - '#FFFFFF'
+  Philadelphia Phillies:
+    colors:
+    - Red
+    - Blue
+    - White
+    hex:
+    - '#E81828'
+    - '#002D72'
+    - '#FFFFFF'
+  Pittsburgh Pirates:
+    colors:
+    - Black
+    - Gold
+    - White
+    hex:
+    - '#27251F'
+    - '#FDB827'
+    - '#FFFFFF'
+  San Diego Padres:
+    colors:
+    - Sand
+    - Brown
+    - Gold
+    hex:
+    - '#2F241D'
+    - '#FFC425'
+    - '#A0AAB2'
+  San Francisco Giants:
+    colors:
+    - Orange
+    - Black
+    - Cream
+    hex:
+    - '#FD5A1E'
+    - '#27251F'
+    - '#EFD19F'
+  Seattle Mariners:
+    colors:
+    - Northwest Green
+    - Navy Blue
+    - Silver
+    hex:
+    - '#0C2C56'
+    - '#005C5C'
+    - '#C4CED4'
+  St. Louis Cardinals:
+    colors:
+    - Red
+    - Navy Blue
+    - Yellow
+    hex:
+    - '#C41E3A'
+    - '#0C2340'
+    - '#FEDB00'
+  Tampa Bay Rays:
+    colors:
+    - Navy Blue
+    - Columbia Blue
+    - Yellow
+    hex:
+    - '#092C5C'
+    - '#8FBCE6'
+    - '#F5D130'
+  Texas Rangers:
+    colors:
+    - Royal Blue
+    - Red
+    - White
+    hex:
+    - '#003278'
+    - '#C0111F'
+    - '#FFFFFF'
+  Toronto Blue Jays:
+    colors:
+    - Blue
+    - Navy Blue
+    - Red
+    - White
+    hex:
+    - '#134A8E'
+    - '#1D2D5C'
+    - '#E8291C'
+    - '#FFFFFF'
+  Washington Nationals:
+    colors:
+    - Red
+    - Navy Blue
+    - White
+    hex:
+    - '#AB0003'
+    - '#14225A'
+    - '#FFFFFF'

@@ -1,0 +1,22 @@
+Botfeeder:
+  PLA Basic:
+    Coke Red:
+      hex: '#E12114'
+      source: 3dfilamentprofiles.com
+    Turquoise:
+      hex: '#6AF694'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#575A5B'
+      source: 3dfilamentprofiles.com
+    Saphire:
+      hex: '#2C08DD'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#6DBBF3'
+      source: 3dfilamentprofiles.com
+  TPE Flexible:
+    Whitish:
+      hex: '#EBEBEB'
+      source: 3dfilamentprofiles.com
+      link: http://www.botfeeder.net/filastic.htm

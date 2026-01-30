@@ -1,0 +1,26 @@
+NAGA:
+  PLA Basic:
+    'Brown ':
+      hex: '#59331F'
+      source: 3dfilamentprofiles.com
+  TPU Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Army Green:
+      hex: '#4B5320'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    White:
+      hex: '#E5F2FF'
+      source: 3dfilamentprofiles.com
+    Coffee:
+      hex: '#CC9169'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#A225D0'
+      source: 3dfilamentprofiles.com

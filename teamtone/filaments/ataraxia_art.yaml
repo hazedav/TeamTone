@@ -1,0 +1,43 @@
+ATARAXIA ART:
+  PLA:
+    FLEXIBLE PLA - IVORY WHITE:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    FLEXIBLE PLA - BLACK:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#F06800'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Gold:
+      hex: '#FFBB00'
+      source: 3dfilamentprofiles.com
+      link: https://ataraxiaart.com/product/ataraxia-art-petg-filament-1-75mm-3d-printer-filament-1-kg-2-2-lb-spool-dimensional-accuracy-0-02mm-with-storage-resealable-vacuum-bag-v2-fit-most-fdm-printer-pantone-matched-petg-gold/
+    Pink:
+      hex: '#F28CEA'
+      source: 3dfilamentprofiles.com
+      link: https://ataraxiaart.com/product/ataraxia-art-petg-filament-1-75mm-3d-printer-filament-1-kg-2-2-lb-spool-dimensional-accuracy-0-02mm-with-storage-resealable-vacuum-bag-v2-fit-most-fdm-printer-pantone-matched-petg-pink/?srsltid=AfmBOorGTVGV98xYrzSqdeoKRUZHtXXlRP1fX2oF_dB5pLH_cWsZw4FL
+  PLA+/Pro F:
+    Orange:
+      hex: '#F07B00'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Violet Grape Purple:
+      hex: '#BC269C'
+      source: 3dfilamentprofiles.com
+  PVB:
+    PPLA+ Black (IPA Polishable):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Flexible:
+    Sky Blue:
+      hex: '#21BCFF'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Silk Magic:
+    gold copper black:
+      hex: '#FECB3E,#232323,#AD3E00'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,389 @@
+SmartMaterials:
+  PLA Wood:
+    Acacia:
+      hex: '#D5BD89'
+      source: 3dfilamentprofiles.com
+    Teka:
+      hex: '#AC7040'
+      source: 3dfilamentprofiles.com
+    Wenge:
+      hex: '#363A36'
+      source: 3dfilamentprofiles.com
+    Maple:
+      hex: '#7F8346'
+      source: 3dfilamentprofiles.com
+    Sapelly:
+      hex: '#874D3D'
+      source: 3dfilamentprofiles.com
+    Willow:
+      hex: '#66815D'
+      source: 3dfilamentprofiles.com
+  PLA Easy:
+    Ivory White:
+      hex: '#F0F9FE'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Blue:
+      hex: '#2F3F5B'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com
+    Yellow Gold:
+      hex: '#B0771C'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/silk#/tamano-l_1000g/diametro-175_mm/color-yellow_gold
+    Cooper:
+      hex: '#893727'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com
+    Red:
+      hex: '#712834'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com
+    Silver:
+      hex: '#A6A6A4'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com
+    Burdeos:
+      hex: '#592B2E'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com
+  PLA Glitter:
+    Red:
+      hex: '#852735'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com
+    Black:
+      hex: '#48444E'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com
+    Silver:
+      hex: '#717577'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com
+    Dark Green Glitter:
+      hex: '#384F35'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com
+    Blue:
+      hex: '#315D88'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com
+    Violet:
+      hex: '#7B5AAB'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com
+    Green:
+      hex: '#42A581'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com
+  PLA:
+    Iris Pearl:
+      hex: '#C2BBA1'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com
+    Pale Skin:
+      hex: '#EBD1B8'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d
+    Tan Skin:
+      hex: '#A36844'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d
+    Medium Skin:
+      hex: '#F4C0B1'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d
+    Iris Tanzanite:
+      hex: '#374F5E'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com
+    Iris Topaz:
+      hex: '#3A6055'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com
+    Iris Alexandrite:
+      hex: '#476441'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com
+    Iris Granate:
+      hex: '#63494C'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com
+    Smartfil Oyster:
+      hex: '#B9966F'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/en/oyster
+  PLA Basic:
+    True Black (Black):
+      hex: '#1D1E1F'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Natural:
+      hex: '#D7CEB8'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla
+    Chlorophyll (Green):
+      hex: '#54C040'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Jade (Dark Green):
+      hex: '#143E34'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Wisteria (Violet):
+      hex: '#7257B1'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Coral (Coral):
+      hex: '#F36062'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Mahogany (Brown):
+      hex: '#582622'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Emerald (Light Green):
+      hex: '#50C3A1'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Sunset (Orange):
+      hex: '#F3592E'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Snow (Cold White):
+      hex: '#E8F4F0'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Signal Blue (Signal Blue):
+      hex: '#28618B'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    White Snow:
+      hex: '#FFFAFA'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/en/pla?q=MATERIAL-PLA
+    Antracita (Dark Grey):
+      hex: '#585D61'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Neo Yellow:
+      hex: '#E0E722'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-neon#/3-tamano-l_1000g/26-diametro-175_mm/100-color-neo_yellow
+    Ruby (Red):
+      hex: '#E82730'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Ivory White (White):
+      hex: '#F1F2E9'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Orinoco (Yellow):
+      hex: '#F3F034'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Sapphire (Blue):
+      hex: '#3F9CD1'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Cobalt (Dark Blue):
+      hex: '#2B408D'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Silver (Silver):
+      hex: '#6A6E6F'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Aubergine (Purple):
+      hex: '#231738'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Gold (Gold):
+      hex: '#665E3D'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Hillier Lake (Pink):
+      hex: '#C14AAC'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Grenade (Grenade):
+      hex: '#6F121E'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Traffic (Traffic):
+      hex: '#E2A81E'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Green Army (Green Army):
+      hex: '#285742'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Light Gray (Light Gray):
+      hex: '#C0C0C5'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    May (May):
+      hex: '#458B37'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+  PLA Recycled:
+    Purple:
+      hex: '#47243C'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Violet:
+      hex: '#76689A'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/166-color-violet
+    Light Green:
+      hex: '#048B8C'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/175-color-light_green
+    May:
+      hex: '#587F40'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/242-color-may
+    Lilac:
+      hex: '#76689A'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/263-color-lilac
+    Traffic:
+      hex: '#F7B500'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/243-color-traffic
+    Gold:
+      hex: '#806440'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/94-color-gold
+    Coral:
+      hex: '#CA555D'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/93-color-coral
+    Blue:
+      hex: '#007CAF'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/67-color-blue
+    Silver:
+      hex: '#A5A3AC'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/31-color-silver
+    Orange:
+      hex: '#EE672F'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/164-color-orange
+    Green:
+      hex: '#38D53A'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/68-color-green
+    Red:
+      hex: '#EB302D'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/66-color-red
+    Cold White:
+      hex: '#EFF5F4'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/211-color-cold_white
+    Yellow:
+      hex: '#FAE83C'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/69-color-yellow
+    Black:
+      hex: '#2B2B2C'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/71-color-black
+    Dark Blue:
+      hex: '#222D5A'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/165-color-dark_blue
+    Dark Green:
+      hex: '#005F4E'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/167-color-dark_green
+    Green Army:
+      hex: '#315442'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/246-color-green_army
+    Light Blue:
+      hex: '#6093AC'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/262-color-light_blue
+    Grenade:
+      hex: '#861A22'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/241-color-grenade
+    Light Gray:
+      hex: '#C5C7C4'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/245-color-light_gray
+    Brown:
+      hex: '#A45729'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/168-color-brown
+    Signal Blue:
+      hex: '#005387'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/244-color-signal_blue
+    Pink:
+      hex: '#BB4077'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/170-color-pink
+    Dark Grey:
+      hex: '#575D5E'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/174-color-dark_grey
+  PLA Pastello:
+    Mint:
+      hex: '#E2EDD0'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-pastel#/3-tamano-l_1000g/26-diametro-175_mm/86-color-mint
+    Aqua:
+      hex: '#DFF0F2'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-pastel#/3-tamano-l_1000g/26-diametro-175_mm/85-color-aqua
+    Vanilla:
+      hex: '#F1E8B7'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com
+    Lavender:
+      hex: '#E5BEE3'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com
+    Quartz:
+      hex: '#F7E9F4'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-pastel#/3-tamano-l_1000g/26-diametro-175_mm/83-color-quartz
+  PLA ReFill:
+    Dark Green:
+      hex: '#015D52'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/refill-pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/167-color-dark_green
+  PLA Crystal:
+    Blue:
+      hex: '#304CA8'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/placrystal#/tamano-l_1000g/diametro-175_mm/color-crystal_blue
+    Red:
+      hex: '#B31C23'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/placrystal#/3-tamano-l_1000g/26-diametro-175_mm/215-color-crystal_red
+    Yellow:
+      hex: '#B8AC22'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/placrystal
+  PLA Glow:
+    Green:
+      hex: '#85D49C'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com
+    Blue:
+      hex: '#68CEDE'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com
+  TPU 95A:
+    FLEX 93A True Back:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/flex-93a#/tamano-m_750g/color-true_black/diametro-175_mm

@@ -1,0 +1,109 @@
+НИТ:
+  PLA Basic:
+    Желтый:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://plastik-nit.ru/catalog/
+    Шоколадный:
+      hex: '#422C16'
+      source: 3dfilamentprofiles.com
+      link: https://plastik-nit.ru/catalog/
+    Бежевый:
+      hex: '#F1D298'
+      source: 3dfilamentprofiles.com
+      link: https://plastik-nit.ru/catalog/
+    Серебро:
+      hex: '#B8B8B8'
+      source: 3dfilamentprofiles.com
+      link: https://plastik-nit.ru/catalog/
+    Черный:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://plastik-nit.ru/catalog/
+    PINK:
+      hex: '#F5878E'
+      source: 3dfilamentprofiles.com
+      link: https://plastik-nit.ru/catalog/
+    Gold:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+      link: https://plastik-nit.ru/catalog/
+    Фиолетовый:
+      hex: '#6914AD'
+      source: 3dfilamentprofiles.com
+      link: https://plastik-nit.ru/catalog/
+    Khaki:
+      hex: '#5C6242'
+      source: 3dfilamentprofiles.com
+      link: https://plastik-nit.ru/catalog/nit_pla/6650/
+    Gray:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://plastik-nit.ru/catalog/nit_pla/6377/
+    Red:
+      hex: '#D50101'
+      source: 3dfilamentprofiles.com
+      link: https://plastik-nit.ru/catalog/nit_pla/6304/
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://plastik-nit.ru/catalog/nit_pla/6308/
+  PETG Basic:
+    Синий Кобальтовый:
+      hex: '#00007E'
+      source: 3dfilamentprofiles.com
+      link: https://www.ozon.ru/product/petg-siniy-kobaltovyy-plastik-dlya-3d-pechati-nit-1-kg-187098419/
+    зеленый прозрачный флуоресцентный:
+      hex: '#89EB89'
+      source: 3dfilamentprofiles.com
+      link: https://www.ozon.ru/product/petg-zelenyy-prozrachnyy-fluorestsentnyy-plastik-dlya-3d-pechati-nit-1-kg-153259529/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://plastik-nit.ru/catalog/nit_petg/6318/
+    Хаки:
+      hex: '#444000'
+      source: 3dfilamentprofiles.com
+      link: https://www.ozon.ru/product/petg-haki-plastik-dlya-3d-pechati-nit-1-kg-1248345700/
+    Серебро:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.ozon.ru/product/petg-serebro-plastik-dlya-3d-pechati-nit-1-kg-187099428/
+    Синий Прозрачный:
+      hex: '#20214F'
+      source: 3dfilamentprofiles.com
+      link: https://www.ozon.ru/product/petg-siniy-prozrachnyy-plastik-dlya-3d-pechati-nit-1-kg-153263838/
+    Белый:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.ozon.ru/product/petg-belyy-plastik-dlya-3d-pechati-nit-1-kg-153262886/
+    Прозрачный:
+      hex: '#C8C8C8'
+      source: 3dfilamentprofiles.com
+      link: https://plastik-nit.ru/catalog/nit_petg/6351/
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://plastik-nit.ru/catalog/nit_petg/6484/
+    Red:
+      hex: '#A30000'
+      source: 3dfilamentprofiles.com
+      link: https://plastik-nit.ru/catalog/nit_petg/6327/
+  PLA Fluorescent:
+    Салатный:
+      hex: '#3BFF12'
+      source: 3dfilamentprofiles.com
+      link: https://plastik-nit.ru/catalog/nit_pla/6310/
+    Magenta:
+      hex: '#FF4FBE'
+      source: 3dfilamentprofiles.com
+      link: https://plastik-nit.ru/catalog/nit_pla/6542/
+  PLA Matte:
+    Белый:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://plastik-nit.ru/catalog/nit_abs/6286/

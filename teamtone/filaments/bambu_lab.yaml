@@ -1,0 +1,1702 @@
+Bambu Lab:
+  PLA Matte:
+    Pink:
+      hex: '#FBB3FF'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-matte
+    Caramel (11803):
+      hex: '#AE835B'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-matte
+    Apple Green (11502):
+      hex: '#C2E189'
+      source: 3dfilamentprofiles.com
+    Lime green:
+      hex: '#6EE53C'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-matte
+    Plum (11204):
+      hex: '#950051'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-matte?variant=43292383969416
+    Dark Red (11202):
+      hex: '#BB3D43'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-matte?id=41884207415432
+    Scarlet Red (11200):
+      hex: '#DE4343'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-matte?id=42996742848731
+    Dark Blue (11602):
+      hex: '#042F56'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-matte?id=41458830246003
+    Desert Tan (11401):
+      hex: '#E8DBB7'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-matte?id=41709629571187
+    Nardo Gray (11104):
+      hex: '#757575'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/it-it/products/pla-matte?variant=53926028837212
+    Sky Blue (11603):
+      hex: '#56B7E6'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-matte?variant=43292384002184
+    Terracotta (11203):
+      hex: '#B15533'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-matte
+    Marine Blue (11600):
+      hex: '#0078BF'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-matte?id=40489682141320
+    Bone White (11103):
+      hex: '#E3DFD3'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-matte?id=43292383936648
+    Dark Brown (11801):
+      hex: '#7D6556'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/de/products/pla-matte?id=48612736401756
+    Sunflower Yellow:
+      hex: '#F5C929'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-matte
+    Dark Chocolate (11802):
+      hex: '#4D3324'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-matte?id=43292384067720
+    Ice Blue (11601):
+      hex: '#A3D8E1'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-matte?id=40489682075784
+    Tangerine Orange:
+      hex: '#CC6F3E'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-matte?id=40489681846408
+    Lemon Yellow (11400):
+      hex: '#F7D959'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-matte?id=40489681911944
+    Lilac purple (11700):
+      hex: '#AE96D4'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-matte?id=40217021481075
+    Dark Green (11501):
+      hex: '#68724D'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-matte?id=41458829394035
+    Grass Green (11500):
+      hex: '#61C680'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-matte?id=40489681977480
+    Latte Brown (11800):
+      hex: '#D3B7A7'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-matte?id=40489682010248
+    Sakura Pink (11201):
+      hex: '#E8AFCF'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-matte?id=40489681879176
+    Mandarin Orange (11300):
+      hex: '#F99963'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-matte?id=40489681846408
+    Ivory White (11100):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-matte?id=40489681780872
+    Charcoal (11101):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-matte
+    Ash Gray (11102):
+      hex: '#9B9EA0'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/it-it/products/pla-matte?variant=42996742619355
+    White (40100):
+      hex: '#F5F5F5'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-matte
+  PETG Basic:
+    Purple (30700):
+      hex: '#9E007E'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/petg/products/petg-basic
+    Blue Gray (30601):
+      hex: '#2E4F66'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/petg/products/petg-basic
+    Gray (30102):
+      hex: '#ADB1B2'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/collections/petg/products/petg-basic
+    Red (30200):
+      hex: '#D6001C'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/nl-nl/products/petg-basic?variant=46798236123484
+    Natural:
+      hex: '#FFE2D6'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-hf?id=659260887003381767
+    Yellow (30400):
+      hex: '#FCE300'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/collections/petg/products/petg-basic?variant=46798236287324
+    Nature (30104):
+      hex: '#D7D7D7'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/petg/products/petg-basic
+    Green (30500):
+      hex: '#009639'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/petg/products/petg-basic
+    Orange (30300):
+      hex: '#FF671F'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/petg/products/petg-basic
+    Lake Blue (30602):
+      hex: '#0069B1'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/petg-basic/?variant=46798236254556
+    Blue (30600):
+      hex: '#001489'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/petg/products/petg-basic
+    Lime Green (30501):
+      hex: '#7CD82B'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/petg/products/petg-basic
+    Black (30101):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/petg/products/petg-basic
+    Gold (30401):
+      hex: '#F6D86A'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/petg/products/petg-basic
+    White (30100):
+      hex: '#EDF0F2'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/petg/products/petg-basic
+  TPU 95A:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White (51102):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-95a-hf?variant=41469410508936
+    Yellow (51400):
+      hex: '#F3E600'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-95a-hf?variant=41469410574472
+    Blue (51600):
+      hex: '#0072CE'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-95a-hf?variant=41469410607240
+  PLA Lite:
+    深灰/Dark Grey:
+      hex: '#6F6E6D'
+      source: 3dfilamentprofiles.com
+    紅色/Red (16200):
+      hex: '#D23738'
+      source: 3dfilamentprofiles.com
+    黑色/Black(16100):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    橙黃色/Orange Yellow (16401):
+      hex: '#F47920'
+      source: 3dfilamentprofiles.com
+    淺膚色/Beige (16700):
+      hex: '#F7E6DE'
+      source: 3dfilamentprofiles.com
+    黑色/Black:
+      hex: '#3D3D3E'
+      source: 3dfilamentprofiles.com
+    白色/White (16103):
+      hex: '#FFFEF7'
+      source: 3dfilamentprofiles.com
+    浅灰/Gray:
+      hex: '#9FA19F'
+      source: 3dfilamentprofiles.com
+    Red (16200):
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Sunflower Yellow (16401):
+      hex: '#FFB549'
+      source: 3dfilamentprofiles.com
+    Cyan (16600):
+      hex: '#00FFFF'
+      source: 3dfilamentprofiles.com
+    Yellow (16400):
+      hex: '#FFD834'
+      source: 3dfilamentprofiles.com
+    White (16103):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black (16100):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Green (16501):
+      hex: '#00BB31'
+      source: 3dfilamentprofiles.com
+    Gray (16101):
+      hex: '#9FA19F'
+      source: 3dfilamentprofiles.com
+    Blue (16601):
+      hex: '#004EA8'
+      source: 3dfilamentprofiles.com
+    Orange (16301):
+      hex: '#FF671F'
+      source: 3dfilamentprofiles.com
+    Dark Gray (16102):
+      hex: '#6F6E6D'
+      source: 3dfilamentprofiles.com
+  PLA Tough:
+    Gray (12102):
+      hex: '#515A6C'
+      source: 3dfilamentprofiles.com
+    Lavender-Blue (12700):
+      hex: '#6667AB'
+      source: 3dfilamentprofiles.com
+    Vermilion-Red (12200):
+      hex: '#DD3C22'
+      source: 3dfilamentprofiles.com
+    Light-Blue (12600):
+      hex: '#0085AD'
+      source: 3dfilamentprofiles.com
+    Yellow (12400):
+      hex: '#FEDB00'
+      source: 3dfilamentprofiles.com
+    White (12100):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Orange (12300):
+      hex: '#FF7F41'
+      source: 3dfilamentprofiles.com
+    Pine Green:
+      hex: '#00482B'
+      source: 3dfilamentprofiles.com
+    Cream White:
+      hex: '#FAFAFA'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Silver (12103):
+      hex: '#9D9D9D'
+      source: 3dfilamentprofiles.com
+      link: https://www.machines-3d.com/en/bambu-lab-pla-tough-filament-1kg-colors-xml-367_929_1099-6456.html
+    Cyan:
+      hex: '#019BD9,#009BD8'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-tough-upgrade?id=624483921975980074
+    Silver (12106):
+      hex: '#959698'
+      source: 3dfilamentprofiles.com
+      link: https://au.store.bambulab.com/products/pla-tough-upgrade?id=623768847717027876
+    White (12107):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://au.store.bambulab.com/products/pla-tough-upgrade?id=623768847717027852
+  ASA Aero:
+    White (46100):
+      hex: '#EFF2DE'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/bambu-lab-3d-printer-filament/products/asa-aero
+  PLA+/Pro Tough+:
+    Gray 12105:
+      hex: '#ADADAD'
+      source: 3dfilamentprofiles.com
+    Black (12104):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Silver (12106):
+      hex: '#959698'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/fr/products/pla-tough-upgrade?id=624496486489088036
+    Tough+:
+      hex: '#515252'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#D65905'
+      source: 3dfilamentprofiles.com
+    Yellow (12401):
+      hex: '#F4D53F'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-tough-upgrade?id=624483921975980050
+    Grey:
+      hex: '#AFB1AE'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/de/products/pla-tough-upgrade?id=624496486489088036
+    Cyan (12601):
+      hex: '#009BD8'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/fr/products/pla-tough-upgrade?id=624496486489088042
+    White (12107):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/fr/products/pla-tough-upgrade?id=624496486489088012
+  PLA Silk:
+    Titan Gray (13108):
+      hex: '#5F6367'
+      source: 3dfilamentprofiles.com
+      link: https://ca.store.bambulab.com/products/pla-silk-upgrade?id=542547831280767006
+    Silver:
+      hex: '#B8B8B8'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-multi-color?id=601310725769670660
+    Gold:
+      hex: '#F4A925'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-multi-color?id=601310725769670660
+    Pink(13202):
+      hex: '#EEB1C1'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk?variant=41465449480328
+    Rose Gold:
+      hex: '#BA9594'
+      source: 3dfilamentprofiles.com
+    Neon City:
+      hex: '#0047BB,#BB22A3'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-multi-color?id=601310725769670660
+    Blue (13604):
+      hex: '#008BDA'
+      source: 3dfilamentprofiles.com
+      link: https://ca.store.bambulab.com/products/pla-silk-upgrade?id=542547831280767024
+    South Beach (13912):
+      hex: '#F772A4,#00918B'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-multi-color?id=601310725769670672
+    Green (13502):
+      hex: '#4CE4A0'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-multi-color?id=601310725769670660
+    Silver (13109):
+      hex: '#C8C8C8'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-upgrade?variant=43128679760008
+    Velvet Eclipse (13905):
+      hex: '#9F0000,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/de/products/pla-silk-multi-color?id=53515458085212
+    Purple (13702):
+      hex: '#8671CB'
+      source: 3dfilamentprofiles.com
+      link: https://ca.store.bambulab.com/products/pla-silk-upgrade?id=542547831280767030
+    Mystic Magenta (13913):
+      hex: '#720062,#3A913F'
+      source: 3dfilamentprofiles.com
+      link: https://au.store.bambulab.com/products/pla-silk-multi-color?id=665320543900983296
+    Aurora Purple 13909:
+      hex: '#7F3696,#006EC9'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-multi-color?id=601310725769670660
+    Pink (13207):
+      hex: '#F7ADA6'
+      source: 3dfilamentprofiles.com
+      link: https://ca.store.bambulab.com/products/pla-silk-upgrade?id=542547831280767054
+    Champagne (13404):
+      hex: '#F3CFB2'
+      source: 3dfilamentprofiles.com
+      link: https://ca.store.bambulab.com/products/pla-silk-upgrade?id=542547831280767060
+    Baby Blue (13603):
+      hex: '#A8C6EE'
+      source: 3dfilamentprofiles.com
+      link: https://ca.store.bambulab.com/products/pla-silk-upgrade?id=542547831280767042
+    Mint (13507):
+      hex: '#96DCB9'
+      source: 3dfilamentprofiles.com
+      link: https://ca.store.bambulab.com/products/pla-silk-upgrade?id=542547831280767048
+    Rose Gold (13206):
+      hex: '#BA9594'
+      source: 3dfilamentprofiles.com
+      link: https://ca.store.bambulab.com/products/pla-silk-upgrade?id=542547831280767036
+    Candy Red (13205):
+      hex: '#D02727'
+      source: 3dfilamentprofiles.com
+      link: https://ca.store.bambulab.com/products/pla-silk-upgrade?id=542547831280767012
+    White (13110):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://ca.store.bambulab.com/products/pla-silk-upgrade?id=542547831284961285
+    Gilded Rose (Pink-Gold) (13901):
+      hex: '#F4A4C0,#FFB43F'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-dual-color?id=41629533307016
+    Gold (13405):
+      hex: '#F4A925'
+      source: 3dfilamentprofiles.com
+      link: https://ca.store.bambulab.com/products/pla-silk-upgrade?id=542547831280766994
+    Blue (13601):
+      hex: '#147BD1'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk?variant=41126614466696
+    Copper (13300):
+      hex: '#5E4B3C'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-silk?variant=46636020597084
+    Purple (13701):
+      hex: '#580490'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk?variant=41465449578632
+    Gold (13401):
+      hex: '#E5B03D'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/en-se/collections/pla/products/pla-silk?variant=46636020531548
+    White(13105):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk
+    Silver (13104):
+      hex: '#ACB4B5'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk?variant=41126614401160
+    Candy Green (13506):
+      hex: '#018814'
+      source: 3dfilamentprofiles.com
+      link: https://ca.store.bambulab.com/products/pla-silk-upgrade?id=542547831280767018
+    Dawn Radiance (13912):
+      hex: '#6CD4BC,#A66EB9,#D87694'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-multi-color?id=601310725769670660
+  PLA Silk Multi-Color:
+    Midnight Blaze - Blue Red:
+      hex: '#2C1376'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/bambu-lab-3d-printer-filament/products/pla-silk-dual-color?variant=41629533339784
+    Neon City (Blue-Magenta) (13903):
+      hex: '#0047BB,#BB22A3'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/bambu-lab-3d-printer-filament/products/pla-silk-dual-color?id=41629533372552
+    Gilded Rose (Pink-Gold) (13901):
+      hex: '#FF9425,#FCA2BF'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-dual-color?id=41629533307016
+    Blue Hawaii (Blue-Green) (13904):
+      hex: '#60A4E8,#4CE4A0'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/pla/products/pla-silk-dual-color?id=41629533405320
+    Dawn Radiance:
+      hex: '#EC984C,#6CD4BC,#A66EB9,#D87694'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-multi-color?id=601310725769670660
+    South Beach (13906):
+      hex: '#F772A4,#00918B'
+      source: 3dfilamentprofiles.com
+      link: https://ca.store.bambulab.com/products/pla-silk-multi-color
+    Midnight Blaze (Blue-Red) (13902):
+      hex: '#0047BB,#7D1B49'
+      source: 3dfilamentprofiles.com
+    Velvet Eclipse (Black-Red) (13905):
+      hex: '#000000,#C80000'
+      source: 3dfilamentprofiles.com
+      link: https://ca.store.bambulab.com/products/pla-silk-multi-color?id=46816416792816
+    Aurora Purple (13909):
+      hex: '#7F3696,#006EC9'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-multi-color?id=601310725769670666
+    Phantom Blue (Blue-Black) (13916):
+      hex: '#000000,#00629B'
+      source: 3dfilamentprofiles.com
+      link: https://ca.store.bambulab.com/products/pla-silk-multi-color?id=665320242336288777
+    Midnight Blaze:
+      hex: '#0047BB,#7D1B49'
+      source: 3dfilamentprofiles.com
+    Velvet Eclipse:
+      hex: '#A34342,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://ca.store.bambulab.com/collections/pla/products/pla-silk-dual-color
+  ABS GF:
+    Yellow (41400):
+      hex: '#FFE133'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/abs-gf
+    White (41100):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/abs-gf
+    Gray (41102):
+      hex: '#C6C6C6'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/abs-gf?variant=42166898360456
+    Green (41500):
+      hex: '#61BF36'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/abs-gf?variant=42166898196616
+    Black (41101):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/abs-gf?variant=42166898393224
+    Blue (41600):
+      hex: '#0C3B95'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/abs-gf?variant=42414474821768
+    Orange (41300):
+      hex: '#F48438'
+      source: 3dfilamentprofiles.com
+    Red (41200):
+      hex: '#E83100'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/abs-gf?variant=42166898229384
+  PA6 GF:
+    White (72102):
+      hex: '#EAEAE4'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pa6-gf?variant=41924135878792
+    Black (72104):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pa6-gf
+    Blue (72600):
+      hex: '#75AED8'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pa6-gf
+    Orange (72200):
+      hex: '#FF4800'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pa6-gf?variant=41924135747720
+    Brown (72800):
+      hex: '#5B492F'
+      source: 3dfilamentprofiles.com
+    Lime (72500):
+      hex: '#C5ED48'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pa6-gf
+    Gray (72103):
+      hex: '#353533'
+      source: 3dfilamentprofiles.com
+      link: https://au.store.bambulab.com/products/pa6-gf?id=44163809018019
+    Yellow (72400):
+      hex: '#FFCE00'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pa6-gf
+  PLA Silk+:
+    Purple:
+      hex: '#8671CB'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/pla/products/pla-silk-upgrade?variant=43128679661704
+    Green:
+      hex: '#00B80C'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-upgrade
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-upgrade
+    White (13110):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-upgrade?id=43128679727240
+    Rose Gold (13206):
+      hex: '#BA9594'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-upgrade
+    Candy Green (13506):
+      hex: '#018814'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-upgrade?variant=43128679989384
+    Candy Red (13205):
+      hex: '#D02727'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-upgrade?variant=43128680022152
+    Candy Green:
+      hex: '#038203'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-upgrade
+    Champagne (13404):
+      hex: '#F3CFB2'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-upgrade?variant=43128679923848
+    Blue (13604):
+      hex: '#008BDA'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-upgrade?variant=43128679628936
+    Pink (13207):
+      hex: '#F7ADA6'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-upgrade
+    Gold (13405):
+      hex: '#F4A925'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-silk-upgrade?id=53583205859676
+    Silver (13109):
+      hex: '#C8C8C8'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-silk-upgrade?id=53583205826908
+    Mint (13507):
+      hex: '#96DCB9'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-upgrade?variant=43128679825544
+    Titan Gray (13108):
+      hex: '#5F6367'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-upgrade?id=43128679858312
+    Purple (13702):
+      hex: '#8671CB'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/pla/products/pla-silk-upgrade
+    Blue:
+      hex: '#0056D6'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-upgrade
+    Baby Blue (13603):
+      hex: '#A8C6EE'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-silk-upgrade?id=53583206023516
+    Pink:
+      hex: '#FEC3FC'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Purple (40700):
+      hex: '#AF1685'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/abs-filament
+    Blue (40600):
+      hex: '#0A2CA5'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/asa-abs/products/abs-filament?variant=40475105591432
+    Yellow (40400):
+      hex: '#FFFF20'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/en-pt/products/abs-filament?variant=47237300912476
+    Azure (40601):
+      hex: '#489FDF'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/abs-filament?id=42720053362824
+    Silver (40102):
+      hex: '#87909A'
+      source: 3dfilamentprofiles.com
+    Tangerine Yellow (40402):
+      hex: '#FFC72C'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/abs-filament?id=42720059097224
+    Grey (10103):
+      hex: '#8E9089'
+      source: 3dfilamentprofiles.com
+    Bambu Green (40500):
+      hex: '#00AE42'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/abs-filament?variant=42512928833672
+    Olive (40502):
+      hex: '#789D4A'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/abs-filament?id=42078846615667
+    Mint(40501):
+      hex: '#ADF4DC'
+      source: 3dfilamentprofiles.com
+    Orange  (40300):
+      hex: '#FF6A13'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/de/products/abs-filament-de?variant=46748172222812
+    White (40100):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Lavender (40701):
+      hex: '#7248BD'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/abs-filament?id=41050783154291
+    Beige (40401):
+      hex: '#DFD1A7'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/abs-filament
+    Black (40101):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://ca.store.bambulab.com/products/abs-filament?id=43115678859504
+    Red (40200):
+      hex: '#D32941'
+      source: 3dfilamentprofiles.com
+    Navy Blue (40602):
+      hex: '#0C2340'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/asa-abs/products/abs-filament?variant=42720052707464
+  PLA Glow:
+    Glow Green (15501):
+      hex: '#24F626'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-glow
+    Glow Pink (15200):
+      hex: '#F17B8F'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-glow?id=41137288773747
+    Glow Blue (15600):
+      hex: '#7AC0E9'
+      source: 3dfilamentprofiles.com
+      link: https://au.store.bambulab.com/products/pla-glow?id=43787144495267
+    Glow Orange (15300):
+      hex: '#FF9D5B'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-glow?id=41137288675443
+    Glow Yellow (15400):
+      hex: '#F8FF80'
+      source: 3dfilamentprofiles.com
+      link: https://au.store.bambulab.com/products/pla-glow?id=43787144593571
+    Glow Green (15500):
+      hex: '#A1FFAC'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-glow?id=41137288740979
+  PVA Basic:
+    white:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://uk.store.bambulab.com/products/pva
+  PETG HF:
+    Transparent (30103):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/petg/products/petg-basic
+    Forrest Green:
+      hex: '#39541A'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-hf
+    Orange (33300):
+      hex: '#F75403'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/it-it/collections/bambu-lab-3d-printer-filament/products/petg-hf?variant=49068714492252
+    Gray (33101):
+      hex: '#ADB1B2'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-hf?id=42735939780744
+    Black (33102):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/collections/bambu-lab-3d-printer-filament/products/petg-hf?id=42092002836595
+    Yellow (33400):
+      hex: '#FFD00B'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-hf?id=42735939649672
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-hf?id=42735939813512
+    Green (33500):
+      hex: '#00AE42'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-hf?id=42735939518600
+    Gray 33101:
+      hex: '#ADB1B2'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-hf?id=42735939780744
+    Peanut Brown (33801):
+      hex: '#875718'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/de/collections/petg/products/petg-hf
+    Lake Blue (33601):
+      hex: '#1F79E5'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#00AE42'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-hf?id=42735939518600
+    Red (33200):
+      hex: '#EB3A3A'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/petg/products/petg-hf?variant=42735939584136
+    Blue (33600):
+      hex: '#002E96'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-hf?id=42735939453064
+    Lime Green (33501):
+      hex: '#6EE53C'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-hf?id=42881154973832
+    Forest Green (33502):
+      hex: '#39541A'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-hf?id=42881144979592
+    Dark Gray (33103):
+      hex: '#515151'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-hf?id=654207405072093185
+    Cream (33401):
+      hex: '#F9DFB9'
+      source: 3dfilamentprofiles.com
+      link: https://ca.store.bambulab.com/products/petg-hf?id=46547456131312
+    White (33100):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-hf?variant=42735939846280
+  PLA Basic:
+    Maroon Red (10205):
+      hex: '#9D2235'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/en-ch/products/pla-basic-filament?variant=49636008395100
+    Black (10101):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-basic-filament?id=40988815556744
+    Mistletoe Green (10502):
+      hex: '#3F8E43'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-basic-filament?id=41884193030280
+    Bronze (10801):
+      hex: '#847D48'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-basic-filament?id=47794655101276
+    Pink (10203):
+      hex: '#F55A74'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-basic-filament?id=42911328141531
+    Red (10200):
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-basic-filament?id=40475107000456
+    Gray (10103):
+      hex: '#8E9089'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-basic-filament?id=40475106738312
+    Turquoise (10605):
+      hex: '#00B1B7'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/de/products/pla-basic-filament?id=49636016783708
+    Beige (10201):
+      hex: '#F7E6DE'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-basic-filament?id=40475106771080
+    Indigo Purple (10701):
+      hex: '#482960'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-basic-filament?id=528072207898206236
+    Blue (10600):
+      hex: '#0A2989'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-basic-filament?id=40475106705544
+    Purple (10700):
+      hex: '#5E43B7'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-basic-filament?id=41458820415603
+    Cobalt Blue (10604):
+      hex: '#0056B8'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-basic-filament?id=49636029006172
+    Magenta (10202):
+      hex: '#EC008C'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/it/products/pla-basic-filament?id=47794655068508
+    Dark Yellow (10502):
+      hex: '#F4EE2A'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-basic-filament
+    Light Gray (10104):
+      hex: '#D1D3D5'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/pla/products/pla-basic-filament?id=42844628975752
+    Green (10500):
+      hex: '#002914'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-basic-filament?variant=46673378607452
+    Blue (10601):
+      hex: '#0A2989'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-basic-filament?id=42911327912155
+    Brown (10800):
+      hex: '#9D432C'
+      source: 3dfilamentprofiles.com
+    Silver (10102):
+      hex: '#A6A9AA'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-basic-filament?id=40204458229875
+    Cocoa Brown (10802):
+      hex: '#6F5034'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-basic-filament?id=49636027236700
+    Cyan (10603):
+      hex: '#0086D6'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-basic-filament?id=41884192571528
+    Jade White (10100):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-basic-filament?id=40475106640008
+    Hot Pink (10204):
+      hex: '#F5547C'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-basic-filament?id=43045599019144
+    Pumpkin Orange (10301):
+      hex: '#FF9016'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-basic-filament?id=49636029530460
+    Gold (10401):
+      hex: '#E4BD68'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-basic-filament?id=41884191195272
+    Blue Gray (10602):
+      hex: '#5B6579,#647988'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-basic-filament?id=42911328075995
+    Orange (10300):
+      hex: '#FF6A13'
+      source: 3dfilamentprofiles.com
+    Yellow (10400):
+      hex: '#F4EE2A'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-basic-filament?id=40475106836616
+    Bright Green (10503):
+      hex: '#BECF00'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-basic-filament?id=43045598167176
+    Sunflower Yellow (10402):
+      hex: '#FEC600'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-basic-filament?id=49636014031196
+    Dark Gray (10105):
+      hex: '#545454'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-basic-filament?id=502690463710588934
+    Bambu Green (10501):
+      hex: '#00AE42'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-basic-filament?id=41884190146696
+  PETG Translucent:
+    Brown:
+      hex: '#C9A381'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-translucent?id=42797055869064
+    Lime green:
+      hex: '#88F376'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-translucent
+    verde petrolio traslucido:
+      hex: '#63DFCB'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-translucent
+    Light Blue (32600):
+      hex: '#61B0FF'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/nl-nl/collections/petg/products/petg-translucent?variant=49192018149724
+    Light Blue:
+      hex: '#61B0FF'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-translucent?id=42720023445640
+    Translucent light  blue:
+      hex: '#72BBFF'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-translucent
+    Teal:
+      hex: '#77EDD7'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-translucent
+    Teal (32501):
+      hex: '#77EDD7'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-translucent
+    Clear:
+      hex: '#EBEBEB'
+      source: 3dfilamentprofiles.com
+      link: https://ca.store.bambulab.com/products/petg-translucent
+    Pink (32200):
+      hex: '#F9C1BD'
+      source: 3dfilamentprofiles.com
+      link: https://au.store.bambulab.com/products/petg-translucent?variant=43863196696739
+    Translucent Gray (32100):
+      hex: '#8E8E8E'
+      source: 3dfilamentprofiles.com
+    Translucent Olive (32500):
+      hex: '#748C45'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-translucent?p=W3sicHJvcGVydHlLZXkiOiJDb2xvciIsInByb3BlcnR5VmFsdWUiOiJUcmFuc2x1Y2VudCBPbGl2ZSAoMzI1MDApIn0seyJwcm9wZXJ0eUtleSI6IlR5cGUiLCJwcm9wZXJ0eVZhbHVlIjoiIn0seyJwcm9wZXJ0eUtleSI6IlNpemUiLCJwcm9wZXJ0eVZhbHVlIjoiMSBrZyJ9XQ%3D%3D
+    Translucent Pink (32200):
+      hex: '#F9C1BD'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-translucent?p=W3sicHJvcGVydHlLZXkiOiJDb2xvciIsInByb3BlcnR5VmFsdWUiOiJUcmFuc2x1Y2VudCBQaW5rICgzMjIwMCkifSx7InByb3BlcnR5S2V5IjoiVHlwZSIsInByb3BlcnR5VmFsdWUiOiIifSx7InByb3BlcnR5S2V5IjoiU2l6ZSIsInByb3BlcnR5VmFsdWUiOiIxIGtnIn1d
+    Orange (32300):
+      hex: '#FF911A'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-translucent
+    Olive (32500):
+      hex: '#748C45'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-translucent?variant=41638808027272
+    Orange:
+      hex: '#FF911A'
+      source: 3dfilamentprofiles.com
+    Gray (32100):
+      hex: '#8E8E8E'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/nl-nl/collections/bambu-lab-3d-printer-filament/products/petg-translucent?variant=49271784472924
+    Purple (32700):
+      hex: '#D6ABFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/petg-translucent?id=42078850580595
+    Clear (32101):
+      hex: '#F0F2F5'
+      source: 3dfilamentprofiles.com
+    Brown (32800):
+      hex: '#C9A381'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/petg/products/petg-translucent?variant=41638808060040
+  PA (Nylon) CF:
+    Black (25427):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Red (13210):
+      hex: '#B50011'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-translucent?id=593999615827689511
+    Teal (13612):
+      hex: '#009FA1'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-translucent?id=593999615827689487
+    Ice Blue (13610):
+      hex: '#B8CDE9'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-translucent?id=593999615827689535
+    Cherry Pink (13211):
+      hex: '#F5B6CD'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-translucent?id=593999615827689529
+    Light Jade (13510):
+      hex: '#96D8AF'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-translucent?id=593999615827689517
+    Lavender (13711):
+      hex: '#B8ACD6'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-translucent?id=593999615827689541
+    Blue (13611):
+      hex: '#0047BB'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-translucent?id=593999615827689493
+    Mellow Yellow (13410):
+      hex: '#F5DBAB'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-translucent?id=593999615827689523
+    Purple (13710):
+      hex: '#8344B0'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.comhttps://eu.store.bambulab.com/products/pla-translucent?id=54345716629852
+    Orange (13301):
+      hex: '#F74E02'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-translucent?id=593999615827689505
+  PPA CF:
+    Black (73100):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/ppa-cf
+  PLA Aero:
+    Black (14103):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-aero?id=40908299141235
+    Gray (14104):
+      hex: '#CDCECA'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-aero?id=42100766670963
+    White (14102):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-aero?id=40908299108467
+  PLA Gradient:
+    Solar Breeze (10901):
+      hex: '#FC776A,#FFF7F5'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-basic-gradient?id=40881423351923
+    Ocean to Meadow (10902):
+      hex: '#307FE2,#54FF9B'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-basic-gradient?id=40881423384691
+    Mint Lime (10904):
+      hex: '#4EC83A,#D7FE9E'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-basic-gradient?variant=43158301245576
+    Blueberry Bubblegum (10905):
+      hex: '#6FCAEF,#8573DD'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-basic-gradient?id=545446078366412805
+    Pink Citrus (10903):
+      hex: '#E4555E,#FCDAD2'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-basic-gradient?id=545446078366412817
+    'Solar Breeze ':
+      hex: '#E94B3C,#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-basic-gradient?id=41215835603080
+    Arctic Whisper (10900):
+      hex: '#9CDBD9,#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-basic-gradient?id=40881423319155
+    Cotton Candy Cloud (10907):
+      hex: '#E7C1D5,#8EC9E9'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/pla/products/pla-basic-gradient
+    Dusk Glare (10906):
+      hex: '#ED6022,#FFCBA6'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-basic-gradient?variant=43176275312776
+  PLA+/Pro Matte:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Rosewood:
+      hex: '#735757'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-wood
+    White Oak (13106):
+      hex: '#D6CCA3'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-wood?id=533177617234075684
+    Clay Brown (13801):
+      hex: '#995F11'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-wood?id=533177617234075672
+    Ochre Yellow (13403):
+      hex: '#C98935'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-wood?id=533177617234075690
+    Black Walnut (13107):
+      hex: '#4F3F24'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-wood?id=533177617234075660
+    Classic Birch (13505):
+      hex: '#918669'
+      source: 3dfilamentprofiles.com
+    Rosewood (13204):
+      hex: '#4C241C'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-wood?id=533177617234075666
+  PLA+/Pro Silk+:
+    Grey:
+      hex: '#7D7D7D'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-silk-upgrade
+    Candy Red (13205):
+      hex: '#D02727'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-silk-upgrade
+    Gold:
+      hex: '#F4A925'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-silk-upgrade?p=W3sicHJvcGVydHlLZXkiOiJDb2xvciIsInByb3BlcnR5VmFsdWUiOiJHb2xkICgxMzQwNSkifSx7InByb3BlcnR5S2V5IjoiVHlwZSIsInByb3BlcnR5VmFsdWUiOiIifSx7InByb3BlcnR5S2V5IjoiU2l6ZSIsInByb3BlcnR5VmFsdWUiOiIxIGtnIn1d
+    Rose Gold (13206):
+      hex: '#B49695'
+      source: 3dfilamentprofiles.com
+    Candy Red:
+      hex: '#F51A00'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-silk-upgrade
+  TPU 85A:
+    Flesh (51201):
+      hex: '#FFF2D5'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-85a-tpu-90a?id=679919133694869528
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/collections/pc-tpu/products/tpu-85a-tpu-90a
+    Neon Orange(51305):
+      hex: '#F68B1B'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-85a-tpu-90a
+    Lime Green (51501):
+      hex: '#EAF28F'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-85a-tpu-90a?id=679919133694869534
+    Black (51107):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-85a-tpu-90a?id=679919133694869528
+    Light Cyan (51500):
+      hex: '#C3E2D6'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-85a-tpu-90a?id=573761693833371666
+  PLA+/Pro Tough:
+    Orange:
+      hex: '#DC3A27'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-tough-upgrade?id=624483921975980056
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#F4D53F'
+      source: 3dfilamentprofiles.com
+    Cyan:
+      hex: '#009BD8'
+      source: 3dfilamentprofiles.com
+  TPU 90A:
+    Blaze (51901):
+      hex: '#F1AAA8,#D21B3C'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-85a-tpu-90a?id=573761693833371678
+    Grape Jelly (51700):
+      hex: '#D6ABFF'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-85a-tpu-90a
+    White (51104):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/collections/pc-tpu/products/tpu-85a-tpu-90a
+    Crystal Blue (51601):
+      hex: '#7EB4E1'
+      source: 3dfilamentprofiles.com
+      link: https://uk.store.bambulab.com/products/tpu-85a-tpu-90a?id=679918936756355085
+    Frozen (51900):
+      hex: '#FFFFFF,#40B6E4'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-85a-tpu-90a
+    Black (51103):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White (51105):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  TPU 68D (For AMS):
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-for-ams?id=43059884785800
+    Red (53200):
+      hex: '#ED0000'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/de/products/tpu-for-ams?variant=53421837189468
+    Black (53101):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-for-ams?variant=43059884785800
+    Blue (53600):
+      hex: '#5898DD'
+      source: 3dfilamentprofiles.com
+    Yellow (53400):
+      hex: '#F9EF41'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-for-ams?variant=43059884621960
+    Neon Green (53500):
+      hex: '#90FF1A'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-for-ams?id=43059884687496
+    White (53100):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-for-ams?variant=43059884720264
+    Gray (53102):
+      hex: '#939393'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/tpu-for-ams?id=532434129741107229
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-for-ams?id=43059884720264
+    Red:
+      hex: '#ED0000'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-for-ams?id=43059884589192
+    Yellow:
+      hex: '#F9EF41'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-for-ams?id=43059884621960
+    Blue:
+      hex: '#5898DD'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-for-ams?id=43059884654728
+    Neon Green:
+      hex: '#90FF1A'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-for-ams?id=43059884687496
+    Gray:
+      hex: '#939393'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-for-ams?id=43059884753032
+  ASA Basic:
+    White (45100):
+      hex: '#FFFAF2'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/asa-filament?variant=41227780849800
+    Yellow (40400):
+      hex: '#FCE900'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/de/products/asa-filament?id=46930444222812
+    Green (45500):
+      hex: '#008037'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/asa-abs/products/asa-filament?variant=41227780882568
+    Red (45200):
+      hex: '#E02928'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/asa-filament?variant=41227780718728
+    Gray (45102):
+      hex: '#8A949E'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/asa-abs/products/asa-filament?variant=41227780882568
+    Red:
+      hex: '#D73920'
+      source: 3dfilamentprofiles.com
+      link: https://au.store.bambulab.com/products/asa-filament?id=43480655167651
+    Black (45101):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/asa-filament
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/de/products/asa-filament?id=46930444222812
+    Blue (45600):
+      hex: '#2140B4'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/asa-filament?id=46930444321116
+    Green:
+      hex: '#00A6A0'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/asa-filament
+  PC Translucent:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/bambu-lab-3d-printer-filament/products/pc-filament?variant=40741214617736
+  PET CF:
+    Black (71100):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pet-cf
+  PETG CF:
+    Violet Purple (31700):
+      hex: '#583061'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/petg-cf?id=40900182868083
+    Black (31100):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/petg-cf
+    Malachite Green (31500):
+      hex: '#16B08E'
+      source: 3dfilamentprofiles.com
+      link: https://uk.store.bambulab.com/products/petg-cf?id=40670134009916
+    Indigo Blue (31600):
+      hex: '#324585'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/petg-cf?variant=40670133977148
+    Titan Gray (31101):
+      hex: '#565656'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/petg-cf?variant=41392116465800
+    Brick Red (31200):
+      hex: '#9F332A'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/petg-cf
+  TPU HF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-95a-hf?variant=41469410377864
+  PLA CF:
+    Royal Blue (14601):
+      hex: '#2842AD'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-cf?id=41286543278216
+    Jeans Blue (14600):
+      hex: '#6E88BC'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-cf?id=41145212043400
+    Black (14100):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-cf?id=41003202248840
+    Matcha Green (14500):
+      hex: '#5C9748'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-cf?id=41158283591816
+    Burgundy Red (14200):
+      hex: '#951E23'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-cf?id=41145212076168
+    Lava Gray (14101):
+      hex: '#4D5054'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-cf?id=41145212108936
+    Iris Purple (14700):
+      hex: '#69398E'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-cf?id=41286543245448
+  PLA Metal:
+    Cobalt Blue Metallic (13600):
+      hex: '#39699E'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-metal?id=40787065536627
+    Iron Gray Metallic (13100):
+      hex: '#43403D'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-metal?id=46797850902876
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-metal
+    Iridium Gold Metallic (13400):
+      hex: '#B39B84'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-metal?id=46797851099484
+    Oxide Green Metallic (13500):
+      hex: '#1D7C6A'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-metal?id=40787065503859
+    Copper Brown Metallic (13800):
+      hex: '#AA6443'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-metal?id=43959185015003
+  TPU 95A HF:
+    Red (51200):
+      hex: '#C8102E'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-95a-hf
+    Black (51100):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/tpu-95a-hf?variant=41469410377864
+    Gray (51101):
+      hex: '#898D8D'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/tpu-95a-hf?id=41097449078899
+    Blue (51600):
+      hex: '#0072CE'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/tpu-95a-hf?id=47305218851164
+    White (51102):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://ca.store.bambulab.com/products/tpu-95a-hf
+    Yellow (51400):
+      hex: '#F3E600'
+      source: 3dfilamentprofiles.com
+      link: https://ca.store.bambulab.com/products/tpu-95a-hf?id=44405012365552
+  PLA Marble:
+    White Marble (13103):
+      hex: '#F7F3F0'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-marble?id=40800504840307
+    White Marble:
+      hex: '#F7F3F0'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-marble?id=43964050964699
+    Red Granite (13201):
+      hex: '#AD4E38'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-marble?id=40826484916339
+  PC FR:
+    White ( 63101):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://ca.store.bambulab.com/products/pc-fr?id=546460344590610446
+    Black (63100):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/en-mt/collections/pc-tpu/products/pc-fr
+    Gray (63102):
+      hex: '#A8A8AA'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pc-fr?id=43160588025992
+  PC Basic:
+    Clear Black (60102):
+      hex: '#5A5161'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pc-filament?id=40741214617736
+    Black (60101):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pc-filament?id=41135409528968
+    Transparent (60103):
+      hex: '#BFC3C7'
+      source: 3dfilamentprofiles.com
+      link: https://uk.store.bambulab.com/products/pc-filament?id=41135409496200
+    Clear Black:
+      hex: '#5E5E5E'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pc-filament?id=43408627106011
+    White (60100):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pc-filament?id=40741214650504
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pc-filament?id=46673173807452
+  PPS CF:
+    Black (76100):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pps-cf
+  PETG+ Translucent:
+    Transulent Blue:
+      hex: '#A6E9FF'
+      source: 3dfilamentprofiles.com
+  PLA Tough+:
+    Grey:
+      hex: '#ADADAD'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-tough-upgrade?id=623768847717027870
+    White (12107):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-tough-upgrade?id=624496486489088012
+    Gray (12105):
+      hex: '#AFB1AE'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-tough-upgrade?id=623768847717027870
+    Orange (12301):
+      hex: '#DC3A27'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-tough-upgrade?id=624496486489088024
+    Yellow (12401):
+      hex: '#F4D53F'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-tough-upgrade?id=624496486489088018
+    Silver (12106):
+      hex: '#959698'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-tough-upgrade?id=624496486489088036
+    Black (12104):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-tough-upgrade?id=624496486489088048
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pla-tough-upgrade?id=624483921975980044
+    Cyan (12601):
+      hex: '#009BD9'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/pla-tough-upgrade?id=624496486489088042
+  PLA Support:
+    Support for PLA White (65100):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/support-for-pla?id=40261194711155
+    Support for PLA/PETG Natural (65102):
+      hex: '#FBF5E4'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/support-for-pla-petg?id=41928193343603
+    Support for PLA/PETG Black (65103):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/support-for-pla-petg
+    Support for PLA White NEW (65104):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/support-for-pla-new?id=578872019709923335
+  PLA Sparkle:
+    Onyx Black Sparkle (13101):
+      hex: '#2D2B28'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-sparkle?id=40800505593971
+    Crimson Red Sparkle (13200):
+      hex: '#792B36'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-sparkle?id=40800505561203
+    Slate Gray Sparkle (13102):
+      hex: '#8E9089'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-sparkle?id=40904273199219
+    Alpine Green Sparkle (13501):
+      hex: '#3F5443'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-sparkle?id=40800505528435
+    Onyx Back Sparkle:
+      hex: '#2D2B28'
+      source: 3dfilamentprofiles.com
+    Classic Gold (13402):
+      hex: '#CEA629'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-sparkle?id=41832669380723
+    Royal Purple Sparkle (13700):
+      hex: '#483D8B'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-sparkle?id=46797853032796
+  ASA CF:
+    Black (46101):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/asa-abs/products/asa-cf
+  HIPS Support:
+    Support for ABS White (66100):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/support-for-abs
+    Green (65500):
+      hex: '#B5F73A'
+      source: 3dfilamentprofiles.com
+      link: https://ca.store.bambulab.com/products/support-for-pa-pet
+  PAHT CF:
+    Black (70100):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/paht-cf
+    black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/de/products/paht-cf
+  PLA Galaxy:
+    Nebula (13504):
+      hex: '#424379'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-galaxy?id=41387614208115
+    Brown (13203):
+      hex: '#684A43'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-galaxy?id=41387614142579
+    Green (13503):
+      hex: '#3B665E'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/collections/pla/products/pla-galaxy?variant=41834260070536
+    Purple (13602):
+      hex: '#594177'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/pla-galaxy?id=41387614240883
+  PLA+/Pro Basic:
+    White:
+      hex: '#FCFCFC'
+      source: 3dfilamentprofiles.com
+      link: http://www.bambulabs.com
+  PVA Support:
+    Clear (66400):
+      hex: '#F0F1A8'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pva?id=41880801542280
+  PC Tough:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/de/products/pc-filament-de
+  PAHT Support:
+    Support for PA/PET (65500):
+      hex: '#C0DF16'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/support-for-pa-pet
+  PLA CMYK:
+    Lithophane Bundle:
+      hex: '#00FFFF,#FFFF00,#FF00FF'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/de/products/pla-cmyk-lithophan
+  PA6 CF:
+    Lime 72500:
+      hex: '#C5ED48'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pa6-gf?id=41924135813256
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.bambulab.com/products/paht-cf?skr=yes
+    Black (72100):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.store.bambulab.com/products/pa6-cf
+  PLA+/Pro Sparkle:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ABS Support:
+    White (66100):
+      hex: '#FEFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://eu.store.bambulab.com/products/support-for-abs
+  PLA+/Pro CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://uk.store.bambulab.com/products/pla-cf

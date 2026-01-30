@@ -1,0 +1,50 @@
+BIQU:
+  PETG:
+    CarbonCore 25:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA:
+    PLA-HR - Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    BIQU PLA HR - High Resilience Orange:
+      hex: '#F0722D'
+      source: 3dfilamentprofiles.com
+      link: https://biqu.equipment/products/biqu-pla-hr-flexible-3d-printer-filament-for-printing-airless-basketballs-1-75mm-1kg-spool-compatible-with-most-fdm-printers?srsltid=AfmBOorgY1MxKMSfZBjLiCbp2Ng-1TejkxcbqKPsx4f36VV4CnJuzFP-
+    BIQU PLA HR - High Resilience Blue:
+      hex: '#2F3CF4'
+      source: 3dfilamentprofiles.com
+      link: https://biqu.equipment/products/biqu-pla-hr-flexible-3d-printer-filament-for-printing-airless-basketballs-1-75mm-1kg-spool-compatible-with-most-fdm-printers?srsltid=AfmBOorgY1MxKMSfZBjLiCbp2Ng-1TejkxcbqKPsx4f36VV4CnJuzFP-
+    Orange:
+      hex: '#FF7B00'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://biqu.equipment/products/biqu-pla-hr-flexible-3d-printer-filament-for-printing-airless-basketballs-1-75mm-1kg-spool-compatible-with-most-fdm-printers?variant=41410615312482
+    PLA-HR - Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://biqu.equipment/products/biqu-pla-hr-flexible-3d-printer-filament-for-printing-airless-basketballs-1-75mm-1kg-spool-compatible-with-most-fdm-printers?variant=41687071883362
+  TPU:
+    Blue:
+      hex: '#1A8CFF'
+      source: 3dfilamentprofiles.com
+      link: https://biqu3d.com
+    Beige:
+      hex: '#F8FADB'
+      source: 3dfilamentprofiles.com
+      link: https://biqu3d.com
+  PLA Matte:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA High Speed:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://biqu.equipment/products/new-biqu-pla-hs-filament
+    Grey:
+      hex: '#D6D6D6'
+      source: 3dfilamentprofiles.com
+      link: https://biqu.equipment/products/new-biqu-pla-hs-filament?variant=41442917023842

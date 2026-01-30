@@ -1,0 +1,29 @@
+LDO:
+  ABS Basic:
+    Blue:
+      hex: '#004080'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://levendigs.com/products/ldo-abs-filament-1-75mm-1kg-black
+    Stardust Grey:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://ldomotion.com/products/16607023627068700
+    Dark Teal:
+      hex: '#408080'
+      source: 3dfilamentprofiles.com
+      link: https://ldomotion.com/products/16607023627068700
+    Larchgold:
+      hex: '#D19D01'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#5D0797'
+      source: 3dfilamentprofiles.com
+      link: https://levendigs.com/products/ldo-abs-filament-1-75mm-1kg-purple
+  ASA Basic:
+    Olive Green:
+      hex: '#808000'
+      source: 3dfilamentprofiles.com
+      link: https://ldomotion.com/products/16607023627068828

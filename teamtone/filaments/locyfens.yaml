@@ -1,0 +1,35 @@
+Locyfens:
+  PLA Silk Dual:
+    Silk Silver Shiny Blue:
+      hex: '#8391FC'
+      source: 3dfilamentprofiles.com
+    Blue/Green:
+      hex: '#0720DF,#06890E'
+      source: 3dfilamentprofiles.com
+    Gold Shiny Red:
+      hex: '#FF0000,#FF8000'
+      source: 3dfilamentprofiles.com
+    Green/Pink:
+      hex: '#158F05,#EB00AC'
+      source: 3dfilamentprofiles.com
+  PLA Silk Rainbow:
+    Sky Blue/Pink/Yellow:
+      hex: '#87CEEB,#FFC0CB,#FFFF00'
+      source: 3dfilamentprofiles.com
+    Shiny 4 Color Change:
+      hex: '#12D332,#BDB70F,#591DC9,#B91D61'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Black Purple Blue:
+      hex: '#1C004A'
+      source: 3dfilamentprofiles.com
+    Silver Shiny Red:
+      hex: '#840F00'
+      source: 3dfilamentprofiles.com
+    Green Shiny Blue:
+      hex: '#0086CB'
+      source: 3dfilamentprofiles.com
+  PLA Gradient:
+    Gold Shiny Red Black Silk:
+      hex: '#A37143,#374048,#43091E'
+      source: 3dfilamentprofiles.com

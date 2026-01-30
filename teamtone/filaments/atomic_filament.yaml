@@ -1,0 +1,425 @@
+Atomic Filament:
+  PETG Pro:
+    Mysterious Abyss v2 Pearl:
+      hex: '#37454A'
+      source: 3dfilamentprofiles.com
+    Perfect Purple:
+      hex: '#72468C'
+      source: 3dfilamentprofiles.com
+    Deep Black:
+      hex: '#312F31'
+      source: 3dfilamentprofiles.com
+    Fluorescent Translucent Ultra Bright UV Reactive Neon Yellow:
+      hex: '#EAFF00'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/translucent-neon-yellow-petg-pro-uv-reactive
+    Turquoise:
+      hex: '#00C795'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/turquoise-petg-pro
+    Neon Green UV Reactive Opaque:
+      hex: '#00FA00'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/neon-green-uv-reactive-opaque-petg-pro?srsltid=AfmBOoq930bTewfGYieVe8jneC4sYTMQ8Fvp5n5EFEj5mtmdzP2ZCz0K
+    Perfect Orange:
+      hex: '#E5672A'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/translucent-neon-yellow-petg-pro-uv-reactive
+    Gun Metal Gray Opaque:
+      hex: '#8D918D'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/gun-metal-gray-opaque-petg-pro
+    Perfect Blue Opaque:
+      hex: '#0B7BC1'
+      source: 3dfilamentprofiles.com
+    Neon Yellow UV Reactive Opaque:
+      hex: '#EBFF00'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/neon-yellow-uv-reactive-opaque-petg-pro
+    Fluorescent Translucent Neon Hot Pink:
+      hex: '#EE5068'
+      source: 3dfilamentprofiles.com
+    Neon Orange UV Reactive Opaque:
+      hex: '#FF6334'
+      source: 3dfilamentprofiles.com
+    Bright White Opaque:
+      hex: '#DEE5F5'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/bright-white-opaque-petg-pro
+    Dark Cherry Red:
+      hex: '#7E333C'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/translucent-neon-yellow-petg-pro-uv-reactive
+    True Gold:
+      hex: '#C28A54'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/translucent-neon-yellow-petg-pro-uv-reactive
+    Bug Eyes:
+      hex: '#4A6859'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/translucent-neon-yellow-petg-pro-uv-reactive
+    Extreme Jet Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/extreme-jet-black-petg-pro
+    Deep Black Opaque:
+      hex: '#312F31'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/deep-black-opaque-petg-pro?srsltid=AfmBOoqy4n-TcwpGpP7sqzJoQQXbDnScaAUkRx8BEQSKgq4dzzvXxlBq
+    Dark Cherry Red Opaque:
+      hex: '#7E333C'
+      source: 3dfilamentprofiles.com
+    Perfect Red Opaque:
+      hex: '#C8102E'
+      source: 3dfilamentprofiles.com
+    Olive Drab:
+      hex: '#60633D'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/olive-drab-green-petg
+    True Gold V2:
+      hex: '#999400,#C28A54'
+      source: 3dfilamentprofiles.com
+    Khaki:
+      hex: '#B1A58D'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/khaki-petg-pro?variant=39394400075837
+    Chamelon:
+      hex: '#7E9E8B'
+      source: 3dfilamentprofiles.com
+    Bright White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Majestic Brown:
+      hex: '#5E4D45'
+      source: 3dfilamentprofiles.com
+    Navy Blue:
+      hex: '#142A71'
+      source: 3dfilamentprofiles.com
+  ASA Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/black-asa-filament
+  PLA Basic:
+    Aqua:
+      hex: '#84C9C5'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/collections/opaque-pla-filaments-1
+    Silky Sea Green:
+      hex: '#50C4AD'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/collections/opaque-pla-filaments-1
+    Pine Green v2:
+      hex: '#155534'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/pine-green-pla-filament
+    Neon Green UV:
+      hex: '#00F529'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/neon-green-uv-reactive-pla-filament
+    Gun Metal Gray:
+      hex: '#485358'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/gun-metal-gray-pla-filament
+    Perfect Orange:
+      hex: '#E5672A'
+      source: 3dfilamentprofiles.com
+    Hot Pink:
+      hex: '#F35E8A'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/collections/opaque-pla-filaments-1
+    perfect purple:
+      hex: '#942192'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/collections/opaque-pla-filaments-1
+    Perfect Red:
+      hex: '#C33F31'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/collections/opaque-pla-filaments-1
+    Cosmic Graphite V2 (71/75/73):
+      hex: '#474B49'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/collections/opaque-pla-filaments-1
+    khaki:
+      hex: '#D5C58A'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/collections/opaque-pla-filaments-1
+    Tropical Sea V2:
+      hex: '#44B8D5'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/tropical-sea-iridescent-translucent
+    Candy Apple Golden Pearl:
+      hex: '#B94B56'
+      source: 3dfilamentprofiles.com
+    Navy Blue (20/42/113):
+      hex: '#142A71'
+      source: 3dfilamentprofiles.com
+    Bright White:
+      hex: '#ECECF0'
+      source: 3dfilamentprofiles.com
+    Pastel Lilac:
+      hex: '#A08DFA'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/pastel-lilac-pla-filament
+    Metallic Silver V2:
+      hex: '#888D90'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/metallic-silver-pla-filament
+    Dark Cherry Red:
+      hex: '#6D2831'
+      source: 3dfilamentprofiles.com
+    MICROPOLITAN Bright White:
+      hex: '#ECE6D2,#ECECF0'
+      source: 3dfilamentprofiles.com
+    MAJESTIC BROWN (98/77/66):
+      hex: '#624D42'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/collections/opaque-pla-filaments-1
+    Light Grey v2:
+      hex: '#A6A7A4'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/light-gray-pla-filament
+    True Gold v2 (205,154,73):
+      hex: '#CD9A49'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/1-kg-true-gold-pla-filament
+    Pearl Blue:
+      hex: '#0B7BC1'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/perfect-blue-pla-filament
+    Illusion Cherry Iridescent:
+      hex: '#BC3D4C'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/illusion-cherry-iridescent-pla-filament
+    Black:
+      hex: '#2B2A2D'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/black-pla-filament
+  PETG Translucent:
+    Sapphire Blue:
+      hex: '#247AA9'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/translucent-sapphire-blue-petg-pro
+    Smoke Black:
+      hex: '#69685D'
+      source: 3dfilamentprofiles.com
+    Extreme Fluorescent Neon Green:
+      hex: '#7AEB1E'
+      source: 3dfilamentprofiles.com
+    Ruby Red:
+      hex: '#B03C3D'
+      source: 3dfilamentprofiles.com
+    Emerald Green:
+      hex: '#00BC70'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/emerald-green-translucent-petg-pro
+    Golden Blood Diamond:
+      hex: '#C21722'
+      source: 3dfilamentprofiles.com
+    Bright Orange:
+      hex: '#DF6F2B'
+      source: 3dfilamentprofiles.com
+    Galactic Blue Iridescent:
+      hex: '#6E727C'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/galactic-blue-translucent-iridescent-petg-pro
+  PLA Translucent:
+    Natural/Clear:
+      hex: '#F6F5F4'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/natural-pla-filament
+    Amethyst Violet:
+      hex: '#C40A80'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/amethyst-violet-gemstone-translucent-pla
+    Iridescent Pearl:
+      hex: '#E1C6C1'
+      source: 3dfilamentprofiles.com
+    Tropical Sea Iridescent:
+      hex: '#57EDFB'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/tropical-sea-iridescent-translucent
+    Flamingo Sunset:
+      hex: '#F86983'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/translucent-flamingo-sunset-pla
+    Indigo Golden Sparkle v3:
+      hex: '#615894'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/indigo-golden-sparkle-translucent
+    Gemstone Ruby Red:
+      hex: '#C42E2E'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/collections/opaque-pla-filaments-1/products/gemstone-ruby-red-translucent-pla?variant=6515346241
+    Pearly Peach:
+      hex: '#E1C6C1'
+      source: 3dfilamentprofiles.com
+    Smoke Black:
+      hex: '#69685D'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/translucent-smoke-black-pla
+    Cosmic Ray Blue:
+      hex: '#0E76DD'
+      source: 3dfilamentprofiles.com
+    Golden Blood Diamond:
+      hex: '#C21722'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/golden-blood-diamond-translucent-pla
+    Galactic Purple:
+      hex: '#A78B8B'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/galactic-purple-translucent-iridescent-pla?srsltid=AfmBOopUfFz1QXa7ZvAf7aIzOXsy_8MwbTe9jIi5rz9l4rwFR_DLOsAI
+    Ruby Red:
+      hex: '#9A244F'
+      source: 3dfilamentprofiles.com
+    Galactic Blue Iridescent:
+      hex: '#6E727C'
+      source: 3dfilamentprofiles.com
+    Translucent Sapphire Blue:
+      hex: '#2D76A6'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/translucent-sapphire-blue-pla-filament
+    Iridescent Bubblegum:
+      hex: '#FF50D8'
+      source: 3dfilamentprofiles.com
+    Emerald Green Gemstone:
+      hex: '#119E92'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/emerald-green-gemstone-translucent-pla
+    Neon Hot Pink:
+      hex: '#EE5068'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/translucent-neon-hot-pink-pla-uv-reactive
+    Rose Gold Metallic:
+      hex: '#B59595'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/rose-gold-metallic-translucent
+    Starry Night Translucent v3:
+      hex: '#3E5078'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/collections/opaque-pla-filaments-1/products/translucent-starry-night-pla
+    Iridescent Orange:
+      hex: '#E28732'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Bright White:
+      hex: '#E2E5DE'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/bright-white-abs-filament
+    Teal:
+      hex: '#008080'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/collections/abs-3d-filament
+    Perfect Red:
+      hex: '#C14146'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/collections/abs-3d-filament
+    Neon Yellow:
+      hex: '#EAFF00'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/collections/abs-3d-filament
+    Black:
+      hex: '#434444'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/black-abs-filamen
+  PLA Silk:
+    Silky Aqua v2:
+      hex: '#A7E4E7'
+      source: 3dfilamentprofiles.com
+    Silky Sunset:
+      hex: '#F3A92F'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/silky-sunset-pla-filament
+    Electric Blue:
+      hex: '#008FF5'
+      source: 3dfilamentprofiles.com
+    Bug Eyes Shade Shifting:
+      hex: '#38614D'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/bug-eyes-pla-filament
+    Sunset:
+      hex: '#FF9B22'
+      source: 3dfilamentprofiles.com
+    Neon Pink:
+      hex: '#D772E4'
+      source: 3dfilamentprofiles.com
+    Mysterious Abyss v2 Pearl:
+      hex: '#37454A'
+      source: 3dfilamentprofiles.com
+  ABS+ Premium:
+    MG94 HF - Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Metal:
+    Bronze Metallic (115/79/61):
+      hex: '#734F3D'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/bronze-metallic-pla-filament
+  PETG Marble:
+    Black Marble:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/marble-petg-pro
+    Marble V2:
+      hex: '#C0CCCE'
+      source: 3dfilamentprofiles.com
+  PETG CF:
+    Dark Blue:
+      hex: '#2A4567'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/dark-blue-carbon-fiber-extreme-petg
+    Smoke Blue:
+      hex: '#375D71'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#3F3E40'
+      source: 3dfilamentprofiles.com
+    Dark Cherry:
+      hex: '#513D3F'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Hot Pink:
+      hex: '#F76EDE'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/collections/petg-3d-printer-filament-us-made-with-free-shipping
+  PLA Color Change (UV):
+    Translucent Neon Green:
+      hex: '#3DE830'
+      source: 3dfilamentprofiles.com
+    Translucent Neon Hot Pink:
+      hex: '#EE5068'
+      source: 3dfilamentprofiles.com
+    Neon Orange:
+      hex: '#FA6925'
+      source: 3dfilamentprofiles.com
+    Neon Yellow:
+      hex: '#EAFF00'
+      source: 3dfilamentprofiles.com
+    Pearly Peach:
+      hex: '#E1C6C1'
+      source: 3dfilamentprofiles.com
+  PLA Marble:
+    Black Marble (65/65/64):
+      hex: '#414140'
+      source: 3dfilamentprofiles.com
+    Marble:
+      hex: '#C0CCCE'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/marble-pla-filament
+  ABS CF:
+    Carbon Fiber Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Chameleon:
+    Too Good to Be Blue Shade Shifting:
+      hex: '#4A90E4'
+      source: 3dfilamentprofiles.com
+  PLA Sparkle:
+    Shamrock Sparkle:
+      hex: '#007F6A'
+      source: 3dfilamentprofiles.com
+  PETG Chameleon:
+    Too Good to Be Blue Shade Shifting:
+      hex: '#4A90E4'
+      source: 3dfilamentprofiles.com
+      link: https://atomicfilament.com/products/too-good-to-be-blue-shifting-petg-pro-filament

@@ -1,0 +1,605 @@
+Extrudr:
+  PCTG:
+    Red:
+      hex: '#963832'
+      source: 3dfilamentprofiles.com
+    Anthracite:
+      hex: '#474B4F'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/de/de/products/pctg/?variant=UHJvZHVjdFZhcmlhbnQ6MTMwNg%3D%3D
+    silver:
+      hex: '#647587'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pctg/?variant=UHJvZHVjdFZhcmlhbnQ6MTMwNA%3D%3D
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://filamentworld.de/shop/special-filament/feuerfestes-filament/extrudr-pctg-filament-schwarz-1-75-mm/
+  PETG Basic:
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/de/de/products/petg/?variant=UHJvZHVjdFZhcmlhbnQ6MjA2Mg%3D%3D
+    Dark Grey:
+      hex: '#474747'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/petg/
+    light blue:
+      hex: '#0089B6'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/de/de/products/petg/?variant=UHJvZHVjdFZhcmlhbnQ6MjA1NQ%3D%3D
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/petg/
+    Kupfer:
+      hex: '#655A49'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/petg/?variant=UHJvZHVjdFZhcmlhbnQ6MjA2Nw%3D%3D
+    navy blue:
+      hex: '#1E2F63'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/de/de/products/petg/?variant=UHJvZHVjdFZhcmlhbnQ6MjA1OQ%3D%3D
+    neongrün:
+      hex: '#00F700'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/petg/?variant=UHJvZHVjdFZhcmlhbnQ6MjA0OA%3D%3D
+    Bronze:
+      hex: '#958E41'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/petg/?variant=UHJvZHVjdFZhcmlhbnQ6MTU4Mw%3D%3D
+    yellow | RAL 1023:
+      hex: '#F7B500'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/de/de/products/petg/?variant=UHJvZHVjdFZhcmlhbnQ6MjA2MQ%3D%3D
+    Red:
+      hex: '#9B2423'
+      source: 3dfilamentprofiles.com
+      link: https://s3.extrudr.com/extrudr-media/datasheets/tds/tds-de/petg-TDS-de.pdf?response-content-disposition=attachment%3B+filename%3D%22petg-TDS-de.pdf%22
+    Emerald green:
+      hex: '#28713E'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/en/de/products/petg/?variant=UHJvZHVjdFZhcmlhbnQ6MjA1NA%3D%3D
+    Neon Red:
+      hex: '#FF2D21'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/shop-eu/products/petg/?variant=UHJvZHVjdFZhcmlhbnQ6MjA0Nw%3D%3D
+    Magenta:
+      hex: '#BB3F76'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/petg/?variant=UHJvZHVjdFZhcmlhbnQ6MjA1Mw%3D%3D
+    anthracite | RAL 7016:
+      hex: '#383E42'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/de/de/products/petg/?variant=UHJvZHVjdFZhcmlhbnQ6MjA2Ng%3D%3D
+    Neon Orange:
+      hex: '#FF5C00'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/petg/?variant=UHJvZHVjdFZhcmlhbnQ6MjA1MQ%3D%3D
+    Neon Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/de/de/products/petg/?variant=UHJvZHVjdFZhcmlhbnQ6MjA0Ng%3D%3D
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/petg/
+  ASA Pro:
+    grey | RAL 7044:
+      hex: '#81797A'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/en/inlt/products/durapro-asa/?variant=UHJvZHVjdFZhcmlhbnQ6MTU0Mw%3D%3D
+    neon orange | RAL 2005:
+      hex: '#FF4D06'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/durapro-asa/?variant=UHJvZHVjdFZhcmlhbnQ6MTQ2OA%3D%3D
+    neon green | RAL 6038:
+      hex: '#00B51A'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/en/inlt/products/durapro-asa/?variant=UHJvZHVjdFZhcmlhbnQ6MTQ3MA%3D%3D
+    yellow | RAL 1023:
+      hex: '#F7B500'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/en/inlt/products/durapro-asa/?variant=UHJvZHVjdFZhcmlhbnQ6MTQ3OA%3D%3D
+    anthracite | RAL 7016:
+      hex: '#383E42'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/en/inlt/products/durapro-asa/?variant=UHJvZHVjdFZhcmlhbnQ6MTU0Nw%3D%3D
+    metallic | RAL 9023:
+      hex: '#4D4C50'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/en/inlt/products/durapro-asa/?variant=UHJvZHVjdFZhcmlhbnQ6MTU0NQ%3D%3D
+    red | RAL 3001:
+      hex: '#D11F28'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/durapro-asa/
+    black | RAL 9017:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/shop-eu/products/durapro-asa/?variant=UHJvZHVjdFZhcmlhbnQ6MTU0OQ%3D%3D
+    nature | RAL 1013:
+      hex: '#E3D9C6'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/en/inlt/products/durapro-asa/?variant=UHJvZHVjdFZhcmlhbnQ6MTUzNA%3D%3D
+    white | RAL 9003:
+      hex: '#F4F4F4'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/en/inlt/products/durapro-asa/?variant=UHJvZHVjdFZhcmlhbnQ6MTU1MA%3D%3D
+    electric gray:
+      hex: '#383E42'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/en/inlt/products/durapro-asa/
+    dark silver | RAL 7047:
+      hex: '#86888B'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/en/inlt/products/durapro-asa/?variant=UHJvZHVjdFZhcmlhbnQ6MTQ1OQ%3D%3D
+    blue | RAL 5003:
+      hex: '#1F3855'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/en/inlt/products/durapro-asa/?variant=UHJvZHVjdFZhcmlhbnQ6MTM0NQ%3D%3D
+    neon yellow | RAL 1026:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/en/inlt/products/durapro-asa/?variant=UHJvZHVjdFZhcmlhbnQ6MTQ3Mg%3D%3D
+    emerald green | RAL 6001:
+      hex: '#287233'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/en/inlt/products/durapro-asa/?variant=UHJvZHVjdFZhcmlhbnQ6MzYxOA%3D%3D
+  PLA+/Pro:
+    GreenTec Pro - Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://filamentworld.de/shop/special-filament/hochtemperatur-filament/green-tec-pro-filament-1-75-mm-silber/
+    GreenTec Pro - White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://filamentworld.de/shop/special-filament/hochtemperatur-filament/extrudr-green-tec-pro-filament-weiss-175/
+    GreenTec Pro -Anthracite:
+      hex: '#293133'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/greentec-pro/?variant=UHJvZHVjdFZhcmlhbnQ6MTUwNA%3D%3D
+    GreenTec - Black:
+      hex: '#0D0D0D'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/en/inlt/products/greentec/
+    GreenTec Pro -Natur:
+      hex: '#BABBAA'
+      source: 3dfilamentprofiles.com
+      link: https://filamentworld.de/shop/special-filament/hochtemperatur-filament/green-tec-pro-filament-1-75-mm-natur/
+  PLA Matte:
+    Turquoise:
+      hex: '#058B8C'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/shop-eu/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTg2Ng%3D%3D
+    Signal Green:
+      hex: '#00F47C'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTg3OQ%3D%3D
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/shop-eu/products/pla-nx2-matt/
+    NX2 violet (4008):
+      hex: '#844C82'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTI2OA%3D%3D
+    purple:
+      hex: '#844C82'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTI2OA%3D%3D
+    Yellow:
+      hex: '#FBFF00'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTI2MA%3D%3D
+    Brown:
+      hex: '#70452A'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTI2OQ%3D%3D
+    Silver:
+      hex: '#A1A1A0'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTI1Ng%3D%3D
+    NX2 military beige (1001):
+      hex: '#D0B084'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTI0Mg%3D%3D
+    NX2 epic purple (4007):
+      hex: '#47243C'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTQ0OQ%3D%3D
+    NX2 silver (RAL 9006):
+      hex: '#A1A1A0'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTI1Ng%3D%3D
+    NX2 metallic grey (RAL 9023):
+      hex: '#787B7A'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTQ0Nw%3D%3D
+    NX2 military green (RAL 6003):
+      hex: '#50533C'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTQ0Mg%3D%3D
+    navy blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTI2Mg%3D%3D
+    NX2 emerald green (6001):
+      hex: '#366735'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTg4MA%3D%3D
+    Anthracite:
+      hex: '#383E42'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTI1Nw%3D%3D
+    NX2 neon yellow (1026):
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTQ0NA%3D%3D
+    NX2 orange (2009):
+      hex: '#DE5308'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTI0OA%3D%3D
+    NX2 navy blue (5003):
+      hex: '#1F3855'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTI2Mg%3D%3D
+    NX2 light blue (5012):
+      hex: '#0089B6'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTQ0Ng%3D%3D
+    NX2 neon orange (2005):
+      hex: '#FF4D08'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTQ0NQ%3D%3D
+    military dark green:
+      hex: '#27352A'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6NDA1NQ%3D%3D
+    neon yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTQ0NA%3D%3D
+    blue steel:
+      hex: '#193153'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTQ0OA%3D%3D
+    Military Green:
+      hex: '#50533C'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTQ0Mg%3D%3D
+    Light Blue:
+      hex: '#3AABE4'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTQ0Ng%3D%3D
+    Hellfire Red:
+      hex: '#FF2D21'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTg3Ng%3D%3D
+    Orange:
+      hex: '#FD7126'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTI0OA%3D%3D
+    NX2 black (RAL 9017):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTg4Mw%3D%3D
+    NX2 military dark green (RAL 6009):
+      hex: '#27352A'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6NDA1NQ%3D%3D
+    NX2 signal green (RAL 6037):
+      hex: '#008B29'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTg3OQ%3D%3D
+    Military Beige:
+      hex: '#D0B084'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTI0Mg%3D%3D
+    Emerald Green:
+      hex: '#368334'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTg4MA%3D%3D
+    grey:
+      hex: '#B7B3A8'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTg4NA%3D%3D
+    turquoise:
+      hex: '#058B8C'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/en/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTI2NA%3D%3D
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/pla-nx2-matt/
+    NX2 anthracite (RAL 7016):
+      hex: '#383E42'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTI1Nw%3D%3D
+    NX2 grey (RAL 7044):
+      hex: '#B7B3A8'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTg4NA%3D%3D
+    NX2 white (RAL 9003):
+      hex: '#ECECE7'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTg4Nw%3D%3D
+    NX2 brown (RAL 8007):
+      hex: '#70462B'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTI2OQ%3D%3D
+    NX2 turquoise (5018):
+      hex: '#048B8C'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTI2NA%3D%3D
+    Epic Purple:
+      hex: '#482B7D'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTQ0OQ%3D%3D
+    NX2 Blue Steel:
+      hex: '#193153'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTQ0OA%3D%3D
+    neon orange:
+      hex: '#FF4D06'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTQ0NQ%3D%3D
+    NX2 yellow (RAL 1023):
+      hex: '#F7B500'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTI2MA%3D%3D
+    Metallic:
+      hex: '#797B7A'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTQ0Nw%3D%3Ducts/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTQ0Nw%3D%3D
+    NX2 hellfire red (3024):
+      hex: '#FF2D21'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTg3Ng%3D%3D
+    NX2 blue steel (5013):
+      hex: '#193153'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTQ0OA%3D%3D
+    Black (9017):
+      hex: '#29292A'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTg4Mw%3D%3D
+  PLA Basic:
+    Weiß:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTg4Mw%3D%3D
+    nx2 Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTg4Mw%3D%3D
+    CMYK Lithomagenta:
+      hex: '#BB3F76'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/de/de/products/pla-basic-cmyk/?variant=UHJvZHVjdFZhcmlhbnQ6NDA0NQ%3D%3D
+    white (RAL 9017):
+      hex: '#29292A'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-basic/?variant=UHJvZHVjdFZhcmlhbnQ6MTU3Ng%3D%3D
+    gold (RAL 1036):
+      hex: '#806440'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-basic/?variant=UHJvZHVjdFZhcmlhbnQ6MTc5OA%3D%3D
+    white (RAL 9003):
+      hex: '#ECECE7'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-basic/?variant=UHJvZHVjdFZhcmlhbnQ6MTU3Mw%3D%3D
+  PETG:
+    XPETG-Matte Military Green:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    XPETG-Matte White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    XPETG-Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    copper:
+      hex: '#8D4931'
+      source: 3dfilamentprofiles.com
+    XPETG - Matt Metallic:
+      hex: '#505050'
+      source: 3dfilamentprofiles.com
+    gold:
+      hex: '#F7E46E'
+      source: 3dfilamentprofiles.com
+    XPETG Matte:
+      hex: '#50533C'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/shop-eu/products/xpetg-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTM1MQ%3D%3D
+  PETG Translucent:
+    translucent blue:
+      hex: '#20697C'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/de/de/products/petg/?variant=UHJvZHVjdFZhcmlhbnQ6MjA0Mw%3D%3D
+    translucent red:
+      hex: '#861A22'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/de/de/products/petg/?variant=UHJvZHVjdFZhcmlhbnQ6MjA0Mw%3D%3D
+    transparent:
+      hex: '#DCDDDD'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/petg/?variant=UHJvZHVjdFZhcmlhbnQ6MTYyNA%3D%3D
+  PLA High Speed:
+    Anthrazite:
+      hex: '#383E42'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-hs/?variant=UHJvZHVjdFZhcmlhbnQ6NDE0Mg%3D%3D
+    silver:
+      hex: '#A6A8A8'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/de/de/products/pla-hs/?variant=UHJvZHVjdFZhcmlhbnQ6NDE0NA%3D%3D
+    pastel blue:
+      hex: '#8BB8EE'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/de/de/products/pla-hs/?variant=UHJvZHVjdFZhcmlhbnQ6NDE2MQ%3D%3D
+    turquoise:
+      hex: '#21888F'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/en/de/products/pla-hs/?variant=UHJvZHVjdFZhcmlhbnQ6NDE1Mg%3D%3D
+    Red:
+      hex: '#A52019'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-hs/?variant=UHJvZHVjdFZhcmlhbnQ6NDE1MA%3D%3D
+    Dark Green:
+      hex: '#0E1707'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/de/de/products/pla-hs/?variant=UHJvZHVjdFZhcmlhbnQ6NDE2MA%3D%3D
+    pastel green:
+      hex: '#9CD2B4'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/de/de/products/pla-hs/?variant=UHJvZHVjdFZhcmlhbnQ6NDE2MA%3D%3D
+  TPU:
+    Neon red:
+      hex: '#F71D1D'
+      source: 3dfilamentprofiles.com
+    Weiß:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Rot:
+      hex: '#B51A00'
+      source: 3dfilamentprofiles.com
+    Schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/de/de/products/flex-hard/?variant=UHJvZHVjdFZhcmlhbnQ6MTY2NA%3D%3D
+  ASA:
+    Dark Silver:
+      hex: '#D0D0D0'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/shop-eu/products/durapro-asa/?variant=UHJvZHVjdFZhcmlhbnQ6MTQ1OQ%3D%3D
+  PLA Wood:
+    Dark Wood:
+      hex: '#775643'
+      source: 3dfilamentprofiles.com
+    Natural:
+      hex: '#A66E26'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/de/de/products/wood/?variant=UHJvZHVjdFZhcmlhbnQ6MTYxOQ%3D%3D
+  PLA+/Pro Matte:
+    Military Beige:
+      hex: '#D0B084'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/de/shop-eu/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTI0Mg%3D%3D
+    Military Green:
+      hex: '#666D51'
+      source: 3dfilamentprofiles.com
+    Blue Steel:
+      hex: '#046DB9'
+      source: 3dfilamentprofiles.com
+    Epic Purple,:
+      hex: '#583D76'
+      source: 3dfilamentprofiles.com
+    NX2 hellfire red:
+      hex: '#FF0026'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/de/shop-eu/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTI0OA%3D%3D
+    White:
+      hex: '#E8E5DF'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/shop-eu/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTg3Nw%3D%3D
+    NX2 anthracite:
+      hex: '#828282'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Quicksilver:
+      hex: '#787B7B'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/de/de/products/biofusion/?variant=UHJvZHVjdFZhcmlhbnQ6MTUxOA%3D%3D
+    Gold:
+      hex: '#FFCC02'
+      source: 3dfilamentprofiles.com
+    Grün:
+      hex: '#4EAC3E'
+      source: 3dfilamentprofiles.com
+    Venom Green | RAL 2297C:
+      hex: '#859E02'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/en/inlt/products/biofusion/?variant=UHJvZHVjdFZhcmlhbnQ6MTQ0MQ%3D%3D
+    Blue Fire | RAL 5026:
+      hex: '#2B48AC'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/en/inlt/products/biofusion/?variant=UHJvZHVjdFZhcmlhbnQ6MTUyMw%3D%3D
+  PLA+/Pro CF:
+    Matt Schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com
+    GreenTec Pro CF:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/en/inlt/products/greentec-pro-cf/
+  TPU 85A:
+    Transparent:
+      hex: '#DCDDDD'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/flex-semisoft/?variant=UHJvZHVjdFZhcmlhbnQ6MTY4MQ%3D%3D
+  TPU CF:
+    D58 Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA:
+    NX2 white:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTI1Nw%3D%3D
+    'inca gold ':
+      hex: '#F9D546'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/shop-eu/products/biofusion/?variant=UHJvZHVjdFZhcmlhbnQ6MTUxNQ%3D%3D
+    anthrazit:
+      hex: '#383838'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pla-nx2-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTI1Nw%3D%3D
+  PETG Matte:
+    Anthrazite:
+      hex: '#383E42'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/de/de/products/xpetg-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTM1Mg%3D%3D
+    Military Green:
+      hex: '#4F5241'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/xpetg-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTM1MQ%3D%3D
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/en/gb/products/xpetg-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTM3OA%3D%3D
+    Blue:
+      hex: '#0D3453'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/en/gb/products/xpetg-matt/?variant=UHJvZHVjdFZhcmlhbnQ6MTM0OQ%3D%3D
+  PETG Silk:
+    Bronze:
+      hex: '#CE8946'
+      source: 3dfilamentprofiles.com
+  PCTG Basic:
+    white:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pctg/?variant=UHJvZHVjdFZhcmlhbnQ6MTMwOQ%3D%3D
+    Transparent:
+      hex: '#DCDDDD'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/de/de/products/pctg/?variant=UHJvZHVjdFZhcmlhbnQ6MTMwOA%3D%3D
+  PLA+/Pro High Gloss:
+    BioFusion Epic Purple:
+      hex: '#5B0A91'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/en/it/products/biofusion/?variant=UHJvZHVjdFZhcmlhbnQ6MTQ5Mw%3D%3D
+  PETG CF:
+    CarbonFiber:
+      hex: '#333333,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://extrudr.com/de/shop-eu/products/xpetg-cf/
+  PETG Neon:
+    Neon green:
+      hex: '#00AB32'
+      source: 3dfilamentprofiles.com
+      link: https://www.extrudr.com/en/it/products/petg/?variant=UHJvZHVjdFZhcmlhbnQ6MjA0OA%3D%3D

@@ -1,0 +1,16 @@
+Tpoimns:
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#8F38FF'
+      source: 3dfilamentprofiles.com
+  TPU Basic:
+    Orange:
+      hex: '#FA7000'
+      source: 3dfilamentprofiles.com
+  TPU Lite:
+    Gray:
+      hex: '#4D4D4D'
+      source: 3dfilamentprofiles.com

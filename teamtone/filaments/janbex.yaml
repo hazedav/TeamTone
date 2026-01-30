@@ -1,0 +1,31 @@
+Janbex:
+  PLA Marble:
+    Marble/Marmor:
+      hex: '#D6D6D6'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro:
+    Wood:
+      hex: '#D58400'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Pure / Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#4E1B66'
+      source: 3dfilamentprofiles.com
+    dark blue:
+      hex: '#0433FF'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#8C8C8C'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,35 @@
+Meltbro:
+  PLA Basic:
+    Orange:
+      hex: '#FF9500'
+      source: 3dfilamentprofiles.com
+      link: https://meltbro.de/meltbro-premium-pla-filament-1-75mm-ral-farben-aus-europa-auf-kartonspule.html
+    Hellgrün:
+      hex: '#57A639'
+      source: 3dfilamentprofiles.com
+      link: https://meltbro.de/meltbro-premium-pla-filament-1-75mm-ral-farben-aus-europa-auf-kartonspule.html
+    Transparent:
+      hex: '#8A8A8A'
+      source: 3dfilamentprofiles.com
+      link: https://meltbro.de/meltbro-premium-pla-filament-1-75mm-ral-farben-aus-europa-auf-kartonspule.html
+    Hellblau:
+      hex: '#007CB0'
+      source: 3dfilamentprofiles.com
+      link: https://meltbro.de/meltbro-premium-pla-filament-1-75mm-ral-farben-aus-europa-auf-kartonspule.html
+    Pink:
+      hex: '#FF6EC7'
+      source: 3dfilamentprofiles.com
+      link: https://meltbro.de/meltbro-premium-pla-filament-1-75mm-ral-farben-aus-europa-auf-kartonspule.html
+    Rot:
+      hex: '#BB1E10'
+      source: 3dfilamentprofiles.com
+      link: https://meltbro.de/meltbro-premium-pla-filament-1-75mm-ral-farben-aus-europa-auf-kartonspule.html
+  PLA Silk:
+    Lila:
+      hex: '#8F33FF'
+      source: 3dfilamentprofiles.com
+      link: https://meltbro.de/meltbro-premium-silk-pla-filament-1-75mm-1kg-gold-silber-kupfer-aus-europa-auf-kartonspule.html
+    Kupfer:
+      hex: '#8E402A'
+      source: 3dfilamentprofiles.com
+      link: https://meltbro.de/meltbro-premium-silk-pla-filament-1-75mm-1kg-gold-silber-kupfer-aus-europa-auf-kartonspule.html

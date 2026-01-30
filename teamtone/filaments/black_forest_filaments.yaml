@@ -1,0 +1,40 @@
+Black Forest Filaments:
+  PLA+/Pro Basic:
+    Feuerrot:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3d-bff.com/shop/PLA-Filament-0-8-Kg-1-75mm-Feuerrot-Made-in-Germany-p690629264
+    Zinkgelb:
+      hex: '#FACA31'
+      source: 3dfilamentprofiles.com
+      link: https://www.3d-bff.com/shop/PLA-Filament-0-8-Kg-1-75mm-Zinkgelb-Made-in-Germany-p716336733
+    Navy Blue:
+      hex: '#000080'
+      source: 3dfilamentprofiles.com
+      link: https://www.3d-bff.com/shop/PLA-Filament-0-8-Kg-1-75mm-Navy-Blue-Made-in-Germany-p682689046
+  ASA HF:
+    Lightgray:
+      hex: '#DBDBDB'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3d-bff.com/shop/ASA-HF-Filament-schwarz-1000g-1-75mm-Made-in-Germany-p683708026
+  PLA Wood:
+    Wood:
+      hex: '#ADA58E'
+      source: 3dfilamentprofiles.com
+      link: https://www.3d-bff.com/shop/Wood-Holz-Filament-1000g-1-75mm-Made-in-Germany-p470429334
+    Bamboo:
+      hex: '#ADA58E'
+      source: 3dfilamentprofiles.com
+      link: https://www.3d-bff.com/shop/Wood-Holz-Filament-1000g-1-75mm-Made-in-Germany-p470429334
+    Cork:
+      hex: '#ADA58E'
+      source: 3dfilamentprofiles.com
+      link: https://www.3d-bff.com
+  PA6 CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3d-bff.com/shop/PA6-CF15-Nylon-Carbon-Filament-500g-1-75mm-Made-in-Germany-p628712968

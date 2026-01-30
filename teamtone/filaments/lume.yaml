@@ -1,0 +1,41 @@
+LUME:
+  PLA+/Pro Marble:
+    Beige Marble:
+      hex: '#FFF0DB'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Grey Dark:
+      hex: '#333333'
+      source: 3dfilamentprofiles.com
+    Niebieski Jasny  (Light Blue):
+      hex: '#6BC1F5'
+      source: 3dfilamentprofiles.com
+      link: https://lumefilaments.eu/
+    Light Gray:
+      hex: '#D3D3D3'
+      source: 3dfilamentprofiles.com
+      link: https://sklep.3dactive.pl/pl/products/filament-pet-g-1-75-mm-1100-g-jasny-szary-45.html
+  PLA+/Pro Premium:
+    NIebieski ciemny (Dark Blue):
+      hex: '#0946FF'
+      source: 3dfilamentprofiles.com
+    Cytrynowy:
+      hex: '#FFFF80'
+      source: 3dfilamentprofiles.com
+    Brązowy (Brown):
+      hex: '#400000'
+      source: 3dfilamentprofiles.com
+      link: https://lumefilaments.eu/
+  PLA+/Pro Basic:
+    Dark Violet:
+      hex: '#8000FF'
+      source: 3dfilamentprofiles.com
+    Light Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+    Light Grey:
+      hex: '#D4D9DB'
+      source: 3dfilamentprofiles.com
+    Magenta:
+      hex: '#F653A6'
+      source: 3dfilamentprofiles.com

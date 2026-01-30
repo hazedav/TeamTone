@@ -1,0 +1,244 @@
+Eureka:
+  PLA+/Pro Basic:
+    Purple:
+      hex: '#8C76A6'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-light-purple-4043d-1-75mm-pla-filament-1kg
+    Pastel Yellow:
+      hex: '#F3CB5C'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-pastel-yellow-4043d-1-75mm-pla-filament-1kg
+    Pastel Green:
+      hex: '#5CA265'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-pastel-green-4043d-1-75mm-pla-filament-1kg
+    Light Brown:
+      hex: '#A98163'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-light-brown-4043d-1-75mm-pla-filament-1kg-copy
+    Grey:
+      hex: '#787873'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-grey-4043d-1-75mm-pla-filament-1kg
+    Dark Green:
+      hex: '#1E563A'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-dark-green-4043d-1-75mm-pla-filament-1kg
+    Coral:
+      hex: '#AF5847'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-coral-4043d-1-75mm-pla-filament-1kg
+    Candy Red:
+      hex: '#D44F36'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-candy-red-4043d-1-75mm-pla-filament-1kg
+    Blue:
+      hex: '#3581B8'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-blue-4043d-1-75mm-pla-filament-1kg
+    Green:
+      hex: '#06632B'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-green-4043d-1-75mm-pla-filament-1kg
+    Dark Grey:
+      hex: '#5A5C5A'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-dark-grey-4043d-1-75mm-pla-filament-1kg
+    Brown:
+      hex: '#4C2F1C'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-brown-4043d-1-75mm-pla-filament-1kg
+    Pistachio:
+      hex: '#91A746'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-pistachio-4043d-1-75mm-pla-filament-1kg
+    Red:
+      hex: '#CA1B1B'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-red-4043d-1-75mm-pla-filament-1kg
+    White:
+      hex: '#DDD7C7'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-white-4043d-1-75mm-pla-filament-1kg
+    Yellow:
+      hex: '#F2C32D'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-yellow-4043d-1-75mm-pla-filament-1kg
+    Pastel Pink:
+      hex: '#DB687C'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-pastel-pink-4043d-1-75mm-pla-filament-1kg
+    Pastel Purple:
+      hex: '#917FAA'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-pastel-purple-4043d-1-75mm-pla-filament-1kg
+    Pastel Blue:
+      hex: '#91CBDB'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-pastel-blue-4043d-1-75mm-pla-filament-1kg
+    Pink:
+      hex: '#DF7577'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-pink-4043d-1-75mm-pla-filament-1kg
+    Orange:
+      hex: '#FF531C'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurtekafil-orange-4043d-1-75mm-pla-filament-1kg
+    Natural White:
+      hex: '#F0E3CF'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-natural-white-4043d-1-75mm-pla-filament-1kg
+    Light Pink:
+      hex: '#F1CDC6'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-light-pink-4043d-1-75mm-pla-filament-1kg
+    Black:
+      hex: '#000001'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-black-4043d-1-75mm-pla-filament-1kg
+  PLA+/Pro Premium:
+    Army Green:
+      hex: '#46482E'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-army-green-4043d-1-75mm-pla-filament-1kg
+    Maroon:
+      hex: '#CA1B1B'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-maroon-4043d-1-75mm-pla-filament-1kg
+    Navy Blue:
+      hex: '#000053'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-navy-blue-4043d-1-75mm-pla-filament-1kg
+    CYMK Cyan:
+      hex: '#3581B8'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-cmyk-cyan-4043d-1-75mm-pla-filament-1kg
+    Bronze:
+      hex: '#6F5F46'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-bronze-4043d-1-75mm-pla-filament-1kg
+    CYMK Yellow:
+      hex: '#F2C32D'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-cmyk-yellow-4043d-1-75mm-pla-filament-1kg
+    Medium Skin Tone:
+      hex: '#A39383'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-medium-skin-tone-4043d-1-75mm-pla-filament-1kg-success
+    Royal Blue:
+      hex: '#092B9C'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-royal-blue-4043d-1-75mm-pla-filament-1kg
+    Royal Fuchsia:
+      hex: '#AE4479'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-royal-fuchsia-4043d-1-75mm-pla-filament-1kg
+    Rose Pink:
+      hex: '#C58297'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-rose-pink-4043d-1-75mm-pla-filament-1kg
+    Gold:
+      hex: '#AC6C00'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-gold-4043d-1-75mm-pla-filament-1kg
+    Light Skin Tone:
+      hex: '#F3CFBB'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-light-skin-tone-4043d-1-75mm-pla-filament-1kg
+    Peacock Blue:
+      hex: '#1B5F7E'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-peacock-blue-4043d-1-75mm-pla-filament-1kg
+    Aqua Blue:
+      hex: '#007965'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-aqua-blue-4043d-1-75mm-pla-filament-1kg
+    Cyan:
+      hex: '#78B691'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-cyan-4043d-1-75mm-pla-filament-1kg
+    Violet:
+      hex: '#3D2D63'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-violet-4043d-1-75mm-pla-filament-1kg
+    Hot Pink:
+      hex: '#B3223D'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-hot-pink-4043d-1-75mm-pla-filament-1kg
+    Bone White:
+      hex: '#D9BE94'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-bone-white-4043d-1-75mm-pla-filament-1kg
+    Dark Skin Tone:
+      hex: '#865A48'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-dark-skin-tone-4043d-1-75mm-pla-filament-1kg
+    Ghost White:
+      hex: '#EFF1F6'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-ghost-white-4043d-1-75mm-pla-filament-1kg
+    CMYK Magenta:
+      hex: '#FF00FF'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-magenta-4043d-1-75mm-pla-filament-1kg
+  PLA Basic:
+    Bronze:
+      hex: '#6F5F46'
+      source: 3dfilamentprofiles.com
+    Pastel Blue:
+      hex: '#76C3F9'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#D3B136'
+      source: 3dfilamentprofiles.com
+    Light Brown:
+      hex: '#855819'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#595C5D'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-silver-4043d-1-75mm-pla-filament-1kg
+  PLA+/Pro Silk:
+    White Silk:
+      hex: '#C7C7C7'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-silk-4043d-1-75mm-pla-filament-1kg
+    Purple Silk:
+      hex: '#845D92'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-purple-silk-4043d-1-75mm-pla-filament-1kg
+    Blue Silk:
+      hex: '#2277AA'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-blue-silk-4043d-1-75mm-pla-filament-1kg
+    Silver Silk:
+      hex: '#595C5D'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-silver-silk-4043d-1-75mm-pla-filament-1kg
+    Red Silk:
+      hex: '#FC3742'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-red-silk-4043d-1-75mm-pla-filament-1kg
+    Gold Silk:
+      hex: '#BD782B'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-gold-silk-4043d-1-75mm-pla-filament-1kg
+    Copper Silk:
+      hex: '#75584A'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-copper-silk-4043d-1-75mm-pla-filament-1kg
+  PLA+/Pro Shimmer:
+    Pearl White:
+      hex: '#CDCEC9'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-pearl-white-4043d-1-75mm-pla-filament-1kg
+  PLA+/Pro Galaxy:
+    Galaxy Black:
+      hex: '#000001'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-galaxy-black-4043d-1-75mm-pla-filament-1kg
+  PLA+/Pro Marble:
+    Marble White:
+      hex: '#C7C7C7'
+      source: 3dfilamentprofiles.com
+      link: https://eurekafilaments.ca/products/eurekafil-marble-4043d-1-75mm-pla-filament-1kg

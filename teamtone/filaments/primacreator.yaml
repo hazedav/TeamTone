@@ -1,0 +1,87 @@
+PrimaCreator:
+  PETG:
+    Value Grey:
+      hex: '#D6D6D6'
+      source: 3dfilamentprofiles.com
+      link: https://primacreator.com/collections/filament-petg/products/primavalue-petg?variant=48794150961499
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dprima.com/se/primaselect-petg_30270
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dprima.com/se/primaselect-petg_30270_13024
+  PLA+/Pro High Speed:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Easy:
+    Neon Purple:
+      hex: '#BC13FE'
+      source: 3dfilamentprofiles.com
+      link: https://primacreator.com/collections/regular-pla-filament/products/primacreator™-easyprint-pla?variant=12174725480550
+    Neon Blue:
+      hex: '#04D9FF'
+      source: 3dfilamentprofiles.com
+      link: https://primacreator.com/collections/regular-pla-filament/products/primacreator™-easyprint-pla?variant=12174725480550
+    Neon Green:
+      hex: '#39FF14'
+      source: 3dfilamentprofiles.com
+      link: https://primacreator.com/collections/regular-pla-filament/products/primacreator™-easyprint-pla?variant=12174725480550
+    Neon Orange:
+      hex: '#FF5F1F'
+      source: 3dfilamentprofiles.com
+      link: https://primacreator.com/collections/regular-pla-filament/products/primacreator™-easyprint-pla?variant=12174725480550
+    Translucent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://primacreator.com/collections/regular-pla-filament/products/primacreator™-easyprint-pla?variant=12174725480550
+    EasyPrint Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://primacreator.com/products/primacreator™-easyprint-pla?variant=12174717157478
+    EasyPrint Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://primacreator.com/products/primacreator™-easyprint-pla?variant=12174717223014
+    EasyPrint White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://primacreator.com/products/primacreator™-easyprint-pla?variant=12174717190246
+    EasyPrint Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://primacreator.com/products/primacreator™-easyprint-pla?variant=12174717255782
+  PETG Translucent:
+    Transparent Light Blue:
+      hex: '#2D73B9'
+      source: 3dfilamentprofiles.com
+      link: https://primacreator.com/collections/filament-petg/products/primacreator%E2%84%A2-easyprint-petg?variant=12174741274726
+  PLA Economy:
+    Silver:
+      hex: '#AAAAAA'
+      source: 3dfilamentprofiles.com
+    Light Grey:
+      hex: '#D6D6D6'
+      source: 3dfilamentprofiles.com
+  PLA High Gloss:
+    Nuclear Green:
+      hex: '#96D35F'
+      source: 3dfilamentprofiles.com
+      link: https://primacreator.com/collections/filament-pla/products/primaselect™-pla-glossy?variant=32038584287334
+  PLA Premium:
+    Gold:
+      hex: '#FF9300'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Pro:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://primacreator.com/collections/regular-pla-filament/products/primavalue-pla?variant=48794154467675
+  TPU Basic:
+    Orange:
+      hex: '#F37044'
+      source: 3dfilamentprofiles.com
+      link: https://primacreator.com/collections/tpu-95a-flexible-filament/products/primacreator-easyprint-flex-tpu?variant=29462799286374

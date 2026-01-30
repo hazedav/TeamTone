@@ -1,0 +1,34 @@
+iFilament:
+  PETG Basic:
+    Kupfer -B-Ware:
+      hex: '#8E402A'
+      source: 3dfilamentprofiles.com
+      link: https://ifilament.de/PETG-175-mm-Kupfer-B-Ware
+    Beige - B-Ware:
+      hex: '#E9D2A6'
+      source: 3dfilamentprofiles.com
+      link: https://ifilament.de/PETG-175-mm-Beige-B-Ware
+    Diamond Grey - B-Ware:
+      hex: '#3E474B'
+      source: 3dfilamentprofiles.com
+      link: https://ifilament.de/PETG-175-mm-Diamond-Grey-B-Ware
+  PLA Premium:
+    Türkis:
+      hex: '#048A8A'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Military Green:
+      hex: '#152E00'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#F500D8'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Gelbgrün:
+      hex: '#61993B'
+      source: 3dfilamentprofiles.com
+      link: https://www.ifilament.de
+    Beige:
+      hex: '#AEA66F'
+      source: 3dfilamentprofiles.com
+      link: https://www.ifilament.de

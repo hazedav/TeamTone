@@ -1,0 +1,31 @@
+Goto Guard:
+  PLA Basic:
+    Blue/Purple/Black:
+      hex: '#641281'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Black / Green:
+      hex: '#1F3F13'
+      source: 3dfilamentprofiles.com
+    Teal-Purple:
+      hex: '#7E2AE5,#10ACB7'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    Rainbow 01:
+      hex: '#80FFFF,#FF80FF,#00FF80'
+      source: 3dfilamentprofiles.com
+  PLA Glitter:
+    Galaxy Green:
+      hex: '#172223'
+      source: 3dfilamentprofiles.com
+    Galaxy Blue:
+      hex: '#264E7D'
+      source: 3dfilamentprofiles.com
+  PLA Silk Rainbow:
+    Candy Rainbow:
+      hex: '#B36EF7'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Tri Color Orange Blue Green:
+      hex: '#FD7C38,#0482CE,#DEF952'
+      source: 3dfilamentprofiles.com

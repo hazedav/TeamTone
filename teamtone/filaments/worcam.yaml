@@ -1,0 +1,39 @@
+WORCAM:
+  PLA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://shop.worcam.cz/fps1-pla-bila/
+    Silver:
+      hex: '#ABABBA'
+      source: 3dfilamentprofiles.com
+      link: https://shop.worcam.cz/worcam-stribrna/
+    Metallic Green:
+      hex: '#88C466'
+      source: 3dfilamentprofiles.com
+      link: https://shop.worcam.cz/worcam-filament-1-75mm-metalicka--zelena/
+    Brown:
+      hex: '#673200'
+      source: 3dfilamentprofiles.com
+      link: https://shop.worcam.cz/worcam-filament-1-75mm-pla-hneda/
+    Red:
+      hex: '#CB1211'
+      source: 3dfilamentprofiles.com
+      link: https://shop.worcam.cz/worcam-filament-1-75-pla-cervena/
+  PETG Basic:
+    Bila:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://shop.worcam.cz/worcam-filament-1-75mm-petg-bila/
+    Transparent perlova:
+      hex: '#E4E9EB'
+      source: 3dfilamentprofiles.com
+      link: https://shop.worcam.cz/worcam--filament-1-75mm-petg-transparent-perlova/
+    Cerna:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://shop.worcam.cz/worcam-filament-1-75mm-petg-cerna/
+    Zluta:
+      hex: '#FFE32B'
+      source: 3dfilamentprofiles.com
+      link: https://shop.worcam.cz/worcam-filament-1-75mm-petg-zluta/

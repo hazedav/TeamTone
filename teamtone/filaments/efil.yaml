@@ -1,0 +1,9 @@
+Efil:
+  TPU 60D:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG+ Basic:
+    WHITE:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com

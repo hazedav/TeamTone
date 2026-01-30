@@ -1,0 +1,14 @@
+UniTak3D:
+  PLA Matte:
+    Ivory White:
+      hex: '#FFFFF0'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Charcoal:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Dark Blue:
+      hex: '#001737'
+      source: 3dfilamentprofiles.com

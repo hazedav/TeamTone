@@ -1,0 +1,38 @@
+Maertz:
+  PETG Basic:
+    Blue:
+      hex: '#002E5C'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#F8E777'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#FF6EC7'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#D01616'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#008000'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Blue:
+      hex: '#003870'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFF700'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#008000'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,45 @@
+ThriftyMake:
+  PETG Basic:
+    Blue:
+      hex: '#0056D6'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/thriftymake-petg-filament-175mm-1kg/sk/M47ZGC8X
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/thriftymake-petg-filament-175mm-1kg/sk/M47ZGC8X
+    Red:
+      hex: '#FF2600'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/thriftymake-petg-filament-175mm-1kg/sk/M47ZGC8X
+    Yellow:
+      hex: '#F5EC00'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/thriftymake-petg-filament-175mm-1kg/sk/M47ZGC8X
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/thriftymake-petg-filament-175mm-1kg/sk/M47ZGC8X
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/thriftymake-petg-filament-175mm-1kg/sk/M63YRL1H
+  PLA+/Pro Basic:
+    Blue:
+      hex: '#285FF4'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/thriftymake-pla-filament-1.75mm/sk/MNEGU7WQ
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/thriftymake-pla-filament-1.75mm/sk/MNEGU7WQ
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  ABS ReFill:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0042AA'
+      source: 3dfilamentprofiles.com

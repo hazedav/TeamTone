@@ -1,0 +1,27 @@
+3DLAB:
+  PETG Basic:
+    PETG Branco:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA High Speed:
+    Areia:
+      hex: '#C1AA95'
+      source: 3dfilamentprofiles.com
+      link: https://3dlab.com.br/produto/filamento-pla-areia/
+    Rosê Gold:
+      hex: '#C96D7F'
+      source: 3dfilamentprofiles.com
+      link: https://3dlab.com.br/produto/filamento-pla-premium-rose-gold/
+    Speed Premium Laranaja:
+      hex: '#FF5900'
+      source: 3dfilamentprofiles.com
+    Speed Premium Marmore:
+      hex: '#C5CACE'
+      source: 3dfilamentprofiles.com
+    Speed Premium Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Speed Premium Preto:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

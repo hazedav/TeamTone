@@ -1,0 +1,19 @@
+Skywire (UA):
+  PLA+/Pro Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.epoxymart.com.ua/product/filament-pla-chornyj/
+    Ruby Red:
+      hex: '#9B111E'
+      source: 3dfilamentprofiles.com
+      link: https://www.epoxymart.com.ua/product/filament-pla-karminovyj/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.epoxymart.com.ua/product/filament-pla-bilyj/
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.epoxymart.com.ua/product/filament-petg-1-kg-chornyj-02/

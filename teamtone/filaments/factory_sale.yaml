@@ -1,0 +1,19 @@
+Factory Sale:
+  PETG Translucent:
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Ashen Gray:
+      hex: '#9C9C9C'
+      source: 3dfilamentprofiles.com
+  PLA Fluorescent:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com

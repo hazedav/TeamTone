@@ -1,0 +1,13 @@
+DEXP:
+  PLA Flexible:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Baige:
+      hex: '#DAA13E'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Translucent:
+    Grass:
+      hex: '#107556'
+      source: 3dfilamentprofiles.com

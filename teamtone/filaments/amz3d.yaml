@@ -1,0 +1,82 @@
+AMZ3D:
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Orange:
+      hex: '#FF6B20'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#78B9E8'
+      source: 3dfilamentprofiles.com
+      link: https://www.amazon.com/dp/B077XSJBZ6
+  ABS Basic:
+    Red:
+      hex: '#FF2815'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF6A00'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Copper:
+      hex: '#AA7941'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#FFD478'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FEFB41'
+      source: 3dfilamentprofiles.com
+    Natural:
+      hex: '#EDEDED'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Dark Green:
+      hex: '#005856'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#6A4A34'
+      source: 3dfilamentprofiles.com
+    Bronze:
+      hex: '#7E5930'
+      source: 3dfilamentprofiles.com
+    Lavendar:
+      hex: '#BB00BB'
+      source: 3dfilamentprofiles.com
+    Lake Blue:
+      hex: '#0055FF'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#00CA33'
+      source: 3dfilamentprofiles.com
+    Transparent Purple:
+      hex: '#CE00B5'
+      source: 3dfilamentprofiles.com
+  PLA CF:
+    Red:
+      hex: '#B01717'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    Glow in Dark:
+      hex: '#00FF04'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Copper:
+      hex: '#C26637'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Trans Natural:
+      hex: '#F4FAFC'
+      source: 3dfilamentprofiles.com

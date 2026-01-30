@@ -1,0 +1,31 @@
+3D FOX:
+  PLA Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dfoxshop.cz/filament-fox-refill-pla-cerna-1-kg/
+    Červená:
+      hex: '#DB0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dfoxshop.cz/filament-fox-refill-pla-cervena-1-kg/
+    Modrá:
+      hex: '#1F80E0'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dfoxshop.cz/filament-fox-refill-pla-modra-1-kg/
+    Fuchsiová:
+      hex: '#9142AE'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dfoxshop.cz/filament-fox-refill-pla-fuchsiova-1-kg/
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dfoxshop.cz/
+    Bílá:
+      hex: '#FAFAFA'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dfoxshop.cz/filament-fox-refill-petg-bila-1-kg/
+    Černá:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dfoxshop.cz/filament-fox-refill-petg-cerna-1-kg/

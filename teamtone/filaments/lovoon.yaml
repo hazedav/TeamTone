@@ -1,0 +1,92 @@
+Lovoon:
+  PLA Silk Triple:
+    Gold/Red/Purple:
+      hex: '#E6B928,#C8001E,#B41496'
+      source: 3dfilamentprofiles.com
+      link: https://lovoon3d.com/products/tricolors-filament-gold-red-purple?variant=43508243136651
+    Red-Purple-Blue:
+      hex: '#181841,#333968,#FF1640'
+      source: 3dfilamentprofiles.com
+    Red Yellow Blue:
+      hex: '#FF2600,#FFFB00,#0433FF'
+      source: 3dfilamentprofiles.com
+    Blue Green Red:
+      hex: '#38ABFC,#2A9164,#BB2BBA'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Red,Green,Blue:
+      hex: '#FF0000,#00FF00,#0000FF'
+      source: 3dfilamentprofiles.com
+  PLA Silk Rainbow:
+    Silk Rainbow Gradient Green-Blue-Purple-Pink-Yellow:
+      hex: '#76BB40,#FEFB41,#0061FE'
+      source: 3dfilamentprofiles.com
+    Silk Rainbow Green-Red-Blue:
+      hex: '#ED7EF3,#1F6CE5,#2BBC96'
+      source: 3dfilamentprofiles.com
+      link: https://lovoon3d.com/products/tricolors-filament-blue-green-red
+  PLA Matte Tri-Color:
+    Pink Yellow Blue:
+      hex: '#DE82D6,#519CD2,#DDFD3A'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Black-Blue:
+      hex: '#021559,#000000'
+      source: 3dfilamentprofiles.com
+    Black-Purple:
+      hex: '#110F3C,#000000'
+      source: 3dfilamentprofiles.com
+    Sky Blue/Rose Red:
+      hex: '#E133CF,#2AC0FF'
+      source: 3dfilamentprofiles.com
+      link: https://lovoon3d.com/products/dual-color-silk-pla-filament-sky-blue-rose-red
+    Gold/Red:
+      hex: '#F83201'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Walnut:
+      hex: '#AA7942'
+      source: 3dfilamentprofiles.com
+    Dark Mahogany / Walnut:
+      hex: '#941100'
+      source: 3dfilamentprofiles.com
+  PLA Sparkle:
+    Galaxy Purple Blue:
+      hex: '#353891'
+      source: 3dfilamentprofiles.com
+    Galaxy Green:
+      hex: '#528077'
+      source: 3dfilamentprofiles.com
+    Galaxy Wine Red:
+      hex: '#AB88BB'
+      source: 3dfilamentprofiles.com
+    Galaxy Light Blue:
+      hex: '#58B0D0'
+      source: 3dfilamentprofiles.com
+    Burnt Titanium:
+      hex: '#13335E'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Triple - Purple Pink Yellow:
+      hex: '#FAA1A6,#FEFA73,#CFAEF0'
+      source: 3dfilamentprofiles.com
+    Matt Rainbow:
+      hex: '#E58EFF,#F894AB,#90DEFF'
+      source: 3dfilamentprofiles.com
+      link: https://lovoon3d.com/products/matte-filament-purple-pink-blue
+  PLA Multicolor:
+    Red/Purple/Gold:
+      hex: '#FC0303,#EC08FD,#F7D52B'
+      source: 3dfilamentprofiles.com
+  PLA Matte Rainbow:
+    Rainbow:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    Luminous Rainbow-b:
+      hex: '#FBBBFD,#C0EFF8,#A5F5DB,#FDDBCC'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Teal/Coral:
+      hex: '#6EEEF7'
+      source: 3dfilamentprofiles.com

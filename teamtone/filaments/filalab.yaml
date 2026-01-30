@@ -1,0 +1,97 @@
+Filalab:
+  PLA Basic:
+    Green:
+      hex: '#4A8356'
+      source: 3dfilamentprofiles.com
+      link: https://filalab.shop/product/pla-basic
+    Red:
+      hex: '#D00A1B'
+      source: 3dfilamentprofiles.com
+      link: https://filalab.shop/product/pla-basic
+    Grey:
+      hex: '#B5B8B1'
+      source: 3dfilamentprofiles.com
+      link: https://filalab.shop/product/pla-basic
+    Orange:
+      hex: '#FE5810'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#234CA4'
+      source: 3dfilamentprofiles.com
+      link: https://filalab.shop/product/pla-basic
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Turquoise Blue:
+      hex: '#4181AF'
+      source: 3dfilamentprofiles.com
+      link: https://filalab.shop/product-category/pla/
+    Brown:
+      hex: '#5F423C'
+      source: 3dfilamentprofiles.com
+      link: https://filalab.shop/product-category/pla/
+    Beige:
+      hex: '#EFD7AE'
+      source: 3dfilamentprofiles.com
+      link: https://filalab.shop/product-category/pla/
+  PLA Matte:
+    yellow:
+      hex: '#F5D400'
+      source: 3dfilamentprofiles.com
+      link: https://filalab.shop/product/pla-filaments/
+    Violet:
+      hex: '#9164E4'
+      source: 3dfilamentprofiles.com
+      link: https://filalab.shop/product/pla-filaments/
+    Lime Green:
+      hex: '#A4D03D'
+      source: 3dfilamentprofiles.com
+      link: https://filalab.shop/product/pla-filaments/
+    Green:
+      hex: '#0E9B3E'
+      source: 3dfilamentprofiles.com
+      link: https://filalab.shop/product/pla-filaments/
+    Pink:
+      hex: '#DC53A0'
+      source: 3dfilamentprofiles.com
+      link: https://filalab.shop/product/pla-filaments/
+    Galaxy Black:
+      hex: '#232225'
+      source: 3dfilamentprofiles.com
+      link: https://filalab.shop/product/pla-filaments/
+    Glow In Dark:
+      hex: '#F1F4EE'
+      source: 3dfilamentprofiles.com
+      link: https://filalab.shop/product/pla-filaments/
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://filalab.shop/product/petg-filaments
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://filalab.shop/product/petg-filaments/
+    Transparent:
+      hex: '#F4F0ED'
+      source: 3dfilamentprofiles.com
+      link: https://filalab.shop/product/petg-filaments/
+    Red:
+      hex: '#FF0606'
+      source: 3dfilamentprofiles.com
+      link: https://filament2print.com/en/pet-petg-cpe/2384-petg-filalab.html
+  PCTG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://filalab.shop/product/pctg-filaments/
+  PLA Glitter:
+    Glitter Green:
+      hex: '#648A95'
+      source: 3dfilamentprofiles.com
+      link: https://craftech.ee/en/products/filalab-pla-filament-1-kg-1-75-mm-glitter-green?srsltid=AfmBOoqbro6n_5tMbgliWy9NbogfxbAX7oeP78RSrk-KTlBMQjbT0uHM
+  PLA Marble:
+    Marble:
+      hex: '#A1A1A1'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,37 @@
+DREMC:
+  PLA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.dremc.com.au/products/dremc-tpu-95a-filament-1-75mm-1kg?variant=43484423454889
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.dremc.com.au/products/dremc-tpu-95a-filament-1-75mm-1kg?variant=43484423487657
+  PETG Metal:
+    Metallic Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://store.dremc.com.au/products/dremc-petg-pro-filament-1-75mm-1kg?variant=44968079687849
+  PLA Matte:
+    Matte Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.dremc.com.au/products/dremc-pla-matte-filament-1-75mm-1kg?variant=43702348972201
+    Matte Grey:
+      hex: '#DEDDDA'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Copper:
+      hex: '#9D4F32'
+      source: 3dfilamentprofiles.com
+      link: https://store.dremc.com.au/products/dremc-pla-silk-filament-1-75mm-1kg?variant=43258235224233
+  PET CF:
+    Black:
+      hex: '#212226'
+      source: 3dfilamentprofiles.com
+      link: https://store.dremc.com.au/products/dremc-pet-cf-filament-1-75mm-1kg

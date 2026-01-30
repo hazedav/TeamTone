@@ -1,0 +1,26 @@
+Filabotics:
+  ABS Translucent:
+    Transparent:
+      hex: '#E4DDDD'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Grey:
+      hex: '#6C6565'
+      source: 3dfilamentprofiles.com
+      link: https://filabotics.com
+    Yellow:
+      hex: '#EDF66A'
+      source: 3dfilamentprofiles.com
+      link: https://filabotics.com
+    White:
+      hex: '#EBEEEF'
+      source: 3dfilamentprofiles.com
+      link: https://filabotics.com
+    Silver:
+      hex: '#BDC0C2'
+      source: 3dfilamentprofiles.com
+      link: https://filabotics.com
+  PLA Basic:
+    Transparent:
+      hex: '#F5F5F5'
+      source: 3dfilamentprofiles.com

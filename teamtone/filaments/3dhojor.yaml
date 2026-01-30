@@ -1,0 +1,528 @@
+3DHoJor:
+  PLA Matte:
+    Cyan Blue:
+      hex: '#55ECD5'
+      source: 3dfilamentprofiles.com
+      link: https://3dfilamentprofiles.com/defaults/3dhojor/pla/matte
+    Yellow:
+      hex: '#F8EBAD'
+      source: 3dfilamentprofiles.com
+      link: https://3dfilamentprofiles.com/defaults/3dhojor/pla/matte
+    Orange:
+      hex: '#F79234'
+      source: 3dfilamentprofiles.com
+      link: https://3dfilamentprofiles.com/defaults/3dhojor/pla/matte
+    Strawberry Red:
+      hex: '#FF6F7C'
+      source: 3dfilamentprofiles.com
+      link: https://3dfilamentprofiles.com/defaults/3dhojor/pla/matte
+    Milky White:
+      hex: '#CEF5EF'
+      source: 3dfilamentprofiles.com
+      link: https://3dfilamentprofiles.com/defaults/3dhojor/pla/matte
+    Fire Engine Red:
+      hex: '#D12B2B'
+      source: 3dfilamentprofiles.com
+      link: https://3dfilamentprofiles.com/defaults/3dhojor/pla/matte
+    Dark Grey:
+      hex: '#232323'
+      source: 3dfilamentprofiles.com
+      link: https://3dfilamentprofiles.com/defaults/3dhojor/pla/matte
+    Tangerine:
+      hex: '#F98632'
+      source: 3dfilamentprofiles.com
+      link: https://3dfilamentprofiles.com/defaults/3dhojor/pla/matte
+    Peach Pink:
+      hex: '#EDCBCB'
+      source: 3dfilamentprofiles.com
+      link: https://3dfilamentprofiles.com/defaults/3dhojor/pla/matte
+    Lilac:
+      hex: '#DCD0FF'
+      source: 3dfilamentprofiles.com
+      link: https://3dfilamentprofiles.com/defaults/3dhojor/pla/matte
+    Morandi Purple:
+      hex: '#C26367'
+      source: 3dfilamentprofiles.com
+      link: https://3dfilamentprofiles.com/defaults/3dhojor/pla/matte
+    Black:
+      hex: '#36373B'
+      source: 3dfilamentprofiles.com
+      link: https://3dfilamentprofiles.com/defaults/3dhojor/pla/matte
+    Matte Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dfilamentprofiles.com/defaults/3dhojor/pla/matte
+    Olive Green:
+      hex: '#556B2F'
+      source: 3dfilamentprofiles.com
+      link: https://3dfilamentprofiles.com/defaults/3dhojor/pla/matte
+    Almond Yellow:
+      hex: '#F2EB9E'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-matte-pla-filament?variant=44277041070180
+    Matcha Green:
+      hex: '#BCC99B'
+      source: 3dfilamentprofiles.com
+      link: https://3dfilamentprofiles.com/defaults/3dhojor/pla/matte
+    Light Khaki:
+      hex: '#FFECD5'
+      source: 3dfilamentprofiles.com
+      link: https://3dfilamentprofiles.com/defaults/3dhojor/pla/matte
+    Light Blue:
+      hex: '#82B2C4,#ACE2F5'
+      source: 3dfilamentprofiles.com
+      link: https://3dfilamentprofiles.com/defaults/3dhojor/pla/matte
+    Grey:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+    Matte White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-matte-pla-filament?variant=44277081571428
+    Mint Green:
+      hex: '#B6FFBB'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-matte-pla-filament?srsltid=AfmBOorSfXQezMk_Tn52icfNoc57NXKJIcQomogXasUCsx8XToHTZwXX
+  PLA Silk Dual:
+    Green Silver:
+      hex: '#008000,#C0C0C0'
+      source: 3dfilamentprofiles.com
+    Black Purple:
+      hex: '#000000,#982ABC'
+      source: 3dfilamentprofiles.com
+    Black Green:
+      hex: '#1D4131'
+      source: 3dfilamentprofiles.com
+    Blue Silver:
+      hex: '#0000FF,#C0C0C0'
+      source: 3dfilamentprofiles.com
+    Red Silver:
+      hex: '#FF0000,#C0C0C0'
+      source: 3dfilamentprofiles.com
+    Red Blue:
+      hex: '#FF0000,#523FFE'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dhojor-silk-magic-mystic-shiny-silk-dual-color-co-extrusion-1-75mm-for-3d-printer?variant=44644396433508
+    Purple Green:
+      hex: '#228533,#FF47DA'
+      source: 3dfilamentprofiles.com
+    Red Copper:
+      hex: '#F19356'
+      source: 3dfilamentprofiles.com
+    Black/Red:
+      hex: '#B51A00,#000000'
+      source: 3dfilamentprofiles.com
+    Gold Silver:
+      hex: '#FFFF15,#C0C0C0'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Light Grey:
+      hex: '#577484'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-basic-pla-filament
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-basic-pla-filament
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-basic-pla-filament
+    Purple:
+      hex: '#8000FF'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-basic-pla-filament?variant=44283578646628
+    Green:
+      hex: '#3EBD4D'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-basic-pla-filament
+    Silver:
+      hex: '#B1B0AE'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-basic-pla-filament?variant=44283578417252
+    Periwinkle Blue:
+      hex: '#6064C7'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-basic-pla-filament
+    Yellow:
+      hex: '#F4D500'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-basic-pla-filament
+    Bone White:
+      hex: '#BBD2FF'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-basic-pla-filament
+    Blue:
+      hex: '#0415FF'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-basic-pla-filament
+    Basic-Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-basic-pla-filament
+    Bright Pink:
+      hex: '#EC69A2'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-basic-pla-filament
+    Light Blue:
+      hex: '#65D9FF'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-basic-pla-filament
+    Cold White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-basic-pla-filament
+    Grey:
+      hex: '#495760'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/collections/3dprint-pla-pro-filament-easier-to-operate/products/3dprinting-basic-pla-filament?variant=44283578482788
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-basic-pla-filament
+    Fire Engine Red:
+      hex: '#C51111'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-basic-pla-filament
+    Orange:
+      hex: '#F45325'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-basic-pla-filament
+  PLA+/Pro Basic:
+    Beige:
+      hex: '#E3C7B0'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament?variant=44276919042148
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament?variant=44276919042148
+    Almond Yellow:
+      hex: '#F2EB9E'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament?variant=44276919042148
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament?variant=44276919042148
+    Yellow:
+      hex: '#FFFB17'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament?variant=44276919042148
+    Magenta:
+      hex: '#F43988'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament?variant=44276919042148
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament?variant=44276919042148
+    Peak Green:
+      hex: '#7CF16E'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament?variant=44276919042148
+    Orange:
+      hex: '#F65B24'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament?variant=44276919042148
+    Matcha Green:
+      hex: '#BBCB9E'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament?variant=44276919042148
+    Space Blue:
+      hex: '#86D7FE'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament?variant=44276919042148
+    Baby Pink:
+      hex: '#FAB4BF'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament?variant=44276919042148
+    Silver:
+      hex: '#D9D9D9'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament?variant=44276919042148
+    Brown:
+      hex: '#AA7941,#72533F'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament?variant=44276919042148
+    Grey:
+      hex: '#6B7084'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament?variant=44276919042148
+  PETG Translucent:
+    Green:
+      hex: '#76BB40'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF8040'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#031DD5'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Red/Green/Blue:
+      hex: '#F72222,#2D34F0,#1DE302'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-silk-pla-dual-tri-color-filament?variant=44298583408740
+    Blue/Orange/Green:
+      hex: '#00FF00,#0000FF,#FF7300'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-silk-pla-dual-tri-color-filament?variant=44298583408740
+    Blue/Purple/Red:
+      hex: '#2A76D6,#983AD8,#740D45'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-silk-pla-dual-tri-color-filament?variant=44298583408740
+    Black / Red / Gold:
+      hex: '#AD3E00'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-silk-pla-dual-tri-color-filament?variant=44298583375972
+    Red/Yellow/Blue:
+      hex: '#FF0000,#FFFF00,#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-silk-pla-dual-tri-color-filament?variant=44298583408740
+  PLA Pro:
+    Purple:
+      hex: '#7A4EBC'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament?variant=44271075590244
+    Pine Green:
+      hex: '#336638'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0056D6'
+      source: 3dfilamentprofiles.com
+    Beige:
+      hex: '#F5CAB7'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#E22400'
+      source: 3dfilamentprofiles.com
+  PLA High Speed:
+    yellow:
+      hex: '#FBFC00'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFEFE'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FE6F37'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF3B43'
+      source: 3dfilamentprofiles.com
+    Periwinkle Blue:
+      hex: '#6064C7'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Silver:
+      hex: '#CDC9D2'
+      source: 3dfilamentprofiles.com
+    Copper:
+      hex: '#CC7349'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#EB5F5E'
+      source: 3dfilamentprofiles.com
+    Bronze:
+      hex: '#5C542B'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/collections/3d-print-silk-pla-multicolor-filament/products/3dprinting-silk-single-pla-filament
+    Gold:
+      hex: '#F0BE79'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#F8FAFC'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#02F212'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#FFBCC7'
+      source: 3dfilamentprofiles.com
+    Red/Black Dual:
+      hex: '#FF0000,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-silk-pla-dual-tri-color-filament?srsltid=AfmBOoqTWitXjP5tMaY_Y2pPHPPx1M0820nrwpIRq3zxgTZf_A_LhPMA
+    Blue / Green:
+      hex: '#379CA6'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0937ED'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-silk-single-pla-filament?variant=44283618426980
+  PLA Crystal:
+    Crystal Rainbow PLA (Glacier):
+      hex: '#6B8EFF,#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-transparent-multi-rainbow-pla-filament?variant=44308455161956
+    Crystal Rainbow PLA (Fire):
+      hex: '#83073B'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-transparent-multi-rainbow-pla-filament?variant=44308455358564
+  PETG Basic:
+    Red:
+      hex: '#F10909'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-petg-filament
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-petg-filament
+    Solid Blue:
+      hex: '#0514E6'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-petg-filament?variant=44298073866340
+    Silver:
+      hex: '#D6DBDE'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-petg-filament?variant=44298073899108
+    Green:
+      hex: '#96D35F'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-petg-filament
+    Transparent:
+      hex: '#FAF1F8'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-petg-filament
+    Grey:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-petg-filament?variant=44298073833572
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-petg-filament
+  PLA+/Pro Pro:
+    Grey:
+      hex: '#5A5C5E'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/?srsltid=AfmBOorOEALGWE2xeyFHtGcPRRnL9AsI7e-rS4iEBS3pUj0nWidFKMLg
+    Light Blue:
+      hex: '#03AFD5'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament
+    Haze Blue:
+      hex: '#437FB0'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament
+    black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament
+    pink:
+      hex: '#F386B5'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament?variant=44277200945252
+    Bone White:
+      hex: '#F1E2BB'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament?variant=44541939777636
+    Purple:
+      hex: '#762B92'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament
+    Cool White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament
+    Baby Blue:
+      hex: '#C7F1FF'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament
+    Coral Orange:
+      hex: '#FF7500'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament
+    GREEN:
+      hex: '#054D3E'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament
+    Lilac:
+      hex: '#F0BDF5'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-pla-pro-filament
+  PLA+/Pro Aero:
+    Silver:
+      hex: '#D9D9D9'
+      source: 3dfilamentprofiles.com
+  PLA Rapid:
+    Gray:
+      hex: '#C8C8C8'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-high-speed-pla-filament?variant=44278015230052
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-high-speed-pla-filament?variant=44278015295588
+    Yellow:
+      hex: '#FFC400'
+      source: 3dfilamentprofiles.com
+      link: https://3dhojor.com/products/3dprinting-high-speed-pla-filament
+  PLA Matte Rainbow:
+    Blue Purple Green:
+      hex: '#70BAE1,#917CD3,#97E3D4'
+      source: 3dfilamentprofiles.com
+  PLA Silk Rainbow:
+    Tulip:
+      hex: '#96D35F,#F4A4C0,#FFC5AB'
+      source: 3dfilamentprofiles.com
+    Rainbow - Lavender:
+      hex: '#AE92CA'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Grey:
+      hex: '#8A92A8'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Rainbow:
+    Crystal Rainbow Galaxy:
+      hex: '#4A4740'
+      source: 3dfilamentprofiles.com
+    Blood Orange:
+      hex: '#F08000,#F9ED67'
+      source: 3dfilamentprofiles.com
+    Crystal Wheat Field:
+      hex: '#FF8000,#00FF00'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Grey:
+      hex: '#A0A4A6'
+      source: 3dfilamentprofiles.com
+    Transparent Blue:
+      hex: '#58B3F0'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#C22E24'
+      source: 3dfilamentprofiles.com
+    Natural:
+      hex: '#E8E6E1'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Crystal Rainbow Late Autumn:
+      hex: '#982316,#E0861F,#302438'
+      source: 3dfilamentprofiles.com
+    Crystal Rainbow Glacier:
+      hex: '#95DFFE,#D4EDF3'
+      source: 3dfilamentprofiles.com
+    Late Autumn (Gradient):
+      hex: '#D58400'
+      source: 3dfilamentprofiles.com

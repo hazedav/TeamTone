@@ -1,0 +1,54 @@
+FDPlast:
+  ABS Basic:
+    African Savannah (Yellow):
+      hex: '#FBFF00'
+      source: 3dfilamentprofiles.com
+    Ceramic:
+      hex: '#B4A49A'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#003CC7'
+      source: 3dfilamentprofiles.com
+    The Scarlet Flower (red):
+      hex: '#EE2F23'
+      source: 3dfilamentprofiles.com
+      link: https://www.fdplast.ru/produkcziya/plastik-dlya-3d-pechati/abs-plastik-alenkiy-tsvetochek-1-0-kg/
+    Juicy Apple (light green):
+      hex: '#A5E35D'
+      source: 3dfilamentprofiles.com
+      link: https://www.fdplast.ru/produkcziya/plastik-dlya-3d-pechati/abs_plastik/abs-plastik-sochnoe-yabloko-1-0-kg/
+    Mouse King (light gray):
+      hex: '#B6B9B0'
+      source: 3dfilamentprofiles.com
+      link: https://www.fdplast.ru/produkcziya/plastik-dlya-3d-pechati/abs_plastik/abs-plastik-myshinyy-korol-1-0-kg/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.fdplast.ru/produkcziya/plastik-dlya-3d-pechati/abs_plastik/abs-plastik-temnaya-noch-0-75-kg/
+  PETG Basic:
+    Red:
+      hex: '#883444'
+      source: 3dfilamentprofiles.com
+    Камуфляж:
+      hex: '#4C5A4E'
+      source: 3dfilamentprofiles.com
+    Forest:
+      hex: '#4B766B'
+      source: 3dfilamentprofiles.com
+    Феррари (Dark Red):
+      hex: '#C62E3B'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Тиффани:
+      hex: '#08E2D1'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Snow White (white):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.fdplast.ru/produkcziya/plastik-dlya-3d-pechati/pla_plastik/pla_plastik_belosnezhka/

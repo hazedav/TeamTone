@@ -1,0 +1,25 @@
+3D Procer:
+  PLA Basic:
+    Rosa Claro:
+      hex: '#FFCFEA'
+      source: 3dfilamentprofiles.com
+    Verde:
+      hex: '#30BD54'
+      source: 3dfilamentprofiles.com
+    Vermelho:
+      hex: '#DD2A26'
+      source: 3dfilamentprofiles.com
+    Laranja:
+      hex: '#FE5207'
+      source: 3dfilamentprofiles.com
+    Marrom Claro:
+      hex: '#854C3B'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Preto:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Metal:
+    Azul Claro:
+      hex: '#3A70E4'
+      source: 3dfilamentprofiles.com

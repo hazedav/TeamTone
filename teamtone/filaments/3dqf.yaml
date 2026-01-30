@@ -1,0 +1,32 @@
+3DQF:
+  PLA Basic:
+    British Racing Green:
+      hex: '#0F5A57'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dqf.co.uk/pla-product
+    Sky Blue:
+      hex: '#2E7EFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dqf.co.uk/pla-product
+    Nude:
+      hex: '#F1D7C6'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dqf.co.uk/pla-product
+    Cobalt Blue:
+      hex: '#0020C2'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dqf.co.uk/product-page/cobalt-blue-pla-1-75mm-uk-made-3d-printer-filament
+  PLA+/Pro Basic:
+    German Grey:
+      hex: '#A9A7AC'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dqf.co.uk/product-page/german-grey-pla-plus-1-75mm-uk-made-3d-printer-filament
+  PLA Metal:
+    Honeycomb Gold:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dqf.co.uk/product-page/honeycomb-gold-pla-1-75mm-uk-made-3d-printer-filament
+    Treasure Gold:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dqf.co.uk/product-page/treasure-gold-1-75-amp-amp-2-85-mm-uk-made-3d-printer-filament

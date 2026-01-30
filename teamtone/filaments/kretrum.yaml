@@ -1,0 +1,53 @@
+Kretrum:
+  PLA Silk Dual:
+    Royal Blue Leaf Green:
+      hex: '#141AC2,#218A19'
+      source: 3dfilamentprofiles.com
+    Magenta Green:
+      hex: '#0FA341,#E21898'
+      source: 3dfilamentprofiles.com
+    Red Gold:
+      hex: '#EAA52E,#F00000'
+      source: 3dfilamentprofiles.com
+    Sky Blue Pink Flamingo:
+      hex: '#3991D0,#EE3CFB'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Light Purple:
+      hex: '#AFB1F3'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF8000'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#E880AC'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#D2FF57'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Rapid:
+    Blue:
+      hex: '#001EFF'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FA0000'
+      source: 3dfilamentprofiles.com
+    Blue - glow in dark:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Rose/Blue:
+      hex: '#D274C1,#3EABF9'
+      source: 3dfilamentprofiles.com
+    Blue/Green:
+      hex: '#0E0AFF,#048302'
+      source: 3dfilamentprofiles.com
+    Violet/Green:
+      hex: '#45008A,#1E6B23'
+      source: 3dfilamentprofiles.com
+    Red/Gold:
+      hex: '#E00000,#FFC852'
+      source: 3dfilamentprofiles.com

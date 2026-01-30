@@ -1,0 +1,146 @@
+LANDU:
+  PLA Silk Dual:
+    Black-Gold:
+      hex: '#A77B00'
+      source: 3dfilamentprofiles.com
+    Dual Red Green:
+      hex: '#E10510,#0E8906'
+      source: 3dfilamentprofiles.com
+    Red and Black:
+      hex: '#B0035F,#000000'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Yellow:
+      hex: '#FFE03B'
+      source: 3dfilamentprofiles.com
+      link: https://landu3d.com/products/pla-plus-fliament
+    Green:
+      hex: '#02B197'
+      source: 3dfilamentprofiles.com
+      link: https://landu3d.com/products/pla-plus-fliament
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://landu3d.com/products/pla-plus-fliament
+    Red:
+      hex: '#F04422'
+      source: 3dfilamentprofiles.com
+      link: https://landu3d.com/products/pla-plus-fliament
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FFA500'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  ASA:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Brown:
+      hex: '#964B00'
+      source: 3dfilamentprofiles.com
+      link: https://landu3d.com/products/pla-basic
+    Pink:
+      hex: '#FFC0CB'
+      source: 3dfilamentprofiles.com
+      link: https://landu3d.com/products/pla-basic
+    Yellow:
+      hex: '#F5EC00'
+      source: 3dfilamentprofiles.com
+      link: https://landu3d.com/products/pla-basic
+    Gold:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+      link: https://landu3d.com/products/pla-basic
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://landu3d.com/products/pla-filament
+    Grey:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://landu3d.com/products/pla-basic
+    Sky Blue:
+      hex: '#5799DB'
+      source: 3dfilamentprofiles.com
+      link: https://landu3d.com/products/pla-basic
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://landu3d.com/products/pla-basic
+    Blue:
+      hex: '#1D00FA'
+      source: 3dfilamentprofiles.com
+      link: https://landu3d.com/products/pla-basic
+    Purple:
+      hex: '#EE00FF'
+      source: 3dfilamentprofiles.com
+      link: https://landu3d.com/products/pla-basic
+    Red:
+      hex: '#E00000'
+      source: 3dfilamentprofiles.com
+      link: https://landu3d.com/products/pla-basic
+  PLA Silk Triple:
+    Tricolor Black Red Gold:
+      hex: '#01080E,#D00B0B,#C49B08'
+      source: 3dfilamentprofiles.com
+      link: https://landu3d.com/products/pla-silk-tri-color-black-red-golden
+    Tricolour Red Yellow Blue:
+      hex: '#FF0000,#FFFF00,#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://landu3d.com/products/pla-silk-tri-color-red-yellow-blue
+    Tricolour Red Blue Green:
+      hex: '#FF0000,#0000FF,#00FF00'
+      source: 3dfilamentprofiles.com
+      link: https://landu3d.com/products/pla-silk-tri-color-red-green-blue
+    Tricolor Blue Green Orange:
+      hex: '#1B02D4,#08680E,#E98B07'
+      source: 3dfilamentprofiles.com
+      link: https://landu3d.com/products/pla-silk-tri-color-red-green-blue
+    Tricolor Yellow Pink Blue:
+      hex: '#D6D024,#CF94DB,#267ACF'
+      source: 3dfilamentprofiles.com
+      link: https://landu3d.com/products/pla-silk-tri-color-red-green-blue
+  TPU 95A:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Gold:
+      hex: '#D4AF37'
+      source: 3dfilamentprofiles.com
+    Black-Green:
+      hex: '#08631F,#000000'
+      source: 3dfilamentprofiles.com
+    Black-Gold:
+      hex: '#938E06,#000000'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#B0B0B0'
+      source: 3dfilamentprofiles.com
+    Red-Blue-Green:
+      hex: '#5F971C'
+      source: 3dfilamentprofiles.com
+  PETG Rapid:
+    Grey:
+      hex: '#BFBFBF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro:
+    Gray:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+  PLA Silk Rainbow:
+    Silk Moon Palace:
+      hex: '#D0A6B0,#874E8B'
+      source: 3dfilamentprofiles.com

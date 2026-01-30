@@ -1,0 +1,17 @@
+RS PRO:
+  PLA Wood:
+    Light Wood:
+      hex: '#BFA77D'
+      source: 3dfilamentprofiles.com
+      link: https://hken.rs-online.com/web/p/3d-printing-materials/9107040?srsltid=AfmBOorJwdsMPHgJRVw3LYaaFV1PWf8_9MYa9GpD4lb6nJhy0MnaqQHB
+  PLA Basic:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com

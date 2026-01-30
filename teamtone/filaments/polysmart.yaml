@@ -1,0 +1,21 @@
+PolySmart:
+  PLA Basic:
+    Yummy Yellow:
+      hex: '#FFDE21'
+      source: 3dfilamentprofiles.com
+    Black Beauty:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://polyalkemi.no/polysmart/100895/polysmart-pla-black-beauty
+    Playful Pink:
+      hex: '#FFA2B9'
+      source: 3dfilamentprofiles.com
+      link: https://polyalkemi.no/polysmart/100904/polysmart-pla-playful-pink
+    Cotton White:
+      hex: '#FFFBF6'
+      source: 3dfilamentprofiles.com
+      link: https://polyalkemi.no/polysmart/100898/polysmart-pla-cotton-white
+    Pine Green:
+      hex: '#002620'
+      source: 3dfilamentprofiles.com
+      link: https://polyalkemi.no/polysmart/100903/polysmart-pla-pine-green

@@ -1,0 +1,25 @@
+Filapoly:
+  PLA+/Pro Silk:
+    Copper:
+      hex: '#9D4F32'
+      source: 3dfilamentprofiles.com
+  PLA Silk Rainbow:
+    Silk Rainbow:
+      hex: '#EC984C,#6CD4BC,#A66EB9,#D87694'
+      source: 3dfilamentprofiles.com
+      link: https://www.nex3d.com/products/filapoly-high-speed-pla-gradient-rainbow
+  PLA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#8B9398'
+      source: 3dfilamentprofiles.com
+  PLA High Speed:
+    Blue:
+      hex: '#0A2989'
+      source: 3dfilamentprofiles.com
+      link: https://www.nex3d.com/products/filapoly-high-speed-pla-basic-refill-only?variant=45768264482991

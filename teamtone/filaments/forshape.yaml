@@ -1,0 +1,135 @@
+Forshape:
+  PLA Silk:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Or:
+      hex: '#D4AF37'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.fr/filament-pla-silk-soie/3092-ecopla-silk-or-forshape-175mm-1-kg.html
+    ecoPLA silk argent:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.fr/filament-bobine-pla-silk-glossy/3094-ecopla-silk-argent-forshape-175mm-1-kg.html
+    Laiton:
+      hex: '#B04646'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.fr/filament-pla-silk-soie/4631-ecopla-silk-laiton-forshape-175mm-1-kg.html
+  PLA Basic:
+    ecoPLA Noir:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.fr/filament-pla/2655-pla-noir-forshape-ecopla-175mm-1-kg.html
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.fr/filament-pla/2877-ecopla-bleu-forshape-175mm-1-kg.html
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.fr/filament-pla/2877-ecopla-bleu-forshape-175mm-1-kg.html
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.fr/filament-pla/2877-ecopla-bleu-forshape-175mm-1-kg.html
+    eco PLA White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.fr/filament-pla/2657-ecopla-blanc-forshape-175mm-1-kg.html
+    ecoPLA Gris:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.fr/filament-pla/2656-ecopla-gris-forshape-175mm-1-kg.html
+    Bleu:
+      hex: '#2743CF'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.fr/filament-pla/2877-ecopla-bleu-forshape-175mm-1-kg.html
+    Blanc:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.fr/filament-pla/2657-ecopla-blanc-forshape-175mm-1-kg.html
+    ecoPLA Grass Green:
+      hex: '#00818A'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.fr/filament-pla/2879-ecopla-vert-pelouse-forshape-175mm-1-kg.html
+    Noir:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.fr/filament-pla/2655-ecopla-noir-forshape-175mm-1-kg.html
+  PLA Matte:
+    ecoPLA Mat Grey:
+      hex: '#696969'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.fr/filament-mat/2920-ecopla-mat-gris-forshape-175mm-1-kg.html
+    EcoPLA Mat Red:
+      hex: '#C51111'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.fr/filament-mat/2918-ecopla-mat-rouge-forshape-175mm-1-kg.html
+  PLA+/Pro Basic:
+    Orange Red:
+      hex: '#C64524'
+      source: 3dfilamentprofiles.com
+      link: https://www.forshape.xyz/
+    Orange:
+      hex: '#F78040'
+      source: 3dfilamentprofiles.com
+      link: https://www.forshape.xyz/
+    ecoPLA Blue Gray:
+      hex: '#0077CC'
+      source: 3dfilamentprofiles.com
+      link: https://www.forshape.xyz/
+  PLA+/Pro Premium:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.com/pla/1984-pla-black-forshape-premium-175mm-1kg.html
+    Green:
+      hex: '#0AB291'
+      source: 3dfilamentprofiles.com
+      link: https://www.forshape.xyz/
+    Grass Green:
+      hex: '#008000'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.fr/filament-pla/2053-pla-vert-pomme-forshape-premium-175mm-1-kg.html
+  PETG Premium:
+    Bleu:
+      hex: '#0445DC'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.fr/filament-pla/2074-pla-bleu-forshape-premium-175mm-1kg.html
+    Argent:
+      hex: '#858585'
+      source: 3dfilamentprofiles.com
+    Jaune:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.fr/forshape/3407-petg-jaune-forshape-premium-175mm-1kg.html
+    Blanc:
+      hex: '#FAFAFA'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.fr/filament-petg/2062-petg-blanc-forshape-premium-175mm-1kg.html
+    Noir:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.fr/filament-3d/271-petg-noir-forshape-premium-175mm-1kg.html
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.fr/filament-imprimante-3d/2064-petg-transparent-forshape-premium-175mm-1kg.html
+  PETG ECO:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.fr/filament-petg/3111-ecopetg-blanc-forshape-175mm-1-kg.html
+    Coffee:
+      hex: '#2D221F'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.fr/filament-petg/3116-ecopetg-coffee-forshape-175mm-1-kg.html
+    Cherry Red:
+      hex: '#FF052B'
+      source: 3dfilamentprofiles.com
+      link: https://www.polyfab3d.fr/filament-petg/3117-ecopetg-cherry-red-forshape-175mm-1-kg.html
+  PLA Economy:
+    Gold:
+      hex: '#D8CA89'
+      source: 3dfilamentprofiles.com
+      link: https://www.forshape.xyz/filament-pla/

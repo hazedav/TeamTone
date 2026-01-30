@@ -1,0 +1,318 @@
+ColorFabb:
+  PLA:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Laser Marking - White:
+      hex: '#BABABA'
+      source: 3dfilamentprofiles.com
+    CorkFill:
+      hex: '#7F6151'
+      source: 3dfilamentprofiles.com
+    fluorescent pink:
+      hex: '#FE1493'
+      source: 3dfilamentprofiles.com
+    Vibers Pastel green:
+      hex: '#CCE8B5'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/vibers-pla-pastel-green
+  CPE:
+    light blue:
+      hex: '#4DBCE9'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#850AFF'
+      source: 3dfilamentprofiles.com
+    nGen Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Dark Grey:
+      hex: '#5D5D5D'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.us/filaments/materials/co-polyester-filaments/ngen-flex
+  PLA Pro:
+    Semi-matte black:
+      hex: '#232124'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/pla-high-speed-pro-semi-matte-black
+    Natural:
+      hex: '#E3DFDB'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/pla-high-speed-pro-natural
+    Antique pink:
+      hex: '#D47479'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/pla-high-speed-pro-antique-pink
+    Traffic white:
+      hex: '#F1F0EA'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/pla-high-speed-pro-traffic-white
+    Pearl dark grey:
+      hex: '#797B7A'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/pla-high-speed-pro-pearl-dark-grey
+    Traffic red:
+      hex: '#BB1E10'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/pla-high-speed-pro-traffic-red
+    Traffic yellow:
+      hex: '#F7B500'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/pla-high-speed-pro-traffic-yellow
+    Sapphire blue:
+      hex: '#2A3756'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/pla-high-speed-pro-sapphire-blue
+    Azure blue:
+      hex: '#2E5978'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/pla-high-speed-pro-azure-blue
+    Grey blue:
+      hex: '#313C48'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/pla-high-speed-pro-grey-blue
+    Ultra marine blue:
+      hex: '#2B2C7C'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/pla-high-speed-pro-ultra-marine-blue
+    Moss green:
+      hex: '#0F4336'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/pla-high-speed-pro-moss-green
+    Pastel blue:
+      hex: '#6A93B0'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/pla-high-speed-pro-pastel-blue
+    Turquoise green:
+      hex: '#026A52'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/pla-high-speed-pro-turqoise-green
+    Yellow green:
+      hex: '#48A43F'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/pla-high-speed-pro-yellow-green
+    Signal green:
+      hex: '#0F8558'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/pla-high-speed-pro-signal-green
+    Light grey:
+      hex: '#CBD0CC'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/pla-high-speed-pro-light-grey
+    Agate grey:
+      hex: '#B4B8B0'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/pla-high-speed-pro-agatge-grey
+    Iron grey:
+      hex: '#555D61'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/pla-high-speed-pro-iron-grey
+    Telegrey 2:
+      hex: '#82898E'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/pla-high-speed-pro-telegrey-2
+    Semi-matte traffic white:
+      hex: '#E8E8E8'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/pla-high-speed-pro-semi-matte-traffic-white
+    Jet black:
+      hex: '#0E0E10'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/pla-high-speed-pro-jet-black
+    Sky blue:
+      hex: '#007CB0'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/pla-high-speed-pro-sky-blue
+    Deep orange:
+      hex: '#EC7C25'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/pla-high-speed-pro-deep-orange
+  PLA High Speed Matte:
+    Black (Semi-Matte):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA LW:
+    Natural:
+      hex: '#D6D6D6'
+      source: 3dfilamentprofiles.com
+    silver:
+      hex: '#85888A'
+      source: 3dfilamentprofiles.com
+    Olive Green:
+      hex: '#5D6560'
+      source: 3dfilamentprofiles.com
+    Dark Gray:
+      hex: '#696BBA'
+      source: 3dfilamentprofiles.com
+  PLA Blend:
+    Dark Gray:
+      hex: '#3D3D3D'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA StoneFil:
+    Red Brick:
+      hex: '#E39D87'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/stonefill-red-brick
+    Light Gray:
+      hex: '#A9B2B8'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/stonefill-light-gray
+    mossgreen:
+      hex: '#4F7A28'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/stonefill-moss-green
+  PA (Nylon) CF:
+    Black:
+      hex: '#262626'
+      source: 3dfilamentprofiles.com
+  ASA LW:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/lw-asa-black
+    Natural:
+      hex: '#DCDBD0'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/lw-asa-naturel
+  PHA Wood:
+    Corkfill (PLA/PHA):
+      hex: '#7F6151'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/corkfill
+    Woodfill (PLA/PHA):
+      hex: '#E4AD2C'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/woodfill
+  PETG Translucent:
+    XT Clear:
+      hex: '#F4FAFC'
+      source: 3dfilamentprofiles.com
+  PETG:
+    XT Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  TPU Foaming:
+    Blue:
+      hex: '#0080FF'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/filaments/materials/tpu-filaments/varioshore-tpu
+    varioShore Red:
+      hex: '#E32400'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/filaments/materials/tpu-filaments/varioshore-tpu
+    varioShore Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/filaments/materials/tpu-filaments/varioshore-tpu
+    varioShore Natural:
+      hex: '#F8FADB'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/filaments/materials/tpu-filaments/varioshore-tpu
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/varioshore-tpu-black
+  PLA Metal:
+    Brassfill:
+      hex: '#C5CD1B'
+      source: 3dfilamentprofiles.com
+    Bronzefill:
+      hex: '#C3AC8C'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/bronzefill
+    Copperfill:
+      hex: '#9D7466'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/copperfill
+    Steelfill:
+      hex: '#AAAAAA'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/steelfill
+  PLA Matte:
+    Silk Gray RAL 7044:
+      hex: '#B7B3A8'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/silk-grey-ral-7044
+    RAL 9018:
+      hex: '#C8CBC4'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/de/papyrus-white-ral-9018
+    Oyster White RAL 1013:
+      hex: '#E3D9C6'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/oyster-white-ral-1013
+  CPE nGen:
+    Regal Violet (nGen_LUX):
+      hex: '#9428FF'
+      source: 3dfilamentprofiles.com
+    Star Yellow (nGen_LUX):
+      hex: '#C7D32C'
+      source: 3dfilamentprofiles.com
+    Nature Green (nGen_LUX):
+      hex: '#009999'
+      source: 3dfilamentprofiles.com
+    Champagne Gold (nGen_LUX):
+      hex: '#CEB175'
+      source: 3dfilamentprofiles.com
+    Diamond Black (nGen_LUX):
+      hex: '#242424'
+      source: 3dfilamentprofiles.com
+  TPU 90A:
+    Natural:
+      hex: '#E0E0E0'
+      source: 3dfilamentprofiles.com
+  PLA MetalFil:
+    SteelFill:
+      hex: '#AAAAAA'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.us/steelfill?_gl=1*1vkon7b*_up*MQ..*_ga*ODM2NTE0NDExLjE3NDc2MTc4NTk.*_ga_CZHRPKPYV0*czE3NDc2MTc4NTckbzEkZzEkdDE3NDc2MTc5MDUkajAkbDAkaDE5MTUwNjgwOTU.
+  PLA Wood:
+    WOODFILL:
+      hex: '#BF9F69'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.us/woodfill
+  TPU Special:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/varioshore-tpu-black
+    natural:
+      hex: '#EBEBEB'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/de/varioshore-tpu-natural
+  PETG CF:
+    XT PETG-CF:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Metal:
+    Gray Metallic:
+      hex: '#535553'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/ngen-gray-metallic?_gl=1*1h92i8m*_up*MQ..*_ga*MjAxMDA4NzY5Mi4xNzM5MzM4NzA0*_ga_HX8RZKMJCB*MTczOTMzODcwMi4xLjAuMTczOTMzODcwMi4wLjAuMTU4OTY0MjQyNg..
+  TPU:
+    nGen_Flex Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  HT-PLA LW:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/lw-pla-ht-black
+  PLA Basic:
+    Dutch Orange:
+      hex: '#F55905'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/dutch-orange
+  PETG+ Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/de/xt-cf20
+  CPE CF:
+    Black (XT-CF20):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://colorfabb.com/xt-cf20

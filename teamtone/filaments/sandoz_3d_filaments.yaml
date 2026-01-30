@@ -1,0 +1,27 @@
+Sandoz 3D Filaments:
+  PLA Blend:
+    HyTech PLA-F Green:
+      hex: '#0D7000'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Gold:
+      hex: '#945D34'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Grey:
+      hex: '#708090'
+      source: 3dfilamentprofiles.com
+    Faded Denim:
+      hex: '#74889E'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Extremely Matte PLA - Purple:
+      hex: '#CA91D9'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#5D89AE'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Matte:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

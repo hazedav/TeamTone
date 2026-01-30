@@ -1,0 +1,79 @@
+Dikale:
+  PLA Silk:
+    Purple/Black:
+      hex: '#000000,#7800F6'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#F0CC33'
+      source: 3dfilamentprofiles.com
+    Rose Red + Sky Blue + Green:
+      hex: '#E047AA,#28C4F5,#7ED27A'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Green:
+      hex: '#00FF1E'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FAFAFA'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Purple:
+      hex: '#D400FF'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#707070'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#EFCA00'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Silk:
+    Blue + Purple + Black:
+      hex: '#0A9EE8,#8132F0,#090913'
+      source: 3dfilamentprofiles.com
+    Sky Blue + Purple + Yellow:
+      hex: '#0A9EE8,#8132F0,#FEB721'
+      source: 3dfilamentprofiles.com
+    Gold + Red + Orange:
+      hex: '#F0A820,#EF160F,#FE7D17'
+      source: 3dfilamentprofiles.com
+    Rose Red + Sky Blue + Green:
+      hex: '#ED118C,#0A9EE8,#00D88D'
+      source: 3dfilamentprofiles.com
+    Red + Gold + Purple:
+      hex: '#A9172A,#F6AF1F,#8132F0'
+      source: 3dfilamentprofiles.com
+    Black/Red:
+      hex: '#8A2424'
+      source: 3dfilamentprofiles.com
+    Gold + Silver + Copper:
+      hex: '#F3D237,#969BAF,#A74F1D'
+      source: 3dfilamentprofiles.com
+    Black + Red:
+      hex: '#090913,#AB182B'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Silk Dual:
+    Green/Blue:
+      hex: '#6EF28F,#5D55D3'
+      source: 3dfilamentprofiles.com
+    Pink/Sky blue:
+      hex: '#F58AD8,#99BFE5'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Glow:
+    Luminous Blue:
+      hex: '#009DFF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Silk Triple:
+    Rose Red+Sky Blue+Green:
+      hex: '#0B9DE8,#F1138C,#06DD91'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Multicolor:
+    Silk Blue + Purple + Black:
+      hex: '#00B5FE,#9F00DC,#000000'
+      source: 3dfilamentprofiles.com

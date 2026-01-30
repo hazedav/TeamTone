@@ -1,0 +1,31 @@
+GTMax:
+  ABS Premium:
+    Grey:
+      hex: '#9BA5AB'
+      source: 3dfilamentprofiles.com
+      link: https://www.gtmax3d.com.br/filamentos/abs-premium/175mm-gtmax3d-cinza
+  PLA Basic:
+    COBRE/COOPER:
+      hex: '#8F5F28'
+      source: 3dfilamentprofiles.com
+      link: https://www.gtmax3d.com.br/filamento-pla-plus-gtmax3d-175mm-1kg-varias-cores
+    ROSA BEBE/PINK BABY:
+      hex: '#FFB8DA'
+      source: 3dfilamentprofiles.com
+      link: https://www.gtmax3d.com.br/filamento-pla-plus-gtmax3d-175mm-1kg-varias-cores
+    PRETO/BLACK:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.gtmax3d.com.br/filamento-pla-plus-gtmax3d-175mm-1kg-varias-cores
+    ROXO/PURPLE:
+      hex: '#6F027E'
+      source: 3dfilamentprofiles.com
+      link: https://www.gtmax3d.com.br/filamento-pla-plus-gtmax3d-175mm-1kg-varias-cores
+    VERDE/GREEN:
+      hex: '#0F620E'
+      source: 3dfilamentprofiles.com
+      link: https://www.gtmax3d.com.br/filamento-pla-plus-gtmax3d-175mm-1kg-varias-cores
+    MARROM/BROWN:
+      hex: '#60380B'
+      source: 3dfilamentprofiles.com
+      link: https://www.gtmax3d.com.br/filamento-pla-plus-gtmax3d-175mm-1kg-varias-cores

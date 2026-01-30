@@ -1,0 +1,61 @@
+colorfil:
+  PLA Basic:
+    Natural:
+      hex: '#BEC4C2'
+      source: 3dfilamentprofiles.com
+      link: https://allegro.pl/oferta/filament-colorfil-pla-naturalny-1kg-8996850801
+    Transparent / Przeźroczysty:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://colorfil.pl/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://allegro.pl/oferta/filament-colorfil-pla-bialy-1kg-8875179378?snapshot=MjAyMi0xMC0wMVQxMDo0NzoxNi4zMjVaO2J1eWVyOzlhOTI3NjgzZDc0YTFmYTBlNTQxNzQ0ZjVmMTYxYzUyOGJmNjYyOWNiNWFiZTU2ODY3ZmNkNWY3NTk2YmMyZWY%3D
+    Dark Green:
+      hex: '#116600'
+      source: 3dfilamentprofiles.com
+      link: https://colorfil.pl/
+    Green:
+      hex: '#00FE9C'
+      source: 3dfilamentprofiles.com
+      link: https://colorfil.pl/
+    Bordeux:
+      hex: '#800000'
+      source: 3dfilamentprofiles.com
+      link: https://colorfil.pl/
+    Purple:
+      hex: '#7149AB'
+      source: 3dfilamentprofiles.com
+      link: https://colorfil.pl/
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://colorfil.pl/
+    Pink:
+      hex: '#D77893'
+      source: 3dfilamentprofiles.com
+      link: https://colorfil.pl/
+    Black:
+      hex: '#2A2725'
+      source: 3dfilamentprofiles.com
+      link: https://allegro.pl/oferta/filament-pla-1-75mm-colorfil-czarny-3kg-9527262544
+    Orange:
+      hex: '#DC4E23'
+      source: 3dfilamentprofiles.com
+      link: https://allegro.pl/oferta/filament-colorfil-pla-pomaranczowy-1kg-8996850834
+    Brown:
+      hex: '#6B3220'
+      source: 3dfilamentprofiles.com
+      link: https://colorfil.pl/
+    Light Green:
+      hex: '#7CB93E'
+      source: 3dfilamentprofiles.com
+      link: https://allegro.pl/oferta/filament-pla-colorfil-1-75mm-jasnozielony-1kg-10849561818
+    Red:
+      hex: '#B30900'
+      source: 3dfilamentprofiles.com
+      link: https://allegro.pl/oferta/filament-colorfil-pla-czerwony-1kg-8954720904
+    Yellow:
+      hex: '#FFDD00'
+      source: 3dfilamentprofiles.com

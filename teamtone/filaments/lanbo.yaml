@@ -1,0 +1,29 @@
+Lanbo:
+  PLA Basic:
+    Yellow:
+      hex: '#EEFF00'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#6E6E6E'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0400F5'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#F7741D'
+      source: 3dfilamentprofiles.com
+    Natural Color:
+      hex: '#EDEDED'
+      source: 3dfilamentprofiles.com
+    Bright Green:
+      hex: '#87F06A'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

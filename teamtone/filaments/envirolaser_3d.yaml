@@ -1,0 +1,13 @@
+Envirolaser 3D:
+  PLA Basic:
+    Forest Green:
+      hex: '#122B1F'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.envirolaser3d.com/products/pla-matte-red-filament-1kg
+  PLA High Speed:
+    Bronze:
+      hex: '#3D3E37'
+      source: 3dfilamentprofiles.com

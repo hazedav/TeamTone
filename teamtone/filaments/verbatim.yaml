@@ -1,0 +1,26 @@
+Verbatim:
+  PLA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.verbatim-europe.com/fr/3d/products/verbatim-pla-filament-175mm-1kg-white-55315
+    Grey:
+      hex: '#6B6B6B'
+      source: 3dfilamentprofiles.com
+    rouge:
+      hex: '#EF0101'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Transparent:
+      hex: '#CDDBDD'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Blue:
+      hex: '#1B5289'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

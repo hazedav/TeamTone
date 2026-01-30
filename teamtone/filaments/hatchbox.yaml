@@ -1,0 +1,652 @@
+Hatchbox:
+  PLA:
+    True Red:
+      hex: '#AE312A'
+      source: FilamentColors.xyz
+      temp_hotend: 205
+      temp_bed: 60
+    True Blue:
+      hex: '#0B519E'
+      source: FilamentColors.xyz
+      temp_hotend: 205
+      temp_bed: 60
+    True Yellow:
+      hex: '#F5E214'
+      source: FilamentColors.xyz
+      temp_hotend: 205
+      temp_bed: 60
+    Cool Gray:
+      hex: '#959494'
+      source: FilamentColors.xyz
+      temp_hotend: 205
+      temp_bed: 60
+  PLA Silk:
+    Metalic Shiny Gray:
+      hex: '#8A8A8A'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-shny-gry
+    Brown:
+      hex: '#6F3916'
+      source: 3dfilamentprofiles.com
+    Rust:
+      hex: '#B7410E'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-shny-rust?srsltid=AfmBOoqVAQRzRxhaNAxiwqE0gzPqOP1225PKwZSiWw34Lzk4cbb7RSk_
+    Metallic shiny pink:
+      hex: '#FFB6C1'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-shny-pnk?srsltid=AfmBOoqhka_OMdBHzh5M8_PbdkHUdh90bGaxbplOAXdQ_5VMPANcZJzD
+    Bronze:
+      hex: '#907A4C'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-silk-brnz
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Green Metallic Shiny:
+      hex: '#41FD1C'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-shny-grn?srsltid=AfmBOooX6PWrmxNbrffZvz4-qRP7LGAEVvFJ0ig30ydfqA7pTfUdDPvR
+    Pink:
+      hex: '#F8C5C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-silk-pnk?srsltid=AfmBOooSQLMAXnS7zWBk3zoOKVyQRKbxBtpbbzKWDOrpRCeQiStfBHhX
+    Red Metallic Shiny:
+      hex: '#F81212'
+      source: 3dfilamentprofiles.com
+    Metallic Shiny Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-shny-blu
+    Gold:
+      hex: '#C58C40'
+      source: 3dfilamentprofiles.com
+    Metalic Shiny Black:
+      hex: '#1F1F1F'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-shny-blk
+    Light Blue:
+      hex: '#9CCEE1'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-silk-lblu?srsltid=AfmBOop-_1KYV_xfyk72Rb2hgVYLPLXWrW7oRQ02aEX42woQcXtVi223
+    Silver:
+      hex: '#A4A4A4'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-silk-slv
+    Metallic Shiny Black:
+      hex: '#383C40'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-shny-blk
+    Metallic Shiny Purple:
+      hex: '#B400FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-shny-pur
+  PETG Basic:
+    Lake Blue:
+      hex: '#0068B8'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/petg-1-75mm/products/lake-blue-petg-filament-1-75mm-1kg-spool
+    Electric Lime:
+      hex: '#44D62C'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/petg-1-75mm
+    lime green:
+      hex: '#56F58E'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/petg-1-75mm
+    Yellow:
+      hex: '#FFE900'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/petg-1-75mm
+    Green:
+      hex: '#009A44'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/petg-1-75mm
+    Silver:
+      hex: '#E1E2E4'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/petg-1-75mm
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/petg-1-75mm/products/3d-petg-1kg1-75-blk
+    Dark Yellow:
+      hex: '#F6C14B'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/dark-yellow-petg-filament-1-75mm-1kg-spool
+    Light Purple:
+      hex: '#887ED6'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/petg-1-75mm/products/light-purple-petg-filament-1-75mm-1kg-spool
+    Midnight Purple:
+      hex: '#4E248A'
+      source: 3dfilamentprofiles.com
+    Peacock Blue:
+      hex: '#56ACDA'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/peacock-blue-petg-filament-1-75mm-1kg-spool-1
+    Bronze:
+      hex: '#8E7350'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/bronze-petg-filament-1-75mm-1kg-spool?srsltid=AfmBOorFBJ-lrjFnvyXI9plamJlUC6jUFhhlwQAujS3rlbVVY_1X3rEy
+    Orange:
+      hex: '#FE5B02'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/petg-1-75mm/products/3d-petg-1kg1-75-orn
+    Pink:
+      hex: '#F07A86'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/petg-1-75mm/products/peacock-blue-petg-filament-1-75mm-1kg-spool
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/petg-1-75mm/products/3d-petg-1kg1-75-wht
+    Brown:
+      hex: '#804000'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/brown-petg-filament-1-75mm-1kg-spool
+    Mint Green:
+      hex: '#69F7C1'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/petg-1-75mm/products/mint-green-petg-filament-1-75mm-1kg-spool
+    Blue:
+      hex: '#1202F2'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/petg-1-75mm
+    Natural:
+      hex: '#F2FFD4'
+      source: 3dfilamentprofiles.com
+    Gray Blue:
+      hex: '#74859F'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/gray-blue-petg-filament-1-75mm-1kg-spool?srsltid=AfmBOooInOFAy2aBnt_2LAwogRHg0Qj_5RGSnnfljWN8olvhB5NaMz3e
+    Purple:
+      hex: '#BB29BB'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-petg-1kg1-75-pur
+    Gold:
+      hex: '#FFB10F'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#AE312A'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/petg-1-75mm/products/3d-petg-1kg1-75-blk
+  PLA Wood:
+    Ivory:
+      hex: '#EFDAB6'
+      source: 3dfilamentprofiles.com
+    Dark Wood:
+      hex: '#0A0312'
+      source: 3dfilamentprofiles.com
+    Wood:
+      hex: '#A4856D'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    True Green:
+      hex: '#5AFF92'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#EF3340'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/abs-1-75mm/products/3d-abs-1kg1-75-red
+    True Pink:
+      hex: '#B80117'
+      source: 3dfilamentprofiles.com
+    True White:
+      hex: '#FFFCF5'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    True Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Mint Green:
+      hex: '#69F7C1'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-abs-1kg1-75-318c
+    Neon green:
+      hex: '#86D553'
+      source: 3dfilamentprofiles.com
+    True Orange:
+      hex: '#F55928'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0400FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/abs-1-75mm/products/3d-abs-1kg1-75-blu
+    Pastel Green:
+      hex: '#A3E84F'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-abs-1kg1-75-365c
+    Yellow:
+      hex: '#FFE92A'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-abs-1kg1-75-ylw
+    Copper:
+      hex: '#B87333'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/abs-1-75mm/products/3d-abs-1kg1-75-copr
+  PLA Marble:
+    Granite I:
+      hex: '#D6D6D6'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/pla-stone-granite-1-75mm-1kg-spool
+    Magic Green:
+      hex: '#91B19D'
+      source: 3dfilamentprofiles.com
+    Granite II:
+      hex: '#B9C3CB'
+      source: 3dfilamentprofiles.com
+  ABS Translucent:
+    Transparent White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Transparent Yellow:
+      hex: '#FFF157'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/abs-1-75mm/products/3d-abs-1kg1-75-ylw
+    Transparent Green:
+      hex: '#57FF68'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-abs-1kg1-75-tgrn
+    Transparent Black:
+      hex: '#1C1C1C'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-abs-1kg1-75-tblk
+    Transparent Red:
+      hex: '#D52020'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    True Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+    True Silver:
+      hex: '#8E8D94'
+      source: 3dfilamentprofiles.com
+    True Gold:
+      hex: '#CA902B'
+      source: 3dfilamentprofiles.com
+    True Red:
+      hex: '#B6232E'
+      source: 3dfilamentprofiles.com
+    True Orange:
+      hex: '#DC6B2E'
+      source: 3dfilamentprofiles.com
+    Transparent Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#8B0C64'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/pla-1-75mm/products/3d-pla-1kg1-75-pur
+    Brown:
+      hex: '#452923'
+      source: 3dfilamentprofiles.com
+    Mint Green:
+      hex: '#8ED7B1'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-318c
+    Baby Blue:
+      hex: '#9AD3DE'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-bblu
+    Dark Yellow:
+      hex: '#F6C14B'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-plap-1kg1-75-dylw
+    Forest Green:
+      hex: '#004114'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-fgrn?srsltid=AfmBOoqHPa9UOobvBMfegcHaFBJ46aVcuuBcAhNxBQ_AeRNXBZTX3NI9
+    Light Blue:
+      hex: '#0E69AA'
+      source: 3dfilamentprofiles.com
+    True Pink:
+      hex: '#D76294'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/pla-1-75mm/products/3d-pla-1kg1-75-blk
+    Eggplant Purple:
+      hex: '#6F3B4A'
+      source: 3dfilamentprofiles.com
+    True Black:
+      hex: '#232626'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-blk
+    Gold:
+      hex: '#CA902B'
+      source: 3dfilamentprofiles.com
+    Beige:
+      hex: '#CBB9B1'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-720c
+    Light Purple:
+      hex: '#C070E6'
+      source: 3dfilamentprofiles.com
+    Beige Shiny:
+      hex: '#FFD9A8'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#CD405D'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-pnk
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#237831'
+      source: 3dfilamentprofiles.com
+    Copper:
+      hex: '#8C6F38'
+      source: 3dfilamentprofiles.com
+    Bronze:
+      hex: '#8E7350'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/bronze/products/3d-pla-1kg1-75-brnz
+    Grey Blue:
+      hex: '#757F96'
+      source: 3dfilamentprofiles.com
+    Neon Green:
+      hex: '#76C943'
+      source: 3dfilamentprofiles.com
+    True White:
+      hex: '#E3E5E7'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#D65E17'
+      source: 3dfilamentprofiles.com
+    Peacock Blue:
+      hex: '#03BBF5'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/pla-1-75mm/products/3d-pla-1kg1-75-pblu
+    Iron Red:
+      hex: '#79111E'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/pla-1-75mm/products/3d-pla-1kg1-75-inred
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/title
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+    Lime Green:
+      hex: '#95CE32'
+      source: 3dfilamentprofiles.com
+    Violet:
+      hex: '#901F6D'
+      source: 3dfilamentprofiles.com
+    Rainbow Light:
+      hex: '#F76EBE,#F7B06E,#7BEA53'
+      source: 3dfilamentprofiles.com
+    Magic Stone Granite:
+      hex: '#EBEBEB'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/pla-stone-granite-1-75mm-1kg-spool?srsltid=AfmBOoqfqoIcJ7gHbKiHrXgtc9PjFnnboWOKxxeZ6gYEJnqvTRRA4Fnd
+    Cool Gray (Pantone 6 C):
+      hex: '#959494'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-wht
+    Midnight Purple:
+      hex: '#492668'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-mpur?srsltid=AfmBOoper_vFhoSraZPDHCun-yk-t-vbUp4kmKCmRELrnlkKhBcaG4HX
+    Apple Sauce:
+      hex: '#FABE89'
+      source: 3dfilamentprofiles.com
+    True Blue:
+      hex: '#183DBC'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/pla-1-75mm/products/3d-pla-1kg1-75-blu
+    Pastel Green:
+      hex: '#C2E189'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-365c
+    True Green:
+      hex: '#00A651'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-grn?srsltid=AfmBOorEbHNPDZnWq51K_J6xsAbgI3zrdGlrUY0LRMuFzXBCDrIU8gh-
+  PLA Glow:
+    white/green:
+      hex: '#97D3C4'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-glow?srsltid=AfmBOoplotoLjq8YQPYPF59q8Uheq1hH9jr8cWSB3Xc1NTpHdahyXYK5
+    Blue:
+      hex: '#C5E5D8'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-g-blu
+    Green:
+      hex: '#53EA2A'
+      source: 3dfilamentprofiles.com
+    Glow:
+      hex: '#B7E6C7'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/pla-1-75mm/products/3d-pla-1kg1-75-glow
+  PLA CF:
+    Carbon Fiber:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    White Matte:
+      hex: '#F2F2F3'
+      source: 3dfilamentprofiles.com
+    LIGHT LAVENDER:
+      hex: '#EAE4EB'
+      source: 3dfilamentprofiles.com
+    Brick Red:
+      hex: '#AA4A44'
+      source: 3dfilamentprofiles.com
+    Topaz Green:
+      hex: '#63B7B7'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#2A2A2B'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-mat-blk
+    Orange:
+      hex: '#FFCC80'
+      source: 3dfilamentprofiles.com
+    Teracotta:
+      hex: '#CCA99F'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-mat-trc
+    Lemon Yellow:
+      hex: '#FFFFB8'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-mat-lmylw
+    Matte Gray:
+      hex: '#9EA2A2'
+      source: 3dfilamentprofiles.com
+    Kraft:
+      hex: '#F5E1CC'
+      source: 3dfilamentprofiles.com
+    Dusty Plum:
+      hex: '#664569'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#BB8D6F'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-mat-brn
+    Ash Grey:
+      hex: '#43484C'
+      source: 3dfilamentprofiles.com
+    Olive Green:
+      hex: '#595C4C'
+      source: 3dfilamentprofiles.com
+    Navy:
+      hex: '#4E6073'
+      source: 3dfilamentprofiles.com
+    Cherry Red:
+      hex: '#D2042D'
+      source: 3dfilamentprofiles.com
+    Terracotta:
+      hex: '#DA8779'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-mat-trc?srsltid=AfmBOopF_x0XFVHrxF1yZ0voR_3NXlkvYxVElfgXlSpIheIjg3A5AfTF
+    Salmon Pink:
+      hex: '#F76969'
+      source: 3dfilamentprofiles.com
+  PLA Max:
+    Mustard:
+      hex: '#A49741'
+      source: 3dfilamentprofiles.com
+    Sage Green:
+      hex: '#99B089'
+      source: 3dfilamentprofiles.com
+    Midnight Purple:
+      hex: '#420A70'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/usa-made/products/hb-pla-max-mpur
+    Pecan Brown:
+      hex: '#452311'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/usa-made?filter.p.m.my_fields.series=MAX
+    Dark Red:
+      hex: '#551111'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/pla-1-75mm/products/hb-pla-max-dred
+    Sage:
+      hex: '#99B089'
+      source: 3dfilamentprofiles.com
+  PLA Sparkle:
+    Sparkle Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/pla-sparkle-black-1-75mm-1kg-spool
+    Gray:
+      hex: '#767C86'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/pla-sparkle-gray-1-75mm-1kg-spool
+  PLA Pro:
+    Iron Red:
+      hex: '#5A020F'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#969996'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/pla-pro-1-75mm-filament/products/3d-plap-1kg1-75-slv
+    Beige:
+      hex: '#F4E3DD'
+      source: 3dfilamentprofiles.com
+  ABS:
+    True Silver:
+      hex: '#BABABA'
+      source: 3dfilamentprofiles.com
+    True Gold:
+      hex: '#CA902B'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Iron Red:
+      hex: '#AC0D14'
+      source: 3dfilamentprofiles.com
+    Peacock Blue:
+      hex: '#01869C'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-tpu-1kg1-75-pblu
+    Silver:
+      hex: '#999999'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/tpu-1-75mm/products/3d-tpu-1kg1-75-blk
+    Yellow:
+      hex: '#F0D80E'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Dark Yellow:
+      hex: '#F2B03E'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/pla-pro-1-75mm-filament/products/3d-plap-1kg1-75-dylw
+    Iron Red:
+      hex: '#B62A2A'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/pla-pro-1-75mm-filament/products/3d-plap-1kg1-75-inred
+    Orange:
+      hex: '#FFA200'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Transparent Orange:
+      hex: '#EC4E16'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-twht
+    Transparent Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-twht
+    Transparent Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-twht
+    Red:
+      hex: '#C02716'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-twht
+    Transparent White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-twht
+    Transparent Green:
+      hex: '#20B772'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-twht
+    Transparent Black:
+      hex: '#7E858F'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-pla-1kg1-75-twht
+  PETG High Speed:
+    Copper:
+      hex: '#512501'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#027223'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/petg-1-75mm/products/3d-rpd-petg1kg-grn
+  PLA Color Change (UV):
+    UV Blue:
+      hex: '#739ED4'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#E5DDE0,#A939A5'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Wood:
+    Cedar Brown:
+      hex: '#785800'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Max:
+    Pecan Brown:
+      hex: '#3B1E1E'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/usa-made?filter.p.m.my_fields.series=MAX
+    Slate Blue:
+      hex: '#143240'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/collections/usa-made?filter.p.m.my_fields.series=MAX
+  PLA Magic:
+    Black I:
+      hex: '#D0CFD3'
+      source: 3dfilamentprofiles.com
+    Cement Grey:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+  PLA Color Change (Temp):
+    Purple, Salmon Red, Orange:
+      hex: '#FC8E33,#F0135A,#8E4A6F'
+      source: 3dfilamentprofiles.com
+  TPU:
+    Gray blue:
+      hex: '#66667A'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,45 @@
+Rambery:
+  PLA+/Pro Basic:
+    Yellow:
+      hex: '#FAE851'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Naval Gray:
+      hex: '#3A4464'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    Luminous Blue:
+      hex: '#CAF0FE'
+      source: 3dfilamentprofiles.com
+    Luminous Green:
+      hex: '#F2F7B7'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Gold / Green:
+      hex: '#FACE7B,#14C841'
+      source: 3dfilamentprofiles.com
+    Gold / Red:
+      hex: '#FDCF78,#FD0D0D'
+      source: 3dfilamentprofiles.com
+    Blue / Green:
+      hex: '#0442FB,#0CBB4F'
+      source: 3dfilamentprofiles.com
+    Red / Blue:
+      hex: '#F20D0D,#2306F9'
+      source: 3dfilamentprofiles.com
+  PLA Luminous Rainbow:
+    Yellow/Green:
+      hex: '#FFF76B,#96D35F'
+      source: 3dfilamentprofiles.com
+    Blue/Red:
+      hex: '#74A7FF,#E292FE'
+      source: 3dfilamentprofiles.com
+  TPU Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Natural Wood:
+      hex: '#E6BF9A'
+      source: 3dfilamentprofiles.com
+      link: http://en.tyzh.com/ProDetail.aspx?ProId=110

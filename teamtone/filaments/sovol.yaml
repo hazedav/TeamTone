@@ -1,0 +1,122 @@
+Sovol:
+  PLA Glow:
+    Multicolor:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.amazon.com/dp/B0DBDQKW2Y
+  PLA Silk:
+    Galaxy Purple:
+      hex: '#D26EF7'
+      source: 3dfilamentprofiles.com
+    Purple Rainbow:
+      hex: '#8F0B99'
+      source: 3dfilamentprofiles.com
+    Golden Yellow:
+      hex: '#FEB958'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#7D7D7D'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Sovol Blue:
+      hex: '#82C7E4'
+      source: 3dfilamentprofiles.com
+      link: https://www.sovol3d.com/products/sovol-2-rolls-1-75mm-1kg-pla-filament-white-2?variant=51025871175989
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.sovol3d.com/collections/sovol-filaments/products/sovol-2-rolls-1-75mm-1kg-pla-filament-white-2
+    Grey:
+      hex: '#828282'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.sovol3d.com/collections/sovol-filaments/products/sovol-2-rolls-1-75mm-1kg-pla-filament-white-2
+  PLA Matte Rainbow:
+    Macaron:
+      hex: '#F7A6E8,#9CF7A2,#749DFB'
+      source: 3dfilamentprofiles.com
+      link: https://www.sovol3d.com/products/sovol-chameleon-pla-3d-printing-filament-1kg2-2lbs?variant=50078598332725
+  PLA Color Change (UV):
+    Color Change White to Purple:
+      hex: '#FFFFFF,#A31DFC'
+      source: 3dfilamentprofiles.com
+      link: https://www.sovol3d.com/products/sovol-chameleon-pla-3d-filament-1kg-copy-1
+  PETG Basic:
+    Lotus green:
+      hex: '#004225'
+      source: 3dfilamentprofiles.com
+    Skin:
+      hex: '#FFDECE'
+      source: 3dfilamentprofiles.com
+      link: https://www.sovol3d.com/collections/petg-filament
+    Silver Gray:
+      hex: '#555555'
+      source: 3dfilamentprofiles.com
+  PLA Silk Magic:
+    Blue/Yellow/Fuchia:
+      hex: '#3A87FE,#FFF994,#E63B7A'
+      source: 3dfilamentprofiles.com
+    Gold Silver Copper:
+      hex: '#E87254'
+      source: 3dfilamentprofiles.com
+      link: https://www.sovol3d.com/products/sovol-3d-printer-silk-1-75mm-pla-filament-1kg-roll?variant=46078259888437
+    Acid Blue and Orange:
+      hex: '#00C7FC,#FF6251'
+      source: 3dfilamentprofiles.com
+    Dark Red/Green/Blue:
+      hex: '#8E0D00,#008800,#01007C'
+      source: 3dfilamentprofiles.com
+    Green / Purple / Copper:
+      hex: '#013220,#301934,#B87333'
+      source: 3dfilamentprofiles.com
+  PLA Glitter:
+    Galaxy Blue:
+      hex: '#2A4B7C'
+      source: 3dfilamentprofiles.com
+  PLA Chameleon:
+    Magic Green:
+      hex: '#2D4662'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Gold Green Rose:
+      hex: '#E0CF8C,#76AE2C,#A74560'
+      source: 3dfilamentprofiles.com
+      link: https://www.sovol3d.com/products/sovol-3d-printer-silk-1-75mm-pla-filament-1kg-roll?variant=50933035598133
+    Blue , Green , Orange:
+      hex: '#1E00FF,#5AA300,#1D56C9'
+      source: 3dfilamentprofiles.com
+    Green / Purple / Copper:
+      hex: '#78CDA9,#8477E3,#BF735A'
+      source: 3dfilamentprofiles.com
+      link: https://www.sovol3d.com/products/sovol-3d-printer-silk-1-75mm-pla-filament-1kg-roll
+  TPU Translucent:
+    Transparent Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+  PETG Gradient:
+    Purple white:
+      hex: '#D357FE,#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#F2F2F3,#0078F0'
+      source: 3dfilamentprofiles.com
+      link: https://www.sovol3d.com/products/sovol-petg-3d-filaments-gradient-blue
+    Gradient Blue:
+      hex: '#FFFFFF,#8CABCA,#3C73AA,#0161C1'
+      source: 3dfilamentprofiles.com
+      link: https://www.sovol3d.com/products/sovol-petg-3d-filaments-gradient-blue
+  PLA Silk Dual:
+    Rose Blue:
+      hex: '#FF1D8D,#0000FF'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Candy - Red Blue and Light Green:
+      hex: '#FF2600,#0042AA,#77BB41'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Pro:
+    Lemmon Yellow:
+      hex: '#ECE98E'
+      source: 3dfilamentprofiles.com
+      link: https://store.sunlu.com/es-es/products/over-6kg-bundle-sales-1-75mm-sunlu-pla-metamacaron-colors-3d-printer-filament-1kg-roll?sca_ref=7471859.dxN0czLnOm

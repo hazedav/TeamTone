@@ -1,0 +1,46 @@
+Bblife:
+  PLA Silk:
+    Metallic Gold:
+      hex: '#D3AF37'
+      source: 3dfilamentprofiles.com
+    Pearlescent White:
+      hex: '#F8FAFC,#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#2EA8FF'
+      source: 3dfilamentprofiles.com
+    Blue-Purple Rainbow:
+      hex: '#7AC8FF,#C18FFF'
+      source: 3dfilamentprofiles.com
+    Sapphire Blue:
+      hex: '#0259E3'
+      source: 3dfilamentprofiles.com
+    Lime Green:
+      hex: '#00FF2A'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#C23DFF'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Acid Blue:
+      hex: '#00D1FF'
+      source: 3dfilamentprofiles.com
+    Metallic Copper:
+      hex: '#F6BC82,#E86F51'
+      source: 3dfilamentprofiles.com
+    Rose Gold:
+      hex: '#D185A3'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#878787'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    Glow in Dark Blue:
+      hex: '#94E3FE,#FFFFE2'
+      source: 3dfilamentprofiles.com
+  PLA Silk Rainbow:
+    Red Orange Rainbow:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,425 @@
+AzureFilm:
+  PLA Basic:
+    white:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/
+    skin latte:
+      hex: '#F9D1BC'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/
+    Pearl Blue:
+      hex: '#001B73'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/
+    Lumos Litho White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/
+    'yellow transparent ':
+      hex: '#FFFC41'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/
+    Yellow:
+      hex: '#FFF76B'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/hr/proizvod/pla-original-filament-yellow/
+    Neon Orange:
+      hex: '#FF9101'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/
+    Emerald:
+      hex: '#007070'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/
+    Marble:
+      hex: '#E1E3E5'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/it/prodotto/filamento-refill-pla-marble/
+    Fuchia Pink:
+      hex: '#FF00FF'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/
+    Army Green:
+      hex: '#5D6532'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/
+    Champagne Gold:
+      hex: '#9C6C14'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/
+    sølv - pla silver:
+      hex: '#80807E'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/
+    Hvid:
+      hex: '#EBE9DD'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/
+    Green:
+      hex: '#96D35F'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/pla-original-filament-green/
+    Red:
+      hex: '#E22400'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/pla-original-filament-red/
+    Brown:
+      hex: '#563D00'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/pla-original-filament-brown/
+    Orange:
+      hex: '#FF6A00'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/hr/proizvod/pla-original-filament-orange/
+    Pink:
+      hex: '#E63B7A'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/hr/proizvod/pla-original-filament-pink/
+    Yello:
+      hex: '#FEFB41'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/hr/proizvod/pla-original-filament-yellow/
+    Blue:
+      hex: '#0061FE'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/hr/proizvod/pla-original-filament-blue/
+    black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/
+    Purple:
+      hex: '#36235B'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/refill-pla-filament-purple/
+    Grey:
+      hex: '#AEB0B2'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/pla-original-filament-grey/
+    Red wine:
+      hex: '#892531'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/hr/proizvod/pla-original-filament-red-wine/
+  PLA Silk Dual:
+    midnight chrome:
+      hex: '#949494,#000000'
+      source: 3dfilamentprofiles.com
+    Obsidian Moss:
+      hex: '#000000,#7D6642'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/pla-silk-dual-color-obsidian-moss/
+  PETG High Speed:
+    unset (recycled):
+      hex: '#2D2E2E'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/petg-filaments/petg-original/
+    Neon Lime:
+      hex: '#A6CE36'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/de/produkt/petg-neon-filament-lime/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/petg-original-filament-black/
+    Baby Blue:
+      hex: '#A7D1F3'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/petg-filaments/petg-original/
+    Turquoise Blue:
+      hex: '#00FFEF'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/de/produkt/petg-original-filament-tuerkisblau/
+    Grass Green:
+      hex: '#08CB28'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/petg-original-filament-grass-green/
+    Grey:
+      hex: '#474747'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/petg-filaments/petg-original/
+    Dark Blue:
+      hex: '#011D57'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/petg-filaments/petg-original/
+    Light Green:
+      hex: '#96D35F'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/petg-filaments/petg-original/
+    Yellow:
+      hex: '#FEFB41'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/petg-filaments/petg-original/
+    Blue:
+      hex: '#0056D6'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/petg-filaments/petg-original/
+    Lipstick Red:
+      hex: '#E22400'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/petg-filaments/petg-original/
+    Raspberry Red:
+      hex: '#590C14'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/petg-filaments/petg-original/
+    Fuchsia Pink:
+      hex: '#FF00FF'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/petg-filaments/petg-original/
+    Translucent Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/petg-transparent-filament-red/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/de/produkt/refill-petg-filament-weiss/
+    Orange:
+      hex: '#FF8040'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/petg-filaments/petg-original/
+  PETG Basic:
+    Grey:
+      hex: '#606466'
+      source: 3dfilamentprofiles.com
+    Ice Cream Pink:
+      hex: '#E8A1C3'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/petg-pastel-filament-ice-cream-pink/
+    Red:
+      hex: '#FF0800'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.azurefilm.com
+    transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Dark Blue:
+      hex: '#00008B'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/de/produkt/petg-original-filament-dunkelblau/
+  PLA Silk:
+    Hawaiian Blue:
+      hex: '#09C0BB'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/it/prodotto/filamento-pla-silk-hawaiian-blue/
+    silk Lila:
+      hex: '#7B219F'
+      source: 3dfilamentprofiles.com
+    Flame Orange:
+      hex: '#FDB02B'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/pla-silk-filament-flame-orange/
+    Turquoise Blue:
+      hex: '#9BFFF6'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/de/produkt/pla-silk-filament-tuerkisblau/
+    Gold:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+    Unset:
+      hex: '#9B7936'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/unset-pla-silk/
+    Rose:
+      hex: '#BD4275'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#ABABAB'
+      source: 3dfilamentprofiles.com
+    Royal Sapphire:
+      hex: '#041A9D'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/pla-silk-royal-sapphire/
+    Princess Gleam:
+      hex: '#D88BC3'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.it/azurefilm/pla-silk-refill-princess-gleam?sai=38851
+    Pistachio Green:
+      hex: '#81AE56'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.it/azurefilm/pla-silk-refill-pistachio-green?sai=38875
+    Dark Copper:
+      hex: '#B87159'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/refill-pla-silk-dark-copper/
+  PLA Pastello:
+    Baby Blue:
+      hex: '#98D4DF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Matte:
+    off white:
+      hex: '#F5F5F5'
+      source: 3dfilamentprofiles.com
+  PLA Rainbow:
+    Tropicana:
+      hex: '#D775C5'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/pla-silk-filament-rainbow-tropicana/
+  PLA Wood:
+    LumberLay White Wood:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/refill-lumberlay-white-wood/
+    Black Ebony:
+      hex: '#131313'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/refill-lumberlay-black-ebony/
+    LumberLay Pine:
+      hex: '#977A59'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/refill-lumberlay-pine/
+    Green Popular:
+      hex: '#A8A291'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/refill-lumberlay-green-poplar/
+  PLA Silk Rainbow:
+    Lemon Mist:
+      hex: '#3091F3,#C864F7,#55A1EC'
+      source: 3dfilamentprofiles.com
+    Lavender:
+      hex: '#FF0000,#0000FF,#00FFFF,#FF00FF'
+      source: 3dfilamentprofiles.com
+    Harmony:
+      hex: '#EDE60C,#6EF514,#F54761'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/pla-silk-filament-rainbow-harmony/
+  PLA Matte:
+    Mentol:
+      hex: '#B0C0C4'
+      source: 3dfilamentprofiles.com
+    Bordeaux:
+      hex: '#8E5059'
+      source: 3dfilamentprofiles.com
+    Off-White:
+      hex: '#CBC2B7'
+      source: 3dfilamentprofiles.com
+  PETG Pastello:
+    Banana Yellow Pastel:
+      hex: '#DED89C'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/petg-pastel-filament-banana-yellow/
+    Mint Green Pastel:
+      hex: '#AAE2C9'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/petg-pastel-filament-mint-green/
+  PLA High Gloss:
+    Pistachio Green:
+      hex: '#5BAA01'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/pla-original-filament-pistachio-green/
+  ASA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/de/product/asa-filament-weiss/
+    Natural:
+      hex: '#F8F7ED'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/de/produkt/asa-filament-natural/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/asa-filament-black/
+    Blau:
+      hex: '#3280E7'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/asa-filament-blue/
+  PLA Neon:
+    neon red:
+      hex: '#FF051E'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/pla-neon/
+    Pink:
+      hex: '#FF46A1'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/pla-neon/
+    Lime:
+      hex: '#CCFF00'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/pla-neon-filament-lime/
+  PLA High Speed Matte:
+    Mint:
+      hex: '#AEC6D0'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/pla-matte-hs/
+    Bordeaux:
+      hex: '#845358'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/pla-matte-hs/
+    Coral:
+      hex: '#E5746C'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/pla-matte-hs/
+    Blue:
+      hex: '#60B5D7'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/pla-matte-hs/
+    Unset:
+      hex: '#543B3B'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/pla-matte-hs/
+    Creamstone:
+      hex: '#D4CBA5'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/pla-matte-hs/
+    Army Green:
+      hex: '#71724B'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/pla-matte-hs/
+    Black:
+      hex: '#0D0D0D'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/pla-matte-hs/
+    White:
+      hex: '#EBEBEB'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/pla-matte-hs/
+    Sage:
+      hex: '#9EA191'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/pla-matte-hs/
+    Lime:
+      hex: '#A4CE3F'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/de/produkt/refill-pla-matte-hs-filament-lime/
+    Rosy:
+      hex: '#DFBCB9'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/3d-filaments/pla-filaments/pla-matte-hs/
+    Off-White:
+      hex: '#E0D3CC'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/pla-matte-hs-filament-off-white/
+  PETG Translucent:
+    Blue:
+      hex: '#065E97'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/de/produkt/refill-petg-hyper-speed-transparent-blue/
+  PLA Glitter:
+    red:
+      hex: '#9B1E16'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/de/produkt/pla-glitter-filament-rot/
+    White:
+      hex: '#D7DCDB'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/de/produkt/pla-glitter-filament-weiss/
+  PLA Silk Triple:
+    Peacock Bloom:
+      hex: '#FFF76B,#96D35F,#5E30EB'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/de/produkt/pla-silk-tri-color-peacock-bloom/
+  TPU Basic:
+    'black ':
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ASA:
+    Natural:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://azurefilm.com/product/asa-filament-natural/

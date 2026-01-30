@@ -1,0 +1,14 @@
+3Dfilament:
+  PLA Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dfilament.com.ua/ua/g90448360-pla-pla-plastik
+  TPU 95A:
+    black:
+      hex: '#050506'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    transparent white:
+      hex: '#F2F2F2'
+      source: 3dfilamentprofiles.com

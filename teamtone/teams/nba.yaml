@@ -1,0 +1,275 @@
+NBA:
+  Atlanta Hawks:
+    colors:
+    - Red
+    - Volt Green
+    - Black
+    hex:
+    - '#E03A3E'
+    - '#C1D32F'
+    - '#000000'
+  Boston Celtics:
+    colors:
+    - Green
+    - Gold
+    - Black
+    - White
+    hex:
+    - '#007A33'
+    - '#BA9653'
+    - '#000000'
+    - '#FFFFFF'
+  Brooklyn Nets:
+    colors:
+    - Black
+    - White
+    hex:
+    - '#000000'
+    - '#FFFFFF'
+  Charlotte Hornets:
+    colors:
+    - Purple
+    - Teal
+    - Grey
+    hex:
+    - '#1D1160'
+    - '#00788C'
+    - '#A1A1A4'
+  Chicago Bulls:
+    colors:
+    - Red
+    - Black
+    - White
+    hex:
+    - '#CE1141'
+    - '#000000'
+    - '#FFFFFF'
+  Cleveland Cavaliers:
+    colors:
+    - Wine
+    - Gold
+    - Black
+    hex:
+    - '#860038'
+    - '#FDBB30'
+    - '#000000'
+  Dallas Mavericks:
+    colors:
+    - Blue
+    - Navy
+    - Silver
+    hex:
+    - '#00538C'
+    - '#002B5E'
+    - '#B8C4CA'
+  Denver Nuggets:
+    colors:
+    - Midnight Blue
+    - Sunshine Yellow
+    - Skyline Blue
+    hex:
+    - '#0E2240'
+    - '#FEC524'
+    - '#8B2131'
+  Detroit Pistons:
+    colors:
+    - Red
+    - Blue
+    - White
+    hex:
+    - '#C8102E'
+    - '#1D42BA'
+    - '#FFFFFF'
+  Golden State Warriors:
+    colors:
+    - Royal Blue
+    - California Yellow
+    hex:
+    - '#1D428A'
+    - '#FFC72C'
+  Houston Rockets:
+    colors:
+    - Red
+    - Black
+    - Silver
+    hex:
+    - '#CE1141'
+    - '#000000'
+    - '#C4CED4'
+  Indiana Pacers:
+    colors:
+    - Navy Blue
+    - Gold
+    hex:
+    - '#002D62'
+    - '#FDBB30'
+  LA Clippers:
+    colors:
+    - Red
+    - Blue
+    - Black
+    hex:
+    - '#C8102E'
+    - '#1D428A'
+    - '#000000'
+  Los Angeles Lakers:
+    colors:
+    - Purple
+    - Gold
+    - Black
+    hex:
+    - '#552583'
+    - '#FDB927'
+    - '#000000'
+  Memphis Grizzlies:
+    colors:
+    - Beale Street Blue
+    - Smoke Blue
+    - Gold
+    hex:
+    - '#5D76A9'
+    - '#12173F'
+    - '#F5B112'
+  Miami Heat:
+    colors:
+    - Red
+    - Black
+    - White
+    hex:
+    - '#98002E'
+    - '#000000'
+    - '#FFFFFF'
+  Milwaukee Bucks:
+    colors:
+    - Good Land Green
+    - Cream City Cream
+    - Great Lakes Blue
+    hex:
+    - '#00471B'
+    - '#EEE1C6'
+    - '#0077C0'
+  Minnesota Timberwolves:
+    colors:
+    - Midnight Blue
+    - Lake Blue
+    - Aurora Green
+    - Moonlight Grey
+    hex:
+    - '#0C2340'
+    - '#236192'
+    - '#78BE20'
+    - '#9EA2A2'
+  New Orleans Pelicans:
+    colors:
+    - Navy Blue
+    - Red
+    - Gold
+    hex:
+    - '#0C2340'
+    - '#C8102E'
+    - '#85714D'
+  New York Knicks:
+    colors:
+    - Blue
+    - Orange
+    - Silver
+    - Black
+    - White
+    hex:
+    - '#006BB6'
+    - '#F58426'
+    - '#BEC0C2'
+    - '#000000'
+    - '#FFFFFF'
+  Oklahoma City Thunder:
+    colors:
+    - Thunder Blue
+    - Sunset
+    - Yellow
+    hex:
+    - '#007AC1'
+    - '#EF3B24'
+    - '#FDBB30'
+  Orlando Magic:
+    colors:
+    - Blue
+    - Black
+    - Silver
+    hex:
+    - '#0077C0'
+    - '#000000'
+    - '#C4CED4'
+  Philadelphia 76ers:
+    colors:
+    - Blue
+    - Red
+    - White
+    hex:
+    - '#006BB6'
+    - '#ED174C'
+    - '#FFFFFF'
+  Phoenix Suns:
+    colors:
+    - Purple
+    - Orange
+    - Black
+    hex:
+    - '#1D1160'
+    - '#E56020'
+    - '#000000'
+  Portland Trail Blazers:
+    colors:
+    - Red
+    - Black
+    - White
+    hex:
+    - '#E03A3E'
+    - '#000000'
+    - '#FFFFFF'
+  Sacramento Kings:
+    colors:
+    - Purple
+    - Silver
+    - Black
+    hex:
+    - '#5A2D81'
+    - '#63727A'
+    - '#000000'
+  San Antonio Spurs:
+    colors:
+    - Black
+    - Silver
+    - White
+    hex:
+    - '#000000'
+    - '#C4CED4'
+    - '#FFFFFF'
+  Toronto Raptors:
+    colors:
+    - Red
+    - Black
+    - Silver
+    - Purple
+    hex:
+    - '#CE1141'
+    - '#000000'
+    - '#A1A1A4'
+    - '#753BBD'
+  Utah Jazz:
+    colors:
+    - Navy Blue
+    - Green
+    - Yellow
+    hex:
+    - '#002B5C'
+    - '#00471B'
+    - '#F9A01B'
+  Washington Wizards:
+    colors:
+    - Navy Blue
+    - Red
+    - Silver
+    hex:
+    - '#002B5C'
+    - '#E31837'
+    - '#C4CED4'

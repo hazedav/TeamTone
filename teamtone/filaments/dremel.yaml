@@ -1,0 +1,56 @@
+Dremel:
+  PLA Basic:
+    Red:
+      hex: '#EA4015'
+      source: 3dfilamentprofiles.com
+      link: https://www.dremel.com/us/en/digilab/support/3d45-series-3d-printer/filament/pla-filament
+    Orange:
+      hex: '#FF8040'
+      source: 3dfilamentprofiles.com
+      link: https://www.dremel.com/us/en/digilab/support/3d45-series-3d-printer/filament/pla-filament
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.dremel.com/us/en/digilab/support/3d45-series-3d-printer/filament/pla-filament
+    Purple Orchid:
+      hex: '#5C365F'
+      source: 3dfilamentprofiles.com
+      link: https://www.dremel.com/us/en/digilab/support/3d45-series-3d-printer/filament/pla-filament
+    Blue:
+      hex: '#0B519E'
+      source: 3dfilamentprofiles.com
+      link: https://www.dremel.com/us/en/digilab/support/3d45-series-3d-printer/filament/pla-filament
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.dremel.com/us/en/digilab/support/3d45-series-3d-printer/filament/pla-filament
+    Nylon Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.dremel.com/us/en/digilab/support/3d45-series-3d-printer/filament/pla-filament
+    Green:
+      hex: '#00C100'
+      source: 3dfilamentprofiles.com
+      link: https://www.dremel.com/us/en/digilab/support/3d45-series-3d-printer/filament/pla-filament
+    Silver:
+      hex: '#999999'
+      source: 3dfilamentprofiles.com
+      link: https://www.dremel.com/us/en/digilab/support/3d45-series-3d-printer/filament/pla-filament
+    Yellow:
+      hex: '#FED801'
+      source: 3dfilamentprofiles.com
+      link: https://www.dremel.com/us/en/digilab/support/3d45-series-3d-printer/filament/pla-filament
+    Gold:
+      hex: '#FEA941'
+      source: 3dfilamentprofiles.com
+      link: https://www.dremel.com/us/en/digilab/support/3d45-series-3d-printer/filament/pla-filament
+  PETG Translucent:
+    Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.dremel.com/us/en/digilab/support/3d45-series-3d-printer/filament/petg-filament
+  PLA+/Pro Blend:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.dremel.com/us/en/digilab/support/3d45-series-3d-printer/filament/eco-abs-filament

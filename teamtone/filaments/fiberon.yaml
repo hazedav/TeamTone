@@ -1,0 +1,109 @@
+Fiberon:
+  PPS GF:
+    Grey:
+      hex: '#75787B'
+      source: 3dfilamentprofiles.com
+      link: https://us.polymaker.com/products/fiberon-pps-gf20
+  ASA CF:
+    Navy Blue ASA-CF08:
+      hex: '#30548E'
+      source: 3dfilamentprofiles.com
+      link: https://us.polymaker.com/products/fiberon-asa-cf08?variant=44810312155193
+    Dark Red (ASA-CF08):
+      hex: '#855261'
+      source: 3dfilamentprofiles.com
+      link: https://us.polymaker.com/products/fiberon-asa-cf08
+    Black ASA-CF08:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.polymaker.com/products/fiberon-asa-cf08?variant=44810310484025
+    Desert Sand ASA-CF08:
+      hex: '#CEB69C'
+      source: 3dfilamentprofiles.com
+      link: https://us.polymaker.com/products/fiberon-asa-cf08?variant=44810336206905
+    Light Grey:
+      hex: '#ADC4D6'
+      source: 3dfilamentprofiles.com
+      link: https://us.polymaker.com/products/fiberon-asa-cf08?variant=44810316611641
+    Dark Grey:
+      hex: '#4D5E70'
+      source: 3dfilamentprofiles.com
+      link: https://us.polymaker.com/products/fiberon-asa-cf08?variant=44810332471353
+  PET GF:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://us.polymaker.com/products/fiberon-pet-gf15?variant=44963510452281
+    Dark Grey:
+      hex: '#0F191F'
+      source: 3dfilamentprofiles.com
+      link: https://us.polymaker.com/products/fiberon-pet-gf15?variant=44963510517817
+    Blue:
+      hex: '#6E9EFF'
+      source: 3dfilamentprofiles.com
+      link: https://us.polymaker.com/products/fiberon-pet-gf15?variant=44963510485049
+    Black - GF15:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.polymaker.com/products/fiberon-pet-gf15
+    Red:
+      hex: '#CC0033'
+      source: 3dfilamentprofiles.com
+      link: https://us.polymaker.com/products/fiberon-pet-gf15?variant=44963510583353
+    Light Grey:
+      hex: '#A9ABAF'
+      source: 3dfilamentprofiles.com
+      link: https://us.polymaker.com/products/fiberon-pet-gf15?variant=44963510550585
+  PPS CF:
+    Black - CF10:
+      hex: '#302E2F'
+      source: 3dfilamentprofiles.com
+      link: https://us.polymaker.com/products/fiberon-pps-cf10
+  PETG CF:
+    Black - rCF08:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fiberon.polymaker.com/product/petg-rcf08/
+    PETG-rCF08 Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fiberon.polymaker.com/product/petg-rcf08/
+  PA6 CF:
+    Black (PA6-CF20):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Black PA6-CF20:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PA12 CF:
+    Black (PA12-CF 10):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG ESD:
+    Black:
+      hex: '#161618'
+      source: 3dfilamentprofiles.com
+      link: https://us.polymaker.com/products/fiberon-petg-esd
+  PA612 ESD:
+    Black:
+      hex: '#161618'
+      source: 3dfilamentprofiles.com
+      link: https://us.polymaker.com/products/fiberon%E2%84%A2-pa612-esd
+  PA612 CF:
+    Black (PA612-CF15):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PA6 GF:
+    PA6-GF25:
+      hex: '#75787B'
+      source: 3dfilamentprofiles.com
+      link: https://ca.polymaker.com/products/fiberon-pa6-gf25?variant=51676359295346
+    Grey:
+      hex: '#757D81'
+      source: 3dfilamentprofiles.com
+      link: https://us.polymaker.com/products/fiberon-pa6-gf25
+  PET CF:
+    Black (PET-CF17):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fiberon.polymaker.com/product/pet-cf17/

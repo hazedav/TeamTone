@@ -1,0 +1,30 @@
+SUPER FILAMENT:
+  PLA+/Pro Basic:
+    Waterblue (RAL 5021):
+      hex: '#256D7B'
+      source: 3dfilamentprofiles.com
+      link: https://super-filament.de/pla-filament-pro-aehnl-akkuschrauberblau-175mm-1kg
+    Hellorange RAL 2008:
+      hex: '#ED6B21'
+      source: 3dfilamentprofiles.com
+      link: https://super-filament.de/pla-filament-pro-aehnl-akkuschrauberblau-175mm-1kg
+    Gelb:
+      hex: '#F4EE2A'
+      source: 3dfilamentprofiles.com
+      link: https://super-filament.de
+    zinkgelb:
+      hex: '#F9EB58'
+      source: 3dfilamentprofiles.com
+      link: https://super-filament.de/pla-filament-pro-aehnl-akkuschrauberblau-175mm-1kg
+  PETG Basic:
+    Eisengrau:
+      hex: '#8A8D8F'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Pro:
+    Verkehrsweiß RAL 9016:
+      hex: '#F6F6F6'
+      source: 3dfilamentprofiles.com
+    Ultramarinblau RAL 5002:
+      hex: '#00387B'
+      source: 3dfilamentprofiles.com
+      link: https://super-filament.de/PLA-Filament-PRO-aehnl-Ultramarinblau-RAL-5002

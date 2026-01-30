@@ -1,0 +1,66 @@
+CAILAB:
+  PLA+/Pro Basic:
+    Desert:
+      hex: '#ECE2C6'
+      source: 3dfilamentprofiles.com
+    Rouge Rubis:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Peach Fuzz:
+      hex: '#E3C7B0'
+      source: 3dfilamentprofiles.com
+  PLA Silk Rainbow:
+    RB002:
+      hex: '#00FF7F,#FFDF00,#FF69B4,#9370DB'
+      source: 3dfilamentprofiles.com
+    RB011:
+      hex: '#FF69B4,#EEFF1B,#7CFC00,#663399'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Gold:
+      hex: '#E4BD68'
+      source: 3dfilamentprofiles.com
+    Sunshine Gold:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#4F0B56'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#D4DDE4'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://e.tb.cn/h.S6SDiRA3HfsBKi1?tk=bHnYfa2cugi
+  PLA+/Pro Marble:
+    Marble White:
+      hex: '#D5D9E2'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Robin's Egg Blue:
+      hex: '#1FCECB'
+      source: 3dfilamentprofiles.com
+    Misty Lilac:
+      hex: '#DCD2FF'
+      source: 3dfilamentprofiles.com
+    Matcha Green MT7492:
+      hex: '#B6BB63'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Gold and Lavender:
+      hex: '#CACA59,#8080FF'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Turquoise Teal Amber:
+      hex: '#2C74CA,#3E9D78,#FF8B58'
+      source: 3dfilamentprofiles.com
+  PLA Metal:
+    Iridium Gold:
+      hex: '#8E6F7F'
+      source: 3dfilamentprofiles.com

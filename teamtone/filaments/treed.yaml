@@ -1,0 +1,12 @@
+Treed:
+  PA (Nylon):
+    PAHP CF:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    CARBONIUM:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    G-PET White:
+      hex: '#FAFAFA'
+      source: 3dfilamentprofiles.com

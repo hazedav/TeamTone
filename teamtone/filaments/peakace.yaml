@@ -1,0 +1,21 @@
+PEAKACE:
+  PLA Basic:
+    Yellow:
+      hex: '#D2B049'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#800080'
+      source: 3dfilamentprofiles.com
+    Skin:
+      hex: '#F4CDC0'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Orange:
+      hex: '#FFAC1C'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

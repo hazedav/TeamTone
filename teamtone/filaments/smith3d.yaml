@@ -1,0 +1,40 @@
+Smith3D:
+  PLA+/Pro Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Yellow:
+      hex: '#FFED29'
+      source: 3dfilamentprofiles.com
+      link: https://www.smith3d.com/shop/materials/pla-filament/smith3d-matte-pla-filament-2/
+    Pink:
+      hex: '#F8ABE7'
+      source: 3dfilamentprofiles.com
+      link: https://www.smith3d.com/shop/materials/pla-filament/smith3d-matte-pla-filament-2/
+    Coral Red:
+      hex: '#FF4040'
+      source: 3dfilamentprofiles.com
+      link: https://www.smith3d.com/shop/materials/pla-filament/smith3d-matte-pla-filament-2/
+  PLA Silk:
+    Silk Gold:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+      link: https://www.smith3d.com/shop/materials/pla-filament/satin-textured-silk-pla-filament/
+  PLA+/Pro Pro:
+    Orange:
+      hex: '#E3740D'
+      source: 3dfilamentprofiles.com
+      link: https://www.smith3d.com/shop/materials/pla-filament/smith3d-pla-pro-pla-plus-filament/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.smith3d.com/shop/materials/pla-filament/smith3d-pla-pro-pla-plus-filament/
+  PETG Pro:
+    Milky Natural:
+      hex: '#FDFFF5'
+      source: 3dfilamentprofiles.com
+      link: https://www.smith3d.com/shop/materials/petg/smith3d-petg-plus-filament/

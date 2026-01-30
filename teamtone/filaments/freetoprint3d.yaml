@@ -1,0 +1,19 @@
+Freetoprint3d:
+  PETG Sparkle:
+    Transparent Purple:
+      hex: '#A79CE3'
+      source: 3dfilamentprofiles.com
+      link: https://www.freetoprint3d.com/petg/
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.freetoprint3d.com/petg/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.freetoprint3d.com/petg/
+    Gray:
+      hex: '#566169'
+      source: 3dfilamentprofiles.com
+      link: https://www.freetoprint3d.com/petg/

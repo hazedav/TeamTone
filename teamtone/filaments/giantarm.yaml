@@ -1,0 +1,333 @@
+Giantarm:
+  PLA Basic:
+    Ocean Blue:
+      hex: '#46EDF6'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#3DE826'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#7943C0'
+      source: 3dfilamentprofiles.com
+    Apple Green:
+      hex: '#C6FF4D'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FAFAFA'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#964B00'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#DE0315'
+      source: 3dfilamentprofiles.com
+    Transparent:
+      hex: '#F4FAFC'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#EAA6E1'
+      source: 3dfilamentprofiles.com
+    New Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Like Marble Brown:
+      hex: '#DCE1E5'
+      source: 3dfilamentprofiles.com
+    Sparky Purple:
+      hex: '#532C6D'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#EBF556'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#1438EB'
+      source: 3dfilamentprofiles.com
+    Like Marble Grey:
+      hex: '#E1E9F4'
+      source: 3dfilamentprofiles.com
+    New Brown:
+      hex: '#D4810C'
+      source: 3dfilamentprofiles.com
+    New Grey:
+      hex: '#C3C3C3'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#C87F19'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Purple:
+      hex: '#7943C0'
+      source: 3dfilamentprofiles.com
+      link: http://www.giantarm.com
+    Orange:
+      hex: '#E57315'
+      source: 3dfilamentprofiles.com
+      link: http://www.giantarm.com
+    'Silver ':
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: http://www.giantarm.com
+    New Blue:
+      hex: '#080EAF'
+      source: 3dfilamentprofiles.com
+      link: http://www.giantarm.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: http://www.giantarm.com
+    Metall Gold:
+      hex: '#D4AF37'
+      source: 3dfilamentprofiles.com
+      link: http://www.giantarm.com
+    Silver:
+      hex: '#696969'
+      source: 3dfilamentprofiles.com
+      link: http://www.giantarm.com
+    Green:
+      hex: '#234E2B'
+      source: 3dfilamentprofiles.com
+      link: http://www.giantarm.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: http://www.giantarm.com
+  PETG:
+    'Yellow ':
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Orange:
+      hex: '#FF5200'
+      source: 3dfilamentprofiles.com
+    Giantarm Transparent Blue 95A TPU:
+      hex: '#4DA3FF'
+      source: 3dfilamentprofiles.com
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#C106B1'
+      source: 3dfilamentprofiles.com
+    Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#395198'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#616161'
+      source: 3dfilamentprofiles.com
+    Noir:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#E2AB2F'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#FD4EF7'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#00FF11'
+      source: 3dfilamentprofiles.com
+    Transparent Purple:
+      hex: '#FF00FF'
+      source: 3dfilamentprofiles.com
+  TPU Basic:
+    Transparent Yellow:
+      hex: '#CDF40B'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#E22400'
+      source: 3dfilamentprofiles.com
+  PLA Gradient:
+    rainbow gradient:
+      hex: '#003399,#F76EF3,#E4FE20'
+      source: 3dfilamentprofiles.com
+  PLA Sparkle:
+    blue:
+      hex: '#00477A'
+      source: 3dfilamentprofiles.com
+    viola:
+      hex: '#3305B3'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Gray:
+      hex: '#A4A8AA'
+      source: 3dfilamentprofiles.com
+    Matte Blue:
+      hex: '#252D44'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#3E5642'
+      source: 3dfilamentprofiles.com
+    Dark Grey:
+      hex: '#545454'
+      source: 3dfilamentprofiles.com
+    Matte Orange:
+      hex: '#C7795B'
+      source: 3dfilamentprofiles.com
+    Olive Green:
+      hex: '#52663C'
+      source: 3dfilamentprofiles.com
+    Stone Grey:
+      hex: '#A4A8AA'
+      source: 3dfilamentprofiles.com
+    Matte Brown:
+      hex: '#CD661D'
+      source: 3dfilamentprofiles.com
+    Bone White:
+      hex: '#F2D6B0'
+      source: 3dfilamentprofiles.com
+    Navy Blue:
+      hex: '#021840'
+      source: 3dfilamentprofiles.com
+    Light Grey:
+      hex: '#D6D6D6'
+      source: 3dfilamentprofiles.com
+    Terracotta:
+      hex: '#A46C59'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Clear PLA:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Transparent:
+      hex: '#FAFAFA'
+      source: 3dfilamentprofiles.com
+    Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Rainbow:
+      hex: '#CEC240,#D68529,#B87DD8,#63BC1A'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#71F76E'
+      source: 3dfilamentprofiles.com
+    Bronze Rainbow:
+      hex: '#7C7E5D'
+      source: 3dfilamentprofiles.com
+    Green Bronze:
+      hex: '#0A2806'
+      source: 3dfilamentprofiles.com
+    Shiny Silk Rose Magenta:
+      hex: '#E23098'
+      source: 3dfilamentprofiles.com
+      link: http://www.giantarm.com
+    Silver:
+      hex: '#A2A6A9'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Red/Gold/Purple:
+      hex: '#831100,#FFFF00,#8000FF'
+      source: 3dfilamentprofiles.com
+    Marble Blue:
+      hex: '#5D8AA8'
+      source: 3dfilamentprofiles.com
+    silk green-red:
+      hex: '#1CE333,#D5343C'
+      source: 3dfilamentprofiles.com
+    SILK GOLD:
+      hex: '#DFA62C'
+      source: 3dfilamentprofiles.com
+    Royal Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: http://www.giantarm.com/#
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Copper:
+      hex: '#982410'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#800080,#8636AB'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#73ADE7'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#E3B43B'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Rot:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    Glow Blue:
+      hex: '#6FC1FB'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#72C100'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    White to Green:
+      hex: '#4DFF52,#E3E3E3'
+      source: 3dfilamentprofiles.com
+      link: http://www.giantarm.com/
+  PLA Silk Triple:
+    Blue Purple Black:
+      hex: '#351E6C,#000000,#00478A'
+      source: 3dfilamentprofiles.com
+    Red/ Blue /Green:
+      hex: '#DF1616,#0501F4,#04F62C'
+      source: 3dfilamentprofiles.com
+    Gold/Silver/Copper:
+      hex: '#D1A12E,#AFBECB,#CB7E6E'
+      source: 3dfilamentprofiles.com
+    Red/Yellow/Blue:
+      hex: '#FF2600,#FFFB00,#0056D6'
+      source: 3dfilamentprofiles.com
+    Red Gold Black:
+      hex: '#DAE62D,#A81100,#080808'
+      source: 3dfilamentprofiles.com
+  PLA High Speed:
+    Brown:
+      hex: '#B06262'
+      source: 3dfilamentprofiles.com
+  PLA CF:
+    Brick Red:
+      hex: '#7C2A00'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Gold/Silver:
+      hex: '#E3B43B,#A2A6A9'
+      source: 3dfilamentprofiles.com
+    Purple-Green:
+      hex: '#3687F2,#8FF0DC'
+      source: 3dfilamentprofiles.com
+    Gold/Black:
+      hex: '#FFD700,#000000'
+      source: 3dfilamentprofiles.com
+    Gold/Copper:
+      hex: '#D4AF37,#B87333'
+      source: 3dfilamentprofiles.com
+    Black/Red:
+      hex: '#000000,#B51A00'
+      source: 3dfilamentprofiles.com
+  PLA Color Change (UV):
+    Blue:
+      hex: '#7FCAFA'
+      source: 3dfilamentprofiles.com
+  PETG Metal:
+    Green:
+      hex: '#085433'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#BF6EB8'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Black Walnut:
+      hex: '#AB957C'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,361 @@
+Matterhackers:
+  ABS Basic:
+    Orange:
+      hex: '#FF8000'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/c/mh-build-series-abs
+    Grey:
+      hex: '#A9A9A9'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/c/mh-build-series-abs
+    White:
+      hex: '#FEFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/175mm-abs-filament-white-1-kg/sk/MFJ1U2CG
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/175mm-abs-filament-black-1-kg/sk/MWVCRU99
+  PLA Glow:
+    Green Glow:
+      hex: '#88E788'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/glow-in-the-dark-rainbow-mh-build-series-pla-filament-175mm-1kg/sk/MY4CAJQJ
+  PLA Silk Dual:
+    Gold Silver:
+      hex: '#CBB658,#CAD3D7'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/gold-silver-silky-mh-build-series-magic-pla-filament-175mm-1kg/sk/M-7UM-PVEG
+    Fuchsia Green:
+      hex: '#A53152,#154734'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/fuchsia-green-silky-mh-build-series-magic-pla-filament-175mm-1kg/sk/M-2PJ-N9ML
+    Blue Green:
+      hex: '#4147C0,#00CC99'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/blue-green-silky-mh-build-series-magic-pla-filament-175mm-1kg/sk/MAAKX697
+    Pink Blue:
+      hex: '#FF10F0,#3498DB'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/pink-purple-silky-mh-build-series-magic-pla-filament-175mm-1kg/sk/M-247-UEQE
+    Gold Magenta:
+      hex: '#B78727,#C519C1'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/gold-magenta-silky-mh-build-series-magic-pla-filament-175mm-1kg/sk/M-2U9-SZN8
+    Blue Yellow:
+      hex: '#45B1E8,#FFE417'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/blue-yellow-silky-mh-build-series-magic-pla-filament-175mm-1kg/sk/M-R7L-8Z9A
+  PLA Quantum:
+    Silver/Purple:
+      hex: '#D5D5D5,#9B6FF5'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/matterhackers-quantum-pla/sk/M08U3CKL
+    Blue Yellow:
+      hex: '#001CA8,#E1FF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/c/matterhackers-quantum-pla
+    Raspberry Gold:
+      hex: '#A80062,#C7C005'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/c/matterhackers-quantum-pla
+    Pink Purple:
+      hex: '#F76EE4,#5C0E81'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/c/matterhackers-quantum-pla
+    Blue Green:
+      hex: '#0318BA,#1D6A01'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/c/matterhackers-quantum-pla
+    Purple Gold:
+      hex: '#C7C005,#F76EE4'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/c/matterhackers-quantum-pla
+    Blue Raspberry:
+      hex: '#EE009E,#0046C8'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/c/matterhackers-quantum-pla
+    Green Raspberry:
+      hex: '#1D6A01,#EE009E'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/c/matterhackers-quantum-pla
+  PLA Silk:
+    Silky Yellow:
+      hex: '#F3F707'
+      source: 3dfilamentprofiles.com
+    Silky Pink:
+      hex: '#FE6CAE'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/silky-pink-mh-build-series-pla-filament-175mm-1kg/sk/M03K77LQ
+    Gold:
+      hex: '#FFC321'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/silky-yellow-mh-build-series-pla-filament-175mm-1kg/sk/M52FQ7TF
+    Copper:
+      hex: '#C76F36'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/silky-copper-mh-build-series-pla-filament-175mm-1kg/sk/M-DZ6-0S3G
+    Silver:
+      hex: '#CACACA'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/silky-silver-mh-build-series-pla-filament-175mm-1kg/sk/M-7X9-1KUX
+    Teal:
+      hex: '#008080'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0067FD'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/silky-blue-mh-build-series-pla-filament-175mm-1kg/sk/M7KY4RCN
+  PLA Basic:
+    Green:
+      hex: '#3F6C3F'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-plap-1kg1-75-fgrn
+    Pink:
+      hex: '#E17ADD'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-plap-1kg1-75-fgrn
+    Brown:
+      hex: '#55463F'
+      source: 3dfilamentprofiles.com
+      link: https://www.hatchbox3d.com/products/3d-plap-1kg1-75-fgrn
+    Purple:
+      hex: '#5F00BD'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/175mm-pla-filament-purple-1-kg/sk/M46G60RF
+    Tan:
+      hex: '#EECFAC'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/175mm-pla-filament-tan-1-kg/sk/ML3RCGSD
+    Magenta:
+      hex: '#CD4264'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/magenta-pla-filament-1.75mm/sk/M9G7ATE3
+    Forest Green:
+      hex: '#004D0F'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/forest-green-pla-filament-1.75mm/sk/MUAAMXWX
+  PETG Build:
+    Green:
+      hex: '#08F738'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/green-mh-build-series-petg-filament-175mm-1kg/sk/MP4CRJPS
+    Orange:
+      hex: '#FF9500'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/orange-mh-build-series-petg-filament-285mm-1kg/sk/MMCTHDXV
+    Grey:
+      hex: '#868FA6'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/grey-mh-build-series-petg-filament-175mm-1kg/sk/M-SNJ-XN9N
+    Yellow:
+      hex: '#FEFB00'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/yellow-mh-build-series-petg-filament-175mm-1kg/sk/M-8FE-QLY5
+    Red:
+      hex: '#FF2600'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/petg-red-high-strength-filament-1.75mm/sk/M-7M5-T2P3
+    Purple:
+      hex: '#4C2791'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/green-mh-build-series-petg-filament-175mm-1kg/sk/MP4CRJPS
+    White:
+      hex: '#E9EBF1'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/petg-white-high-strength-filament-1.75mm/sk/M-1VF-5877
+    Blue:
+      hex: '#0A5CFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/blue-mh-build-series-petg-filament-175mm-1kg/sk/M-S9R-X9GU
+    Silver:
+      hex: '#868FA6'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/silver-mh-build-series-petg-filament-175mm-1kg/sk/M-EGE-UHSN
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/petg-black-high-strength-filament-1.75mm/sk/M-3MY-2VQG
+  PLA Build:
+    Grey:
+      hex: '#6B6B6B'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/gray-mh-build-series-pla-filament-175mm-1kg/sk/M-PL0-Q8ZD
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/c/3d-printer-filament/mh-build-series-pla
+    Light Blue:
+      hex: '#77BCEE'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/c/3d-printer-filament/mh-build-series-pla
+    Brown:
+      hex: '#A55103'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/c/3d-printer-filament/mh-build-series-pla
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/c/3d-printer-filament/mh-build-series-pla
+    Dark Green:
+      hex: '#103102'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/c/3d-printer-filament/mh-build-series-pla
+    Natural:
+      hex: '#F7D4AB'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/c/3d-printer-filament/mh-build-series-pla
+    Purple:
+      hex: '#A700F5'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/c/3d-printer-filament/mh-build-series-pla
+    Orange:
+      hex: '#FF6F0B'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/c/3d-printer-filament/mh-build-series-pla
+    Forrest Green:
+      hex: '#669C35'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/forest-green-pla-filament-1.75mm/sk/MUAAMXWX
+    Navy Blue:
+      hex: '#17216B'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/navy-blue-mh-build-pla-filament-175mm-1kg/sk/M-W59-CY2X
+    Silver:
+      hex: '#808285'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/c/3d-printer-filament/mh-build-series-pla
+    Yellow:
+      hex: '#EBC100'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/175mm-pla-filament-yellow-1-kg/sk/M-4L4-74LS
+    Blue:
+      hex: '#0A5CFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/175mm-pla-filament-blue-1-kg/sk/MMQFQZ5S
+    White:
+      hex: '#FEFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/175mm-pla-filament-white-1-kg/sk/MEEDKTKU
+    Lime Green:
+      hex: '#75BA53'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/175mm-pla-filament-limegreen-1-kg/sk/M-XMH-A4WM
+  PLA+/Pro Pro:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/pro-series-pla/sk/MRP7Y07L
+    Light Blue:
+      hex: '#1991DC'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/pro-series-pla/sk/MRP7Y07L
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/pro-series-pla/sk/MRP7Y07L
+    Blue:
+      hex: '#1420C8'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/pro-series-pla/sk/MRP7Y07L
+    Red:
+      hex: '#C81E37'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/pro-series-pla/sk/MRP7Y07L
+    Firefly Green:
+      hex: '#95F505'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/pro-series-pla/sk/MRP7Y07L
+  TPU 95A:
+    White:
+      hex: '#FEFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/c/mh-build-series-tpu
+  PLA Galaxy:
+    Glow in the Dark (Galaxy):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PA12 CF:
+    NylonX-Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/nylonx-carbon-fiber-nylon-filament-1.75mm/sk/MD5LDGS7
+  PETG Translucent:
+    Orange:
+      hex: '#F9A006'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/translucent-orange-mh-build-series-petg-filament-175mm-1kg/sk/MDDHHJVW
+    Blue:
+      hex: '#0A5CFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/c/mh-build-series-petg
+    Clear:
+      hex: '#D5DDDC'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/3d-printer-filament/petg-clear-translucent-filament-1.75mm
+    Gray:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/listing/sk/MX9SD5D4
+    Purple:
+      hex: '#B40BF0'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/translucent-purple-mh-build-series-petg-filament-175mm-1kg/sk/MHPS4QSJ
+    Green:
+      hex: '#4F7A28'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/petg-green-high-strength-filament-1.75mm/sk/M-4ZS-NKL1
+    Red:
+      hex: '#831100'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/translucent-red-mh-build-series-petg-filament-175mm-1kg/sk/M-R7C-WHC4
+  TPU Build:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/clear-mh-build-series-tpu-flexible-filament-175mm-1kg/sk/MW6FL6C7
+  PLA Silk Magic:
+    Fuchsia Green:
+      hex: '#023B13,#E729F5'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/fuchsia-green-silky-mh-build-series-magic-pla-filament-175mm-1kg/sk/M-2PJ-N9ML
+    Blue Green:
+      hex: '#0A12F0,#08F7C7'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/listing/sk/MAAKX697
+  PETG Pro:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/pro-series-petg
+  TPU Pro:
+    Natural:
+      hex: '#EDE9E3'
+      source: 3dfilamentprofiles.com
+  PLA Pro:
+    Regolith Gray:
+      hex: '#4F4F4F'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/pro-series-pla/sk/MYELEYND
+    Light Blue:
+      hex: '#3598E2'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/pro-series-pla/sk/MG1PLCSK
+  PLA+/Pro Tough:
+    Jet Gray:
+      hex: '#515560'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/pro-series-tough-pla-filament/sk/
+  PLA+/Pro Translucent:
+    Ice Blue:
+      hex: '#A5B6CF'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/pro-series-pla/sk/M3PUVADS
+  PLA+/Pro Basic:
+    Midnight Blue:
+      hex: '#3E3D71'
+      source: 3dfilamentprofiles.com
+      link: https://www.matterhackers.com/store/l/pro-series-pla/sk/MCU8ZK2R

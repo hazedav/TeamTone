@@ -1,0 +1,276 @@
+Zyltech:
+  PLA Basic:
+    Ceramic White:
+      hex: '#E3E6ED'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+    Yellow:
+      hex: '#E4FE20'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+    Uncle Jessy's Gun Metal Silver:
+      hex: '#7A7D7B'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/metallic-pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+    Deep Blue:
+      hex: '#081D52'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+    Bronze:
+      hex: '#7A6A4C'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+    Green:
+      hex: '#64CF4C'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+    Milky White:
+      hex: '#DFE5EC'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-PLA-MLKYWH
+    Panhandle 3D Khaki:
+      hex: '#F0E68C'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+    Cocoa brown:
+      hex: '#6F5147'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+    Orange:
+      hex: '#FF7700'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+    Sea Glass Teal:
+      hex: '#A4D6D5'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+    Bahama Blue:
+      hex: '#6AD3F6'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+    Fluorescent Blue:
+      hex: '#0067AB'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+    Flourescent Blue:
+      hex: '#2A66EA'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-PLA-FLBL
+    Majestic Purple:
+      hex: '#5D378B'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-PLA-DPP
+    Fortress Gray:
+      hex: '#121212'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+    Glossy Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/5kg-texas-size-spool-pla-3d-printer-filament-1-75-mm-11-lbs/?sku=FMT-PLA-GBK5K
+    Gray:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-PLA-GRY
+    Pink:
+      hex: '#FFC0CB'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+    Cookie Love Pink:
+      hex: '#DF98D0'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-PLA-CL
+  PLA Silk:
+    Green:
+      hex: '#37954D'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/silk-pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-CPST-GNSLK
+    Cobalt Metallic Blue:
+      hex: '#3F74B1'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/metallic-pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-PLA-COBLU
+    Spinel:
+      hex: '#612E46'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/new-made-in-usa-silk-premium-pla-composite-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+    Gold:
+      hex: '#F3E3C3'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/silk-pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-CPST-WSLK
+    New Rainbow:
+      hex: '#08A88F,#8A6078,#CAE272,#CCB363'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/2024-rainbow-silk-series-pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-PLA-NRNB
+  PLA Marble:
+    Marble PLA:
+      hex: '#F1F3F3'
+      source: 3dfilamentprofiles.com
+  PLA Matte Dual:
+    Kings Cake:
+      hex: '#863F6E,#04BF09'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/dual-color-matte-pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+  PETG Basic:
+    Red:
+      hex: '#F50018'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/petg-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-PETG-RED
+    Gray:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/petg-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-PETG-GRY
+    Army Green:
+      hex: '#426C50'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/petg-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-PETG-ARMYGRN
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/petg-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-PETG-BLK
+    Yellow:
+      hex: '#FBFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/petg-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-PETG-YLW
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/petg-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-PETG-WHT
+    Maroon:
+      hex: '#611F25'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/petg-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-PETG-MRN
+    Green:
+      hex: '#5AD81F'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/petg-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-PETG-GRN
+    Purple:
+      hex: '#3B207F'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/petg-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-PETG-PUR
+    Uncle Jessy's Gun Metal Silver:
+      hex: '#7A7D7B'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/petg-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-PETG-MTSLV
+    Deep Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/petg-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-PETG-DBL
+    Orange:
+      hex: '#FCA103'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/petg-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-PETG-OR
+    Brown:
+      hex: '#7F5A4A'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/petg-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-PETG-BRN
+    Bright Green:
+      hex: '#42E437'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/petg-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-PETG-BGR
+    Transparent:
+      hex: '#E8E8E8'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/petg-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-PETG-CR
+  ABS Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/abs-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+    Red:
+      hex: '#FF4000'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/abs-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#939393'
+      source: 3dfilamentprofiles.com
+    Cherry Red:
+      hex: '#430313'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/abs-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+  PLA Metal:
+    Cobalt Blue:
+      hex: '#001299'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/metallic-pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+  PLA Silk Triple:
+    Coinage Metals:
+      hex: '#C32922,#C2C2D6,#FEAA4C'
+      source: 3dfilamentprofiles.com
+    Regal Vineyard:
+      hex: '#E63B7A,#00A9A9,#9B66F3'
+      source: 3dfilamentprofiles.com
+    Sunny Indigo:
+      hex: '#79D0E3,#7776BA,#E2EE5C'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/tri-color-silk-series-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-TRI-SNI
+    Amber Oxide:
+      hex: '#5E3A2C,#F7BE8F,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/tri-color-silk-series-3d-printer-filament-1-75mm-1-kg-2-2-lbs/?sku=FMT-TRI-AMO
+  PLA Silk Dual:
+    Emerald Water:
+      hex: '#1679CA,#4AC278'
+      source: 3dfilamentprofiles.com
+  PLA Silk Rainbow:
+    Macaron Medley:
+      hex: '#083500,#383000,#00484D,#614300'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/2024-rainbow-silk-series-pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+  PETG CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/petg-cf-carbon-fiber-reinforced-petg-3d-printer-filament-made-in-usa-1-75mm-1-kg-2-2-lbs/
+  PETG High Speed Matte:
+    Matte Blue:
+      hex: '#007EC8'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/high-speed-high-flow-matte-petg-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+    Matte Red:
+      hex: '#E46672'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/high-speed-high-flow-matte-petg-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+    Matte White:
+      hex: '#E5E7E6'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/high-speed-high-flow-matte-petg-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+    Matte Gray:
+      hex: '#7A777E'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/high-speed-high-flow-matte-petg-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+    Matte Yellow:
+      hex: '#DFE32E'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/high-speed-high-flow-matte-petg-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+  PLA CF:
+    Carbon Fiber Composite:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/carbon-fiber-pla-composite-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+  PLA Matte:
+    Matte Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/pla-3d-printer-filament-1-75mm-1-kg-2-2-lbs/
+  PETG GF:
+    Powertool Green:
+      hex: '#8FC242'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/petg-gf-glass-fiber-reinforced-petg-3d-printer-filament-made-in-usa-1-75mm-1-kg-2-2-lbs/
+  ASA Pro:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/asa-pro-3d-printer-filament-1-75mm-1kg-2-2-lbs/
+    Gray:
+      hex: '#969694'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/asa-pro-3d-printer-filament-1-75mm-1kg-2-2-lbs/
+  PLA Galaxy:
+    Galaxy Glitter:
+      hex: '#4B00FA'
+      source: 3dfilamentprofiles.com
+      link: https://www.zyltech.com/galaxy-glitter-pla-zyltech-3d-printer-filament-1-75-mm-1-kg-2-2-lbs/

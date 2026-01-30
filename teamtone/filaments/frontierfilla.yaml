@@ -1,0 +1,38 @@
+Frontierfilla:
+  PLA HT:
+    Bronze:
+      hex: '#996633'
+      source: 3dfilamentprofiles.com
+      link: http://frontierfilla.com
+    Blue:
+      hex: '#0000CC'
+      source: 3dfilamentprofiles.com
+      link: http://frontierfilla.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: http://frontierfilla.com
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: http://frontierfilla.com
+    Green:
+      hex: '#00FF33'
+      source: 3dfilamentprofiles.com
+      link: http://frontierfilla.com
+  PLA Basic:
+    Silver:
+      hex: '#999999'
+      source: 3dfilamentprofiles.com
+  PA12:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PA12 Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,11 @@
+SEPDANCE:
+  TPU Basic:
+    Green:
+      hex: '#00FFFF'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF8040'
+      source: 3dfilamentprofiles.com

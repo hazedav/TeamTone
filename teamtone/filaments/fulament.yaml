@@ -1,0 +1,17 @@
+Fulament:
+  PLA Matte:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Light Blue:
+      hex: '#427FB8'
+      source: 3dfilamentprofiles.com
+    white:
+      hex: '#F6FBFE'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#DFD930'
+      source: 3dfilamentprofiles.com
+    Dark Green:
+      hex: '#0F712F'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,29 @@
+Nanocaddo:
+  PLA Basic:
+    Terracotta:
+      hex: '#CB6843'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0080FF'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFFF80'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Kremowy:
+      hex: '#FFE7CC'
+      source: 3dfilamentprofiles.com
+    Granatowy:
+      hex: '#0000A0'
+      source: 3dfilamentprofiles.com
+    Zielony:
+      hex: '#00FF40'
+      source: 3dfilamentprofiles.com

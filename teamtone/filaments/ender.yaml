@@ -1,0 +1,108 @@
+Ender:
+  PLA+/Pro Basic:
+    Grey:
+      hex: '#B5BBBF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-1-75mm-pla-3d-printing-filament-1kg-vuug
+    Blue:
+      hex: '#3EA8F4'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-1-75mm-pla-3d-printing-filament-1kg-vuug
+    Beige:
+      hex: '#FFE4A8'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-1-75mm-pla-3d-printing-filament-1kg-vuug
+    Dark Red:
+      hex: '#8B0000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-1-75mm-pla-3d-printing-filament-1kg-vuug
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-1-75mm-pla-3d-printing-filament-1kg-vuug
+    Apple Green:
+      hex: '#00FF08'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-1-75mm-pla-3d-printing-filament-1kg-vuug
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-1-75mm-pla-3d-printing-filament-1kg-vuug
+    Orange:
+      hex: '#FF6600'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-1-75mm-pla-3d-printing-filament-1kg-vuug
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-1-75mm-pla-3d-printing-filament-1kg-vuug
+    Green:
+      hex: '#AFF181'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-1-75mm-pla-3d-printing-filament-1kg-vuug
+  PLA:
+    Grey:
+      hex: '#8B8F98'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#00B837'
+      source: 3dfilamentprofiles.com
+  PLA High Speed:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/uk/products/ender-fast-pla-1-75mm-3d-printing-filament-1kg
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/uk/products/ender-fast-pla-1-75mm-3d-printing-filament-1kg
+    Candy Pink:
+      hex: '#FF10F0'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/uk/products/ender-fast-pla-1-75mm-3d-printing-filament-1kg
+    Silver:
+      hex: '#7A7C7D'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/uk/products/ender-fast-pla-1-75mm-3d-printing-filament-1kg
+  PLA Basic:
+    Light Blue:
+      hex: '#52D6FC'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#8B8F98'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#2366BC'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Ender PLA Blue:
+      hex: '#2495DB'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-1-75mm-pla-3d-printing-filament-1kg?variant=49136870-23bb-40a1-94ac-6cad0a6ba8a2
+    Ender PLA Grey:
+      hex: '#7A7A7A'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-1-75mm-pla-3d-printing-filament-1kg?variant=49136870-23bb-40a1-94ac-6cad0a6ba8a2
+    Red:
+      hex: '#EE1717'
+      source: 3dfilamentprofiles.com
+    Ender PLA Yellow:
+      hex: '#F4F76E'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-1-75mm-pla-3d-printing-filament-1kg?variant=49136870-23bb-40a1-94ac-6cad0a6ba8a2
+    Ender PLA Red:
+      hex: '#C80404'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-1-75mm-pla-3d-printing-filament-1kg?variant=49136870-23bb-40a1-94ac-6cad0a6ba8a2
+  PLA+/Pro Rainbow:
+    Rainbow:
+      hex: '#E03C31,#F68B1E,#F2D035,#43B02A'
+      source: 3dfilamentprofiles.com

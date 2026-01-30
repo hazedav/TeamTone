@@ -1,0 +1,90 @@
+I3D Tested:
+  PLA Basic:
+    Verde Oscuro:
+      hex: '#015B13'
+      source: 3dfilamentprofiles.com
+      link: https://www.impresoras3d.com/producto/pla-impresoras3d-com-verde-oscuro-1-75-mm/
+    Rosa:
+      hex: '#F2B4F3'
+      source: 3dfilamentprofiles.com
+      link: https://www.impresoras3d.com/producto/pla-impresoras3d-com-rosa-1-75-mm/
+    Transparente:
+      hex: '#D6D6D7'
+      source: 3dfilamentprofiles.com
+      link: https://www.impresoras3d.com/producto/pla-impresoras3d-com-transparente-1-75-mm/
+    Azul Cielo:
+      hex: '#61BDFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.impresoras3d.com/producto/pla-impresoras3d-com-azul-cielo-1-75-mm/
+    Blanco:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.impresoras3d.com/producto/pla-impresoras3d-com-blanco-1-75-mm/
+    Negro:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.impresoras3d.com/producto/pla-impresoras3d-com-negro-1-75-mm/
+    Rojo:
+      hex: '#FF1A1A'
+      source: 3dfilamentprofiles.com
+      link: https://www.impresoras3d.com/producto/pla-impresoras3d-com-rojo-1-75-mm/
+    Amarillo:
+      hex: '#FCFF38'
+      source: 3dfilamentprofiles.com
+      link: https://www.impresoras3d.com/producto/pla-impresoras3d-com-amarillo-1-75-mm/
+    Naranja:
+      hex: '#FF7B00'
+      source: 3dfilamentprofiles.com
+      link: https://www.impresoras3d.com/producto/pla-impresoras3d-com-naranja-1-75-mm/
+    Mandarina:
+      hex: '#FFAE00'
+      source: 3dfilamentprofiles.com
+      link: https://www.impresoras3d.com/producto/pla-i3d-tested-mandarina-1-75-mm/
+    Marrón:
+      hex: '#695454'
+      source: 3dfilamentprofiles.com
+      link: https://www.impresoras3d.com/producto/pla-impresoras3d-com-marron-1-75-mm/
+    Piel:
+      hex: '#F3E2B4'
+      source: 3dfilamentprofiles.com
+      link: https://www.impresoras3d.com/producto/pla-impresoras3d-com-piel-1-75-mm/
+    Purpura:
+      hex: '#8B2DD7'
+      source: 3dfilamentprofiles.com
+      link: https://www.impresoras3d.com/producto/pla-impresoras3d-com-purpura-1-75-mm/
+    Verde Filameno:
+      hex: '#00FF33'
+      source: 3dfilamentprofiles.com
+      link: https://www.impresoras3d.com/producto/pla-impresoras3d-verde-filameno-175mm/
+  PLA Marble:
+    Efecto Marmol:
+      hex: '#C1DAEC'
+      source: 3dfilamentprofiles.com
+      link: https://www.impresoras3d.com/producto/pla-efecto-marmol-impresoras3d-com-1-75-mm/
+  PLA Glitter:
+    Glitter Negro:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.impresoras3d.com/producto/pla-negro-metalizado-impresoras3d-com-1-75-mm/
+    Glitter Verde:
+      hex: '#007A78'
+      source: 3dfilamentprofiles.com
+      link: https://www.impresoras3d.com/producto/pla-i3d-tested-glitter-verde-1-75-mm/
+    Glitter Azul:
+      hex: '#24488F'
+      source: 3dfilamentprofiles.com
+      link: https://www.impresoras3d.com/producto/pla-i3d-tested-glitter-azul-175-mm/
+  PLA Silk:
+    Rosa Seda:
+      hex: '#EB4ADA'
+      source: 3dfilamentprofiles.com
+      link: https://www.impresoras3d.com/producto/pla-i3d-tested-rosa-seda-1-75-mm/
+    Oro Seda:
+      hex: '#FAC80F'
+      source: 3dfilamentprofiles.com
+      link: https://www.impresoras3d.com/producto/pla-impresoras3d-com-oro-seda-1-75-mm/
+  PETG Basic:
+    Carbon Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.impresoras3d.com/producto/petg-i3d-tested-negro-carbon-black-175-mm/

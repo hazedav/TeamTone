@@ -1,0 +1,53 @@
+NinjaTek:
+  TPU 85A:
+    Sapphire:
+      hex: '#17397D'
+      source: 3dfilamentprofiles.com
+      link: https://ninjatek.com/shop/ninjaflex/
+    Snow:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://ninjatek.com/shop/ninjaflex/
+    Sun:
+      hex: '#FFE852'
+      source: 3dfilamentprofiles.com
+      link: https://ninjatek.com/shop/ninjaflex/
+    Fire:
+      hex: '#FF2424'
+      source: 3dfilamentprofiles.com
+      link: https://ninjatek.com/shop/ninjaflex/
+    Steel:
+      hex: '#71797E'
+      source: 3dfilamentprofiles.com
+      link: https://ninjatek.com/shop/ninjaflex/#print-guidelines
+    Green Grass NinjaFlex:
+      hex: '#05D61E'
+      source: 3dfilamentprofiles.com
+      link: https://ninjatek.com/shop/ninjaflex/
+    Midnight Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://ninjatek.com/shop/ninjaflex/
+    Neon (Glow):
+      hex: '#DBF5DB'
+      source: 3dfilamentprofiles.com
+      link: https://ninjatek.com/shop/ninjaflex/
+    Water Translucent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://ninjatek.com/shop/ninjaflex/
+  TPU 95A:
+    Sapphire:
+      hex: '#17397D'
+      source: 3dfilamentprofiles.com
+    Water:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://ninjatek.com/shop/cheetah
+    Lava Orange:
+      hex: '#F47209'
+      source: 3dfilamentprofiles.com
+  TPE Basic:
+    black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

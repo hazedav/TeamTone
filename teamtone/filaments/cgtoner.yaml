@@ -1,0 +1,11 @@
+cgtoner:
+  PETG Basic:
+    Red:
+      hex: '#E42631'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#EABD2E'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

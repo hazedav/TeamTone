@@ -1,0 +1,19 @@
+X3D:
+  PLA+/Pro Pro:
+    Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+      link: https://x3d.com.au/products/x3d-pro-pla-1-75mm-1kg-filament?variant=33791663833226
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://x3d.com.au/products/x3d-pro-pla-1-75mm-1kg-filament?variant=33791663833226
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://x3d.com.au/products/x3d-pro-pla-1-75mm-1kg-filament?variant=33791663833226
+  PLA+/Pro Glow:
+    Green:
+      hex: '#80FF80'
+      source: 3dfilamentprofiles.com
+      link: https://x3d.com.au/products/x3d-pro-pla-1-75mm-1kg-filament?variant=33791663833226

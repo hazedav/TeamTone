@@ -1,0 +1,22 @@
+GNVTNTP:
+  PLA Silk Triple:
+    Silk Magic - Green Purple Copper:
+      hex: '#009735,#7343F1,#9D3C00'
+      source: 3dfilamentprofiles.com
+    Rainbow Dark:
+      hex: '#7D0808,#09530A,#004A80'
+      source: 3dfilamentprofiles.com
+    Purple/Blue/Green:
+      hex: '#942192,#0433FF,#00F900'
+      source: 3dfilamentprofiles.com
+  PLA Matte Rainbow:
+    Matte Magic - Yellow Purple Pink:
+      hex: '#FCEE3F,#6411D5,#DB24B7'
+      source: 3dfilamentprofiles.com
+    Matte Magic - Red Green Blue:
+      hex: '#EF3A3A,#00C600,#1735C1'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Rainbow Dark:
+      hex: '#720808,#003D0C,#004475'
+      source: 3dfilamentprofiles.com

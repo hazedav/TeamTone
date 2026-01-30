@@ -1,0 +1,57 @@
+IC3D:
+  PETG Recycled:
+    Natural (Clear):
+      hex: '#FCFCFC'
+      source: 3dfilamentprofiles.com
+      link: https://www.ic3dprinters.com/shop/recycled-petg/
+    Translucent Watermelon:
+      hex: '#FC6C85'
+      source: 3dfilamentprofiles.com
+      link: https://www.ic3dprinters.com/shop/recycled-petg/
+    Translucent Honey:
+      hex: '#FFB100'
+      source: 3dfilamentprofiles.com
+      link: https://www.ic3dprinters.com/shop/recycled-petg/
+    Translucent Grape:
+      hex: '#6F2DA8'
+      source: 3dfilamentprofiles.com
+      link: https://www.ic3dprinters.com/shop/recycled-petg/
+    Translucent Cherry:
+      hex: '#AA0925'
+      source: 3dfilamentprofiles.com
+      link: https://www.ic3dprinters.com/shop/recycled-petg/
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.ic3dprinters.com/shop/recycled-petg/
+    Translucent Blue Razz:
+      hex: '#027592'
+      source: 3dfilamentprofiles.com
+      link: https://www.ic3dprinters.com/shop/recycled-petg/
+  PETG:
+    UV-R Charcoal:
+      hex: '#2A2C2D'
+      source: 3dfilamentprofiles.com
+      link: https://www.ic3dprinters.com/shop/uv-petg-filament/
+    UV Resistant Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.ic3dprinters.com/shop/uv-petg-filament/
+    Anti-Microbial:
+      hex: '#5E6468'
+      source: 3dfilamentprofiles.com
+      link: https://www.ic3dprinters.com/ic3d/wp-content/uploads/2020/08/PETG-Anti-M-TDS-2020.08.pdf
+  PLA Basic:
+    Orange:
+      hex: '#F39D3F'
+      source: 3dfilamentprofiles.com
+  PLA Tough:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.ic3dprinters.com/shop/impact-modified-pla/
+  ABS Basic:
+    Orange:
+      hex: '#CF4F21'
+      source: 3dfilamentprofiles.com
+      link: https://www.ic3dprinters.com/shop/abs-filaments/

@@ -1,0 +1,14 @@
+NuNus:
+  PLA Basic:
+    Rot:
+      hex: '#F50000'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.nunus-filamente.de/produkt/petg-filament-2kg-175mm-weiss/
+    translucent blue:
+      hex: '#2B4FA3'
+      source: 3dfilamentprofiles.com
+      link: https://www.nunus-filamente.de/produkt/nunus-petg-filament-175mm-fuer-3d-drucker-qualitaet-praezision-und-lebensmittelecht/

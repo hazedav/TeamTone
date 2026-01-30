@@ -1,0 +1,173 @@
+Filament PM:
+  PLA Silk:
+    Dark pink:
+      hex: '#C71C89'
+      source: 3dfilamentprofiles.com
+    Sunny yellow:
+      hex: '#FFF700'
+      source: 3dfilamentprofiles.com
+      link: https://www.filament-pm.cz/silk-sunny-yellow-1-75-mm-1-kg/p381
+  PLA+/Pro:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://shop.filament-pm.com/pla-black-1-75-mm-1-kg/p250
+  ASA Premium:
+    Natur:
+      hex: '#B2B4B2'
+      source: 3dfilamentprofiles.com
+      link: https://shop.filament-pm.com/asa-natur-1-75-mm-2-kg/p284
+  PLA Basic:
+    Pearl Blue:
+      hex: '#006298'
+      source: 3dfilamentprofiles.com
+    Pearl Red:
+      hex: '#C9374B'
+      source: 3dfilamentprofiles.com
+    Graphite Black:
+      hex: '#333132'
+      source: 3dfilamentprofiles.com
+    Pearl Green:
+      hex: '#007022'
+      source: 3dfilamentprofiles.com
+    Fluorescent Orange:
+      hex: '#EE7959'
+      source: 3dfilamentprofiles.com
+    Hot Pink:
+      hex: '#F35E8A'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#3A88FE'
+      source: 3dfilamentprofiles.com
+    Copper:
+      hex: '#FF8000'
+      source: 3dfilamentprofiles.com
+      link: https://shop.filament-pm.com/pla-copper-1-75-mm-1-kg/p65
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://shop.filament-pm.com/pla-copper-1-75-mm-1-kg/p65
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#583400'
+      source: 3dfilamentprofiles.com
+      link: https://www.filament-pm.cz/pla-hneda-1-75-mm-1-kg/p79
+  PLA+/Pro Basic:
+    Lithophane:
+      hex: '#D7D2CB'
+      source: 3dfilamentprofiles.com
+      link: https://shop.filament-pm.com/pla-lithophane-1-75-mm-1-kg/p320
+    Woodland Green:
+      hex: '#233214'
+      source: 3dfilamentprofiles.com
+      link: https://shop.filament-pm.com/pla-army-edition-woodland-green-1-75-mm-1-kg/p276
+    Fresh Lime:
+      hex: '#D9EC37'
+      source: 3dfilamentprofiles.com
+      link: https://shop.filament-pm.com/pla-summer-edition-fresh-lime-1-75-mm-1-kg/p295
+    Desert Beige:
+      hex: '#E6C79B'
+      source: 3dfilamentprofiles.com
+      link: https://www.filament-pm.cz/pla-army-edice-desert-beige-1-75-mm-1-kg/p275
+  PETG Translucent:
+    Translucent Red:
+      hex: '#CB333B'
+      source: 3dfilamentprofiles.com
+    Blue Transparant:
+      hex: '#0000A0'
+      source: 3dfilamentprofiles.com
+      link: https://shop.filament-pm.com/petg-transparent-blue-1-75-mm-1-kg/p54
+    Transparent Orange:
+      hex: '#FF5C00'
+      source: 3dfilamentprofiles.com
+      link: https://www.filament-pm.cz/petg-transparentni-oranzova-1-75-mm-1-kg/p286
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#C37304'
+      source: 3dfilamentprofiles.com
+    Brown Transparant:
+      hex: '#400000'
+      source: 3dfilamentprofiles.com
+      link: https://shop.filament-pm.com/petg-transparent-brown-1-75-mm-1-kg/p56
+    Froggy Gold:
+      hex: '#6B665E'
+      source: 3dfilamentprofiles.com
+      link: https://shop.filament-pm.com/petg-metalic-edition-froggy-gold-1-75-mm-1kg/p345
+  PLA Wood:
+    WoodJet Natural:
+      hex: '#635036'
+      source: 3dfilamentprofiles.com
+  PLA:
+    Pearl Red:
+      hex: '#9A244F'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Matte:
+    Bubblegum Pink:
+      hex: '#FFCEE7'
+      source: 3dfilamentprofiles.com
+      link: https://shop.filament-pm.com/pla-pastel-edition-bubblegum-pink-1-75-mm-1-kg/p244
+    Sweet Mint:
+      hex: '#A1E3E1'
+      source: 3dfilamentprofiles.com
+      link: https://shop.filament-pm.com/pla-pastel-edition-sweet-mint-1-75-mm-1-kg/p242
+    Baby Blue:
+      hex: '#77CADF'
+      source: 3dfilamentprofiles.com
+    Banana Yellow:
+      hex: '#FFF385'
+      source: 3dfilamentprofiles.com
+      link: https://shop.filament-pm.com/pla-pastel-edition-banana-yellow-1-75-mm-1-kg/p245
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://shop.filament-pm.com/pla-white-1-75-mm-1-kg/p251
+  ABS+ Tough:
+    Gold:
+      hex: '#C78542'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://shop.filament-pm.com/abs-t-black-1-75-mm-1-kg/p40
+  PETG Blend:
+    Black Transparent:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.filament-pm.cz/petg-transparentni-cerna-1-75-mm-1-kg/p369
+  TPE 85A:
+    Red:
+      hex: '#F03838'
+      source: 3dfilamentprofiles.com
+      link: https://www.filament-pm.com/
+  PLA Marble:
+    Light:
+      hex: '#FCFBF7'
+      source: 3dfilamentprofiles.com
+      link: https://shop.filament-pm.com/pla-marblejet-light-1-75-mm-0-5-kg/p164
+  PETG:
+    Coffee Bronze:
+      hex: '#400000'
+      source: 3dfilamentprofiles.com
+      link: https://shop.filament-pm.com/petg-metallic-edition-coffee-bronze-1-75-mm-1-kg/p346
+  PETG MetalFil:
+    Froggy Gold:
+      hex: '#EFEAAE'
+      source: 3dfilamentprofiles.com
+  PC Blend:
+    Grey:
+      hex: '#DDEDF8'
+      source: 3dfilamentprofiles.com
+      link: https://shop.filament-pm.com/pc-abs-grey-1-75-mm-1-kg/p47
+  PLA+/Pro Wood:
+    Natur:
+      hex: '#A39382'
+      source: 3dfilamentprofiles.com
+      link: https://www.filament-pm.cz/pla-woodjet-natur-1-75-mm-0-5-kg/p269

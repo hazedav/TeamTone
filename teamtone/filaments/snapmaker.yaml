@@ -1,0 +1,137 @@
+Snapmaker:
+  PLA High Speed:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://us.snapmaker.com/collections/3d-printer-filament/products/snapspeed-pla-filament
+    Pearl White:
+      hex: '#E2DEDB'
+      source: 3dfilamentprofiles.com
+      link: https://us.snapmaker.com/products/snapspeed-pla-filament?variant=46683036188859
+    Red:
+      hex: '#E72F1D'
+      source: 3dfilamentprofiles.com
+      link: https://us.snapmaker.com/products/snapspeed-pla-filament?variant=46683036287163
+    Green:
+      hex: '#2D9E59'
+      source: 3dfilamentprofiles.com
+      link: https://us.snapmaker.com/products/snapspeed-pla-filament?variant=46683036319931
+    Blue:
+      hex: '#003776'
+      source: 3dfilamentprofiles.com
+      link: https://us.snapmaker.com/products/snapspeed-pla-filament?variant=46683036352699
+    Black:
+      hex: '#080A0D'
+      source: 3dfilamentprofiles.com
+      link: https://us.snapmaker.com/products/snapspeed-pla-filament?variant=46683036221627
+    Yellow:
+      hex: '#F4C032'
+      source: 3dfilamentprofiles.com
+      link: https://us.snapmaker.com/products/snapspeed-pla-filament?variant=46683036418235
+    Orange:
+      hex: '#F97429'
+      source: 3dfilamentprofiles.com
+      link: https://us.snapmaker.com/products/snapspeed-pla-filament?variant=46683036385467
+    Purple:
+      hex: '#6C5BB1'
+      source: 3dfilamentprofiles.com
+      link: https://us.snapmaker.com/products/snapspeed-pla-filament?variant=46683036451003
+    Brown:
+      hex: '#6F4C2F'
+      source: 3dfilamentprofiles.com
+      link: https://us.snapmaker.com/products/snapspeed-pla-filament?variant=46683036483771
+    Grey:
+      hex: '#8C9099'
+      source: 3dfilamentprofiles.com
+      link: https://us.snapmaker.com/products/snapspeed-pla-filament?variant=46683036254395
+  PLA Matte:
+    Lava Orange:
+      hex: '#F78E0E'
+      source: 3dfilamentprofiles.com
+      link: https://eu.snapmaker.com/products/matte-pla-filament?variant=43557335433355
+    Engine Red:
+      hex: '#DE0D0D'
+      source: 3dfilamentprofiles.com
+    Pine Green:
+      hex: '#519F61'
+      source: 3dfilamentprofiles.com
+      link: https://us.snapmaker.com/products/matte-pla-filament?variant=46683035664571
+    Ivory White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://us.snapmaker.com/products/matte-pla-filament
+    Wood:
+      hex: '#9C927C'
+      source: 3dfilamentprofiles.com
+    Ash Gray:
+      hex: '#7D7D7D'
+      source: 3dfilamentprofiles.com
+    Celestial Blue:
+      hex: '#8BD5EE'
+      source: 3dfilamentprofiles.com
+    Sakura Pink:
+      hex: '#F4A4C0'
+      source: 3dfilamentprofiles.com
+    Carbon Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.snapmaker.com/products/matte-pla-filament
+    Moss Mist:
+      hex: '#C9E6B6'
+      source: 3dfilamentprofiles.com
+    Sunburst Yellow:
+      hex: '#F0BE02'
+      source: 3dfilamentprofiles.com
+      link: https://eu.snapmaker.com/products/matte-pla-filament?variant=43557335367819
+  PETG Basic:
+    Red:
+      hex: '#A80008'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#4169E1'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.snapmaker.com/products/pla-filament-1kg?variant=40891377909947
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Glow in the dark Green:
+      hex: '#39FF14'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://us.snapmaker.com/products/pla-filament-1kg?variant=40891377942715
+  TPU:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Support:
+    Breakaway Support White:
+      hex: '#E3E4DF'
+      source: 3dfilamentprofiles.com
+      link: https://us.snapmaker.com/products/breakaway-support-for-pla-500g
+  TPU Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Wood:
+      hex: '#D2B48C'
+      source: 3dfilamentprofiles.com
+  PLA Panchroma Matte:
+    Sunrise Orange:
+      hex: '#F88B17'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Yellow:
+      hex: '#FBE800'
+      source: 3dfilamentprofiles.com
+      link: https://eu.snapmaker.com/de/collections/3d-printer-filament/products/tpu-filament-1kg

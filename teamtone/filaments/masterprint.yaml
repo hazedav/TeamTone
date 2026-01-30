@@ -1,0 +1,9 @@
+Masterprint:
+  PETG Basic:
+    Branco:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA High Speed:
+    Branco:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com

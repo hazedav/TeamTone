@@ -1,0 +1,43 @@
+Noulei:
+  PLA Basic:
+    Silver:
+      hex: '#858585'
+      source: 3dfilamentprofiles.com
+    Antique Gold:
+      hex: '#A79539'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Canal Blue:
+      hex: '#73FCD6'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#96D35F'
+      source: 3dfilamentprofiles.com
+    Light Blue:
+      hex: '#3A88FE'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Gold:
+      hex: '#FFBB00'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#7B2FB9'
+      source: 3dfilamentprofiles.com
+    Copper:
+      hex: '#862D00'
+      source: 3dfilamentprofiles.com
+  TPU Flexible:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Deep Red:
+      hex: '#C70000'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Yellow:
+      hex: '#C3D117'
+      source: 3dfilamentprofiles.com
+  PLA Silk-Like:
+    Rose Gold:
+      hex: '#B86B77'
+      source: 3dfilamentprofiles.com

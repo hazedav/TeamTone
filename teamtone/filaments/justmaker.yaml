@@ -1,0 +1,135 @@
+JUSTMAKER:
+  PLA+/Pro Matte:
+    Clay:
+      hex: '#9A8765'
+      source: 3dfilamentprofiles.com
+    Olive Green:
+      hex: '#426300'
+      source: 3dfilamentprofiles.com
+    Navy Blue:
+      hex: '#005787'
+      source: 3dfilamentprofiles.com
+    Chelsea Red:
+      hex: '#792123'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Mustard Green:
+      hex: '#A6A056'
+      source: 3dfilamentprofiles.com
+    Kraft:
+      hex: '#D5C798'
+      source: 3dfilamentprofiles.com
+    Orange Red:
+      hex: '#D3693A'
+      source: 3dfilamentprofiles.com
+    cherry red:
+      hex: '#BB4B53'
+      source: 3dfilamentprofiles.com
+    Maple Red:
+      hex: '#C82D2D'
+      source: 3dfilamentprofiles.com
+  PLA CF:
+    Dark Green:
+      hex: '#009483'
+      source: 3dfilamentprofiles.com
+  TPU 64D:
+    Transparent White:
+      hex: '#EBEBEB'
+      source: 3dfilamentprofiles.com
+    Rattan Purple 2655c:
+      hex: '#F8D3FD'
+      source: 3dfilamentprofiles.com
+    Shy Pink:
+      hex: '#FFB591'
+      source: 3dfilamentprofiles.com
+    Army Green:
+      hex: '#4B5320'
+      source: 3dfilamentprofiles.com
+    Pantone 2735c:
+      hex: '#2E008B'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    PLA Glow In The Dark:
+      hex: '#ECF2F3'
+      source: 3dfilamentprofiles.com
+  PLA Metal:
+    Coffee Gold:
+      hex: '#AA6443'
+      source: 3dfilamentprofiles.com
+    Champaign Gold:
+      hex: '#D4CCBE'
+      source: 3dfilamentprofiles.com
+    Blue 8203c:
+      hex: '#2FA5F9'
+      source: 3dfilamentprofiles.com
+    Rose Gold:
+      hex: '#9E6B66'
+      source: 3dfilamentprofiles.com
+  PLA Gradient Matte:
+    Baby Blue/White:
+      hex: '#8BE6E6'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Forest Greent:
+      hex: '#22311D'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PETG GF:
+    Mgm:
+      hex: '#785800'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Bronze:
+      hex: '#B08D57'
+      source: 3dfilamentprofiles.com
+    Silk Silver:
+      hex: '#B5AFAA'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#FFA914'
+      source: 3dfilamentprofiles.com
+  TPU 68D (For AMS):
+    Transparent White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Ice Blue:
+      hex: '#7FDEF5'
+      source: 3dfilamentprofiles.com
+    Milk Green:
+      hex: '#D9EBD3'
+      source: 3dfilamentprofiles.com
+    Rattan Purple:
+      hex: '#B589D2'
+      source: 3dfilamentprofiles.com
+    Slender Green:
+      hex: '#C1F0DA'
+      source: 3dfilamentprofiles.com
+    Lavender:
+      hex: '#C1B1ED'
+      source: 3dfilamentprofiles.com
+    Coral Pink:
+      hex: '#E2A7E6'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Burgundy Red (201c):
+      hex: '#5C0700'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Skin:
+      hex: '#FFDBAC'
+      source: 3dfilamentprofiles.com
+    Bronze:
+      hex: '#B08D57'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,108 @@
+Pinball:
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#7D7F7C'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF9D2E'
+      source: 3dfilamentprofiles.com
+    Grass Green:
+      hex: '#00FF4C'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#009DFF'
+      source: 3dfilamentprofiles.com
+    Red, Yellow, Blue, Green 4Pack:
+      hex: '#FF0000,#FFF700,#009DFF,#2F9721'
+      source: 3dfilamentprofiles.com
+    Skin:
+      hex: '#E5B5A1'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Transparent:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Forest Green:
+      hex: '#2F9721'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#C900CC'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+    Cherry Blossom Pink:
+      hex: '#F89AF9'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Coffee:
+      hex: '#785700'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Black Gray:
+      hex: '#43454C'
+      source: 3dfilamentprofiles.com
+    Copper:
+      hex: '#794B35'
+      source: 3dfilamentprofiles.com
+    Bright Gold:
+      hex: '#FFD031'
+      source: 3dfilamentprofiles.com
+    Copper Silk:
+      hex: '#8C4F31'
+      source: 3dfilamentprofiles.com
+    Rainbow Afterglow:
+      hex: '#FFD1FB,#E8CCFF,#C8FEFD'
+      source: 3dfilamentprofiles.com
+    Bright Silver:
+      hex: '#A6B0BA'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Blue/Red:
+      hex: '#025692,#E00B2B'
+      source: 3dfilamentprofiles.com
+    Blue, Silver:
+      hex: '#CBF0FF,#858585'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Red-Green-Blue:
+      hex: '#FF0000,#2F9721,#009DFF'
+      source: 3dfilamentprofiles.com
+    Red / Gold / Purple:
+      hex: '#FF37FF,#D1E000,#FF0000'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Grey:
+      hex: '#C5C9C1'
+      source: 3dfilamentprofiles.com
+    Cherry Pink:
+      hex: '#EEC3C5'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#00A8F1'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#009C61'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#CE261B'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#060503'
+      source: 3dfilamentprofiles.com

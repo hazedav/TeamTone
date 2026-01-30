@@ -1,0 +1,29 @@
+3D Warhorse:
+  PLA+/Pro Silk:
+    SILK BLACK:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Black Gray:
+      hex: '#262626'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Silver:
+      hex: '#CCCCCC'
+      source: 3dfilamentprofiles.com
+    LightGold:
+      hex: '#FFCC00'
+      source: 3dfilamentprofiles.com
+    Silk Copper:
+      hex: '#FFB675'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Gray:
+      hex: '#767171'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Marble:
+    Marble:
+      hex: '#EBEBEB'
+      source: 3dfilamentprofiles.com

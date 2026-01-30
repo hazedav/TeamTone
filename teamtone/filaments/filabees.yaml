@@ -1,0 +1,38 @@
+FilaBees:
+  PLA Silk Dual:
+    Burn Titanium:
+      hex: '#610DFD,#002E03'
+      source: 3dfilamentprofiles.com
+    Fusion Blue Green:
+      hex: '#212887,#217331'
+      source: 3dfilamentprofiles.com
+  PLA Sparkle:
+    Marsala:
+      hex: '#591452'
+      source: 3dfilamentprofiles.com
+  PETG High Speed:
+    Transparent Yellow:
+      hex: '#FED874'
+      source: 3dfilamentprofiles.com
+  ASA Multicolor:
+    Burnt Titanium:
+      hex: '#2D2C46'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Green:
+      hex: '#002E03'
+      source: 3dfilamentprofiles.com
+    Light Blue:
+      hex: '#A7C7E7'
+      source: 3dfilamentprofiles.com
+  ASA Sparkle:
+    Sparkling White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  ASA CF:
+    Dark Blue:
+      hex: '#00008B'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

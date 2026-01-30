@@ -1,0 +1,10 @@
+3Dmensionals:
+  PLA Basic:
+    white:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dmensionals.de/3dmensionals-pla-filament-4700
+    black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dmensionals.de/3dmensionals-pla-filament-4700

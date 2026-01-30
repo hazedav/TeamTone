@@ -1,0 +1,12 @@
+PolyMate:
+  PETG Matte:
+    Matte White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Dark Orange:
+      hex: '#FF8000'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#201E8A'
+      source: 3dfilamentprofiles.com

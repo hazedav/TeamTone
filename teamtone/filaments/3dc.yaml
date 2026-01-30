@@ -1,0 +1,39 @@
+3DC:
+  PLA Silk:
+    Purple:
+      hex: '#52017E'
+      source: 3dfilamentprofiles.com
+    Black Silk:
+      hex: '#232425'
+      source: 3dfilamentprofiles.com
+      link: https://3dcentral.com.au/products/3dc-premium-pla-silk-filament
+    Red:
+      hex: '#CC0000'
+      source: 3dfilamentprofiles.com
+      link: https://3dcentral.com.au/products/3dc-premium-pla-silk-filament?variant=45373915594883
+  PLA Basic:
+    Deep Blue:
+      hex: '#072A6C'
+      source: 3dfilamentprofiles.com
+      link: https://3dcentral.com.au/products/3dc-standard-pla?variant=45653475950723
+    Grey:
+      hex: '#D9D9D9'
+      source: 3dfilamentprofiles.com
+      link: https://3dcentral.com.au/products/3dc-standard-pla?variant=45433482379395
+    Indigo Purple:
+      hex: '#3D006C'
+      source: 3dfilamentprofiles.com
+      link: https://3dcentral.com.au/products/3dc-standard-pla?variant=45500131573891
+    Mistletoe Green:
+      hex: '#2E7759'
+      source: 3dfilamentprofiles.com
+      link: https://3dcentral.com.au/products/3dc-standard-pla?variant=45500195471491
+    Magenta:
+      hex: '#E600E6'
+      source: 3dfilamentprofiles.com
+      link: https://3dcentral.com.au/products/3dc-standard-pla?variant=45605173198979
+  PLA Silk Dual:
+    Blue/Silver:
+      hex: '#2D82D7,#E4EFFA'
+      source: 3dfilamentprofiles.com
+      link: https://3dcentral.com.au/products/3dc-premium-pla-dual-colour-silk-filament?variant=45550166835331

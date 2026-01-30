@@ -1,0 +1,447 @@
+Fiberlogy:
+  PLA Recycled:
+    Anthracite:
+      hex: '#292927'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/R-PLA-Filament-1_75mm-0_85kg#variantOptions=44:1757
+  PLA Easy:
+    Orange:
+      hex: '#FF6600'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/filament-easy-pla/
+    Graphite:
+      hex: '#404040'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/filament-easy-pla/
+    Brick:
+      hex: '#8B4F39'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/filament-easy-pla/
+    Natural:
+      hex: '#D5DADC'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/filament-easy-pla/
+    SkinTone#1:
+      hex: '#D69494'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/filament-easy-pla/
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/filament-easy-pla/
+    Galaxy Purple:
+      hex: '#30246B'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/filament-easy-pla/
+    Cyan:
+      hex: '#36A1B0'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/filament-easy-pla/
+    Brown:
+      hex: '#46230C'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/filament-easy-pla/
+    Beige:
+      hex: '#CEC597'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/filament-easy-pla/
+    Gray:
+      hex: '#858585'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/filament-easy-pla/
+    Pastel Lilac:
+      hex: '#BF9BDE'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/filament-easy-pla/
+    Old Gold:
+      hex: '#A57E3D'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/filament-easy-pla/
+    Granite:
+      hex: '#5E605D'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/filament-easy-pla/
+    Burgundy:
+      hex: '#971B2F'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/filament-easy-pla/
+    Yellow:
+      hex: '#D9E713'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/filament-easy-pla/
+    Midnight Sky:
+      hex: '#160078'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/filament-easy-pla/
+    Vertigo:
+      hex: '#292929'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/filament-easy-pla/
+    Spectra blue:
+      hex: '#2C4F66'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.com/fiberlogy/easy-pla-spectra-blue
+    Onyx Gold:
+      hex: '#212121'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.com/fiberlogy/easy-pla-onyx-gold
+    True Gold:
+      hex: '#CB882D'
+      source: 3dfilamentprofiles.com
+      link: https://www.hobbistycznie.pl/product/Filament-Fiberlogy-Easy-PLA-True-Gold-1-75mm-0-85kg-s104285
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/pl/filamenty/filament-easy-pla/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/filament-easy-pla/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/filament-easy-pla/
+    Alien Green:
+      hex: '#1A564B'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/filament-easy-pla/
+    Pastel Pink:
+      hex: '#FFCCCC'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/filament-easy-pla/
+    Red Orange:
+      hex: '#F6421F'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/filament-easy-pla/
+  PETG Easy:
+    Translucent:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/Easy-PETG-Filament-1_75mm-0_85kg#variantOptions=44:1752
+    Orange:
+      hex: '#FF6800'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/easy-pet-g/
+    Pastel Yellow:
+      hex: '#EDED93'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/easy-pet-g/
+    Onyx:
+      hex: '#212121'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/de/filamente/easy-pet-g/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/Easy-PETG-Filament-1_75mm-0_85kg#variantOptions=44:1752
+    Gray:
+      hex: '#BBBCBC'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/easy-pet-g/
+    Pastel Mint Green:
+      hex: '#90F9F2'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/Matte-PETG-Filament-1_75mm-0_85kg#variantOptions=44:1694
+    Navy Blue Transparent:
+      hex: '#0002BB'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/pl/Filament-Fiberlogy-Easy-PET-G-1_75-mm-0_85-kg#variantOptions=44:1605
+    Vertigo:
+      hex: '#282828'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/easy-pet-g/
+    Pastel Lila:
+      hex: '#DB80D8'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/easy-pet-g/
+    Graphit:
+      hex: '#53565A'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/de/filamente/easy-pet-g/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/Easy-PETG-Filament-1_75mm-0_85kg#variantOptions=44:1752
+  ABS+ Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/absplus/
+    Red:
+      hex: '#D50032'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/absplus/
+  ASA Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFD100'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/ASA-Filament-1_75mm-0_75kg#variantOptions=44:1613
+    Inox:
+      hex: '#969AA3'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/de/filamente/asa/
+  TPU:
+    FiberFlex 40D Green:
+      hex: '#37FF00'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/flexible-filament-fiberflex-30d/
+    Mattflex 40D:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/flexible-filament-fiberflex-30d/
+    Fiber Flex 30D Graphite:
+      hex: '#545454'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/flexible-filament-fiberflex-30d/
+    FiberFlex 40D Pink:
+      hex: '#E3026E'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/flexible-filament-fiberflex-30d/
+    FiberFlex 40D Light Green:
+      hex: '#82E557'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/flexible-filament-fiberflex-30d/
+    FiberFlex 40D Burgundy:
+      hex: '#74163B'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/flexible-filament-fiberflex-30d/
+    FiberFlex 40D Yellow:
+      hex: '#EEE71B'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/flexible-filament-fiberflex-30d/
+    FiberFlex 40D:
+      hex: '#787878'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/flexible-filament-fiberflex-30d/
+    FiberFlex 30D Pink:
+      hex: '#E3026E'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/flexible-filament-fiberflex-30d/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/pl/Filament-Fiberlogy-FiberFlex-30D-1_75-mm-0_85-kg
+  PLA Tough:
+    Black:
+      hex: '#3B3A3A'
+      source: 3dfilamentprofiles.com
+  CPE HT:
+    Transparent:
+      hex: '#EDF0F3'
+      source: 3dfilamentprofiles.com
+  PLA Crystal:
+    Clear Pink:
+      hex: '#DB2956'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Fiberwood:
+      hex: '#7F2F2F'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PCTG:
+    Onyx:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/pctg-filament/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/pl/filamenty/filament-pctg/
+  PLA Silk:
+    Silver:
+      hex: '#BBBCBC'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/silk-filament/
+    Inox:
+      hex: '#89939A'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en_US/c/FiberSilk/184
+    Brass:
+      hex: '#B5A642'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/silk-filament/
+    Copper:
+      hex: '#B87333'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/silk-filament/
+    Pearl:
+      hex: '#FFFEEB'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en_US/c/FiberSilk/184
+    Gold:
+      hex: '#E5C100'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/silk-filament/
+  PLA:
+    Mineral White:
+      hex: '#F0F0F0'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/filament-pla-mineral/
+    Mineral - Natural:
+      hex: '#EFDABF'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/PLA-Mineral-Filament-1_75mm-0_85kg#variantOptions=44:1782
+  PVB Basic:
+    FiberSmooth Red:
+      hex: '#E12222'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/fibersmooth-pvb-filament/
+    FiberSmooth White:
+      hex: '#E2E1E1'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/fibersmooth-pvb-filament/
+    FiberSmooth Graphite:
+      hex: '#8C9097'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/fibersmooth-pvb-filament/
+  PLA Matte:
+    Pastel Mint Green:
+      hex: '#90F9F2'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/Matte-PLA-Filament-1_75mm-0_85kg#variantOptions=44:1706
+    Beige:
+      hex: '#D6AF9A'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/Matte-PLA-Filament-1_75mm-0_85kg#variantOptions=44:1699
+    'Skin #2':
+      hex: '#AA7D64'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/Matte-PLA-Filament-1_75mm-0_85kg#variantOptions=44:1711
+    Pastel Blue:
+      hex: '#AACBE4'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/Matte-PLA-Filament-1_75mm-0_85kg#variantOptions=44:1704
+    Pastel Yellow:
+      hex: '#E4DCAA'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/Matte-PLA-Filament-1_75mm-0_85kg#variantOptions=44:1708
+    Pastel Lila:
+      hex: '#CDAAE4'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/Matte-PLA-Filament-1_75mm-0_85kg#variantOptions=44:1705
+  ABS Basic:
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/abs/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/abs/
+    Gray:
+      hex: '#919191'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/pl/Filament-Fiberlogy-ABS-1_75-mm-0_85-kg#variantOptions=44:1598
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/abs/
+  PCTG Translucent:
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/pctg-filament/
+    Red:
+      hex: '#9D0202'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/pctg-filament/
+  ASA Matte:
+    Gray:
+      hex: '#BBBCBC'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/de/filamente/matte-asa/
+    Graphite:
+      hex: '#53565A'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/de/filamente/matte-asa/
+  PCTG CF:
+    Black:
+      hex: '#323639'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/pctg-cf-filament/
+  TPU 40D:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/pl/filamenty/elastyczny-filament-fiberflex-40d/
+    FiberFlex 40D Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/FiberFlex-40D-Filament-1_75mm-0_5kg
+  PCTG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/pctg-filament/
+    Orange:
+      hex: '#DD6808'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/pctg-filament/
+    Graphite:
+      hex: '#424548'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/pctg-filament/
+  PP Recycled:
+    Anthracite:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Matte:
+    Pastel Lilac:
+      hex: '#8E7ECF'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/easy-pet-g/
+    Gray:
+      hex: '#BBBCBC'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/matte-pet-g/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/matte-pet-g/
+    Red:
+      hex: '#DD0000'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/matte-pet-g/
+  PP:
+    Natural:
+      hex: '#FAFAFA'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/pp/
+  PLA Ingeo 3D700:
+    Army green:
+      hex: '#263E0F'
+      source: 3dfilamentprofiles.com
+  ABS Translucent:
+    Transparent/Clear:
+      hex: '#77C5FD,#640211'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/filamente/easy-abs/
+  PLA High Speed:
+    Clear OUTLET Dark Red-Gold:
+      hex: '#730D12,#D98C20'
+      source: 3dfilamentprofiles.com
+  PETG CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/petg-cf/
+  PETG Special:
+    Black (V0):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/pet-g-v0/
+  PA12 CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en/fiberlogy-filaments/pa12cf_en/
+  PA12 Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fiberlogy.com/en_US/c/Nylon-PA12/196

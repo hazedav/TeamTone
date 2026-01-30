@@ -1,0 +1,61 @@
+ICE:
+  PLA Basic:
+    Brave Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Daring Darkgreen:
+      hex: '#0A9E6D'
+      source: 3dfilamentprofiles.com
+    Barbaric Brown:
+      hex: '#B35F00'
+      source: 3dfilamentprofiles.com
+    Glamourous gold:
+      hex: '#C5AC0D'
+      source: 3dfilamentprofiles.com
+    Gentle Grey:
+      hex: '#C8C6C6'
+      source: 3dfilamentprofiles.com
+    Wintershine White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Gracious Green:
+      hex: '#00F700'
+      source: 3dfilamentprofiles.com
+    Precious Pink:
+      hex: '#FF0084'
+      source: 3dfilamentprofiles.com
+    Groovy Gold:
+      hex: '#785700'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Verde:
+      hex: '#27C480'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Naughty Natural:
+      hex: '#EBEBEB'
+      source: 3dfilamentprofiles.com
+    Obstinate Orange:
+      hex: '#FF6A00'
+      source: 3dfilamentprofiles.com
+    Flue Young Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    Glow in the dark Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+    Glow-in-the-Dark (Fluorescent):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Original Oak:
+      hex: '#EABA15'
+      source: 3dfilamentprofiles.com
+  PVA Basic:
+    Naughty Natural:
+      hex: '#FFF18C'
+      source: 3dfilamentprofiles.com

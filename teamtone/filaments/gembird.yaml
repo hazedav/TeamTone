@@ -1,0 +1,151 @@
+Gembird:
+  PLA:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro:
+    Grey:
+      hex: '#C4C4C4'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://gembird.nl/item.aspx?id=10368
+  ABS Basic:
+    Fluorescent blue:
+      hex: '#362AE5'
+      source: 3dfilamentprofiles.com
+      link: https://www.gembird.nl/item.aspx?id=9459
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.gembird.nl/item.aspx?id=8844
+    Flame-Bright Yellow:
+      hex: '#FFF700'
+      source: 3dfilamentprofiles.com
+      link: https://www.gembird.nl/item.aspx?id=9460
+    White:
+      hex: '#FCFCFC'
+      source: 3dfilamentprofiles.com
+      link: https://www.gembird.nl/item.aspx?id=9459
+    Grey:
+      hex: '#7A7A7A'
+      source: 3dfilamentprofiles.com
+      link: https://www.gembird.nl/item.aspx?id=9459
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.gembird.nl/item.aspx?id=9459
+    Blue:
+      hex: '#362AE5'
+      source: 3dfilamentprofiles.com
+      link: https://www.gembird.nl/item.aspx?id=8839
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.gembird.nl/item.aspx?id=8835
+    Green:
+      hex: '#25CC19'
+      source: 3dfilamentprofiles.com
+      link: https://www.gembird.nl/item.aspx?id=9459
+    Flame-Bright Red:
+      hex: '#F53D3D'
+      source: 3dfilamentprofiles.com
+      link: https://www.gembird.nl/item.aspx?id=9459
+  PLA Marble:
+    Marble:
+      hex: '#E8E8E8'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    orange:
+      hex: '#FEB958'
+      source: 3dfilamentprofiles.com
+      link: https://www.gmb.nl/item.aspx?id=12715
+    Navy Blue:
+      hex: '#617AB4'
+      source: 3dfilamentprofiles.com
+      link: https://www.gmb.nl/item.aspx?id=12707
+    Military Green:
+      hex: '#5B6E41'
+      source: 3dfilamentprofiles.com
+      link: https://www.gmb.nl/item.aspx?id=12717
+  PLA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.gmb.nl/item.aspx?id=8868
+    Grey:
+      hex: '#C5C9D6'
+      source: 3dfilamentprofiles.com
+      link: https://www.gmb.nl/item.aspx?id=8860
+    Sky Blue:
+      hex: '#94F1FE'
+      source: 3dfilamentprofiles.com
+      link: https://www.gmb.nl/item.aspx?id=8868
+    transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.gmb.nl/item.aspx?id=8868
+    Yellow:
+      hex: '#F7DC55'
+      source: 3dfilamentprofiles.com
+      link: https://www.gmb.nl/item.aspx?id=8868
+    Silver:
+      hex: '#A1A1A1'
+      source: 3dfilamentprofiles.com
+      link: https://gembird.com.pl/item.aspx?id=8861
+  PLA Fluorescent:
+    Fluorescent Green (UV):
+      hex: '#00FF1E'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    RED:
+      hex: '#E10600'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.gmb.nl/item.aspx?id=10365
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.proshop.dk/Filament-3D-Printer/Gembird-PLA-filament-Sort-175mm-oe-1-kg/2975098
+    Blue:
+      hex: '#46A3F4'
+      source: 3dfilamentprofiles.com
+      link: https://www.gmb.nl/item.aspx?id=10365
+    Orange:
+      hex: '#F86230'
+      source: 3dfilamentprofiles.com
+      link: https://www.gmb.nl/item.aspx?id=10370
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Natural:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.gembird.nl/item_view.aspx?id=9078
+    Grey:
+      hex: '#A8A8A8'
+      source: 3dfilamentprofiles.com
+      link: https://gembird3.com/item.aspx?id=9082
+  PVA Support:
+    natural:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://gembird.com/item.aspx?id=12404
+  PLA Silk:
+    red/purple:
+      hex: '#E73A98'
+      source: 3dfilamentprofiles.com
+  PETG High Speed:
+    Yellow:
+      hex: '#F2D834'
+      source: 3dfilamentprofiles.com

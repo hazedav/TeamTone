@@ -1,0 +1,112 @@
+American Filament:
+  PCTG Tough:
+    Obsidian Black AF:
+      hex: '#0F0F0F'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/products/obsidian-black-af-1-75mm-pctg-filament-made-in-the-usa?variant=46277342036142
+    Blizzard White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/products/blizzard-white-af-1-75mm-pctg-filament-made-in-the-usa
+  PLA Basic:
+    Classic Lithophane White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/products/lithophane-white-af-pla-1-75mm
+    Warm Lithophane White:
+      hex: '#E9E0CA'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/products/warm-lithophane-white-af-pla-1-75mm
+    Cool Lithophane Gray:
+      hex: '#89B8FF'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/products/cool-lithophane-gray-af-pla-1-75mm
+    Crisp Lithophane Gray:
+      hex: '#B5B9B6'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/products/crisp-lithophane-gray-af-pla-1-75mm
+  PLA+/Pro Basic:
+    Chocolate Brown:
+      hex: '#52360F'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/
+    Cyan:
+      hex: '#00FFFF'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/products/cyan-af-1-75mm-pla-filament-for-color-lithophanes
+    Ivory White:
+      hex: '#FFFFE3'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/products/ivory-white-af-1-75mm-pla-p-filament-made-in-the-usa
+    Primer Gray AF:
+      hex: '#C4DCC2'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/products/primer-gray-af-1-75mm-pla-plus-3d-printer-filament
+    Dandelion Yellow:
+      hex: '#F0E130'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/products/dandelion-yellow-af-pla-3d-printer-filament-1-75-mm-diameter-1-kg-spool
+    American Red AF:
+      hex: '#CD0026'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/products/american-red-af-1-75mm-pla-plus-filament-made-in-the-usa
+    Neon Pink AF Silk:
+      hex: '#FF99B7'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/products/silky-neon-pink-1-75mm-pla-filament
+    Gunmetal Gray AF:
+      hex: '#565D5F'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/products/gunmetal-gray-af-1-75mm-pla-plus-filament-made-in-the-usa
+    American Blue AF:
+      hex: '#0A378E'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/products/american-blue-af-1-75mm-pla-plus-filament-made-in-the-usa
+    Army Green AF:
+      hex: '#292F18'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/products/army-green-1-75mm-pla-plus-filament
+    Ice White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/products/ice-white-af-1-75mm-pla-plus-filament-made-in-the-usa
+    Amethyst Purple AF:
+      hex: '#3D2B85'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/products/amethyst-purple-af-1-75mm-pla-plus-filament-made-in-the-usa
+    Dark Green:
+      hex: '#235443'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/products/dark-green-af-1-75mm-pla-plus-filament-made-in-the-usa
+    Forest Green AF:
+      hex: '#008550'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/products/forest-green-af-1-75mm-pla-plus-filament-made-in-the-usa
+  PLA+/Pro Matte:
+    Black AF:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/products/midnight-black-af-1-75mm-pla-plus-filament-made-in-the-usa
+  PLA+/Pro Neon:
+    neon orange:
+      hex: '#FF8648'
+      source: 3dfilamentprofiles.com
+  PCTG Translucent:
+    Transparent Sapphire Blue:
+      hex: '#0F52BA'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/products/transparent-sapphire-blue-af-1-75mm-pctg-filament-made-in-the-usa?variant=46458322911406
+    Transparent Ruby Red:
+      hex: '#9B111E'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/products/transparent-ruby-red-af-1-75mm-pctg-filament-made-in-the-usa
+  PLA+/Pro Silk:
+    Blue Silk:
+      hex: '#1D89B1'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/products/silky-blue-1-75mm-pla-filament
+  PLA+/Pro Translucent:
+    Magenta AF:
+      hex: '#D52E96'
+      source: 3dfilamentprofiles.com
+      link: https://americanfilament.us/products/magenta-af-1-75mm-pla-filament-for-color-lithophanes

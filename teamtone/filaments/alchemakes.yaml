@@ -1,0 +1,526 @@
+Alchemakes:
+  PETG Matte:
+    Desert Yellow:
+      hex: '#B48C46'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=810230587700
+    Banana Yellow:
+      hex: '#FCF0A1'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=810230587700
+    Zinc Yellow:
+      hex: '#FFD500'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=810230587700
+    Taro Purple:
+      hex: '#996AAF'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=810230587700
+    Yves Klein Blue:
+      hex: '#002FA7'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=810230587700
+    Dark Grey:
+      hex: '#666666'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=810230587700
+    Sky Blue:
+      hex: '#0095FF'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=810230587700
+    Grass Green:
+      hex: '#1EFF00'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=810230587700
+    Milky White:
+      hex: '#F5F5EF'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=810230587700
+    Pink:
+      hex: '#D29DBC'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=810230587700
+    Yellow Orange:
+      hex: '#FF7B00'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=810230587700
+    Army Green:
+      hex: '#1C4706'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=810230587700
+    Brown:
+      hex: '#522100'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=810230587700
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=810230587700
+    Khaki:
+      hex: '#C2A584'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=810230587700
+    Light Grey:
+      hex: '#999999'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=810230587700
+    Fresh Green:
+      hex: '#6CC6B7'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=810230587700
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=810230587700
+    Fire Red:
+      hex: '#990000'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=810230587700
+    Light Skin:
+      hex: '#FFECE2'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=810230587700
+    Mint Green:
+      hex: '#78D7DD'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=810230587700
+    Very Peri:
+      hex: '#39008F'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=810230587700
+  PLA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694950779398
+    Yellow:
+      hex: '#FFD500'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694950779398
+    Grey:
+      hex: '#999999'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694950779398
+    Tan:
+      hex: '#E5D4C2'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694950779398
+    Pink:
+      hex: '#D29DBC'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694950779398
+    Blood Orange:
+      hex: '#FF1100'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694950779398
+    Sky Blue:
+      hex: '#0095FF'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694950779398
+    Natural:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694950779398
+    Light Coffee:
+      hex: '#7A5948'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694950779398
+    Yellow Orange:
+      hex: '#FF7B00'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694950779398
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694950779398
+    Purple:
+      hex: '#6600FF'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694950779398
+    Dark Brown:
+      hex: '#512915'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694950779398
+    Green:
+      hex: '#006100'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694950779398
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694950779398
+    Reddish Brown:
+      hex: '#371B0B'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694950779398
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694950779398
+  PLA Marble:
+    Marble:
+      hex: '#FFFFFF,#8C8C8C,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694950779398
+  PLA Wood:
+    Walnut:
+      hex: '#907265'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694950779398
+    Natural:
+      hex: '#AF9C8B'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694950779398
+  PLA Silk:
+    Gold:
+      hex: '#D4AF37'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694950779398
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694950779398
+  PLA CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694154248505
+    Army Green:
+      hex: '#1C4706'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694154248505
+    Slate Grey:
+      hex: '#6D8196'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694154248505
+    Maroon:
+      hex: '#450D0D'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694154248505
+    Navy Blue:
+      hex: '#000238'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=694154248505
+  PLA Matte:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=802717203004
+    Grey:
+      hex: '#999999'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=802717203004
+    Milky White:
+      hex: '#F5F5EF'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=802717203004
+    Banana Yellow:
+      hex: '#FCF0A1'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=802717203004
+    Sky Blue:
+      hex: '#0095FF'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=802717203004
+    Army Green:
+      hex: '#1C4706'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=802717203004
+    Navy Blue:
+      hex: '#000238'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=802717203004
+    Tan:
+      hex: '#E5D4C2'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=802717203004
+    Yellow:
+      hex: '#FFF700'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=802717203004
+    Light Khaki:
+      hex: '#A59F97'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=802717203004
+    Fire Red:
+      hex: '#990000'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=802717203004
+    Desert Yellow:
+      hex: '#B48C46'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=802717203004
+    Pink:
+      hex: '#D29DBC'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=802717203004
+    Light Coffee:
+      hex: '#7A5948'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=802717203004
+    Reddish Brown:
+      hex: '#371B0B'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=802717203004
+  PETG Basic:
+    Normal White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Light Grey:
+      hex: '#999999'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Milky White:
+      hex: '#F5F5EF'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Sky Blue:
+      hex: '#0095FF'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Fire Red:
+      hex: '#990000'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Pink:
+      hex: '#D29DBC'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Blackout White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Banana Yellow:
+      hex: '#FCF0A1'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Yellow Orange:
+      hex: '#FF7B00'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Army Green:
+      hex: '#1C4706'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Zinc Yellow:
+      hex: '#FFD500'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Grass Green:
+      hex: '#1EFF00'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Taro Purple:
+      hex: '#996AAF'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Fluorescent Orange:
+      hex: '#FF4D00'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Blood Orange:
+      hex: '#FF1100'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Navy Blue:
+      hex: '#000238'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Turquoise:
+      hex: '#6CC6B7'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Grey:
+      hex: '#666666'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Mint Green:
+      hex: '#78D7DD'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Light Coffee:
+      hex: '#7A5948'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Daisy Purple:
+      hex: '#39008F'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Cherry Blossom Pink:
+      hex: '#CD70A6'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Fluorescent Green:
+      hex: '#73FF00'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+  PETG Metal:
+    Blue:
+      hex: '#000238'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Green:
+      hex: '#006100'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Brass:
+      hex: '#8B682D'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Copper:
+      hex: '#834321'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Antique Bronze:
+      hex: '#4D2814'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Silver:
+      hex: '#878787'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Blue Grey:
+      hex: '#455159'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Bronze:
+      hex: '#8B7B2D'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+    Purple:
+      hex: '#622D71'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103
+  ASA GF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=714277863351
+  ABS GF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=701180090633
+  ASA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=744737306103
+    Grey:
+      hex: '#999999'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=744737306103
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=744737306103
+    Milky White:
+      hex: '#F5F5EF'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=744737306103
+    Orange:
+      hex: '#FB752D'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=744737306103
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=744737306103
+    Blue:
+      hex: '#2555E4'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=744737306103
+    Green:
+      hex: '#006100'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=744737306103
+  ASA CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=714277863351
+  ABS Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=737925610365
+    Grey:
+      hex: '#999999'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=737925610365
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=737925610365
+    Baby Pink:
+      hex: '#D29DBC'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=737925610365
+    Mint:
+      hex: '#78D7DD'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=737925610365
+    Fire Truck Red:
+      hex: '#990000'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=737925610365
+  ABS CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=701180090633
+  PETG CF:
+    Indigo:
+      hex: '#000238'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695020619393
+    Black 5%:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695020619393
+    Graphite Grey:
+      hex: '#3D3D3D'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695020619393
+    Black 12%:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695020619393
+    Black Red:
+      hex: '#450D0D'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695020619393
+    Olive Green:
+      hex: '#292D1A'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695020619393
+  PP GF:
+    Natural:
+      hex: '#ABABAB'
+      source: 3dfilamentprofiles.com
+  PA6 CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Clear White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://item.taobao.com/item.htm?id=695006211103

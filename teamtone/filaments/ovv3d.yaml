@@ -1,0 +1,116 @@
+OVV3D:
+  PLA Silk Triple:
+    Red/Yellow/Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+    Red/Blue/Green:
+      hex: '#FF0000,#0000FF,#00FF00'
+      source: 3dfilamentprofiles.com
+    Sky Blue, Pink, Yellow:
+      hex: '#87CEEB,#F7079A,#EEDC5B'
+      source: 3dfilamentprofiles.com
+    Orange/Blue/Green:
+      hex: '#F47D3A,#1B54C7,#3AAF43'
+      source: 3dfilamentprofiles.com
+    Red/Yellow/Blue:
+      hex: '#FF0000,#FFEA00,#0008FF'
+      source: 3dfilamentprofiles.com
+    Tri-Color Sky Blue/Pink/Yellow:
+      hex: '#7CF3F1,#E87DC6,#ECF570'
+      source: 3dfilamentprofiles.com
+    Black Red Gold:
+      hex: '#000000,#B51A00,#FFE4A8'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Blue/Green:
+      hex: '#00AB41,#0004FF'
+      source: 3dfilamentprofiles.com
+    Red / Blue:
+      hex: '#47ADF5,#E42189'
+      source: 3dfilamentprofiles.com
+    Purple/Green:
+      hex: '#6A52F2,#2E9950'
+      source: 3dfilamentprofiles.com
+    Red/Gold:
+      hex: '#FF2600,#FFD500'
+      source: 3dfilamentprofiles.com
+    Purple/Blue:
+      hex: '#AE00FF,#00FFFF'
+      source: 3dfilamentprofiles.com
+    Rose Red/Light Blue:
+      hex: '#B8277E,#0000FF'
+      source: 3dfilamentprofiles.com
+    Tiffan Blue / Pink:
+      hex: '#00FDFF,#FF8AD8'
+      source: 3dfilamentprofiles.com
+    Black / Red:
+      hex: '#BE0909,#000000'
+      source: 3dfilamentprofiles.com
+    Red/Green:
+      hex: '#BE0909,#0FB00C'
+      source: 3dfilamentprofiles.com
+  PLA Gradient:
+    Stone:
+      hex: '#7A7A7A,#875656'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Silver:
+      hex: '#C3C5C6'
+      source: 3dfilamentprofiles.com
+    Upgrade Purple:
+      hex: '#8361C8'
+      source: 3dfilamentprofiles.com
+    Black to Purple Color Changing:
+      hex: '#8361C8,#3C256A'
+      source: 3dfilamentprofiles.com
+    Tri-Color:
+      hex: '#44A1FD,#F28CB5,#4EEF8B'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Tri-color Matte Red Blue Yellow:
+      hex: '#FF2F92,#00C7FC,#FFFBB9'
+      source: 3dfilamentprofiles.com
+    Tri-color Macaron:
+      hex: '#75C6CC,#F3A0E8,#EBF0A3'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Black Walnut:
+      hex: '#362A26'
+      source: 3dfilamentprofiles.com
+    Oakwood:
+      hex: '#988A61'
+      source: 3dfilamentprofiles.com
+    Teakwood:
+      hex: '#814F09'
+      source: 3dfilamentprofiles.com
+    Walnut Wood:
+      hex: '#4F312B'
+      source: 3dfilamentprofiles.com
+    Cherry Wood:
+      hex: '#44081A'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Wood:
+    Oak:
+      hex: '#E4C1AC'
+      source: 3dfilamentprofiles.com
+    Cherry:
+      hex: '#9D6159'
+      source: 3dfilamentprofiles.com
+    Bois Noyer:
+      hex: '#3F2213'
+      source: 3dfilamentprofiles.com
+    Teakwood:
+      hex: '#964F2C'
+      source: 3dfilamentprofiles.com
+  PLA Matte Rainbow:
+    Macaron:
+      hex: '#F7A6E8,#9CF7A2,#749DFB'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Rainbow Matte Blue Green Pink Purple:
+      hex: '#ECA5CF,#A9A4DA,#8BD1E7,#8FE3C1'
+      source: 3dfilamentprofiles.com
+  PLA Matte Tri-Color:
+    Macaron Pink Yellow Blue:
+      hex: '#FFACC4,#FFE65F,#64BED7'
+      source: 3dfilamentprofiles.com

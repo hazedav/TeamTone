@@ -1,0 +1,131 @@
+SPOOL3D:
+  PLA Basic:
+    Gold:
+      hex: '#8B6F4E'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/pla-metal-coloured-1-75mm-3d-printer-filament/
+    'Black 1.75mm 4.5kg ':
+      hex: '#000305'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/pla-4-5kg-size-1-75mm-3d-printer-filament/
+    'Red 1.75mm ':
+      hex: '#FA0032'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/pla-reds-pink-and-purple-1-75mm-3d-printer-filament/
+    White:
+      hex: '#FCFDFD'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/pla-shades-1-75mm-3d-printer-filament/
+    Grey:
+      hex: '#7C868E'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/pla-shades-1-75mm-3d-printer-filament/
+    Blue 1.75mm:
+      hex: '#051594'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/pla-blues-1-75mm-3d-printer-filament/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/pla-shades-1-75mm-3d-printer-filament/
+    Green:
+      hex: '#00B140'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/pla-greens-1-75mm-3d-printer-filament/
+    Orange:
+      hex: '#FF8F1C'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/pla-oranges-and-yellows-1-75mm-3d-printer-filament/
+    Dark Orange:
+      hex: '#FE5000'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/pla-oranges-and-yellows-1-75mm-3d-printer-filament/
+    Grey, Dark:
+      hex: '#54585A'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/pla-shades-1-75mm-3d-printer-filament/
+    Yellow:
+      hex: '#FCE300'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/pla-oranges-and-yellows-1-75mm-3d-printer-filament/
+    Pastel Green:
+      hex: '#9DE7D7'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/pla-pastels-1-75mm-3d-printer-filament/
+    Silver:
+      hex: '#8A8D8F'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/pla-metal-coloured-1-75mm-3d-printer-filament/
+    Pastel Purple:
+      hex: '#BF9BDE'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/pla-pastels-1-75mm-3d-printer-filament/
+    Blue:
+      hex: '#0057B8'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/pla-blues-1-75mm-3d-printer-filament/
+    Red:
+      hex: '#D50032'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/pla-shades-1-75mm-3d-printer-filament/
+    Grey, Light:
+      hex: '#D0D3D4'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/pla-shades-1-75mm-3d-printer-filament/
+  PLA Silk:
+    Copper:
+      hex: '#AA6B4A'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/pla-silk-1-75mm-3d-printer-filament/
+    Gold:
+      hex: '#DEBF6F'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/pla-silk-1-75mm-3d-printer-filament/
+    Light Blue:
+      hex: '#3668B3'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/pla-silk-1-75mm-3d-printer-filament/
+    Silver:
+      hex: '#ABB5BE'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/pla-silk-1-75mm-3d-printer-filament/
+  PETG Basic:
+    Black 1.75mm:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/petg-solid-colours-1-75mm-3d-printer-filament/
+    Yellow:
+      hex: '#FCE300'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/petg-solid-colours-1-75mm-3d-printer-filament/
+    Pink:
+      hex: '#F04E98'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/petg-solid-colours-1-75mm-3d-printer-filament/
+    Green:
+      hex: '#55BD00'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/petg-solid-colours-1-75mm-3d-printer-filament/
+  TPU Basic:
+    Black:
+      hex: '#000305'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/tpu-92a-500g-1-75mm-3d-printer-filament/
+    Red:
+      hex: '#FA0000'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/tpu-92a-500g-1-75mm-3d-printer-filament/
+  ABS Basic:
+    Blue:
+      hex: '#0057B8'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/abs-1-75mm-3d-printer-filament/
+  PLA Glow:
+    Blue:
+      hex: '#028DB0'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/pla-glow-in-the-dark-1-75mm-3d-printer-filament/
+    Green:
+      hex: '#08CB74'
+      source: 3dfilamentprofiles.com
+      link: https://spool3d.ca/pla-glow-in-the-dark-1-75mm-3d-printer-filament/

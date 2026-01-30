@@ -1,0 +1,22 @@
+Luktec:
+  PLA Basic:
+    Bone:
+      hex: '#D0D2C0'
+      source: 3dfilamentprofiles.com
+      link: https://luktec.com/filamento-3d
+    Azul (Blue):
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://luktec.com/filamento-3d
+    Negro (Black):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://luktec.com/filamento-3d
+    Gris (Grey):
+      hex: '#AAAAAA'
+      source: 3dfilamentprofiles.com
+      link: https://luktec.com/filamento-3d
+  PLA Premium:
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,20 @@
+GolGeo:
+  PLA Wood:
+    Wood Grain:
+      hex: '#F99975,#EC6B3D'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Purple / Orange / Blue:
+      hex: '#7247B0,#BC887D,#37929A'
+      source: 3dfilamentprofiles.com
+    Gold Black Red:
+      hex: '#9A774C,#3E3E3F,#683A42'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Gold:
+      hex: '#D7A13C'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Black/Red:
+      hex: '#F00F0F,#00060A'
+      source: 3dfilamentprofiles.com

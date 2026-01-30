@@ -1,0 +1,19 @@
+Ruiben:
+  PETG Basic:
+    '''Turquoise''':
+      hex: '#69DACE'
+      source: 3dfilamentprofiles.com
+    '''Cyan''':
+      hex: '#A9F687'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Clear Orange:
+      hex: '#D86E19'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Fluorescent Yellow:
+      hex: '#DEE625'
+      source: 3dfilamentprofiles.com
+    '''Skin''':
+      hex: '#FFDBAC'
+      source: 3dfilamentprofiles.com

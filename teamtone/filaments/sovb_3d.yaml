@@ -1,0 +1,35 @@
+SOVB 3D:
+  PLA Basic:
+    Bleu Nuit:
+      hex: '#232D53'
+      source: 3dfilamentprofiles.com
+      link: https://www.sovb3d.fr/pla-175mm-standard-1kg/154-fil-pla-bleu-nuit-175mm-1kg.html
+    Vert Nacré:
+      hex: '#2596BE'
+      source: 3dfilamentprofiles.com
+      link: https://www.sovb3d.fr/30-pla-175mm-standard-1kg
+    Rouge RAL 3020:
+      hex: '#CA0F16'
+      source: 3dfilamentprofiles.com
+      link: https://www.sovb3d.fr/30-pla-175mm-standard-1kg
+    Marron Clair:
+      hex: '#9C6B30'
+      source: 3dfilamentprofiles.com
+      link: https://www.sovb3d.fr/pla-175mm-standard-1kg/158-fil-pla-marron-clair-175mm-1kg.html
+    Bleu Turquoise:
+      hex: '#21888F'
+      source: 3dfilamentprofiles.com
+      link: https://www.sovb3d.fr/pla-175mm-standard-1kg/112-fil-pla-bleu-turquoise-175mm-1kg.html
+    Bronze:
+      hex: '#665D1E'
+      source: 3dfilamentprofiles.com
+      link: https://www.sovb3d.fr/pla-175mm-standard-1kg/113-fil-pla-bronze-175mm-1kg.html
+  PLA Glitter:
+    Bleu Nuit Alumine:
+      hex: '#232D53'
+      source: 3dfilamentprofiles.com
+      link: https://www.sovb3d.fr/pla-175mm-standard-1kg/162-fil-pla-bleu-nuit-alumine-175mm-1kg.html
+    Vert Mai Alumine:
+      hex: '#4C9141'
+      source: 3dfilamentprofiles.com
+      link: https://www.sovb3d.fr/pla-175mm-standard-1kg/155-fil-pla-vert-mai-175mm-1kg.html

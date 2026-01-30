@@ -1,0 +1,72 @@
+Conjure:
+  PLA Silk Dual:
+    Dual Blue Green:
+      hex: '#008CB4,#96D35F'
+      source: 3dfilamentprofiles.com
+      link: https://www.chitusystems.com/products/conjure-silk-pla?variant=44530851086572
+    Blue / Red:
+      hex: '#1100FF,#FF4D4D'
+      source: 3dfilamentprofiles.com
+      link: https://www.chitusystems.com/products/conjure-silk-pla?variant=44530851119340
+    Black / Dark Green:
+      hex: '#124935,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.chitusystems.com/products/conjure-silk-pla?variant=44530851086572
+    Black Red:
+      hex: '#000000,#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.chitusystems.com/products/conjure-silk-pla?variant=44530851086572
+    Dual Black Purple:
+      hex: '#000000,#982ABC'
+      source: 3dfilamentprofiles.com
+    Gold / Black:
+      hex: '#415124'
+      source: 3dfilamentprofiles.com
+      link: https://www.chitusystems.com/products/conjure-silk-pla?variant=44530851086572
+  PLA Silk Triple:
+    Red Blue Green Tri-Color:
+      hex: '#58B7EF,#6DB6AB,#9A71A3'
+      source: 3dfilamentprofiles.com
+      link: https://www.chitusystems.com/products/silk-pla-filaments?variant=45779586711788
+    Red/Gold/Purple:
+      hex: '#E90C0C,#FFD700,#800080'
+      source: 3dfilamentprofiles.com
+      link: https://www.chitusystems.com/products/silk-pla-filaments?variant=45779586679020
+    Red Yellow Blue:
+      hex: '#0061FF,#E32400,#F5EC00'
+      source: 3dfilamentprofiles.com
+      link: https://www.chitusystems.com/products/conjure-silk-pla?variant=45905740136684
+    Black Purple Blue:
+      hex: '#000000,#800080,#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.chitusystems.com/products/silk-pla?variant=44530851053804
+  PLA+/Pro Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.chitusystems.com/products/pla-plus-filament?variant=44530832670956
+  PLA Marble:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Rose:
+      hex: '#3D1B00'
+      source: 3dfilamentprofiles.com
+      link: https://pt.aliexpress.com/item/1005009095473827.html?gatewayAdapt=glo2bra
+    White Oak:
+      hex: '#BFA58E'
+      source: 3dfilamentprofiles.com
+      link: https://pt.aliexpress.com/item/1005009095473827.html?gatewayAdapt=glo2bra
+  PLA Chameleon:
+    Purple Blue:
+      hex: '#0042AA'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    Rainbow:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Dual Black Red:
+      hex: '#000000,#F50F60'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,16 @@
+Raise3D:
+  PVA Premium:
+    Nature:
+      hex: '#F9F5EC'
+      source: 3dfilamentprofiles.com
+  PLA Premium:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  ABS High Speed:
+    Natural:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com

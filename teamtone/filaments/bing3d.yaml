@@ -1,0 +1,63 @@
+BING3D:
+  PLA F:
+    Grey:
+      hex: '#5E5C64'
+      source: 3dfilamentprofiles.com
+    Wood:
+      hex: '#E1CA89'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#FF72B6'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF7800'
+      source: 3dfilamentprofiles.com
+    Light Purple:
+      hex: '#DA94FF'
+      source: 3dfilamentprofiles.com
+    black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Christmas Green:
+      hex: '#005A27'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Wood:
+      hex: '#87510B'
+      source: 3dfilamentprofiles.com
+    Fluorescent Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+    Florescent Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+    Light Purple:
+      hex: '#DA94FF'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  ABS GF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA CF:
+    VERDE MILITAR/GREEN ARMY:
+      hex: '#6FB356'
+      source: 3dfilamentprofiles.com
+  PC Basic:
+    Grey:
+      hex: '#90969A'
+      source: 3dfilamentprofiles.com
+      link: http://cn.bing-3d.com/Plastic_Details/PC.html
+  PC:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: http://cn.bing-3d.com/Plastic_Details/1399498879422357504.html

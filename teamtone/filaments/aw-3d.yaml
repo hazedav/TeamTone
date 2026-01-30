@@ -1,0 +1,8 @@
+AW-3D:
+  TPU Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#F8F9EB'
+      source: 3dfilamentprofiles.com

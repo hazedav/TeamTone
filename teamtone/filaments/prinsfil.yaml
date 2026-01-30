@@ -1,0 +1,29 @@
+PRINSFIL:
+  PLA Matte:
+    Matt Army Green:
+      hex: '#5E7561'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Silk Bronze:
+      hex: '#A5936E'
+      source: 3dfilamentprofiles.com
+    Silk Copper:
+      hex: '#B87333'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    白:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://x.com/3DFilamentTokyo
+    clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://x.com/3DFilamentTokyo
+  PLA Basic:
+    Forest Green:
+      hex: '#009965'
+      source: 3dfilamentprofiles.com
+      link: https://x.com/3DFilamentTokyo
+    BALCK:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

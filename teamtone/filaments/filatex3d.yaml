@@ -1,0 +1,14 @@
+FilaTex3D:
+  PETG Translucent:
+    Shiny Dark Cherry:
+      hex: '#7F1425'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    TECHNICAL RED:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://filatex3d.de/shop/de/pla/689-technical-red-pla-175mm-1kg.html
+  TPU Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

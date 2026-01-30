@@ -1,0 +1,49 @@
+Filaments Depot:
+  PETG Basic:
+    Stone Gray:
+      hex: '#C9BBA0'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/filaments-depot-petg-1-75mm-1kg?variant=45524978041062
+    Gray:
+      hex: '#828A8F'
+      source: 3dfilamentprofiles.com
+    Charcoal:
+      hex: '#36424A'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentsdepot.com/products/filaments-depot-charcoal-petg
+    Almond:
+      hex: '#DED3B0'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentsdepot.com/products/filaments-depot-petg-1-75mm-1kg
+    Teal:
+      hex: '#7CC4F8'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/filaments-depot-petg-1-75mm-1kg?variant=44132931928294
+    Black:
+      hex: '#212121'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentsdepot.com/products/filaments-depot-black-petg
+  PETG+ Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/filaments-depot-petg-plus?variant=45219368992998
+  PLA Tough:
+    Grey:
+      hex: '#C4C6C8'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Flame (Gold-Red):
+      hex: '#FEA34A,#F97340'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/filaments-depot-silk-gradient-pla-1-75mm-1kg
+  PLA Gradient:
+    Camouflage:
+      hex: '#B5B372,#807F40'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentsdepot.com/products/filaments-depot-gradient-pla-camouflage-army-green-light-green
+  PLA Basic:
+    Mystery White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/filaments-depot-pla-1-75mm-1kg-mystery-color?srsltid=AfmBOoolslDlCL75FUiNwoCC-fA5ASbzlXqBUHcE67VGz0Vh85qEMP_F

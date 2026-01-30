@@ -1,0 +1,19 @@
+Copper 3D:
+  PLA Basic:
+    Red:
+      hex: '#C70000'
+      source: 3dfilamentprofiles.com
+      link: https://copper3d.com/producto/plactive/
+    Blue:
+      hex: '#1000EB'
+      source: 3dfilamentprofiles.com
+      link: https://copper3d.com/producto/plactive/
+    Green:
+      hex: '#00EB1B'
+      source: 3dfilamentprofiles.com
+      link: https://copper3d.com/producto/plactive/
+  TPU 98A:
+    Red:
+      hex: '#C12E1F'
+      source: 3dfilamentprofiles.com
+      link: https://copper3d.com/producto/mdflex/#tab-reviews

@@ -1,0 +1,32 @@
+CEL Robox:
+  PLA Basic:
+    Hot Pink:
+      hex: '#F56082'
+      source: 3dfilamentprofiles.com
+    Highway Orange:
+      hex: '#FE6B01'
+      source: 3dfilamentprofiles.com
+    Polar White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://cel-robox.com/materials
+  ABS Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Designer Grey:
+      hex: '#7A7A7A'
+      source: 3dfilamentprofiles.com
+    Dynamite Red:
+      hex: '#B51A00'
+      source: 3dfilamentprofiles.com
+    Chroma Green:
+      hex: '#77BB41'
+      source: 3dfilamentprofiles.com
+    Cornflower Blue:
+      hex: '#0061FF'
+      source: 3dfilamentprofiles.com
+  HIPS Basic:
+    Natural:
+      hex: '#B7B8B8'
+      source: 3dfilamentprofiles.com

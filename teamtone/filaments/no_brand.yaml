@@ -1,0 +1,65 @@
+No Brand:
+  ABS Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#00A400'
+      source: 3dfilamentprofiles.com
+    red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Watermelon Red:
+      hex: '#FF85A9'
+      source: 3dfilamentprofiles.com
+    Bronze:
+      hex: '#924302'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#FF80C0'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Luminous Green:
+      hex: '#A9FF99'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#AD03C4'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+  PLA CF:
+    Black:
+      hex: '#030303'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Purple:
+      hex: '#9C51E6'
+      source: 3dfilamentprofiles.com
+  PLA Color Change (Temp):
+    Black+Red+Yellow:
+      hex: '#000000,#FF0000,#FFFF00'
+      source: 3dfilamentprofiles.com
+    Gray to White:
+      hex: '#808080,#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Red Cupper:
+      hex: '#CC531E'
+      source: 3dfilamentprofiles.com
+    Grafffite:
+      hex: '#505050'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#EA8839'
+      source: 3dfilamentprofiles.com

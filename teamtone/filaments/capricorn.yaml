@@ -1,0 +1,26 @@
+Capricorn:
+  PLA Glitter:
+    Shining Rainbow:
+      hex: '#FFAA00'
+      source: 3dfilamentprofiles.com
+    Sparkle Blue:
+      hex: '#00508A'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Gold:
+      hex: '#D9B03F'
+      source: 3dfilamentprofiles.com
+      link: https://www.captubes.com/shop/#!/Magical-Silky-Gold-Filament-1-75mm/p/135342716
+  PLA Color Change (Temp):
+    Green to Pink to Yellow Lava:
+      hex: '#A96800'
+      source: 3dfilamentprofiles.com
+      link: https://www.captubes.com/shop/#!/TRI-Color-Thermochromic-Lava-Filament-1-75mm/p/135342230
+    Green Yellow:
+      hex: '#96D35F'
+      source: 3dfilamentprofiles.com
+      link: https://www.captubes.com/shop/#!/Green-Yellow-Thermochromic-Filament-1-75mm/p/463172104
+  PLA Glow:
+    Firefly Blue:
+      hex: '#81B8DF'
+      source: 3dfilamentprofiles.com

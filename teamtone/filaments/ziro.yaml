@@ -1,0 +1,733 @@
+Ziro:
+  PLA Silk:
+    Bronze:
+      hex: '#8F7B50'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-silk-pla-filament-1-75mm-rose-gold
+    Violet:
+      hex: '#8F00FF'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-silk-pla-filament-1-75mm-rose-gold
+    Personality Pure:
+      hex: '#96CDEE,#AFE3E5,#A4E1EB'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-silk-pla-filament-1-75mm-rose-gold
+    Earth Tone:
+      hex: '#B1C1C0,#A6A4C3,#DBBCA7,#D7BCC7'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-fast-gradient-silk-pla-filament-1-75mm-earth-tone
+    Christmas Green:
+      hex: '#1E792C'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-silk-pla-filament-1-75mm-rose-gold
+    Red Copper (Kupfer):
+      hex: '#EE7717'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/silky-pla-filament-red-copper-1kg-175mm-13
+    Blue:
+      hex: '#371A94'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-silk-pla-filament-1-75mm-rose-gold
+    Purple:
+      hex: '#692B8B'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-silk-pla-filament-1-75mm-rose-gold
+    Personality - Passionate:
+      hex: '#B37D00'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-silk-pla-filament-1-75mm-rose-gold
+    Rose Gold:
+      hex: '#B76E79'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-silk-pla-filament-1-75mm-rose-gold
+    Pastel Pearl:
+      hex: '#BEDDE1,#D59074,#9AA5DD'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-silk-pla-filament-1-75mm-rose-gold
+    Silver Black:
+      hex: '#9FA0AA'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/silky-pla-filament-silverblack-1kg-175mm-69
+    Gold:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-silk-pla-filament-1-75mm-rose-gold
+    Silver gray:
+      hex: '#A6A6A6'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-silk-pla-filament-1-75mm-silver-gray?srsltid=AfmBOoqWpEYGsx6BLxc9BTgyeu581UKQXvbJWxPBOFG3AgLwslGDRFci
+    Red:
+      hex: '#E41414'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/silky-pla-filament-red-1kg-175mm-66
+    Silky White:
+      hex: '#F9F9F9'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-silk-pla-filament-1-75mm-white
+    Silver:
+      hex: '#9E9E9E'
+      source: 3dfilamentprofiles.com
+      link: https://www.ziro3d.com/products/silky-pla-filament-silver-1kg-175mm-12
+    Rose:
+      hex: '#E05EA8'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-silk-pla-filament-1-75mm-rose-gold
+    Green:
+      hex: '#58C9B3'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/silky-pla-filament-green-1kg-175mm-67
+    Silky Orange:
+      hex: '#CD5413'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-silk-pla-filament-1-75mm-orange
+  PLA+/Pro Basic:
+    Snow White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Rose:
+      hex: '#FD7BBC'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-pla-pro-basic-color-series-filament-1-75mm-rose
+    Yellow:
+      hex: '#F7F24A'
+      source: 3dfilamentprofiles.com
+    Dark Gray:
+      hex: '#494D4F'
+      source: 3dfilamentprofiles.com
+      link: https://www.ziro3d.com/products/ziro-pla-pro-filament-basic-color-darkgray-1kg-175mm-48
+    Purple:
+      hex: '#692B8B'
+      source: 3dfilamentprofiles.com
+    Fluro-orange:
+      hex: '#E47D07'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/
+    Skin:
+      hex: '#FEF4E0'
+      source: 3dfilamentprofiles.com
+      link: https://www.ziro3d.com/products/ziro-pla-pro-filament-basic-color-skin-1kg-175mm-46
+    Gray:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#964B00'
+      source: 3dfilamentprofiles.com
+    Fluorescent Yellow:
+      hex: '#EEFF77'
+      source: 3dfilamentprofiles.com
+      link: https://www.ziro3d.com/products/ziro-pla-pro-filament-fluorescent-color-fluo-yellow-1kg-175mm-61
+    Cyan:
+      hex: '#14BCD0'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-pla-pro-basic-color-series-filament-1-75mm-cyan
+  PLA Glitter:
+    Diamond Blue:
+      hex: '#122FBF'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/collections/diamond-pla-series
+    Gradient Chromatic Glitter:
+      hex: '#F8760D,#058A07'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/collections/diamond-pla-series
+    Mystical - Midnight Silver:
+      hex: '#5D6165'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-glitter-mystical-series-pla-filament-1-75mm-midnight-silver
+    Diamond - Purple:
+      hex: '#3F1256'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-glitter-dimaond-pla-filament-1-75mm-purple
+    Mystical - Midnight Blue:
+      hex: '#0C056B'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-glitter-mystical-series-pla-filament-1-75mm-midnight-blue
+    Diamond - Black:
+      hex: '#050505'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/collections/diamond-pla-series
+    Mystical - Midnight Gold:
+      hex: '#553D00'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-glitter-mystical-series-pla-filament-1-75mm-midnight-gold
+    Mystical - Midnight Purple:
+      hex: '#170033'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-glitter-mystical-series-pla-filament-1-75mm-midnight-purple
+    Diamond - Red:
+      hex: '#792728'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-glitter-diamond-pla-filament-1-75mm-red
+    Gradient Twinkling - Starry Sky:
+      hex: '#070024'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-fast-gradient-twinkling-translucent-pla-filament-1-75mm-starry-sky
+    Twinkling-Pink:
+      hex: '#F46EF7'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/collections/diamond-pla-series
+    Twinkling - Red:
+      hex: '#801E15'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-glitter-twinkling-pla-filament-1-75mm-red
+    Gradient Twinkling - Flower - Lavender:
+      hex: '#D027F1'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-fast-gradient-twinkling-translucent-pla-filament-1-75mm-flower-series-lavender
+    Twinkling Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-glitter-twinkling-pla-filament-1-75mm-transparent
+    Diamond - Emerald Green:
+      hex: '#38815A'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-glitter-diamond-pla-filament-1-75mm-emerald-green
+    Diamond - Silver Gray:
+      hex: '#535260'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-glitter-diamond-pla-filament-1-75mm-silver-gray
+    Mystical - Midnight Green:
+      hex: '#023630'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-glitter-mystical-series-pla-filament-1-75mm-midnight-green
+    Twinkling - Blue:
+      hex: '#2540A4'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-glitter-twinkling-pla-filament-1-75mm-blue
+    Diamond - Lavender:
+      hex: '#A9A1C9'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-glitter-diamond-pla-filament-1-75mm-lavender
+  PLA+/Pro Fluorescent:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-fluorescence-pla-filament-1-75mm-fluo-green
+    Fluorescent Purple:
+      hex: '#BE38F3'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-fluorescence-pla-filament-1-75mm-fluo-green
+    Fluo Green:
+      hex: '#11FF00'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-fluorescence-pla-filament-1-75mm-fluo-green
+  PLA Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Fluo Orange:
+      hex: '#FF6E00'
+      source: 3dfilamentprofiles.com
+    Straw:
+      hex: '#E7D7BE'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFE100'
+      source: 3dfilamentprofiles.com
+      link: https://www.ziro3d.com/products/ziro-pla-pro-filament-basic-color-yellow-1kg-175mm-40
+    midnight purple:
+      hex: '#120222'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Glow:
+    Green:
+      hex: '#4DFED1'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-glow-in-dark-pla-filament-1-75mm-gid-green
+    blue:
+      hex: '#00C7FC'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-pla-pro-filament-fluorescent-color-fluo-blue-1kg-175mm-62
+    Cyan:
+      hex: '#91FFFF'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-glow-in-dark-pla-filament-1-75mm-gid-cyan
+  PLA CF:
+    Military Green:
+      hex: '#37493A'
+      source: 3dfilamentprofiles.com
+    Space Gray:
+      hex: '#A2A5B2'
+      source: 3dfilamentprofiles.com
+    Black (is Dark Gray):
+      hex: '#52555F'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-carbon-fiber-pla-filament-1-75mm-black
+    Navy Blue:
+      hex: '#000080'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-carbon-fiber-pla-filament-1-75mm-navy-blue
+  PLA Gradient Twinkling:
+    Chromatic Glitter:
+      hex: '#FF0000,#0000FF,#00FF00'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-fast-gradient-twinkling-translucent-pla-filament-1-75mm-chromatic-glitter
+    Amber:
+      hex: '#0B0513,#9F5922,#852C18'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-fast-gradient-twinkling-translucent-pla-filament-1-75mm-amber
+    Starry Sky:
+      hex: '#2B0569'
+      source: 3dfilamentprofiles.com
+      link: https://www.ziro3d.com/products/ziro-gradient-color-twinkling-pla-filament-1kg,-175mm,-starry-sky
+    Flower - Sunflower:
+      hex: '#FFD333,#F76969,#A63030'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-fast-gradient-twinkling-translucent-pla-filament-1-75mm-flower-series-sunflower
+    Galaxy:
+      hex: '#AA00CC,#000000,#1373B7'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-fast-gradient-twinkling-translucent-pla-filament-1-75mm-galaxy
+    Flower - Lavender:
+      hex: '#D03ECD,#782489,#3A3BC5'
+      source: 3dfilamentprofiles.com
+    Flower Rose:
+      hex: '#E981CD'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-fast-gradient-twinkling-translucent-pla-filament-1-75mm-flower-series-rose
+  PLA Matte:
+    pastel pearl-N.W.1.0KG:
+      hex: '#8292E3,#8A60BE'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Tri Color - Shadow:
+      hex: '#7F7F7F'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-triple-color-co-extrusion-matte-pla-filament-1kg,-175mm,-shadow
+    Chocolate:
+      hex: '#614823'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-matte-pla-filament-chocolate-1kg-175mm-76
+    Orange:
+      hex: '#FF6601'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-matte-pla-filament-1-75mm-orange?srsltid=AfmBOor5queh_2OvgbWJgTYeqzhadMCaslj20hME2AZdP7IvFLCr8rnN
+    Tricolor - Rosy Cloud:
+      hex: '#FFFC41,#FFA57D,#00A3D7'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-triple-color-co-extrusion-matte-pla-filament-1kg,-175mm,-rosy-cloud?VariantsId=11445
+    Tri-Color Mist:
+      hex: '#F4ECB8'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/collections/tricolor-matte-pla
+    Pastel Purple:
+      hex: '#B2A8FF'
+      source: 3dfilamentprofiles.com
+    Military Green:
+      hex: '#37493A'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#5E30EB'
+      source: 3dfilamentprofiles.com
+    Volcano:
+      hex: '#5C0701'
+      source: 3dfilamentprofiles.com
+    Pastel Blue:
+      hex: '#D2F0FF'
+      source: 3dfilamentprofiles.com
+    Pastel Pink:
+      hex: '#ECC0D3'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-matte-pla-filament-1-75mm-pastel-pink
+    Sunlit Petal (Color Change):
+      hex: '#C89CAB'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/pages/products
+    Wooden:
+      hex: '#B9AD83'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-matte-pla-filament-1-75mm-wood
+    Twilight:
+      hex: '#7A7A7A,#561820,#004D65'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/collections/gradient-matte-pla-filament
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Wood Grain Rainbow:
+      hex: '#CCBD99'
+      source: 3dfilamentprofiles.com
+    Pastel Spectrum:
+      hex: '#A7C7E7,#FF8B8B,#77DD77'
+      source: 3dfilamentprofiles.com
+    Tricolor Purple Sunset:
+      hex: '#FF8647'
+      source: 3dfilamentprofiles.com
+    Neon Tri color:
+      hex: '#339CFF,#F7F269,#E31616'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-tri-color-matte-pla-filament-1-75mm-neon
+    Frosted Berry Tricolor:
+      hex: '#D357FE'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Pro:
+    Pink:
+      hex: '#FF00F7'
+      source: 3dfilamentprofiles.com
+    Dark Gray:
+      hex: '#4F5555'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-pla-pro-basic-color-series-filament-1-75mm-dark-gray
+    Bronze:
+      hex: '#694E1E'
+      source: 3dfilamentprofiles.com
+      link: https://www.ziro3d.com
+    Snow White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-pla-pro-basic-color-series-filament-1-75mm-snow-white
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-pla-pro-basic-color-series-filament-1-75mm-black
+  PLA Gradient Matte:
+    Camouflage:
+      hex: '#778F61,#8E925D,#6BA87A'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-gradient-matte-pla-filament-1-75mm-camouflage
+    Glacier:
+      hex: '#FAFAFA,#55D3EC,#037FD8'
+      source: 3dfilamentprofiles.com
+    Paint Splash:
+      hex: '#F06936,#FFFD48,#6F9FA3'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-fast-gradient-matte-pla-filament-1-75mm-paint-splash
+    Fall Frost:
+      hex: '#94E3FE,#CCE8B5,#FFFBB9'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-fast-gradient-matte-pla-filament-1-75mm-fall-frost
+    Matcha:
+      hex: '#A4AC17'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/collections/fast-gradient-matte-pla
+    Gray Layer Rock:
+      hex: '#7E8081,#2E2E2E,#72B7E9,#315772'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/collections/fast-gradient-matte-pla
+    Wood Grain:
+      hex: '#ECDA98,#EDF2D4,#8E8548'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-gradient-matte-pla-filament-1-75mm-wood-grain
+    Cool Daybreak:
+      hex: '#00C7FC,#FFFBB9,#49B683'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-fast-gradient-matte-pla-filament-1-75mm-cool-daybreak
+    Ocean:
+      hex: '#56FB61,#45A4E8,#7FC1F0'
+      source: 3dfilamentprofiles.com
+    Falling Leaves:
+      hex: '#FF1A1A,#F0C03D,#FFF700'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-fast-gradient-matte-pla-filament-1-75mm-falling-leaves
+  PLA Matte Tri-Color:
+    Rusted Jungle:
+      hex: '#0042AA,#AD3E00,#669C35'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/collections/tricolor-matte-pla
+    Indigo Space:
+      hex: '#450E59,#1A0A53,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-tri-color-matte-pla-filament-1-75mm-indigo-space
+    Volcano:
+      hex: '#B51A00,#333333,#C4BC00'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/collections/tricolor-matte-pla
+    Colorful Mist:
+      hex: '#FFFBB9,#CDE8B5,#93E3FD'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-tri-color-matte-pla-filament-1-75mm-mist
+    Shadow:
+      hex: '#030303,#5B5C5D,#E6E8EB'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/collections/tricolor-matte-pla
+    Maple Forest:
+      hex: '#D38301,#00F6E0,#E22400'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-tri-color-matte-pla-filament-1-75mm-maple-forest
+    Desert:
+      hex: '#D67D35,#AB5E06,#DDB193'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/collections/tricolor-matte-pla
+    Rosy Cloud:
+      hex: '#F661BF,#7F9CEA,#E1D16F'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/collections/tricolor-matte-pla
+    Sunbeam Forest:
+      hex: '#3DB8B6,#EEF769,#6CBBF4'
+      source: 3dfilamentprofiles.com
+    Neon:
+      hex: '#F5EC00,#0056D6,#B51A00'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-tri-color-matte-pla-filament-1-75mm-neon
+  PLA+/Pro Translucent:
+    Translucent Green:
+      hex: '#00FF33'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#EEFF00'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#00FF33'
+      source: 3dfilamentprofiles.com
+    Clear:
+      hex: '#F0F2F5'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#EBBF24'
+      source: 3dfilamentprofiles.com
+    Cyan:
+      hex: '#00C7FC'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#402677'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-translucent-pla-filament-1-75mm-translucent-purple
+    Light Blue:
+      hex: '#04D9FF'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#FE019A'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-translucent-pla-filament-1-75mm-translucent-pink
+    Translucent Blue:
+      hex: '#000055'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-translucent-pla-filament-1-75mm-translucent-blue
+  PLA Sparkle:
+    Bright Red:
+      hex: '#E12D3F'
+      source: 3dfilamentprofiles.com
+    Diamaond Lavender:
+      hex: '#A9A1C9'
+      source: 3dfilamentprofiles.com
+    Diamond Green:
+      hex: '#166341'
+      source: 3dfilamentprofiles.com
+    Twinkling Pink:
+      hex: '#FF76AE'
+      source: 3dfilamentprofiles.com
+    Diamond Black:
+      hex: '#050505'
+      source: 3dfilamentprofiles.com
+    Twinkling Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Diamond Emerald Green:
+      hex: '#50C878'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#00DF14'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#644669'
+      source: 3dfilamentprofiles.com
+    Blackish Green:
+      hex: '#000000,#00754E'
+      source: 3dfilamentprofiles.com
+    Diamond Red:
+      hex: '#912320'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Pink:
+      hex: '#D284C3'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-shore-95a-hardness-tpu-filament-1-75mm-transparent?srsltid=AfmBOooQMDN1CGzNbF6VKFa_v1V37JIxJxCqgUw9RdZs6_ks6_dyp75a
+    Purple:
+      hex: '#8B41C4'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-shore-95a-hardness-tpu-filament-1-75mm-transparent?srsltid=AfmBOooQMDN1CGzNbF6VKFa_v1V37JIxJxCqgUw9RdZs6_ks6_dyp75a
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-flexible-tpu-95a-filament-800g-175mm-black
+    Blue:
+      hex: '#003276'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-shore-95a-hardness-tpu-filament-1-75mm-blue
+    Florescent Green:
+      hex: '#79FE0C'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-shore-95a-hardness-tpu-filament-1-75mm-transparent?srsltid=AfmBOooQMDN1CGzNbF6VKFa_v1V37JIxJxCqgUw9RdZs6_ks6_dyp75a
+    Orange:
+      hex: '#E96F0C'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-shore-95a-hardness-tpu-filament-1-75mm-transparent?srsltid=AfmBOooQMDN1CGzNbF6VKFa_v1V37JIxJxCqgUw9RdZs6_ks6_dyp75a
+    Gray:
+      hex: '#707070'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-shore-95a-hardness-tpu-filament-1-75mm-transparent?srsltid=AfmBOooQMDN1CGzNbF6VKFa_v1V37JIxJxCqgUw9RdZs6_ks6_dyp75a
+  PLA Multicolor:
+    Desert:
+      hex: '#E8DBB7,#B15533,#F99963'
+      source: 3dfilamentprofiles.com
+  PLA Gradient:
+    Matte Morandi:
+      hex: '#FFD7FF,#B8DBF4,#F9FDD8'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-fast-gradient-matte-pla-filament-1-75mm-morandi
+    Personality - Steady:
+      hex: '#41484E,#1676BB,#89A2B3'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-fast-gradient-silk-pla-filament-1-75mm-personality-series-steady
+    Personality - Romantic:
+      hex: '#D06AF6,#F56BD0,#8169F7'
+      source: 3dfilamentprofiles.com
+    Matte - Northern Lights:
+      hex: '#F769B5,#6DBEF8,#69F7D4'
+      source: 3dfilamentprofiles.com
+    Macaron:
+      hex: '#5AF6BF,#6FC1FB,#F5A3C7'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-gradient-matte-pla-filament-1-75mm-macaron
+    Matte Rainbow Blaze:
+      hex: '#CA0263,#F6E46A,#2C61DD'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-fast-gradient-matte-pla-filament-1-75mm-rainbow-blaze
+    Tri-color Matte - Mist:
+      hex: '#F4ECB8,#6FC1FB,#F7A197'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-tri-color-matte-pla-filament-1-75mm-mist
+    Season - Winter:
+      hex: '#FFFFFF,#94E3FE,#53D5FD'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-gradient-translucent-pla-season-series-filament-1-75mm-winter
+    Ember:
+      hex: '#9A2D19,#E19C18,#EEE4D7'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-fast-gradient-silk-pla-filament-1-75mm-ember
+  PLA+/Pro Glitter:
+    Caramel:
+      hex: '#FFA57D'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Matte:
+    Pastel green:
+      hex: '#96D35F'
+      source: 3dfilamentprofiles.com
+  PLA High Speed:
+    Cyan:
+      hex: '#00FFFF'
+      source: 3dfilamentprofiles.com
+    Magenta:
+      hex: '#A503A0'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Golden Oasis:
+      hex: '#1BED0C,#10365C,#836821'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-tri-color-silk-pla-filament-1-75mm-golden-oasis
+    Earth Tone:
+      hex: '#F1C9FE'
+      source: 3dfilamentprofiles.com
+    Citrus Breeze:
+      hex: '#F9A20B'
+      source: 3dfilamentprofiles.com
+    Indigo Satin:
+      hex: '#0000FF,#800080,#000000'
+      source: 3dfilamentprofiles.com
+    Polar Sky:
+      hex: '#D0E052'
+      source: 3dfilamentprofiles.com
+    Metallic Fusion:
+      hex: '#B17100,#C3BB54,#D5D8CD'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-fast-gradient-silk-pla-filament-1-75mm-metallic-fusion
+  PLA Silk Rainbow:
+    Rainbow:
+      hex: '#FF40FF'
+      source: 3dfilamentprofiles.com
+  PLA Matte Dual:
+    Maple Forest TriColor:
+      hex: '#ED719E'
+      source: 3dfilamentprofiles.com
+    Snow Mountain Blue and White:
+      hex: '#A8C6FE'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-translucent-pla-filament-1-75mm-translucent-caramel
+    Orange:
+      hex: '#FF6E00'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-translucent-pla-filament-1-75mm-translucent-caramel
+    Translucent Caramel:
+      hex: '#B64C2E'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-translucent-pla-filament-1-75mm-translucent-caramel
+    Fluo Green:
+      hex: '#11FF00'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-pla-pro-filament-translucent-colors-translucent-green-1kg-175mm-34
+    Season - Summer Gradient:
+      hex: '#94E3FE'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-gradient-translucent-pla-season-series-filament-1-75mm-summer
+  PLA+/Pro Metal:
+    Copper:
+      hex: '#90490E'
+      source: 3dfilamentprofiles.com
+  PLA Matte Rainbow:
+    Northern Lights:
+      hex: '#5BD4B4,#BB68A6,#3C81BA'
+      source: 3dfilamentprofiles.com
+    Rainbow Blaze:
+      hex: '#FC42FF,#F0A728,#0BCB31'
+      source: 3dfilamentprofiles.com
+    Tropical:
+      hex: '#4DFF58'
+      source: 3dfilamentprofiles.com
+    Colorful Mist:
+      hex: '#E6D2CA,#6DA99F,#A7ADBA'
+      source: 3dfilamentprofiles.com
+  PLA Pro:
+    dark gray:
+      hex: '#131112,#31363A'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-pla-pro-basic-color-series-filament-1-75mm-dark%20gray
+  TPU Translucent:
+    Caramel:
+      hex: '#45121F'
+      source: 3dfilamentprofiles.com
+  TPU Gradient:
+    Nightsky:
+      hex: '#3844C1,#962BC9,#13071A,#6E6FA5'
+      source: 3dfilamentprofiles.com
+    Opal:
+      hex: '#BCAACB,#ACBFDC,#C5D4D7,#DDC6B7'
+      source: 3dfilamentprofiles.com
+  PLA Marble:
+    Blue and White:
+      hex: '#FDFFE0,#124E87'
+      source: 3dfilamentprofiles.com
+      link: https://3dfilamentprofiles.com/
+    Marble:
+      hex: '#BDCBD1'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-stone-pla-filament-1-75mm-marble
+  PLA+/Pro:
+    Cyan:
+      hex: '#14BCD0'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    Blue:
+      hex: '#80BDF9'
+      source: 3dfilamentprofiles.com
+      link: https://ziro3d.com/products/ziro-glow-in-dark-pla-filament-1-75mm-gid-blue
+  PLA Rainbow:
+    Fall Frost:
+      hex: '#94E3FE,#CCE8B5,#FFFBB9'
+      source: 3dfilamentprofiles.com

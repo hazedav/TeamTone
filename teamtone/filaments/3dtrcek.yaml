@@ -1,0 +1,356 @@
+3DTrcek:
+  PLA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/pla-filament
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/pla-filament
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/pla-filament
+    Blue:
+      hex: '#0080FF'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/pla-filament
+    Yellow:
+      hex: '#FFE600'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/pla-filament
+    Orange:
+      hex: '#EB4F24'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/pla-filament
+    Purple:
+      hex: '#800080'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/pla-filament
+    Light grey RAL 7035:
+      hex: '#C5C7C4'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/pla-filament
+    Bright red orange RAL 2008:
+      hex: '#E86B22'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/pla-filament
+  ABS+ Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/abs-plus-filament
+  PETG Matte:
+    Light Grey:
+      hex: '#C8C8C8'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/pet-g-mat-filament
+    Light Ivory:
+      hex: '#E1CAB0'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/pet-g-mat-filament
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/pet-g-mat-filament
+    Grey:
+      hex: '#9A9A9A'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/pet-g-mat-filament
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/pet-g-mat-filament
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/pet-g-mat-filament
+    Bright Red Orange:
+      hex: '#FF8000'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/pet-g-mat-filament
+    Orange:
+      hex: '#DD5E00'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/pet-g-mat-filament
+    Green:
+      hex: '#00E171'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/pet-g-mat-filament
+    Moos Green RAL 6005:
+      hex: '#0C3F2F'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/pet-g-mat-filament
+    Blue:
+      hex: '#0080FF'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/pet-g-mat-filament
+    Dark Blue:
+      hex: '#000080'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/pet-g-mat-filament
+    Anthracite Grey:
+      hex: '#222222'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/pet-g-mat-filament
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/pet-g-matte-refill-filament
+  PETG Recycled:
+    Mix:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/petg-filament
+  PLA High Speed Matte:
+    Lime green:
+      hex: '#93D521'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/high-speed-pla-matte-filament
+    Beige:
+      hex: '#F5F5DC'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/high-speed-pla-matte-filament
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/high-speed-pla-matte-filament
+    Red:
+      hex: '#E30000'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/high-speed-pla-matte-filament
+  PLA Wood:
+    Bamboo:
+      hex: '#BA9D7D'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/wood-filament
+    Pine Tree:
+      hex: '#D1B898'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/wood-filament
+  PLA ReFill:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/refill-pla-filament-en
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/refill-pla-filament-en
+  PCTG Basic:
+    Anthracite Grey:
+      hex: '#353C40'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/pctg-filament
+  PETG High Speed Matte:
+    Beige:
+      hex: '#F5F5DC'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/pet-g-mat-filament
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/pet-g-mat-filament
+    Red:
+      hex: '#D90000'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/pet-g-mat-filament
+  ABS Recycled:
+    Random:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/abs-plus-filament
+  PETG Basic:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/petg-filament
+    Moss green:
+      hex: '#114232'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/petg-filament
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/petg-filament
+    Green:
+      hex: '#009600'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/petg-filament
+    Light Grey:
+      hex: '#C8C8C8'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/petg-filament
+    Neon green:
+      hex: '#78F343'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/petg-filament
+    Transparent:
+      hex: '#DBDBDB'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/petg-filament
+    Anthracite grey:
+      hex: '#353C40'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/petg-filament
+    Orange:
+      hex: '#FF922F'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/petg-filament
+    Neon orange:
+      hex: '#FFA62D'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/petg-filament
+    Off-White:
+      hex: '#F0ECE1'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/petg-filament
+    Light ivory:
+      hex: '#E6D3B5'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/petg-filament
+    Brown:
+      hex: '#493918'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/petg-filament
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/petg-filament
+    Blue:
+      hex: '#0417FF'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/petg-filament
+    Pastel blue:
+      hex: '#5D9B9B'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/petg-filament
+    Bright red orange:
+      hex: '#F75E25'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/petg-filament
+    May green:
+      hex: '#4C9141'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/petg-filament
+    Water blue:
+      hex: '#256D7B'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/petg-filament
+    Silver:
+      hex: '#7C7C7C'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/petg-filament
+    Dark blue:
+      hex: '#00049F'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/petg-filament
+    Purple:
+      hex: '#5700CE'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/petg-filament
+    Gold:
+      hex: '#A3A477'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/petg-filament
+    Grey:
+      hex: '#B8B8B8'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/petg-filament
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/petg-filament
+  ASA+ Basic:
+    Light Grey (RAL 7035):
+      hex: '#C5C7C4'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/asa-plus-filament
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/asa-plus-filament
+    Anthracite Grey (RAL 7016):
+      hex: '#4B5054'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/asa-plus-filament
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/asa-plus-filament
+    Grey:
+      hex: '#999D9D'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/asa-plus-filament
+    Yellow:
+      hex: '#C5A00C'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/asa-plus-filament
+    Bright Red Orange (RAL 2008):
+      hex: '#ED6B21'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/asa-plus-filament
+    Red:
+      hex: '#B11814'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/asa-plus-filament
+    Green:
+      hex: '#3CA65E'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/asa-plus-filament
+    Blue:
+      hex: '#1B64A4'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/asa-plus-filament
+    Natur:
+      hex: '#EBDEC3'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/asa-plus-filament
+  ASA Recycled:
+    Random:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/asa-plus-filament
+  PETG High Speed:
+    Anthracite Grey:
+      hex: '#272727'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/petg-filament
+  PVA Basic:
+    Nature:
+      hex: '#FDFFBD'
+      source: 3dfilamentprofiles.com
+  PLA Metal:
+    Metallic Bronze:
+      hex: '#49371B'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/pla-filament
+  PLA Recycled:
+    Mix:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/pla-filament
+  PLA Silk:
+    Mix:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/silk-filament
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/silk-filament
+    Pure gold:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/en/silk-filament
+  PLA Marble:
+    Marble:
+      hex: '#DEDEDE'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/pla-filament
+  TPU Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dtrcek.com/sl/tpu-filament

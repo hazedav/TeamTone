@@ -1,0 +1,47 @@
+Printalot:
+  PLA Basic:
+    Azul Pal/Pal Blue:
+      hex: '#2391E7'
+      source: 3dfilamentprofiles.com
+      link: https://printalot.com.ar/productos/filamentos/pla/pla-azul-pal/
+    Azul/Blue:
+      hex: '#1325B4'
+      source: 3dfilamentprofiles.com
+      link: https://printalot.com.ar/productos/filamentos/pla/pla-azul/
+    Blanco/White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://printalot.com.ar/categoria-producto/filamentos/pla/
+    Pink:
+      hex: '#D991BB'
+      source: 3dfilamentprofiles.com
+      link: https://printalot.com.ar/productos/filamentos/pla/pla-rosa/
+    Piel:
+      hex: '#FFECD9'
+      source: 3dfilamentprofiles.com
+      link: https://printalot.com.ar/productos/filamentos/pla/pla-piel/
+    Naranja Fluorescente:
+      hex: '#FF6200'
+      source: 3dfilamentprofiles.com
+      link: https://printalot.com.ar/productos/filamentos/pla/pla-naranja-fluorescente/
+    Cobre Metalizado:
+      hex: '#903914'
+      source: 3dfilamentprofiles.com
+      link: https://printalot.com.ar/categoria-producto/filamentos/?filter_color=cobre-metalizado
+    Verde/Green:
+      hex: '#0D4F27'
+      source: 3dfilamentprofiles.com
+      link: https://printalot.com.ar/productos/filamentos/pla/pla-verde/
+    Negro/Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://printalot.com.ar/categoria-producto/filamentos/pla/
+    Kriptonita Metalizado:
+      hex: '#006607'
+      source: 3dfilamentprofiles.com
+      link: https://printalot.com.ar/productos/filamentos/pla/pla-kriptonita-metalizado/
+  TPU Basic:
+    Blanco:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://printalot.com.ar/productos/filamentos/flex/flex-blanco/

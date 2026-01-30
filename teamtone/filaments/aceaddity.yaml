@@ -1,0 +1,125 @@
+Aceaddity:
+  PETG Basic:
+    Space Gray:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.aceaddity.com/products/aceaddity-petg-filament-1-75mm-1kg-strong-petg-3d-printer-filament-dimensional-accuracy-0-03mm
+    Grey:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://www.aceaddity.com/products/aceaddity-petg-filament-1-75mm-1kg-strong-petg-3d-printer-filament-dimensional-accuracy-0-03mm
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.aceaddity.com/products/aceaddity-petg-filament-1-75mm-1kg-strong-petg-3d-printer-filament-dimensional-accuracy-0-03mm
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.aceaddity.com/products/aceaddity-petg-filament-1-75mm-1kg-strong-petg-3d-printer-filament-dimensional-accuracy-0-03mm
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.aceaddity.com/products/aceaddity-petg-filament-1-75mm-1kg-strong-petg-3d-printer-filament-dimensional-accuracy-0-03mm
+    WINKLE PETG BLANC:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.aceaddity.com/products/aceaddity-petg-filament-1-75mm-1kg-strong-petg-3d-printer-filament-dimensional-accuracy-0-03mm
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.aceaddity.com/products/aceaddity-petg-filament-1-75mm-1kg-strong-petg-3d-printer-filament-dimensional-accuracy-0-03mm
+    黑色/Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: http://www.aceaddity.com
+    Green:
+      hex: '#008000'
+      source: 3dfilamentprofiles.com
+      link: https://www.aceaddity.com/products/aceaddity-petg-filament-1-75mm-1kg-strong-petg-3d-printer-filament-dimensional-accuracy-0-03mm
+    Clear:
+      hex: '#D6E5F0'
+      source: 3dfilamentprofiles.com
+      link: https://www.aceaddity.com/products/aceaddity-petg-filament-1-75mm-1kg-strong-petg-3d-printer-filament-dimensional-accuracy-0-03mm?variant=49852291154195
+  PLA+/Pro Basic:
+    Silver:
+      hex: '#636363'
+      source: 3dfilamentprofiles.com
+      link: https://www.aceaddity.com/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.aceaddity.com/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.aceaddity.com/
+    Blue:
+      hex: '#3234EB'
+      source: 3dfilamentprofiles.com
+      link: https://www.aceaddity.com/
+    Grey:
+      hex: '#ABABAB'
+      source: 3dfilamentprofiles.com
+      link: https://www.aceaddity.com/
+  PLA High Speed:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Water Green:
+      hex: '#81F4E2'
+      source: 3dfilamentprofiles.com
+    Pink Blue:
+      hex: '#9CA3CB'
+      source: 3dfilamentprofiles.com
+    Light Pink:
+      hex: '#DF9FC8'
+      source: 3dfilamentprofiles.com
+    Goose Yellow:
+      hex: '#F1E6B2'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Silk Magic:
+    Silver-Black:
+      hex: '#7A7A7A,#000000'
+      source: 3dfilamentprofiles.com
+    Blue / Pink / Green:
+      hex: '#488ACF,#CF4792,#6ADC61'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Green:
+      hex: '#48FF52'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#861D26'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#002FEC'
+      source: 3dfilamentprofiles.com
+  PLA Marble:
+    Marble:
+      hex: '#ADB4B9'
+      source: 3dfilamentprofiles.com
+      link: https://www.aceaddity.com/products/marble-pla-3d-printer-filament-stone-like-texture-dimensional-accuracy-0-02-mm-1-kg-spool-1-75-mm?
+  PLA+/Pro Build:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Wood:
+      hex: '#C7A071'
+      source: 3dfilamentprofiles.com
+      link: https://www.aceaddity.com/products/wood-pla-3d-printer-filament-30-real-wood-dimensional-accuracy-0-02-mm-1-kg-spool-1-75-mm
+  PLA Silk Triple:
+    Blue/Purple/Black:
+      hex: '#1B00EB,#BC50F7,#000000'
+      source: 3dfilamentprofiles.com
+    Blue Purple Yellow:
+      hex: '#4B9CEE,#753BE4,#EFF661'
+      source: 3dfilamentprofiles.com
+  PLA Silk Magic:
+    Blue-Rose Red:
+      hex: '#01C7FC,#D357FE'
+      source: 3dfilamentprofiles.com
+    Gold-Copper-Black:
+      hex: '#EAB446,#BF3E2B,#424D59'
+      source: 3dfilamentprofiles.com

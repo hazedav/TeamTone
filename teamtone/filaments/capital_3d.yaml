@@ -1,0 +1,50 @@
+Capital 3D:
+  PLA Sparkle:
+    Black Sparkle:
+      hex: '#524F57'
+      source: 3dfilamentprofiles.com
+      link: https://www.capital3d.au/products/pla-sparkle?variant=45584028631265
+    Burnt Titanium:
+      hex: '#293658'
+      source: 3dfilamentprofiles.com
+      link: https://www.capital3d.au/products/pla-sparkle?variant=46042561413345
+    Nebula:
+      hex: '#8568B5'
+      source: 3dfilamentprofiles.com
+      link: https://www.capital3d.au/products/pla-sparkle?variant=46042561380577
+  PLA+/Pro Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.capital3d.au/products/pla
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.capital3d.au/products/pla?variant=45155103047905
+    Grey:
+      hex: '#CCCCD0'
+      source: 3dfilamentprofiles.com
+      link: https://www.capital3d.au/products/pla?variant=45155103080673
+    Leahs Green:
+      hex: '#E5EC8D'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF6600'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#F7573B'
+      source: 3dfilamentprofiles.com
+      link: https://www.capital3d.au/products/pla?variant=45155103342817
+    Silver:
+      hex: '#AAADB7'
+      source: 3dfilamentprofiles.com
+      link: https://www.capital3d.au/products/pla?variant=45155103113441
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.capital3d.au/products/petg
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.capital3dprinting.com.au/products/petg?variant=45155120578785

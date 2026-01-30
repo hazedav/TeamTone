@@ -1,0 +1,310 @@
+Ambrosia:
+  ASA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/collections/asa-filament-acrylonitrile-styrene-acrylate/products/ambrosia-asa-galactic-filament-of-the-gods-glitter-sparkle-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament
+    Voron Red:
+      hex: '#C51223'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/collections/asa-filament-acrylonitrile-styrene-acrylate/products/ambrosia-asa-galactic-filament-of-the-gods-glitter-sparkle-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament
+    Galactic Grey:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-asa-galactic-filament-of-the-gods-glitter-sparkle-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=47199776833850
+    Galactic Planetary Blue:
+      hex: '#2382B7'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-asa-galactic-filament-of-the-gods-glitter-sparkle-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=47199776997690
+    Super Blue:
+      hex: '#0B1E97'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-asa-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament-house-asa?variant=47777612398906
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/collections/asa-filament-acrylonitrile-styrene-acrylate/products/ambrosia-asa-galactic-filament-of-the-gods-glitter-sparkle-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament
+    Terrestrial Blue:
+      hex: '#07D3F8'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/collections/asa-filament-acrylonitrile-styrene-acrylate/products/ambrosia-asa-galactic-filament-of-the-gods-glitter-sparkle-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament
+    Galactic Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/collections/asa-filament-acrylonitrile-styrene-acrylate/products/ambrosia-asa-galactic-filament-of-the-gods-glitter-sparkle-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament
+    KB-3D Orange:
+      hex: '#FEAE5E'
+      source: 3dfilamentprofiles.com
+      link: https://west3d.com/products/ambrosia-asa-filament-of-the-gods-1kg-bambu-friendly-cardboard-spools-premium-3d-printing-filament?variant=44425275637972
+  PLA Multicolor:
+    Prince of Purple:
+      hex: '#29299C,#7338D2'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/collections/pla/products/ambrosia-dolos-color-shifting-pla-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament
+  PLA Basic:
+    Cardovan:
+      hex: '#682029'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-pla-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=50588085190970
+    Coral Wave:
+      hex: '#07D3F8,#FF0ACA'
+      source: 3dfilamentprofiles.com
+      link: https://west3d.com/products/ambrosia-pla-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=47336906653908
+    Olive Drab:
+      hex: '#646920'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/collections/pla
+    KB3D Orange:
+      hex: '#FEAE5E'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/collections/pla/products/ambrosia-pla-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=49103110504762
+    Pink:
+      hex: '#FF80C0'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-pla-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=49103110242618
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-pla-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=49103110078778
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-pla-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=49103110668602
+    Bloody Murder:
+      hex: '#F55638'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/collections/pla/products/ambrosia-pla-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=51164197716282
+    Grape:
+      hex: '#A918F7'
+      source: 3dfilamentprofiles.com
+      link: https://west3d.com/products/ambrosia-pla-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=47159811408084
+  PLA Special:
+    Banana Rama:
+      hex: '#F4C676'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/collections/pla/products/ambrosia-dolos-color-shifting-pla-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=50588072608058
+    Violet Void:
+      hex: '#6D4E5F,#B18F9F'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-dolos-color-shifting-pla-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=50588073525562
+    Titanium Anno:
+      hex: '#5D88A8'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-dolos-color-shifting-pla-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=47777731674426
+    Cool Grey Pearl:
+      hex: '#D6D6D6'
+      source: 3dfilamentprofiles.com
+      link: https://west3d.com/products/ambrosia-dolos-color-morphing-pla-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=47159799611604
+  PLA Sparkle:
+    Stardust:
+      hex: '#8C4694,#1D5E98,#5D4C8D'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-galactic-sparkle-pla-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=50588069888314
+    Cosmic Shimmer:
+      hex: '#542362,#30845C,#324877'
+      source: 3dfilamentprofiles.com
+      link: https://west3d.com/products/ambrosia-galactic-sparkle-pla-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=47336902099156
+    GITD (Clear to Green Glow):
+      hex: '#BBE8C0'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-galactic-sparkle-pla-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=49038401175866
+    Galactic Planetary Blue:
+      hex: '#33D1CA'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-galactic-sparkle-pla-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=49038401306938
+  ABS Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-uber-abs-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament-abs?variant=47199777358138
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/collections/uber-abs-abs-acrylonitrile-butadiene-styrene/products/ambrosia-uber-abs-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament-abs
+  ASA Multicolor:
+    Rainbow Dolos:
+      hex: '#41C7DD,#AA5798,#354A81,#AD755D'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-dolos-color-shifting-pla-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=52042494083386
+    Coral Wave:
+      hex: '#01C7FC,#B92D5D'
+      source: 3dfilamentprofiles.com
+    Violet Void:
+      hex: '#6D4E5F,#B18F9F'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-dolos-color-shifting-asa-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=50588284354874
+    Prince of Purple:
+      hex: '#29299C,#7338D2'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-dolos-color-shifting-asa-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=49038295859514
+    Banana Rama:
+      hex: '#EAB253,#EED8A8'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-dolos-color-shifting-asa-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=52042489135418
+    Cool Grey Pearl:
+      hex: '#9CB2BC,#D3C1BE'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-dolos-color-shifting-asa-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=52042489200954
+    Titanium Anno:
+      hex: '#496B8C,#3B4153'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-dolos-color-shifting-asa-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=49038295892282
+  ASA Galaxy:
+    Cosmic Shimmer:
+      hex: '#39103C,#237B5E,#192143'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-asa-galactic-filament-of-the-gods-glitter-sparkle-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=52325805130042
+    Voron Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://west3d.com/products/ambrosia-asa-galactic-filament-of-the-gods-glitter-sparkle-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament-house-asa?variant=44425288286420
+    Stardust:
+      hex: '#8C4694,#1D5E98,#5D4C8D'
+      source: 3dfilamentprofiles.com
+      link: https://west3d.com/products/ambrosia-asa-galactic-filament-of-the-gods-glitter-sparkle-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament-house-asa?variant=46039870931156
+    Galactic Green:
+      hex: '#00FF40'
+      source: 3dfilamentprofiles.com
+    Galactic Grey:
+      hex: '#655F69'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-asa-galactic-filament-of-the-gods-glitter-sparkle-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=47199776833850
+    Galactic Super Red:
+      hex: '#B90000'
+      source: 3dfilamentprofiles.com
+      link: https://west3d.com/products/ambrosia-asa-galactic-filament-of-the-gods-glitter-sparkle-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament-house-asa?variant=44020722204884
+    Quadra Teal:
+      hex: '#26659A'
+      source: 3dfilamentprofiles.com
+      link: https://west3d.com/products/ambrosia-asa-galactic-filament-of-the-gods-glitter-sparkle-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament-house-asa?variant=46039870898388
+    Galactic Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-asa-galactic-filament-of-the-gods-glitter-sparkle-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament
+    Galactic Grape:
+      hex: '#861D66'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-asa-galactic-filament-of-the-gods-glitter-sparkle-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=47199776932154
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/collections/petg-polyethylene-terephthalate-glycol/products/ambrosia-petg-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament
+    Rainbow Fusion:
+      hex: '#B15697,#1FA18C,#7186B6,#D59786'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-petg-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=52042524721466
+  PLA Silk:
+    Blue + Purple:
+      hex: '#0000FF,#AA00FF'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-silk-pla-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=52043042685242
+  ABS+ Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-uber-abs-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament-abs?variant=47199777358138
+    Pastel Pink:
+      hex: '#FFD6F2'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-uber-abs-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament-abs?variant=47199777423674
+    Red:
+      hex: '#FF1900'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-uber-abs-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament-abs?variant=47199777456442
+    Natural:
+      hex: '#FFFEF5'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-uber-abs-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament-abs?variant=47199777390906
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-uber-abs-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament-abs?variant=47199777325370
+    Purple:
+      hex: '#6727DD'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-uber-abs-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament-abs?variant=47199777489210
+  PC CF:
+    Blue:
+      hex: '#4190C8'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-pc-cf-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament-house-polycarbonate-cf-pccf?variant=49038303756602
+    Red:
+      hex: '#D76060'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-pc-cf-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament-house-polycarbonate-cf-pccf?variant=49038303985978
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-pc-cf-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament-house-polycarbonate-cf-pccf?variant=47713906491706
+  ASA Special:
+    Cool Grey Pearl:
+      hex: '#97D2FF'
+      source: 3dfilamentprofiles.com
+      link: https://west3d.com/products/ambrosia-dolos-color-shifting-asa-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=47159798628564
+    Titanium Anno:
+      hex: '#576B96'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-dolos-color-shifting-asa-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=49038295892282
+    Banana Rama:
+      hex: '#B5DD33'
+      source: 3dfilamentprofiles.com
+      link: https://west3d.com/products/ambrosia-dolos-color-shifting-asa-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=47159798595796
+  PLA Silk Dual:
+    Gold Red:
+      hex: '#FF0000,#FFFF00'
+      source: 3dfilamentprofiles.com
+  ASA Fluorescent:
+    Fluorecent Neon Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PC:
+    PC-ABS Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-pc-abs-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament-house-polycarbonate-abs?variant=47713906524474
+  PHA Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://west3d.com/products/ambrosia-pha-filament-earth-friendly-filament-for-everyone?variant=46968719409364
+  ASA CF:
+    Dark Blue:
+      hex: '#101D22'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/collections/asa-filament-acrylonitrile-styrene-acrylate/products/ambrosia-asa-cf-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-asa-cf-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=47713906131258
+    Purple:
+      hex: '#665393'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-asa-cf-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=49038277116218
+  PETG Blend:
+    Red:
+      hex: '#E11331'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-petg-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=49038379254074
+  ABS Matte:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-abs-matte-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=50414443921722
+    Galaxy Black:
+      hex: '#4C4C4D'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-abs-matte-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=51367720780090
+  ASA GF:
+    Natural:
+      hex: '#F9F4EC'
+      source: 3dfilamentprofiles.com
+      link: https://ambrosiafilament.com/products/ambrosia-asa-gf-glass-filled-asa-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament?variant=49038434042170
+  ASA Sparkle:
+    Armored Turtle Green (w/ Gold Sparkle):
+      hex: '#00AE6E'
+      source: 3dfilamentprofiles.com

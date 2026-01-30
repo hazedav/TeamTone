@@ -1,0 +1,20 @@
+Kiwi3D:
+  TPU 95A:
+    Green:
+      hex: '#32C759'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Blue:
+      hex: '#213D9E'
+      source: 3dfilamentprofiles.com
+      link: https://kiwi3d.co.nz/product/kiwi3d-blue-pla/
+  PLA Silk:
+    Blue Raspberry:
+      hex: '#501E4A,#211C50'
+      source: 3dfilamentprofiles.com
+      link: https://kiwi3d.co.nz/product/kiwi3d-blue-raspberry-bicolour-silk-pla/
+  PETG Basic:
+    Blue:
+      hex: '#044DDE'
+      source: 3dfilamentprofiles.com
+      link: https://kiwi3d.co.nz/product/kiwi3d-blue-petg-filament/

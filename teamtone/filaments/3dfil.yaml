@@ -1,0 +1,12 @@
+3DFIL:
+  PLA Basic:
+    Silver:
+      hex: '#B5B5B5'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#EBF527'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    wood:
+      hex: '#CDA47E'
+      source: 3dfilamentprofiles.com

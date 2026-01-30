@@ -1,0 +1,139 @@
+Fremover:
+  PLA+/Pro Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/pages/pla
+    Blue:
+      hex: '#3333FF'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/pages/pla
+    Brown:
+      hex: '#935100'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/pages/pla
+    Azul profundo:
+      hex: '#0B2642'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/pages/pla
+    Rojo:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/pages/pla
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/pages/pla
+    Peacock:
+      hex: '#20606C'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/pages/pla
+    Apple Green:
+      hex: '#7DBE46'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/pages/pla
+    Fluorescent Green:
+      hex: '#46BD69'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/pages/pla
+    Army Green:
+      hex: '#48513E'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/pages/pla
+    Cloud Blue:
+      hex: '#94E3FE'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/pages/pla
+    Silver:
+      hex: '#75787B'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/pages/pla
+    Light Blue:
+      hex: '#169BEA'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/pages/pla
+    Crystal:
+      hex: '#FBFDFE'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/pages/pla
+    Violet:
+      hex: '#6E3CA0'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/pages/pla
+    Red:
+      hex: '#B80000'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/pages/pla
+    Yellow:
+      hex: '#FFF76B'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/pages/pla
+    Pink:
+      hex: '#B6355A'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/pages/pla
+    Bubble Gum:
+      hex: '#E9AAB5'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/pages/pla
+    Orange:
+      hex: '#F64E00'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/pages/pla
+    Dark Red:
+      hex: '#800020'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/pages/pla
+    Fluorescent Orange:
+      hex: '#E66D0A'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/pages/pla
+    Fluorescent Yellow:
+      hex: '#EEFF77'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/pages/pla
+  PLA+/Pro High Speed:
+    Matte Cream Pink:
+      hex: '#EA8AE7'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/products/pla-hs-red
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/products/pla-hs-red
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/products/pla-hs-black
+    Blue:
+      hex: '#6680EF'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/products/pla-hs-cobblue
+    Brown:
+      hex: '#A27345'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/products/pla-hs-brown
+    Matte Dark Brown:
+      hex: '#978D55'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/products/pla-hs-matte-darbrown
+    Wine Red:
+      hex: '#763F33'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/products/pla-hs-wine
+    Matte Oats:
+      hex: '#E8D8AE'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/products/pla-hs-matte-oats
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/products/pla-hs-white
+    Emerald Green:
+      hex: '#537F78'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/products/pla-hs-emerald
+    Yellow:
+      hex: '#F3EF67'
+      source: 3dfilamentprofiles.com
+      link: https://fremover.net/products/pla-hs-yellow

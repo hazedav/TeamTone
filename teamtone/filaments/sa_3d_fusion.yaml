@@ -1,0 +1,41 @@
+SA 3D Fusion:
+  PETG Basic:
+    Red:
+      hex: '#C11B23'
+      source: 3dfilamentprofiles.com
+    Royal Blue:
+      hex: '#2A307A'
+      source: 3dfilamentprofiles.com
+    Pebble Grey:
+      hex: '#3E3E42'
+      source: 3dfilamentprofiles.com
+    Lime Green:
+      hex: '#1BD500'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#125E55'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#D7EC00'
+      source: 3dfilamentprofiles.com
+    Mustard:
+      hex: '#D88E2E'
+      source: 3dfilamentprofiles.com
+    Olive Green:
+      hex: '#7C7E6C'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#1E81F8'
+      source: 3dfilamentprofiles.com
+    Terracotta Brown:
+      hex: '#964822'
+      source: 3dfilamentprofiles.com
+    Ivory:
+      hex: '#FFF6DC'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF7B00'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com

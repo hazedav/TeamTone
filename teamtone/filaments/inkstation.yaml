@@ -1,0 +1,88 @@
+InkStation:
+  PLA+/Pro Basic:
+    Ryobi Green:
+      hex: '#AEF755'
+      source: 3dfilamentprofiles.com
+      link: https://www.inkstation.com.au/2102/pla-3d-filament-175mm-1kg-p-26806.html?variant=24445
+    Yellow:
+      hex: '#FBD911'
+      source: 3dfilamentprofiles.com
+      link: https://www.inkstation.com.au/2102/1-pla-3d-filament-175mm-yellow-1kg-p-12222.html#12222
+    Blue Grey:
+      hex: '#79A4DD'
+      source: 3dfilamentprofiles.com
+    Grass Green:
+      hex: '#2BA48C'
+      source: 3dfilamentprofiles.com
+    Fuschia:
+      hex: '#E900EE'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#BDB1F8'
+      source: 3dfilamentprofiles.com
+      link: https://www.inkstation.com.au/2102/pla-3d-filament-175mm-purple-1kg-roll-p-18292.html#12241
+    Cherry Red:
+      hex: '#DD2F50'
+      source: 3dfilamentprofiles.com
+      link: https://www.inkstation.com.au/2102/pla-3d-filament-175mm-cherry-red-1kg-roll-p-22001.html#21465
+  PLA Rainbow:
+    'Rainbow #01':
+      hex: '#EB2D66,#FFDC00,#51CE89'
+      source: 3dfilamentprofiles.com
+      link: https://www.inkstation.com.au/2102/1-pla-3d-filament-175mm-rainbow-01-1kg-p-17686.html
+  PLA Color Change (UV):
+    White to Purple:
+      hex: '#9222C4'
+      source: 3dfilamentprofiles.com
+    White to Blue:
+      hex: '#2238BF'
+      source: 3dfilamentprofiles.com
+    White to Red:
+      hex: '#EC2F83'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Silk:
+    Brass:
+      hex: '#BE8225'
+      source: 3dfilamentprofiles.com
+      link: https://www.inkstation.com.au/2102/1-silk-pla-3d-filament-175mm-brass-1kg-p-17697.html
+  PLA Basic:
+    Fluorescent Yellow:
+      hex: '#EEFF00'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#E792AC'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#E4FF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.capital3d.au/products/pla?variant=45155103178977
+  PLA+/Pro Pro:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Wood Grain:
+      hex: '#9A6E23'
+      source: 3dfilamentprofiles.com
+      link: https://www.inkstation.com.au/2102/1-pla-3d-filament-175mm-wood-grain-1kg-p-26427.html
+  ASA Basic:
+    Grey:
+      hex: '#9E9E9E'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.inkstation.com.au/2102/1-pla-3d-filament-175mm-transparent-1kg-p-23862.html
+  ABS Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.inkstation.com.au

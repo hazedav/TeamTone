@@ -1,0 +1,60 @@
+PINRUI:
+  PETG Basic:
+    Gray:
+      hex: '#6E706B'
+      source: 3dfilamentprofiles.com
+    Sliver:
+      hex: '#989898'
+      source: 3dfilamentprofiles.com
+    Chinese Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Cyan:
+      hex: '#00FFFF'
+      source: 3dfilamentprofiles.com
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Transparent Green:
+      hex: '#7DE147'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Matte:
+    Light Blue:
+      hex: '#73C0F7'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  TPU Flexible:
+    Transparent Red:
+      hex: '#C5111A'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Navy Blue:
+      hex: '#042339'
+      source: 3dfilamentprofiles.com
+    Dark Red:
+      hex: '#6B0000'
+      source: 3dfilamentprofiles.com
+    Olive Green:
+      hex: '#6D712E'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Silk Rainbow:
+    Macaron:
+      hex: '#B5F0B9,#F0BCA4,#A9D6F0'
+      source: 3dfilamentprofiles.com
+    Red Gold Purple:
+      hex: '#C2435E,#C8C383,#6B5D9C'
+      source: 3dfilamentprofiles.com
+    Candy:
+      hex: '#8BEAC9,#E267D0,#F97C00'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Red Blue Gren:
+      hex: '#FF0000,#0000FF,#008000'
+      source: 3dfilamentprofiles.com

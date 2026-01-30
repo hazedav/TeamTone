@@ -1,0 +1,12 @@
+Filament-ABS.fr:
+  ASA:
+    Optimus Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Optimus White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  ABS:
+    Optimus ADH Perfect Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

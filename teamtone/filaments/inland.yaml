@@ -1,0 +1,1831 @@
+Inland:
+  PLA Matte Dual:
+    Black Orange:
+      hex: '#FF8F20,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/662235/inland-175mm-pla-dual-color-co-extrusion-3d-printer-filament-1kg-(22-lbs)-spool-matte-black-white?gQT=1
+    Yellow-Red:
+      hex: '#F3E325,#F31D1D'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/662235/inland-175mm-pla-dual-color-co-extrusion-3d-printer-filament-1kg-(22-lbs)-spool-matte-black-white?gQT=1
+    BLACK-WHITE:
+      hex: '#858585,#FFFFFF,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/662235/inland-175mm-pla-dual-color-co-extrusion-3d-printer-filament-1kg-(22-lbs)-spool-matte-black-white?gQT=1
+    Gray-Orange:
+      hex: '#FFB363,#9E969B'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/662241/175mm_Gray-Orange_PLA_3D_Printer_Filament_-_1kg_Spool_(22_lbs)
+    Gray-Purple:
+      hex: '#E392FE,#929292'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/662234/inland-175mm-pla-dual-color-co-extrusion-3d-printer-filament-1kg-(22-lbs)-spool-matte-gray-purple
+    black-red:
+      hex: '#000000,#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/662235/inland-175mm-pla-dual-color-co-extrusion-3d-printer-filament-1kg-(22-lbs)-spool-matte-black-white?gQT=1
+    Blue-Light Blue:
+      hex: '#94C9F0,#237AD1'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/662235/inland-175mm-pla-dual-color-co-extrusion-3d-printer-filament-1kg-(22-lbs)-spool-matte-black-white?gQT=1
+    Matte Black-White:
+      hex: '#000000,#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/662235/inland-175mm-pla-dual-color-co-extrusion-3d-printer-filament-1kg-(22-lbs)-spool-matte-black-white?gQT=1
+  PLA Basic:
+    Yellow:
+      hex: '#FEDD00'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/512941/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-yellow
+    Brown (827295):
+      hex: '#964B00'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/638643/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-raspberry-red
+    Sand:
+      hex: '#FDF4D3'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/638642/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-sand
+    winter:
+      hex: '#38D3EC'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/638643/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-raspberry-red
+    Orange:
+      hex: '#FF9A35'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/606619/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-orange
+    Gray:
+      hex: '#27292A'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/692937/inland-175mm-pla-basic-3d-printer-filament-1kg-(22lbs)-cardboard-spool-gray
+    Pink:
+      hex: '#FF80FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/512937/inland-175mm-pla-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-pink
+    Silk Grey:
+      hex: '#BBC6CE'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/632374/175mm_PLA_Silk_3D_Printer_Filament_10_kg_(22_lbs)_Spool_-_Gray
+    Sand (LRV 70):
+      hex: '#EAD8B2'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/638642/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-sand
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microchttps://www.microcenter.com/product/692935/inland-175mm-pla-basic-3d-printer-filament-1kg-(22lbs)-cardboard-spool-black
+    Microcenter True Green:
+      hex: '#068F18'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/702117/175mm_Basic_PLA_3D_Printer_Filament_Spool_-_True_Green
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/512932/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-blue
+    Dandelion:
+      hex: '#C99B33'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/638643/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-raspberry-red
+    Purple:
+      hex: '#A020F0'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/512939/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-purple
+    Natural:
+      hex: '#E5D3BF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/638643/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-raspberry-red
+    Red:
+      hex: '#C43221'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/512933/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-red
+    Olive Brown:
+      hex: '#729871'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/638643/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-raspberry-red
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/692936/inland-175mm-pla-basic-3d-printer-filament-1kg-(22lbs)-cardboard-spool-white
+    Cosplay PLA:
+      hex: '#8D9296'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/664851/inland-175mm-easy-to-sand-for-cosplay-pla-filament-1kg-(22-lbs)-cardboard-spool-gray
+    Violet:
+      hex: '#7F00FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/638643/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-raspberry-red
+    Cool White:
+      hex: '#E8E8F1'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626521/inland-175mm-pla-3d-printer-filament-10-kg-(22-lbs)-spool-cool-white
+    Coral:
+      hex: '#FF4040'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/635858/175mm_PLA_3D_Printer_Filament_1kg_(22_lbs)_Cardboard_Spool_-_Coral
+    Green:
+      hex: '#1F7A31'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/512136/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-green
+    Turqoise:
+      hex: '#40E0D0'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/512132/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-turquoise
+    Pink (834689):
+      hex: '#FC97B0'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/512937/175mm_PLA_3D_Printer_Filament_10_kg_(22_lbs)_Cardboard_Spool_-_Pink
+    Egyptian Blue:
+      hex: '#005AAD'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/602293/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-egyptian-blue
+    Silver:
+      hex: '#AAA08C'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/512935/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-silver
+    Light Blue (834705):
+      hex: '#3BA4B9'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/638643/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-raspberry-red
+    Military Brown:
+      hex: '#585436'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/638643/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-raspberry-red
+    Military Green:
+      hex: '#5B6D38'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/638640/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-military-green
+    Peak Green:
+      hex: '#83F28F'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/512940/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-peak-neon-green
+    Pink Marble:
+      hex: '#F0DFF1'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/638643/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-raspberry-red
+    Blue (834598):
+      hex: '#03168A'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/512932/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-blue
+    Light Olive:
+      hex: '#BAB864'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/638639/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-light-olive
+    White Marble:
+      hex: '#D6DBD3'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/616609/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-white-marble
+    Inland Blue:
+      hex: '#0AC0F5'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/664852/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-inland-blue?sp=408
+    Matte Blue:
+      hex: '#45ADF7'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/664854/175mm_PLA_3D_Printer_Filament_1kg_(22_lbs)_Cardboard_Spool_-_Matte_Blue;_Dimensional_Accuracy_--_003mm,_FDM-FFF_Printers
+    Red Raspberry:
+      hex: '#C63527'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/638643/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-raspberry-red
+    Dark Red:
+      hex: '#970000'
+      source: 3dfilamentprofiles.com
+    Grass Green:
+      hex: '#0B3F39'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/512136/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-green?sp=1170?sp=1151
+    Cornflower Blue:
+      hex: '#1D78A5'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/635857/inland-175mm-pla-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-cornflower-blue
+    Twinkling Gold:
+      hex: '#A08A66'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/632403/inland-175mm-twinkling-gold-pla-3d-printer-filament-1kg-spool-(22-lbs)?sp=1738
+    Light Brown:
+      hex: '#BF9C81'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/512131/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-light-brown
+    Glass Watermelon:
+      hex: '#D7192C'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/624400/inland-175mm-pla-glass-3d-printer-filament-10-kg-(22-lbs)-spool-watermelon
+    Glass Light Blue:
+      hex: '#329EEC'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/624403/inland-175mm-glass-light-blue-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Coral Red:
+      hex: '#FF4040'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/635858/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-coral
+    True Red:
+      hex: '#933530'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/692940/inland-175mm-pla-basic-3d-printer-filament-1kg-(22lbs)-cardboard-spool-true-red
+    True Green (258061):
+      hex: '#8DC15C'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/635856/175mm_PLA_3D_Printer_Filament_1kg_(22_lbs)_Cardboard_Spool_-_True_Green
+    Gold (834770):
+      hex: '#FFD22B'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/512943/175mm_PLA_3D_Printer_Filament_1kg_(22_lbs)_Cardboard_Spool_-_Gold
+    True Green:
+      hex: '#09FB45'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/635856/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-true-green
+    Grey:
+      hex: '#BCBECB'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/692937/inland-175mm-pla-basic-3d-printer-filament-1kg-(22lbs)-cardboard-spool-gray
+    Gold:
+      hex: '#FFD22B'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/512943/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-gold
+  ABS Basic:
+    Red:
+      hex: '#FA0019'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/485643/inland-175mm-abs-3d-printer-filament-10-kg-(22-lbs)-spool-black
+    Light Blue:
+      hex: '#6EEEF7'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#8A97A3'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#E87130'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/485653/inland-175mm-abs-3d-printer-filament-10-kg-(22-lbs)-spool-orange
+    Green:
+      hex: '#15511F'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/485644/inland-175mm-abs-3d-printer-filament-10-kg-(22-lbs)-spool-green
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Galaxy Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675742/175mm_ABS_3D_Printer_Filament_10_kg_(22_lbs)_Cardboard_Spool_-_Galaxy_Black;_Dimensional_Accuracy_--_005mm,_Fits_Most_FDM-FFF_Printers,_Odor_Free,_Clo
+    Purple:
+      hex: '#5D017E'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/621918/inland-175mm-abs-3d-printer-filament-10-kg-(22-lbs)-spool-purple
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/485650/inland-175mm-abs-3d-printer-filament-10-kg-(22-lbs)-spool-blue?sp=238.88890075683594
+  TPU 95A:
+    Translucent Blue:
+      hex: '#1708E7'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+    White (973289):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Translucent Orange:
+      hex: '#B0361A'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626662/175mm_Translucent_Orange_TPU-95A_3D_Printer_Filament_-_1kg_Spool_(22_lbs)
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/610047/175mm_Black_TPU_3D_Printer_Filament_-_1kg_Spool_(22_lbs)
+    Translucent Red:
+      hex: '#C0242F'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626660/inland-175mm-translucent-red-tpu-95a-3d-printer-filament-1kg-spool-(22-lbs)
+    Translucent Purple:
+      hex: '#B82E5E'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626661/175mm_Translucent_Purple_TPU-95A_3D_Printer_Filament_-_1kg_Spool_(22_lbs)
+    Translucent Yellow:
+      hex: '#D9FF70'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626658/inland-175mm-translucent-yellow-tpu-95a-3d-printer-filament-1kg-spool-(22-lbs)
+  PLA Silk:
+    Cyan:
+      hex: '#0084BD'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/668801/inland-175mm-pla-high-speed-silk-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-bronze-red
+    Pink:
+      hex: '#FF8FCA'
+      source: 3dfilamentprofiles.com
+      link: https://inlandelectronics.com/product/pla-1-75mm-silk-pink/
+    Rainbow 3:
+      hex: '#D357FE,#96D35F,#FECB3E'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/668801/inland-175mm-pla-high-speed-silk-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-bronze-red
+    Gold/Red:
+      hex: '#F7E469'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/668801/inland-175mm-pla-high-speed-silk-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-bronze-red
+    Rainbow 2:
+      hex: '#53D5FD,#FFF76B,#E392FE'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/668801/inland-175mm-pla-high-speed-silk-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-bronze-red
+    Silk Jacinth:
+      hex: '#FF4013'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/668801/inland-175mm-pla-high-speed-silk-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-bronze-red
+    Purple:
+      hex: '#8000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/625955/inland-175mm-purple-silk-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Silk Yellow:
+      hex: '#FFFC41'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/625947/inland-175mm-yellow-silk-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Copper:
+      hex: '#914221'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/623233/175mm_Copper_Silk_PLA_3D_Printer_Filament_-_1kg_Spool_(22_lbs)
+    Blue-Yellow:
+      hex: '#0095FF,#F1F50F'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/668801/inland-175mm-pla-high-speed-silk-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-bronze-red
+    Frosty Evergreen:
+      hex: '#074B31'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675755/inland-175mm-pla-frosty%c2%a0-3d-printer-filament-10-kg-(22-lbs)-spool-ever-green
+    Magenta:
+      hex: '#FF00FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/623241/inland-175mm-pla-silk-3d-printer-filament-10-kg-(22-lbs)-spool-magenta
+    Dark Yellow:
+      hex: '#D4A625'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/625950/inland-175mm-dark-yellow-silk-pla-3d-printer-filament-1kg-spool-(22-lbs)?sp=600
+    Silk White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/geeetech-silk-white-pla-175mm-1kgroll-p-1239.html?srsltid=AfmBOoqIsMkQHdqVMIC83ZAW2vd_TrLEN3aeIGApchfTh-unrDDBm9uJ
+    Mystic (Copper Purple Green):
+      hex: '#B87333,#800080,#008000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670188/inland-175mm-pla-silky-3d-printer-filament-triple-color-10-kg-(22-lbs)-spool-mystic-(copper-purple-green)
+    Black Silk (518423):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660577/inland-175mm-black-silk-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    silk gold:
+      hex: '#DCCC1E'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/623232/inland-175mm-silk-pla-3d-printer-filament-10-kg-(22-lbs)-spool-silk-gold
+    Gold:
+      hex: '#D7B537'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/623232/inland-175mm-pla-silk-3d-printer-filament-10-kg-(22-lbs)-spool-gold
+    Pewter:
+      hex: '#787E82'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/623234/inland-175mm-pewter-silk-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Green:
+      hex: '#04D57C'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/623238/inland-175mm-green-silk-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Silver:
+      hex: '#B5C1C6'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611558/inland-silk-175mm-silver-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Gold/Purple:
+      hex: '#9468CA,#BE8E3C'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/650247/inland-175mm-pla-dual-color-silk-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-gold-purple
+    Army Green:
+      hex: '#3F5758'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660578/inland-175mm-army-green-silk-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Red:
+      hex: '#FF0059'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/623236/inland-175mm-pla-silk-3d-printer-filament-10-kg-(22-lbs)-spool-red?sp=1875.199951171875
+    Blue-Green:
+      hex: '#00BAC7,#009E7E'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/668801/inland-175mm-pla-high-speed-silk-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-bronze-red
+    Cool Pink:
+      hex: '#E7BFFC'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/668804/inland-175mm-pla-high-speed-silk-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-cool-pink
+    Orange:
+      hex: '#FF8000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/632375/inland-175mm-orange-silk-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Silk Amber Gold:
+      hex: '#B97A22'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/668802/inland-175mm-pla-high-speed-silk-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-amber-gold
+    Silk Lime:
+      hex: '#69F781'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/623239/inland-175mm-lime-silk-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Light Blue:
+      hex: '#4781B8'
+      source: 3dfilamentprofiles.com
+      link: https://inlandelectronics.com/product-tag/pla-2/
+    Gold/Silver:
+      hex: '#BE8E3C,#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/650243/inland-175mm-pla-dual-color-silk-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-gold-silver?sp=816
+    Light Gray:
+      hex: '#D3D3D3'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/668799/inland-175mm-pla-high-speed-silk-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-light-gray
+  PETG+ Basic:
+    Orange:
+      hex: '#FF781F'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626527/inland-175mm-petg-3d-printer-filament-1kg-(22-lbs)-spool-orange?sp=200
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626528/inland-175mm-petg-3d-printer-filament-1kg-(22-lbs)-spool-black
+    Green:
+      hex: '#008000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626532/inland-175mm-petg-3d-printer-filament-1kg-(22-lbs)-spool-green
+    Red:
+      hex: '#C40000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626529/inland-175mm-petg-3d-printer-filament-1kg-(22-lbs)-spool-red
+    Silver:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626534/inland-175mm-petg-3d-printer-filament-1kg-(22-lbs)-spool-silver
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626531/inland-175mm-petg-3d-printer-filament-1kg-(22-lbs)-spool-white
+    Yellow:
+      hex: '#FFDC00'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626536/inland-175mm-petg-3d-printer-filament-1kg-(22-lbs)-spool-yellow
+    Gray:
+      hex: '#5C5C5C'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626533/175mm_PETG_3D_Printer_Filament_-_1kg_(22_lbs)_Spool_-_Gray
+  PLA+/Pro Pro:
+    Orange:
+      hex: '#ED7D27'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/632394/inland-175mm-pla-pro-3d-printer-filament-1kg-(22-lbs)-spool-orange
+    Blue Pro:
+      hex: '#0433FF'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#007DD6'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#49535A'
+      source: 3dfilamentprofiles.com
+    Bone White:
+      hex: '#BAB9A6'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611556/inland-175mm-pla-3d-printer-filament-10-kg-(22-lbs)-spool-bone-white
+    Raspberry Red:
+      hex: '#CC0033'
+      source: 3dfilamentprofiles.com
+    Natural:
+      hex: '#EDEDED'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611537/175mm_PLA_3D_Printer_Filament_10_kg_(22_lbs)_Spool_-_Natural
+    Purple:
+      hex: '#7F589A'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611540/inland-175mm-pla-3d-printer-filament-10-kg-(22-lbs)-spool-purple
+    True Red:
+      hex: '#97141A'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611549/inland-175mm-pla-3d-printer-filament-10-kg-(22-lbs)-spool-true-red
+    Orange (LRV 37):
+      hex: '#F0894C'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/632394/inland-175mm-pla-pro-3d-printer-filament-1kg-(22-lbs)-spool-orange
+    Gold:
+      hex: '#D7B537'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611548/inland-175mm-pla-3d-printer-filament-10-kg-(22-lbs)-spool-gold
+    Green:
+      hex: '#407167'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/632395/inland-175mm-pla-pro-3d-printer-filament-1kg-(22-lbs)-spool-green
+    Brown:
+      hex: '#C1A081'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/632396/175mm_PLA_PRO_3D_Printer_Filament_1kg_(22_lbs)_Spool_-_Brown;_Tough,_High_Rigidity
+    Neon Green:
+      hex: '#00FF08'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670206/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-neon-green
+    Pink:
+      hex: '#F4A4C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/632397/inland-175mm-pla-pro-3d-printer-filament-1kg-(22-lbs)-spool-pink?sp=0
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/632388/inland-175mm-pla-pro-3d-printer-filament-10-kg-(22-lbs)-spool-black
+  PLA Silk Dual:
+    Gold/Silver:
+      hex: '#C59120'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/650243/inland-175mm-pla-dual-color-silk-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-gold-silver
+    Black-Silver:
+      hex: '#C0C0C0,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/650245/inland-175mm-pla-dual-color-silk-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-black-silver
+    Gray-Green (412486):
+      hex: '#C8FEDD'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/650239/inland-175mm-pla-dual-color-silk-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-gray-green
+    Gold/Red:
+      hex: '#EF2142,#FCC662'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/650248/inland-175mm-pla-dual-color-silk-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-gold-red
+    Lime/Magenta:
+      hex: '#E3E839,#EB4799'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/650242/inland-175mm-pla-dual-color-silk-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-lime-magenta
+    Gold/Magenta:
+      hex: '#EB2498,#FFD22B'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/650241/inland-175mm-pla-dual-color-silk-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-gold-magenta?sp=600
+    Blue/Green:
+      hex: '#17B6DE,#00AD4B'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/650238/inland-175mm-pla-dual-color-silk-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-blue-green
+    Blue/Silver:
+      hex: '#3692D3'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/650249/inland-175mm-pla-dual-color-silk-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-blue-silver
+    Gold/Purple:
+      hex: '#C06EF7,#C59120'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/650247/inland-175mm-pla-dual-color-silk-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-gold-purple?sp=700
+    Blue Silver:
+      hex: '#61B7F5,#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/650249/inland-175mm-pla-dual-color-silk-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-blue-silver
+    Gold/Gray:
+      hex: '#C59120,#5C616A'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/650240/inland-175mm-pla-dual-color-silk-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-gold-gray
+  PLA Tough:
+    Illuminated Blue:
+      hex: '#0095FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/664853/inland-175mm-tough-pla-3d-printer-filament-1kg-(22-lbs)-spool-blue
+    Raspberry Red:
+      hex: '#DF0C16'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/647836/inland-175mm-tough-pla-3d-printer-filament-10-kg-(22-lbs)-spool-raspberry-red
+    Metallic Silver:
+      hex: '#B2B2B0'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660582/175mm_Metallic_Silver_Tough_PLA_3D_Printer_Filament_-_1kg_Spool_(22_lbs)
+    Purple:
+      hex: '#7832E2'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#E0E3E5'
+      source: 3dfilamentprofiles.com
+    Cold White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675730
+    Orange:
+      hex: '#FF8000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/623250/inland-175mm-orange-tough-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Blue:
+      hex: '#0544FF'
+      source: 3dfilamentprofiles.com
+    Metallic Gold:
+      hex: '#DE9B3B'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660579/inland-175mm-metallic-gold-tough-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Khaki:
+      hex: '#BFB688'
+      source: 3dfilamentprofiles.com
+    Light Olive:
+      hex: '#C6CD34'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/638639/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-light-olive
+    Dark Gray:
+      hex: '#696969'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/623249/inland-175mm-dark-gray-tough-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Black (107599):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    True Red:
+      hex: '#B13137'
+      source: 3dfilamentprofiles.com
+    Light Gray:
+      hex: '#E1E1E1'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#ACACAC'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/664851/inland-175mm-easy-to-sand-for-cosplay-pla-filament-1kg-(22-lbs)-cardboard-spool-gray
+    Metallic Dk Blue:
+      hex: '#043B62'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660583/inland-175mm-metallic-blue-tough-pla-3d-printer-filament-1kg-spool-(22-lbs)?sp=240
+    White Marble:
+      hex: '#BDBDBD'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660553/inland-175mm-white-marble-tough-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Green:
+      hex: '#047106'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/623246/inland-175mm-green-tough-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Metallic Dark Red:
+      hex: '#8B3A3A'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660581/inland-175mm-metallic-dark-red-tough-pla-3d-printer-filament-1kg-spool-(22-lbs)?sp=0
+    Purple (107706):
+      hex: '#9437FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/623252/inland-175mm-purple-tough-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Pink:
+      hex: '#FC97B0'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/623251/inland-175mm-pink-tough-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Military Green:
+      hex: '#5B6D38'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/647833/Tough_175mm_PLA_3D_Filament_-_1Kg_Spool_(22lb)_-_Military_Green
+    Brown:
+      hex: '#6E432D'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/632437/inland-175mm-brown-tough-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Dark Blue:
+      hex: '#1D65A0'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/632435/inland-175mm-dark-blue-tough-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Metallic Bronze:
+      hex: '#935100'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660580/inland-175mm-metallic-bronze-tough-pla-3d-printer-filament-1kg-spool-(22-lbs)
+  PETG Translucent:
+    Red:
+      hex: '#E22400'
+      source: 3dfilamentprofiles.com
+    Translucent Orange:
+      hex: '#FF8800'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626541/inland-175mm-petg-3d-printer-filament-1kg-(22-lbs)-spool-translucent-orange
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+    Translucent Green:
+      hex: '#009325'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/606542/inland-175mm-petg-3d-printer-filament-10-kg-(22-lbs)-plastic-spool-translucent-green
+  TPU Translucent:
+    Blue:
+      hex: '#1100FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626659/inland-175mm-translucent-blue-tpu-95a-3d-printer-filament-1kg-spool-(22-lbs)
+    Translucent Green:
+      hex: '#39FF14'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626664/inland-175mm-translucent-green-tpu-95a-3d-printer-filament-1kg-spool-(22-lbs)
+    Natural:
+      hex: '#D9D9D9'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/485159/inland-flexible-175mm-natural-tpu-3d-printer-filament-05kg-spool-(11-lbs)
+    Purple:
+      hex: '#C00C9F'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626661/inland-175mm-tpu-3d-printer-filament-10-kg-(22-lbs)-spool-translucent-purple
+    Pink:
+      hex: '#DF417B'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626663/inland-175mm-translucent-pink-tpu-95a-3d-printer-filament-1kg-spool-(22-lbs)
+    Rainbow:
+      hex: '#E60005'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/647840/inland-175mm-tpu-3d-filament-1kg-(22-lb)-rainbow
+  PLA Matte:
+    Peach:
+      hex: '#F2B67A'
+      source: 3dfilamentprofiles.com
+      link: https://inlandelectronics.com/product-tag/pla-2/
+    Turquoise:
+      hex: '#53D5FD'
+      source: 3dfilamentprofiles.com
+      link: https://inlandelectronics.com/product-tag/pla-2/
+    Lulz green:
+      hex: '#C7F76E'
+      source: 3dfilamentprofiles.com
+      link: https://inlandelectronics.com/product-tag/pla-2/
+    Yellow:
+      hex: '#F8D00D'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/642925/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-matte-yellow
+    Green-Brown:
+      hex: '#486247,#403820'
+      source: 3dfilamentprofiles.com
+      link: https://inlandelectronics.com/product-tag/pla-2/
+    Frosty Amethyst:
+      hex: '#C48CF3'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675757/inland-175mm-pla-frosty%c2%a0-3d-printer-filament-10-kg-(22-lbs)-spool-amethyst
+    Gray-Purple:
+      hex: '#A480B7,#5F6163'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/662234/inland-175mm-pla-dual-color-co-extrusion-3d-printer-filament-1kg-(22-lbs)-spool-matte-gray-purple
+    Banana:
+      hex: '#CECC88'
+      source: 3dfilamentprofiles.com
+      link: https://inlandelectronics.com/product-tag/pla-2/
+    Chocolate (LRV 11):
+      hex: '#735648'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660542/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-matte-chocolate
+    White:
+      hex: '#E0E3E5'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611544/175mm_PLA_3D_Printer_Filament_10_kg_(22_lbs)_Spool_-_White
+    Pink:
+      hex: '#F291A5'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/662238/inland-175mm-pla-dual-color-co-extrusion-3d-printer-filament-1kg-(22-lbs)-spool-matte-pink-red
+    Green:
+      hex: '#03FC86'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/642921/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-matte-green
+    Peach (LRV 55):
+      hex: '#F7B68A'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660545/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-matte-peach-dimensional-accuracy-003mm-fdm-fff-printers
+    Wood Brown:
+      hex: '#D2B48C'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660550/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-matte-wood-brown
+    Red:
+      hex: '#C43221'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/642923/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-matte-red
+    Pastel Pink:
+      hex: '#FFA8A8'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660544/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-matte-pastel-pink?sp=920
+    Black-Red:
+      hex: '#390F00'
+      source: 3dfilamentprofiles.com
+      link: https://inlandelectronics.com/product-tag/pla-2/
+    Inland Blue:
+      hex: '#1C81F0'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/664854/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-matte-blue
+    Purple:
+      hex: '#AA89C4'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660541/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-matte-purple
+    Blue-Red:
+      hex: '#633B45'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/662232/inland-175mm-pla-dual-color-co-extrusion-3d-printer-filament-1kg-(22-lbs)-spool-matte-blue-red
+    Light Pink (LRV  57):
+      hex: '#DBC2B0'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660551/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-matte-light-pink
+    Black-Orange:
+      hex: '#775C3E'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/662240/inland-175mm-black-orange-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Brick Red:
+      hex: '#800000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660549/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-matte-brick-red
+    Mint Green:
+      hex: '#BDFFCD'
+      source: 3dfilamentprofiles.com
+      link: https://inlandelectronics.com/product-tag/pla-2/
+    Matte Rainbow:
+      hex: '#94E3FE,#F4A4C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/662248/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-matte-rainbow
+    Clay Rainbow:
+      hex: '#DDCEB5'
+      source: 3dfilamentprofiles.com
+      link: https://inlandelectronics.com/product-tag/pla-2/
+    Army Beige:
+      hex: '#E6CCB1'
+      source: 3dfilamentprofiles.com
+      link: https://a.co/d/2H11Wg9
+    Black:
+      hex: '#202125'
+      source: 3dfilamentprofiles.com
+      link: https://inlandelectronics.com/product-tag/pla-2/
+    Blue:
+      hex: '#6CBEF9'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/642919/175mm_PLA_3D_Printer_Filament_1kg_(22_lbs)_Cardboard_Spool_-_Matte_Blue;_Dimensional_Accuracy_--_003mm,_FDM-FFF_Printers
+    Brick Red (LRV 14):
+      hex: '#B24143'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660549/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-matte-brick-red
+    Black-White:
+      hex: '#000000,#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/662235/inland-175mm-pla-dual-color-co-extrusion-3d-printer-filament-1kg-(22-lbs)-spool-matte-black-white
+    Light Pink:
+      hex: '#D3B6A6'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660551/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-matte-light-pink
+    Brown:
+      hex: '#303030'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/642918/matte-pla-1.75mm-mat-brn
+    Light Blue:
+      hex: '#B4E7F9'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/642927/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-matte-light-blue
+    Orange:
+      hex: '#FF9D5C'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/642917/inland-175mm-pla-matte-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-orange
+    Denim:
+      hex: '#4F88B0'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660548/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-matte-denim
+    Chocolate:
+      hex: '#785646'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660542/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-matte-chocolate
+    Army Purple:
+      hex: '#2C002B'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675732/inland-175mm-pla-matte-3d-printer-filament-10-kg-(22-lbs)-spool-army-purple
+    Ash Grey:
+      hex: '#3B4045'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675731/inland-175mm-pla-matte-3d-printer-filament-10-kg-(22-lbs)-spool-ash-gray
+    Black (LRV 3):
+      hex: '#2D2F2E'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/642928/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-matte-black
+    Red Heather:
+      hex: '#D95D5D'
+      source: 3dfilamentprofiles.com
+      link: https://microcenter.com
+    Grey:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/642926/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-matte-gray
+  PLA Pro:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Carbon Fiber:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/632387/inland-175mm-pla-pro-3d-printer-filament-10-kg-(22-lbs)-spool-carbon-fiber
+    Lulz Green:
+      hex: '#B3FF80'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/632399/inland-175mm-pla-pro-3d-printer-filament-1kg-(22-lbs)-spool-lulz-green
+    Green:
+      hex: '#09392D'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611550/175mm_Green_PLA_3D_Printer_Filament_-_1kg_Spool_(22_lbs)
+  PLA Translucent:
+    Blue/Green:
+      hex: '#00FFFF'
+      source: 3dfilamentprofiles.com
+    Glass Watermelon:
+      hex: '#ED333B'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/624400/inland-175mm-pla-glass-3d-printer-filament-10-kg-(22-lbs)-spool-watermelon
+    Glass watermelon red:
+      hex: '#DC1E70'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/624400/inland-175mm-pla-glass-3d-printer-filament-10-kg-(22-lbs)-spool-watermelon
+    Autumn Translucent Orange Grey:
+      hex: '#73521E'
+      source: 3dfilamentprofiles.com
+    Glass Light Blue:
+      hex: '#1056C6'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/624403/inland-175mm-glass-light-blue-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Orange/Gray (646133):
+      hex: '#4B3024'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/674665/175mm_PLA_Translucent_3D_Printer_Filament_Winter_Gradient_Color_10_kg_(22_lbs)_Cardboard_Spool_-_Orange_and_Gray;_Dimensional_Accuracy_--_003mm,_Fits_
+    Winter:
+      hex: '#00FDFF'
+      source: 3dfilamentprofiles.com
+    Glass Yellow:
+      hex: '#FFF824'
+      source: 3dfilamentprofiles.com
+    Summer Translucent Blue Green:
+      hex: '#00F7DE,#00D97B,#1AD8FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/674664/inland-175mm-pla-translucent-3d-printer-filament-summer-gradient-color-10-kg-(22-lbs)-cardboard-spool-blue-and-green
+    Glass Orange:
+      hex: '#FF9500'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/624401/175mm_PLA_Glass_3D_Printer_Filament_10_kg_(22_lbs)_Spool_-_Orange
+    Spring Yellow/Green/Blue:
+      hex: '#E7F76E,#6EF79E,#6DBBF3'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/674666/inland-175mm-pla-translucent-3d-printer-filament-spring-gradient-color-10-kg-(22-lbs)-cardboard-spool-translucent-yellow-green-blue
+    Blue / Purple:
+      hex: '#311BDA,#BA12AC'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/674667/inland-175mm-pla-translucent-3d-printer-filament-gradient-color-10-kg-(22-lbs)-cardboard-spool-blue-and-purple
+    Glass Purple:
+      hex: '#800080'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/624404/inland-175mm-pla-3d-printer-filament-10-kg-(22-lbs)-spool-glass-purple
+    Rainbow 2:
+      hex: '#EF2D1F,#00FFE1,#FFF700'
+      source: 3dfilamentprofiles.com
+    Winter Blue White:
+      hex: '#00FDFF,#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/674663/inland-175mm-pla-translucent-3d-printer-filament-seasons-gradient-color-10-kg-(22-lbs)-cardboard-spool-blue-and-white
+  PLA Sparkle:
+    Twinkling Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/632401/inland-175mm-twinkling-black-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    comet:
+      hex: '#0D8736'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675744/inland-175mm-pla-shimmer-3d-printer-filament-1kg-(22lbs)-spool-comet
+    Red:
+      hex: '#B51A00'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/664833/inland-175mm-shimmer-pla-3d-printer-filament-1kg-(22-lbs)-spool-light-blue
+    blue-black:
+      hex: '#383F56'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660569/inland-175mm-shimmer-pla-3d-printer-filament-1kg-(22-lbs)-spool-black-blue
+    Stellar:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/638644/inland-175mm-stellar-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Shimmer Light Blue:
+      hex: '#607184'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/664833/inland-175mm-shimmer-pla-3d-printer-filament-1kg-(22-lbs)-spool-light-blue
+    Twinkle Rainbow:
+      hex: '#FF0019,#967131,#408C31'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/647838/inland-175mm-pla-silk-3d-printer-filament-10-kg-(22-lbs)-spool-twinkle-rainbow
+  PLA+/Pro High Speed:
+    Brown:
+      hex: '#534941'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670192/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-black
+    Purple:
+      hex: '#744FA1'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670204/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-purple
+    Orange, 2025:
+      hex: '#FF9200'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670200/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-orange
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670192/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-black
+    Beige:
+      hex: '#F5CAB7'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670211/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-beige
+    Periwinkle Blue:
+      hex: '#7775CA'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670207/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-periwinkle-blue
+    Bone White:
+      hex: '#DADBC1'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670209/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-bone-white?sp=216
+    Orange:
+      hex: '#E27B36'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670192/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-black
+    Neon Green:
+      hex: '#06F202'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670206/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-neon-green
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670192/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-black
+    Blue (607093):
+      hex: '#3854B3'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670196/175mm_PLA_High_Speed_3D_Printer_Filament_10_kg_(22_lbs)_Cardboard_Spool_-_Blue;_Dimensional_Accuracy_--_005mm,_Fits_Most_FDM-FFF_Printers,_Odor_Free,_
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670193/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-white
+    Forest Green:
+      hex: '#2A7C54'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670205/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-forest-green
+    Light Brown:
+      hex: '#AA7941'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670214/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-light-brown
+    Gray:
+      hex: '#6F7586'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670195/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-gray
+    Light Blue:
+      hex: '#6ACFFD'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611538/175mm_PLA_3D_Printer_Filament_10_kg_(22_lbs)_Spool_-_Light_Blue
+    Milky White:
+      hex: '#FFF7F7'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670194/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-milky-white
+    Yellow:
+      hex: '#FEDD00'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670201/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-yellow
+    Space Blue:
+      hex: '#B3D9FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670208/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-%2822-lbs%29-cardboard-spool-space-blue
+    Pink:
+      hex: '#FE8F9F'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670215/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-pink
+    Silver:
+      hex: '#8A8F93'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670199/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-silver
+  ABS Glow:
+    Glow In The Dark:
+      hex: '#FEFFFF'
+      source: 3dfilamentprofiles.com
+  PC Basic:
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/633300/inland-175mm-pc-3d-printer-filament-1kg-(22-lbs)-spool-transparent
+  ASA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/633295/inland-polylite-175mm-white-asa-3d-printer-filament-1kg-spool-(22-lbs)
+    Green:
+      hex: '#69F785'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660563/inland-175mm-green-asa-3d-printer-filament-1kg-spool-(22-lbs)
+    Yellow:
+      hex: '#FFEA00'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660564/inland-175mm-yellow-asa-3d-printer-filament-1kg-spool-(22-lbs)
+    Orange:
+      hex: '#E87130'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660560/inland-175mm-orange-asa-3d-printer-filament-1kg-spool-(22-lbs)
+    Olive Brown:
+      hex: '#342300'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675737/inland-175mm-asa-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-jet-black
+    Grey:
+      hex: '#6E6E6E'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/633299/inland-175mm-natural-asa-3d-printer-filament-1kg-spool-(22-lbs)
+    Jet Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675737/inland-175mm-asa-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-jet-black
+    Purple:
+      hex: '#8000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660562/inland-175mm-purple-asa-3d-printer-filament-1kg-spool-(22-lbs)
+    Vibrant Green:
+      hex: '#67F052'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675736/inland-175mm-asa-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-vibrant-green
+    Sprinkle Green:
+      hex: '#669D34'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675737/inland-175mm-asa-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-jet-black
+    Brown:
+      hex: '#775C50'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660565/inland-175mm-brown-asa-3d-printer-filament-1kg-spool-(22-lbs)?sp=517
+    Army Green:
+      hex: '#518266'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660561/175mm_Army_Green_ASA_3D_Printer_Filament_-_1kg_Spool_(22_lbs)
+    Glitter Blue:
+      hex: '#4169E1'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660585/inland-175mm-sparkle-blue-asa-3d-printer-filament-1kg-spool-(22-lbs)?sp=0
+  PLA Silk Mystic:
+    Gold Red Green:
+      hex: '#6EF797'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670189/inland-175mm-pla-silky-3d-printer-filament-triple-color-10-kg-(22-lbs)-spool-mystic-(gold-red-green)
+    Gold Green Black:
+      hex: '#E7F76E'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670190/inland-175mm-pla-silky-3d-printer-filament-triple-color-10-kg-(22-lbs)-spool-mystic-(black-gold-green)#tab-reviews-bm
+    Twilight:
+      hex: '#886C93'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675747/inland-175mm-pla-shimmer-3d-printer-filament-1kg-(22lbs)-spool-twilight
+    Copper/Purple/Green:
+      hex: '#307E4A'
+      source: 3dfilamentprofiles.com
+    Blue Orange Green:
+      hex: '#0000FF,#FFA500,#008000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670191/inland-175mm-pla-silky-3d-printer-filament-triple-color-10-kg-(22-lbs)-spool-mystic-(orange-blue-green)
+  PLA Glow:
+    Orange:
+      hex: '#F7B76E'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/664845/inland-175mm-glow-in-dark-fluorescent-pla-filament-1kg-spool-(22lbs)-spool-orange
+    Pink:
+      hex: '#FF00FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/664849/inland-175mm-glow-in-dark-fluorescent-pla-filament-1kg-spool-(22lbs)-spool-pink
+    Yellow:
+      hex: '#FFFF80'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/638645/inland-175mm-luminous-rainbow-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Luminous:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/638645/inland-175mm-luminous-rainbow-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Luminous Blue:
+      hex: '#C7E6FC'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611553/inland-175mm-pla-3d-printer-filament-10-kg-(22-lbs)-spool-luminous-blue?sp=612
+    Glow In Dark Fluro Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/664847/inland-175mm-glow-in-dark-fluorescent-pla-filament-1kg-spool-(22lbs)-spool-blue
+    Green:
+      hex: '#77BB41'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/664850/inland-175mm-glow-in-dark-fluorescent-pla-filament-1kg-spool-(22lbs)-spool-green
+    Luminous/Glow In The Dark:
+      hex: '#D3CFB5'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/512137/175mm_PLA_3D_Printer_Filament_1kg_(22_lbs)_Cardboard_Spool_-_Luminous;_Dimensional_Accuracy_--_003mm,_Fits_Most_FDM-FFF_Printers,_Odor_Free,_Clog_Free
+    Glow in Dark Fluro Purple:
+      hex: '#856EF7'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/664846/inland-175mm-glow-in-dark-fluorescent-pla-filament-1kg-spool-(22lbs)-spool-purple
+    Rainbow:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/638645/inland-175mm-luminous-rainbow-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Luminous Rainbow:
+      hex: '#1F10EA,#E90C0C,#1CC457'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/638645/inland-175mm-luminous-rainbow-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Glow-in-the-Dark Green:
+      hex: '#AEF359'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/664850/inland-175mm-glow-in-dark-fluorescent-pla-filament-10-kg-(22lbs)-spool-green
+    Red:
+      hex: '#FF6962'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/664848/inland-175mm-glow-in-dark-fluorescent-pla-filament-1kg-spool-(22lbs)-spool-red
+  PLA+/Pro Basic:
+    Orange Spooless:
+      hex: '#FF7B00'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/687080/inland-175mm-pla-3d-printer-filament-100-kg-(22-lbs)-spooless-orange
+    Purple:
+      hex: '#7F589A'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611540/175mm_PLA_3D_Printer_Filament_10_kg_(22_lbs)_Spool_-_Purple
+    Gray:
+      hex: '#7B7B80'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611541/inland-175mm-pla-3d-printer-filament-10-kg-(22-lbs)-spool-gray
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611544/inland-175mm-pla-3d-printer-filament-10-kg-(22-lbs)-spool-white
+    Yellow:
+      hex: '#FFF151'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611546/inland-175mm-pla-3d-printer-filament-10-kg-(22-lbs)-spool-yellow
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611532/inland-175mm-pla-plus-(pla)-3d-printer-filament-1-kg-(22-lbs)-spool-black
+    Red:
+      hex: '#CA0D0E'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611542/inland-175mm-red-pla-3d-printer-filament-1kg-spool-
+    Pink (218743):
+      hex: '#FC97B0'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611550/inland-175mm-green-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Orange:
+      hex: '#FB8B5B'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/632394/inland-175mm-pla-pro-3d-printer-filament-1kg-(22-lbs)-spool-orange
+    Magenta:
+      hex: '#A82D34'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611551/175mm_PLA_3D_Printer_Filament_10_kg_(22_lbs)_Spool_-_Magenta
+    Green:
+      hex: '#129F8B'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611550/inland-175mm-green-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Pink:
+      hex: '#F291A5'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611535/inland-175mm-pla-3d-printer-filament-10-kg-(22-lbs)-spool-pink
+    CYAN:
+      hex: '#009FD4'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/683865/inland-175mm-pla-3d-printer-filament-multi-color-100-kg-(22-lbs)-per-cardboard-spool-cyan-magenta-yellow-white
+    Bone White:
+      hex: '#ABA190'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611556/inland-175mm-pla-3d-printer-filament-10-kg-(22-lbs)-spool-bone-white
+    Blue:
+      hex: '#004991'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611534/inland-175mm-pla-3d-printer-filament-10-kg-(22-lbs)-spool-blue
+    Brown:
+      hex: '#422D1A'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611536/inland-175mm-brown-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Orange, 2025:
+      hex: '#F06832'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/632394/inland-175mm-pla-pro-3d-printer-filament-1kg-(22-lbs)-spool-orange
+    Light Blue:
+      hex: '#009FC0'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611538/inland-175mm-pla-3d-printer-filament-10-kg-(22-lbs)-spool-light-blue
+    Olive Green:
+      hex: '#55623C'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611555/inland-175mm-pla-3d-printer-filament-10-kg-(22-lbs)-spool-olive-green
+    Dark Blue:
+      hex: '#2C3354'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611554/inland-175mm-pla-3d-printer-filament-10-kg-(22-lbs)-spool-dark-blue
+    Neon Green:
+      hex: '#00FF08'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611547/inland-175mm-pla-3d-printer-filament-10-kg-(22-lbs)-spool-silver
+    Red Raspberry:
+      hex: '#C63527'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/640584/inland-175mm-pla-3d-printer-filament-10-kg-(22-lbs)-spool-raspberry-red
+    Gold:
+      hex: '#D7B537'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611548/inland-175mm-pla-3d-printer-filament-10-kg-(22-lbs)-spool-gold
+    Brown  (989327):
+      hex: '#C1A081'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611536/inland-175mm-brown-pla-3d-printer-filament-1kg-spool-(22-lbs)
+  PLA LW:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/687094/inland-175mm-pla-carbon-fiber-3d-printer-filament-100-kg-(22-lbs)-cardboard-spool-black
+    Grey:
+      hex: '#919191'
+      source: 3dfilamentprofiles.com
+  PLA Shimmer:
+    Nebula:
+      hex: '#76647B'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675743/inland-175mm-pla-shimmer-3d-printer-filament-1kg-(22lbs)-spool-nebula
+    Twilight:
+      hex: '#1E3445'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675747/inland-175mm-pla-shimmer-3d-printer-filament-1kg-(22lbs)-spool-twilight
+    Aurora:
+      hex: '#78A4C4'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675746/inland-175mm-pla-shimmer-3d-printer-filament-1kg-(22lbs)-spool-aurora
+    Gold:
+      hex: '#806848'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/664835/inland-175mm-shimmer-pla-3d-printer-filament-1kg-(22-lbs)-spool-gold
+    Meteor:
+      hex: '#38571A,#3C071B'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660570/inland-shimmer-175mm-gray-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Purple:
+      hex: '#9313A4'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660573/inland-shimmer-175mm-purple-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Blue-Black:
+      hex: '#383F56'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660569/inland-175mm-shimmer-pla-3d-printer-filament-1kg-(22-lbs)-spool-black-blue?sp=0
+    Comet:
+      hex: '#587A68'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675744/inland-175mm-pla-shimmer-3d-printer-filament-1kg-(22lbs)-spool-comet
+    Light Blue:
+      hex: '#607184'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/664833/inland-175mm-shimmer-pla-3d-printer-filament-1kg-(22-lbs)-spool-light-blue
+    Shimmer Yellow:
+      hex: '#D38301'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660572/175mm_PLA_Shimmer_3D_Printer_Filament_10_kg_(22_lbs)_Spool_-_Yellow
+    Grey:
+      hex: '#A6A8AB'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660570/inland-shimmer-175mm-gray-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Burgundy:
+      hex: '#883340'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/664832/inland-175mm-shimmer-pla-3d-printer-filament-1kg-(22-lbs)-spool-burgundy?sp=567.3333129882812
+    Dark Red:
+      hex: '#8B0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660567/inland-175mm-pla-shimmer-3d-printer-filament-10-kg-(22-lbs)-spool-dark-red
+    Dark Gray:
+      hex: '#696969'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660571/inland-shimmer-175mm-dark-gray-pla-3d-printer-filament-1kg-spool-(22-lbs)?sp=1432
+    Shimmer Blue:
+      hex: '#0062A8'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660568/inland-shimmer-175mm-blue-pla-3d-printer-filament-1kg-spool-(22-lbs)
+  ABS CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/687099/inland-175mm-abs-cf-3d-printer-filament-1-kg-(22-lbs)-spool-black
+  PLA High Speed:
+    Yellow:
+      hex: '#FDC700'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/668640/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-yellow
+    Silk Shadow:
+      hex: '#737373'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/668800/inland-175mm-pla-high-speed-silk-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-shadow
+    Red:
+      hex: '#F60909'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/668637/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-red
+    Brown:
+      hex: '#935100'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/668640/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-yellow
+    True Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/668640/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-yellow
+    Green:
+      hex: '#07AB46'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/668639/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-green
+    Silk Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/668810/inland-175mm-pla-high-speed-silk-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-black
+    Silk Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/668803/inland-175mm-pla-high-speed-silk-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-yellow
+    Silk Rose-Gold:
+      hex: '#EFCFB1'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/668807/inland-175mm-pla-high-speed-silk-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-rose-gold
+    Violet:
+      hex: '#7F00FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/668638/inland-175mm-pla-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-violet
+  PLA Glitter:
+    Twinkling Silver:
+      hex: '#D5DCD7'
+      source: 3dfilamentprofiles.com
+    Twinkling Pink:
+      hex: '#F18DBC'
+      source: 3dfilamentprofiles.com
+    Glitter Pink:
+      hex: '#FF80FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/632402/inland-175mm-twinkling-pink-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Twinkling Blue:
+      hex: '#001547'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/632400/inland-175mm-twinkling-blue-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Twinkling Purple:
+      hex: '#9606CB'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/632404/inland-175mm-twinkling-purple-pla-3d-printer-filament-1kg-spool-(22-lbs)
+  PLA HS Silk Dual:
+    Bronze Red:
+      hex: '#C30909'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/668801/inland-175mm-pla-high-speed-silk-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-bronze-red
+  PETG+ High Speed:
+    Blue:
+      hex: '#0433FF'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670220/inland-175mm-petg-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-silver
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670217/inland-175mm-petghigh-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-white
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670216/inland-175mm-petg-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-black
+    Grey:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670219/inland-175mm-petghigh-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-gray
+    Red:
+      hex: '#E0413E'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670221/inland-175mm-petghigh-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-red
+  PETG Pro:
+    Silver:
+      hex: '#7B7474'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/503745/inland-175mm-petg-3d-printer-filament-1kg-carboard-spool-(22-lbs)-black
+  PETG Basic:
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/503781/inland-175mm-petg-3d-printer-filament-1kg-(22-lbs)-plastic-spool-yellow
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/503746/175mm_PETG_3D_Printer_Filament_1kg_(22_lbs)_Plastic_Spool_-_Transparent
+    Dark Grey:
+      hex: '#5A5A5A'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675750/inland-175mm-petg-3d-printer-filament-1kg-plastic-spool-(22-lbs)-dark-gray
+    Silver:
+      hex: '#C0BFBC'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/624162/inland-175mm-silver-petg-3d-printer-filament-1kg-spool-(22-lbs)
+    Green:
+      hex: '#52AE0D'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/503782/inland-175mm-petg-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-green
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/503741/inland-175mm-petg-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-white
+    Dark Purple:
+      hex: '#301934'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675749/inland-175mm-petg-3d-printer-filament-1kg-plastic-spool-(22-lbs)-dark-purple
+    Blue:
+      hex: '#132C76'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/503780/inland-175mm-petg-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-blue
+    Purple:
+      hex: '#703984'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/503784/175mm_PETG_3D_Printer_Filament_1kg_(22_lbs)_Cardboard_Spool_-_Purple;_Dimensional_Accuracy_--_003mm
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626528/inland-175mm-petg-3d-printer-filament-1kg-(22-lbs)-spool-black
+    True Red:
+      hex: '#AA0911'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626530/inland-175mm-petg-3d-printer-filament-1kg-(22-lbs)-spool-true-red
+    Red:
+      hex: '#CB4848'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/503779/inland-175mm-petg-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-red?sp=0
+  ABS+ High Speed:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670226/175mm_ABSHigh_Speed_3D_Printer_Filament_10_kg_(22_lbs)_Spool_-_Black;_Dimensional_Accuracy_--_005mm,_Fits_Most_FDM-FFF_Printers,_Odor_Free,_Clog_Free
+    Natural:
+      hex: '#CBCFB0'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670230/inland-175mm-abs-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-natrual
+    Grey:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670229/inland-175mm-abs-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-gray
+    Silver:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670232/inland-175mm-abs-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-silver
+    Black (608935):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670226/175mm_ABSHigh_Speed_3D_Printer_Filament_10_kg_(22_lbs)_Spool_-_Black;_Dimensional_Accuracy_--_005mm,_Fits_Most_FDM-FFF_Printers,_Odor_Free,_Clog_Free
+  PLA Color Change (UV):
+    Color Changing (UV):
+      hex: '#E8ECDF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/606544/inland-175mm-pla-uv-color-change-3d-printer-filament-05-kg-(11-lbs)-spool-natural-red
+    Natural to Red:
+      hex: '#E8E8F1,#E14171'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/606544/inland-175mm-pla-uv-color-change-3d-printer-filament-05-kg-(11-lbs)-spool-natural-red
+  PLA+/Pro Glow:
+    Luminous Blue:
+      hex: '#78EAF2'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/611553/inland-175mm-pla-3d-printer-filament-10-kg-(22-lbs)-spool-luminous-blue
+    Luminous Green:
+      hex: '#6BFF97'
+      source: 3dfilamentprofiles.com
+  PLA:
+    Shimmer Dark Red (518324):
+      hex: '#C43221'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675743/inland-175mm-pla-shimmer-3d-printer-filament-1kg-(22lbs)-spool-nebula
+    RAL 5002 blue:
+      hex: '#053DAD'
+      source: 3dfilamentprofiles.com
+      link: https://www.3d-printerstore.ch/PROFILL-Filament-PLA-RAL-5002-blue-10kg-175mm
+    Shimmer Green:
+      hex: '#3DBD74'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/664834/175mm_Shimmer_PLA_3D_Printer_Filament_1kg_(22_lbs)_Spool_-_Green;_Dimensional_Accuracy_--_003_mm;_Fits_Most_FDM-FFF_Printers;_Odor_Free;_Clog_Free
+    Frosty Amethyst:
+      hex: '#C48CF3'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675757/inland-175mm-pla-frosty%c2%a0-3d-printer-filament-10-kg-(22-lbs)-spool-amethyst
+    Frosty Mint:
+      hex: '#7CC3AC'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675756/inland-175mm-pla-frosty%c2%a0-3d-printer-filament-10-kg-(22-lbs)-spool-mint
+    MINT:
+      hex: '#C2F5E4'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675743/inland-175mm-pla-shimmer-3d-printer-filament-1kg-(22lbs)-spool-nebula
+    Frosty Winter:
+      hex: '#36E5FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675754/inland-175mm-pla-frosty%C2%A0-3d-printer-filament-10-kg-(22-lbs)-spool-winter
+    Shimmer Gold (557264):
+      hex: '#C59B84'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/664835/175mm_Shimmer_PLA_3D_Printer_Filament_1kg_(22_lbs)_Spool_-_Gold;_Dimensional_Accuracy_--_003_mm;_Fits_Most_FDM-FFF_Printers;_Odor_Free;_Clog_Free
+    Nebula:
+      hex: '#865EE6'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675743/inland-175mm-pla-shimmer-3d-printer-filament-1kg-(22lbs)-spool-nebula
+  PLA CF:
+    Red:
+      hex: '#330000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/687097/inland-175mm-pla-carbon-fiber-3d-printer-filament-100-kg-(22-lbs)-cardboard-spool-red
+    Purple:
+      hex: '#300160'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/687098/inland-175mm-pla-carbon-fiber-3d-printer-filament-100-kg-(22-lbs)-cardboard-spool-purple
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/687094/inland-175mm-pla-carbon-fiber-3d-printer-filament-100-kg-(22-lbs)-cardboard-spool-black
+  PC Tough:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/633301/inland-175mm-black-tough-pc-3d-printer-filament-1kg-spool-(22-lbs)
+  ABS Sparkle:
+    Grey (LRV 4):
+      hex: '#545856'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660589/inland-175mm-sparkle-gray-abs-3d-printer-filament-1kg-spool-(22-lbs)?sp=161
+    Sparkle Orange:
+      hex: '#F05A28'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660587/inland-175mm-sparkle-orange-abs-3d-printer-filament-1kg-spool-(22-lbs)
+    Sparkle Purple:
+      hex: '#A316E3'
+      source: 3dfilamentprofiles.com
+      link: https://inlandelectronics.com/product-tag/abs/
+  PETG CF:
+    Dark Blue:
+      hex: '#002D4D'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/687105/inland-175mm-petg-cf-3d-printer-filament-1-kg-(22-lbs)-spool-dark-blue
+    Dark Grey:
+      hex: '#595959'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/687106/inland-175mm-petg-cf-3d-printer-filament-1-kg-(22-lbs)-spool-dark-gray
+    Antique Brass:
+      hex: '#CE9451'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/687109/inland-175mm-petg-cf-3d-printer-filament-1-kg-(22-lbs)-spool-antique-brass
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/687105/inland-175mm-petg-cf-3d-printer-filament-1-kg-(22-lbs)-spool-dark-blue
+    Blackish Red:
+      hex: '#392928'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/687107/inland-175mm-petg-cf-3d-printer-filament-1-kg-(22-lbs)-spool-blackish-red
+  PLA Silk Triple:
+    Meteor:
+      hex: '#2E9475'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675745/inland-175mm-pla-shimmer-3d-printer-filament-1kg-(22lbs)-spool-meteor
+    Blue/Orange/Green:
+      hex: '#FF8000,#0080FF,#008000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/670191/inland-175mm-pla-silky-3d-printer-filament-triple-color-10-kg-(22-lbs)-spool-mystic-(orange-blue-green)
+  ABS 95A:
+    Neon Green:
+      hex: '#04FF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675741/inland-175mm-abs-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-neon-green
+  PLA Chameleon:
+    Light Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+  PLA Galaxy:
+    Aurora:
+      hex: '#556458'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675746/inland-175mm-pla-shimmer-3d-printer-filament-1kg-(22lbs)-spool-aurora
+    Galaxy Green:
+      hex: '#004745'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/675746/inland-175mm-pla-shimmer-3d-printer-filament-1kg-(22lbs)-spool-aurora
+  PETG+ Translucent:
+    Translucent Grey:
+      hex: '#6C6C6C'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626543/inland-175mm-petg-3d-printer-filament-1kg-(22-lbs)-spool-translucent-gray?sp=216
+    Translucent Blue:
+      hex: '#DDDDFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626544/inland-175mm-petg-3d-printer-filament-1kg-(22-lbs)-spool-translucent-blue
+    Translucent Green:
+      hex: '#009325'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626538/inland-175mm-petg-3d-printer-filament-1kg-(22-lbs)-spool-translucent-green
+    Translucent Magenta:
+      hex: '#E14171'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626539/inland-175mm-petg-3d-printer-filament-1kg-(22-lbs)-spool-translucent-magenta
+    Translucent Orange:
+      hex: '#FF8000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626541/inland-175mm-petg-3d-printer-filament-1kg-(22-lbs)-spool-translucent-orange
+    Purple:
+      hex: '#764589'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626542/inland-175mm-petg-3d-printer-filament-1kg-(22-lbs)-spool-translucent-purple
+    Yellow:
+      hex: '#FFF824'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/626658/inland-175mm-tpu-3d-printer-filament-10-kg-(22-lbs)-spool-translucent-yellow
+  TPU 68D (For AMS):
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/701527/inland-tpu-for-mfs-white
+    Purple:
+      hex: '#8B3DFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/701533/inland-tpu-for-mfs-purple
+  PLA Marble:
+    Blue Marble:
+      hex: '#00FCFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/664839/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-carboard-spool-blue-marble
+    Slate Gray Marble:
+      hex: '#ADD8E6'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/649904/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-slate-gray-marble
+    Purple Marble:
+      hex: '#C487F6'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/664837/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-carboard-spool-purple-marble
+    White Marble:
+      hex: '#D6DBD3'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/616609/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-cardboard-spool-white-marble
+  TPU Color Change (Temp):
+    Red Color Change:
+      hex: '#C43221'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/647841/inland-175mm-tpu-3d-printer-filament-1kg-spool-(22-lbs)-red-color-change
+  ABS GF:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/687112/inland-175mm-abs-gf-3d-printer-filament-1-kg-(22-lbs)-spool-white
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/687111/inland-175mm-abs-gf-3d-printer-filament-1-kg-(22-lbs)-spool-black
+  PLA PolyWood:
+    Wood:
+      hex: '#F5C66D'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/632373/inland-175mm-pla-wood-3d-printer-filament-05-kg-spool-(11-lbs)
+  PLA Multicolor:
+    Rainbow:
+      hex: '#C0F76E'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/616778/inland-175mm-multicolor-silk-rainbow-pla-3d-printer-filament-1kg-spool-(22-lbs)
+  PLA Rainbow:
+    Wood Rainbow:
+      hex: '#957F41,#46310C'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/662249/inland-175mm-wood-rainbow-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Rainbow 2:
+      hex: '#74A7FE,#FFF995,#E392FE'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/620747/inland-175mm-pla-silk-3d-printer-filament-10-kg-(22-lbs)-spool-rainbow-2
+  PLA+/Pro Tough:
+    White Marble:
+      hex: '#B7C5D3'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660553/inland-175mm-white-marble-tough-pla-3d-printer-filament-1kg-spool-(22-lbs)
+  PLA+/Pro CMYK:
+    CMYK White:
+      hex: '#FBFAF2'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/683865/inland-175mm-pla-3d-printer-filament-multi-color-100-kg-(22-lbs)-per-cardboard-spool-cyan-magenta-yellow-white
+    CMYK Cyan:
+      hex: '#15A3C7'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/683865/inland-175mm-pla-3d-printer-filament-multi-color-100-kg-(22-lbs)-per-cardboard-spool-cyan-magenta-yellow-white
+    CMYK Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/683865/inland-175mm-pla-3d-printer-filament-multi-color-100-kg-(22-lbs)-per-cardboard-spool-cyan-magenta-yellow-white
+    CMYK Magenta:
+      hex: '#F62681'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/683865/inland-175mm-pla-3d-printer-filament-multi-color-100-kg-(22-lbs)-per-cardboard-spool-cyan-magenta-yellow-white
+  PA (Nylon) CF:
+    Natural:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/485665/inland-175mm-natural-nylon-carbon-fiber-3d-printer-filament-05kg-spool-(11lbs)
+  PLA+/Pro CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/687094/inland-175mm-pla-carbon-fiber-3d-printer-filament-100-kg-(22-lbs)-cardboard-spool-black
+  ABS High Speed:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/668811/inland-175mm-abs-high-speed-3d-printer-filament-10-kg-(22-lbs)-cardboard-spool-black
+  PLA Dynamic:
+    Natural To Purple UV:
+      hex: '#9F79D7'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/606546/inland-175mm-pla-uv-color-change-3d-printer-filament-05-kg-(11-lbs)-spool-natural-purple
+  PLA Color Change (Temp):
+    Gray to Natural:
+      hex: '#959595,#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/606548/inland-175mm-pla-uv-color-change-3d-printer-filament-05-kg-(11-lbs)-spool-gray-natural?sp=714?sp=714
+  ASA PolyLite:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/633295/inland-polylite-175mm-white-asa-3d-printer-filament-1kg-spool-(22-lbs)
+  PLA+/Pro Marble:
+    YELLOW MARBLE:
+      hex: '#D2C285'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/664838/inland-175mm-pla-3d-printer-filament-1kg-(22-lbs)-carboard-spool-yellow-marble
+  PLA Fluorescent:
+    Purple:
+      hex: '#D97DD4'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/664846/inland-175mm-glow-in-dark-fluorescent-pla-filament-10-kg-(22lbs)-spool-purple
+  PA (Nylon) Basic:
+    Natural:
+      hex: '#FEF19A'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/610044/inland-175mm-natural-nylon-3d-printer-filament-05kg-spool-(11-lbs)

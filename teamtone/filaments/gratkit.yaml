@@ -1,0 +1,142 @@
+GratKit:
+  PETG Basic:
+    Yellow:
+      hex: '#FFDD00'
+      source: 3dfilamentprofiles.com
+      link: https://gratkit.com/products/gratkit-petg-3d-printing-filament-1-75mm-basic-petg-1kg?variant=40792278073424
+    Green:
+      hex: '#2DB962'
+      source: 3dfilamentprofiles.com
+      link: https://gratkit.com/products/gratkit-petg-3d-printing-filament-1-75mm-basic-petg-1kg?variant=40985457328208
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://gratkit.com/collections/3d-printing-filament/products/gratkit-petg-3d-printing-filament-1-75mm-basic-petg-1kg
+    Grey:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://gratkit.com/collections/3d-printing-filament/products/gratkit-petg-3d-printing-filament-1-75mm-basic-petg-1kg?variant=40792277286992
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://gratkit.com/products/gratkit-petg-3d-printing-filament-1-75mm-basic-petg-1kg?variant=40792277942352
+    Transparent Yellow:
+      hex: '#FDDE0D'
+      source: 3dfilamentprofiles.com
+      link: https://gratkit.com/collections/3d-printing-filament/products/gratkit-petg-3d-printing-filament-1-75mm-basic-petg-1kg
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://gratkit.com/collections/3d-printing-filament/products/gratkit-petg-3d-printing-filament-1-75mm-basic-petg-1kg
+    Transparent Blue:
+      hex: '#0157E6'
+      source: 3dfilamentprofiles.com
+      link: https://gratkit.com/collections/3d-printing-filament/products/gratkit-petg-3d-printing-filament-1-75mm-basic-petg-1kg
+    Blue:
+      hex: '#205AC8'
+      source: 3dfilamentprofiles.com
+      link: https://gratkit.com/collections/3d-printing-filament/products/gratkit-petg-3d-printing-filament-1-75mm-basic-petg-1kg
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://gratkit.com/products/gratkit-petg-3d-printing-filament-1-75mm-basic-petg-1kg?variant=40792277549136
+  PLA Silk Triple:
+    Gold Purple Black:
+      hex: '#1A1A1A,#E8D245,#901EDC'
+      source: 3dfilamentprofiles.com
+      link: https://gratkit.com/collections/3d-printing-filament/products/gratkit-silk-multi-color-pla-filament-1-75mm-coextrusion-pla-filament-1kg
+    Pink/Blue/Grey:
+      hex: '#F3438E,#1323B7,#C1C1C1'
+      source: 3dfilamentprofiles.com
+      link: https://gratkit.com/collections/3d-printing-filament/products/gratkit-silk-multi-color-pla-filament-1-75mm-coextrusion-pla-filament-1kg?variant=40715449073744
+    RED/GOLD/PURPLE:
+      hex: '#E7043C,#E7C54B,#D800F5'
+      source: 3dfilamentprofiles.com
+      link: https://gratkit.com/products/gratkit-silk-multi-color-pla-filament-1-75mm-coextrusion-pla-filament-1kg?variant=40181371011152
+    Gold Copper Silver:
+      hex: '#86871C,#CE6C46,#B9C3CB'
+      source: 3dfilamentprofiles.com
+      link: https://gratkit.com/collections/3d-printing-filament/products/gratkit-silk-multi-color-pla-filament-1-75mm-coextrusion-pla-filament-1kg
+    Blue/Purple/Black:
+      hex: '#8A14FF,#3F12F3,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://gratkit.com/collections/3d-printing-filament/products/gratkit-silk-multi-color-pla-filament-1-75mm-coextrusion-pla-filament-1kg
+  PLA Matte:
+    Macaron Light Green:
+      hex: '#B6E0BB'
+      source: 3dfilamentprofiles.com
+    Olive Green:
+      hex: '#66795A'
+      source: 3dfilamentprofiles.com
+    Navy Blue:
+      hex: '#222D35'
+      source: 3dfilamentprofiles.com
+    Macaron Hell Gelb:
+      hex: '#FFFA97'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Green / Purple:
+      hex: '#14FF30,#B020FE'
+      source: 3dfilamentprofiles.com
+      link: https://gratkit.com/collections/3d-printing-filament/products/gratkit-silk-multi-color-pla-filament-1-75mm-coextrusion-pla-filament-1kg
+    Black+Green:
+      hex: '#0C0C0C,#1C8C73'
+      source: 3dfilamentprofiles.com
+      link: https://gratkit.com/products/gratkit-silk-multi-color-pla-filament-1-75mm-coextrusion-pla-filament-1kg?variant=40559076278352
+    Gold Red-Copper:
+      hex: '#C48E30,#9D4F32'
+      source: 3dfilamentprofiles.com
+      link: https://gratkit.com/products/gratkit-silk-multi-color-pla-filament-1-75mm-coextrusion-pla-filament-1kg?variant=40969821913168
+  PLA Basic:
+    Rot:
+      hex: '#B51A00'
+      source: 3dfilamentprofiles.com
+      link: https://gratkit.com/collections/3d-printing-filament/products/gratkit-pla-3d-printing-filament-1-75mm-3d-printing-material-1kg?variant=39837279682640
+    Grey:
+      hex: '#919191'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Transparent Yellow:
+      hex: '#FFF700'
+      source: 3dfilamentprofiles.com
+      link: https://gratkit.com/products/gratkit-petg-3d-printing-filament-1-75mm-basic-petg-1kg?variant=40509230612560
+    Lake Green White:
+      hex: '#009AB6,#4DB7C5,#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Transparent Blue:
+      hex: '#4DA3FF'
+      source: 3dfilamentprofiles.com
+      link: https://gratkit.com/products/gratkit-petg-3d-printing-filament-1-75mm-basic-petg-1kg?variant=40792278466640
+    Blue White Orange:
+      hex: '#63929A,#FFCB13,#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Dark Purple White:
+      hex: '#5B2067,#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Champagne Rose White:
+      hex: '#FFFFFF,#B3782A,#FF8605'
+      source: 3dfilamentprofiles.com
+  PETG Gradient:
+    Translucent Gradient Blue Green:
+      hex: '#4DB6CB,#6FE7BF'
+      source: 3dfilamentprofiles.com
+      link: http://www.gratkit.com
+    ‎Glitter Rainbow:
+      hex: '#B1CFEC,#E1AEEF,#B2EFAE,#E8EFAE'
+      source: 3dfilamentprofiles.com
+      link: https://www.gratkit.com
+  PLA Silk:
+    Pink, Blue, Silver Gray:
+      hex: '#FF7EFF,#0322B9,#5C5C5C'
+      source: 3dfilamentprofiles.com
+  PLA Matte Dual:
+    Fluorite:
+      hex: '#FEA4E2,#47D7FF,#EBFF85'
+      source: 3dfilamentprofiles.com
+    Malachite:
+      hex: '#FDFD00,#0080FF,#FF0000'
+      source: 3dfilamentprofiles.com
+  PLA Multicolor:
+    Red Gold Purple:
+      hex: '#E7043C,#E7C54B,#D800F5'
+      source: 3dfilamentprofiles.com

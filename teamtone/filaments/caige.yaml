@@ -1,0 +1,21 @@
+CAIGE:
+  PETG Basic:
+    白棋 / White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    黑人 / Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    透明的 / Transparent:
+      hex: '#EDF0F3'
+      source: 3dfilamentprofiles.com
+    Orange-柑橘类水果:
+      hex: '#FD892A'
+      source: 3dfilamentprofiles.com
+    红色 / RED:
+      hex: '#FC3444'
+      source: 3dfilamentprofiles.com
+  PETG Blend:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,33 @@
+MakerBot:
+  PLA Basic:
+    True Purple:
+      hex: '#400080'
+      source: 3dfilamentprofiles.com
+      link: https://store.ultimaker.com/3d-printer-materials/sketch-series-materials/sketch-pla-filament-true-color-series
+    True Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://store.ultimaker.com/3d-printer-materials/sketch-series-materials/sketch-pla-filament-true-color-series
+    Army Green:
+      hex: '#4B5320'
+      source: 3dfilamentprofiles.com
+    True Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.ultimaker.com/3d-printer-materials/sketch-series-materials/sketch-pla-filament-true-color-series
+    True Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://store.ultimaker.com/3d-printer-materials/sketch-series-materials/sketch-pla-filament-true-color-series
+  ABS Basic:
+    Natural:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PVA Basic:
+    Dissolvable:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  ABS Glow:
+    Glow in the Dark:
+      hex: '#FFFAC2'
+      source: 3dfilamentprofiles.com

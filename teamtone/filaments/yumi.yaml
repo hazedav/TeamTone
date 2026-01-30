@@ -1,0 +1,47 @@
+YUMI:
+  PLA+/Pro Basic:
+    Skin:
+      hex: '#FFC4AB'
+      source: 3dfilamentprofiles.com
+    Caramel Beurre Salé:
+      hex: '#B07240'
+      source: 3dfilamentprofiles.com
+      link: https://wanhao-europe.com/products/pla-premium-wanhao-caramel-beurre-sale?variant=47709584589140
+    Blanc:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Slate Grey:
+      hex: '#919191'
+      source: 3dfilamentprofiles.com
+      link: https://wanhao-europe.com/products/pla-wanhao-gris-1kg?variant=47709591732564
+    Violet:
+      hex: '#951891'
+      source: 3dfilamentprofiles.com
+      link: https://wanhao-europe.com/products/pla-wanhao-violet-purple-1kg?variant=47709593960788
+    Yellow:
+      hex: '#FFFB00'
+      source: 3dfilamentprofiles.com
+      link: https://wanhao-europe.com/products/pla-wanhao-jaune-yellow-1kg?variant=47709592191316
+    Vert Militaire:
+      hex: '#125E13'
+      source: 3dfilamentprofiles.com
+      link: https://wanhao-europe.com/products/pla-premium-wanhao-vert-militaire?variant=47709584261460
+  PLA+/Pro Translucent:
+    Natural:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://wanhao-europe.com/collections/filament-petg-wanhao/products/petg-noir-premium-wanhao-1-75mm-1-kg?variant=47709577216340
+  PLA+/Pro Matte:
+    Macaron Kinder:
+      hex: '#91633B'
+      source: 3dfilamentprofiles.com
+      link: https://wanhao-europe.com/collections/tous-les-filaments
+  PLA Silk:
+    Gold Copper:
+      hex: '#FFAA00'
+      source: 3dfilamentprofiles.com
+      link: https://wanhao-europe.com/products/pla-silk-or-cuivre-premium-wanhao-1-75mm-1-kg?variant=47709580853588

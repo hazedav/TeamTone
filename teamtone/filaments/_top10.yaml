@@ -1,0 +1,14 @@
+# Top 10 Most Popular Filament Manufacturers
+# These manufacturers are prioritized in search results for better recommendations
+
+top_manufacturers:
+  - hatchbox.yaml          # Hatchbox: Widely considered a favorite for high consistency and reliability
+  - esun.yaml              # eSUN: Known for a vast range of colors and materials
+  - polymaker.yaml         # Polymaker: High-quality engineered filaments
+  - prusament.yaml         # Prusament: Extremely high tolerance and quality control
+  - matterhackers.yaml     # MatterHackers: Build and PRO series with excellent support
+  - overture.yaml          # Overture: Excellent value and reliable quality
+  - colorfabb.yaml         # ColorFabb: Premium specialized PLA/PHA blends
+  - sunlu.yaml             # Sunlu: Budget-friendly reliable filament
+  - inland.yaml            # Inland: Micro Center house brand (great value)
+  - atomic_filament.yaml   # Atomic Filament: U.S.-based high-quality manufacturer

@@ -1,0 +1,26 @@
+HUTI:
+  ASA CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.facebook.com/HUTITECH/
+  PETG Basic:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.facebook.com/HUTITECH/
+  PETG CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.facebook.com/HUTITECH/
+  PLA CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.facebook.com/HUTITECH/
+  TPU Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.facebook.com/HUTITECH/

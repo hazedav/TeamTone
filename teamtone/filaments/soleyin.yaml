@@ -1,0 +1,231 @@
+SOLEYIN:
+  PLA+/Pro High Speed:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Macaron Purple:
+      hex: '#D9B8F1'
+      source: 3dfilamentprofiles.com
+    Strawberry Cream:
+      hex: '#F16D7A'
+      source: 3dfilamentprofiles.com
+    Grass Green:
+      hex: '#B2BA81'
+      source: 3dfilamentprofiles.com
+    Almond Purple:
+      hex: '#D9B8F1'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg?variant=d0e349a6-6fd6-46cc-88ae-d207fb666563
+    Ocean Blue:
+      hex: '#B8F1ED'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg?variant=e4612ab8-ee3e-4d12-a7eb-93f52441c47a
+    Strawberry Milk:
+      hex: '#F16D7A'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg?variant=e2091345-269f-45ad-bd47-7cb4cac483de
+    Greenery:
+      hex: '#B2BA81'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg?variant=ec1661c7-c16d-4f41-9e70-4a85850c92d8
+    Rosehip:
+      hex: '#FD7D36'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg?variant=3412a93a-a94f-410a-8e7b-6e0a7bf0f51c
+    Light Green:
+      hex: '#B8F1CC'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg?variant=8149b79c-277f-414a-944c-946c89b6b4c3
+    Pineapple Yellow:
+      hex: '#FFE543'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg?variant=dee4a126-c00d-48a2-bbf3-69da4c75b1ff
+  PLA High Speed:
+    Strawberry Milk:
+      hex: '#F16D7A'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    Almond Purple:
+      hex: '#D9B8F1'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    Rosehip:
+      hex: '#FD7D36'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg?variant=3412a93a-a94f-410a-8e7b-6e0a7bf0f51c
+    Ocean Blue:
+      hex: '#B8F1ED'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    Vert Claire:
+      hex: '#B8F1CC'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    Pineapple Yellow:
+      hex: '#FFE543'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    Gray:
+      hex: '#9EA2A2'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    Greenery:
+      hex: '#B2BA81'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+  PLA Matte:
+    Three Piece Rose Stone:
+      hex: '#67B9F4,#F1A6F7,#B861FF'
+      source: 3dfilamentprofiles.com
+    Matte White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#929292'
+      source: 3dfilamentprofiles.com
+    Matte Hellgrün:
+      hex: '#AEEFE8'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    Matte Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Moonstone:
+      hex: '#DC8ADD,#99C1F1,#F9F06B'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    Flourite:
+      hex: '#69F793,#6DC1FD,#E290F9'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    Greenery:
+      hex: '#6F907C'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+  PLA Ultra:
+    Pineapple Yellow:
+      hex: '#FFE543'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    Grey:
+      hex: '#9EA2A2'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    Almond Purple:
+      hex: '#D9B8F1'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    Matte Grey:
+      hex: '#9EA2A2'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    Macaron Purple:
+      hex: '#D9B8F1'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    rosehip:
+      hex: '#FD7D36'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    Greenery:
+      hex: '#B2BA81'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    Matte White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Strawberry Milk:
+      hex: '#FF1850'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    Ocean Blue:
+      hex: '#4FFFEE'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    Matte Rose Stone:
+      hex: '#B7A1C4'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    Light Green:
+      hex: '#B8F1CC'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/de/products/soleyin-ultra-pla-1-75mm-1kg
+    Matte Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    Matte Moonstone:
+      hex: '#E0FF9E,#E8A8FF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+  PLA Basic:
+    Grey:
+      hex: '#BAC1CA'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg?srsltid=AfmBOorXnIgR88Qk3tdLJKBsbK8qxHGhI7n01FFl2RiT6vkblLhfDukt
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+    Yellow:
+      hex: '#FEF493'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Milk Tea Brown:
+      hex: '#CCAE88'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro High Speed Matte:
+    Moonstone:
+      hex: '#DC8ADD,#99C1F1,#F9F06B'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg?variant=488bef5f-dd88-4ff7-ba36-d6c467511e75
+    Rose Stone:
+      hex: '#62A0EA,#DC8ADD,#9141AC'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg?variant=a544f846-d400-425a-9ef0-a33af5f89171
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg?variant=3d61e016-186d-4fda-95ed-1219419db5c7
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg?variant=beb606f8-f699-43b9-b2f1-ad3b0126dc06
+    Gray:
+      hex: '#9EA2A2'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg?variant=505b13a4-2167-4fad-8f82-66ba78335a74
+  PLA+/Pro Pro:
+    Grey:
+      hex: '#969696'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Matte Rainbow:
+    Fluorite:
+      hex: '#F7A5CF,#E8F1AA,#8FD5F9'
+      source: 3dfilamentprofiles.com
+  PLA Pro:
+    Pineapple Yellow:
+      hex: '#FAEB51'
+      source: 3dfilamentprofiles.com

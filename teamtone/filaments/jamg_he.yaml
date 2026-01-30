@@ -1,0 +1,164 @@
+JAMG HE:
+  PETG Basic:
+    Blue:
+      hex: '#1B5CDF'
+      source: 3dfilamentprofiles.com
+      link: https://www.jamghe.com/products/pla-plus-1-75mm-3d-printer-filament-1kg
+    Orange:
+      hex: '#F04314'
+      source: 3dfilamentprofiles.com
+      link: https://www.jamghe.com/products/petg-filament-1-75mm-1kg?variant=46126637875493
+    Green:
+      hex: '#4DEBC9'
+      source: 3dfilamentprofiles.com
+      link: https://www.jamghe.com/products/pla-plus-1-75mm-3d-printer-filament-1kg?variant=47524054401317
+    Khaki:
+      hex: '#9C8C74'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Silvery:
+      hex: '#505050'
+      source: 3dfilamentprofiles.com
+    Traffic Red:
+      hex: '#B90000'
+      source: 3dfilamentprofiles.com
+    Transparent:
+      hex: '#EBEBEB'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFEA00'
+      source: 3dfilamentprofiles.com
+      link: https://www.jamghe.com/
+    Purple:
+      hex: '#362A9A'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Silver / Dark Blue:
+      hex: '#000435'
+      source: 3dfilamentprofiles.com
+      link: https://www.jamghe.com/products/dual-silk-pla?variant=49763276095781
+    red/green/purple:
+      hex: '#9A244F'
+      source: 3dfilamentprofiles.com
+      link: https://www.jamghe.com/products/dual-silk-pla?variant=49763276095781
+    Dark Blue Silver:
+      hex: '#55697B,#0C1F7A'
+      source: 3dfilamentprofiles.com
+      link: https://www.jamghe.com/products/dual-silk-pla?variant=49763276095781
+    Blue Green:
+      hex: '#3AB990,#00619F'
+      source: 3dfilamentprofiles.com
+      link: https://www.jamghe.com/products/dual-silk-pla?variant=49763276095781
+    Dark Blue, Dark Green:
+      hex: '#226852,#02456E'
+      source: 3dfilamentprofiles.com
+      link: https://www.jamghe.com/products/dual-silk-pla?variant=49763276095781
+    Purple Red Green:
+      hex: '#A36FB7,#0D5B35'
+      source: 3dfilamentprofiles.com
+      link: https://www.jamghe.com/products/dual-silk-pla?variant=49763276095781
+    Black / dark green:
+      hex: '#4F7A28'
+      source: 3dfilamentprofiles.com
+      link: https://www.jamghe.com/products/dual-silk-pla?variant=49763276095781
+  PLA+/Pro High Speed:
+    Grey:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+    RED:
+      hex: '#FF2E2E'
+      source: 3dfilamentprofiles.com
+      link: https://www.jamghe.com/products/pla-plus-filament?variant=47524054597925
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#070E98'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Light Yellow:
+      hex: '#DBEFAE'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Light Pink:
+      hex: '#FFD6D8'
+      source: 3dfilamentprofiles.com
+      link: https://www.jamghe.com/products/matte-pla-3d-printer-filament?variant=49763392651557
+  PLA+/Pro Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Khaki:
+      hex: '#AD976E'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Grey:
+      hex: '#757575'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#2014D2'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#008000'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Marble:
+    Marble:
+      hex: '#DAE0E2'
+      source: 3dfilamentprofiles.com
+      link: https://www.jamghe.com/products/marble-pla-filament
+  PLA+/Pro Matte:
+    Olive Green:
+      hex: '#5A6B46'
+      source: 3dfilamentprofiles.com
+      link: https://www.jamghe.com/products/matte-pla-3d-printer-filament?srsltid=AfmBOooXmCFdwgX4h_W0N2MaN5XHJTSGImrZP5IyNZZiDLIQVGTh_yaM
+  PETG High Speed:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.jamghe.com/products/3d-printing-petg-filament-1-75-1kg?variant=46126637383973
+    Gray:
+      hex: '#B0B0B0'
+      source: 3dfilamentprofiles.com
+      link: https://www.jamghe.com/products/hi-speed-pla-filament?variant=46590374609189
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    blue rose red:
+      hex: '#F769E4'
+      source: 3dfilamentprofiles.com
+    black purple gold:
+      hex: '#A969F7'
+      source: 3dfilamentprofiles.com
+    Silk Gold:
+      hex: '#FECB3E'
+      source: 3dfilamentprofiles.com
+    Red Copper:
+      hex: '#C86D43'
+      source: 3dfilamentprofiles.com
+  PLA Magic:
+    blue:
+      hex: '#000980'
+      source: 3dfilamentprofiles.com
+    green:
+      hex: '#082B03'
+      source: 3dfilamentprofiles.com

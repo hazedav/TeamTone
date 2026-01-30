@@ -1,0 +1,12 @@
+E-DA:
+  PETG Translucent:
+    Tran Yellow:
+      hex: '#F4EF57'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Silk Red:
+      hex: '#E2608D'
+      source: 3dfilamentprofiles.com
+    Silk Green:
+      hex: '#70CD9D'
+      source: 3dfilamentprofiles.com

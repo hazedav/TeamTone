@@ -1,0 +1,80 @@
+Prusa:
+  PLA Glitter:
+    Silver:
+      hex: '#737373'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Silver:
+      hex: '#999AA0'
+      source: 3dfilamentprofiles.com
+    Jet Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.prusa3d.com/de/produkt/prusament-pla-jet-black-1kg/
+    glow:
+      hex: '#A5F76E'
+      source: 3dfilamentprofiles.com
+    Lila:
+      hex: '#DE9EE0'
+      source: 3dfilamentprofiles.com
+    Prusa Orange:
+      hex: '#FF4D08'
+      source: 3dfilamentprofiles.com
+      link: https://www.prusa3d.com/de/produkt/pla-matt-orange-classic/
+    Galaxy Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Slate Silver (Metallic Silver):
+      hex: '#55575A'
+      source: 3dfilamentprofiles.com
+      link: https://www.prusa3d.com/de/produkt/prusament-petg-signal-white-1kg/
+    Turquoise Blue:
+      hex: '#00FFEF'
+      source: 3dfilamentprofiles.com
+      link: https://www.prusa3d.com/de/produkt/prusament-petg-signal-white-1kg/
+    Translucent Violet:
+      hex: '#EE82EE'
+      source: 3dfilamentprofiles.com
+      link: https://www.prusa3d.com/de/produkt/prusament-petg-signal-white-1kg/
+    Signal Weiß:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.prusa3d.com/de/produkt/prusament-petg-signal-white-1kg/
+    Jet Black:
+      hex: '#292B2B'
+      source: 3dfilamentprofiles.com
+      link: https://www.prusa3d.com/de/produkt/prusament-petg-signal-white-1kg/
+  PLA+/Pro:
+    Lithophane:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.prusa3d.com/product/pla-lithophane-filament-1kg/
+  ABS+ Basic:
+    Silver:
+      hex: '#E6E8FA'
+      source: 3dfilamentprofiles.com
+    Yellowgreen:
+      hex: '#9ACD32'
+      source: 3dfilamentprofiles.com
+  PVB Basic:
+    Transparent:
+      hex: '#D6D6D6'
+      source: 3dfilamentprofiles.com
+  PLA Galaxy:
+    Silver:
+      hex: '#999AA0'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PETG Galaxy:
+    Galaxy Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Matte:
+    Sweet mint:
+      hex: '#A1E3E1'
+      source: 3dfilamentprofiles.com
+      link: https://www.prusa3d.com/product/pla-matt-soft-mint/

@@ -1,0 +1,151 @@
+SA Filament:
+  PLA+/Pro Silk Dual:
+    Sapphire Forest:
+      hex: '#69A3F8,#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Golden Leaf:
+      hex: '#16C559,#D2FF2E'
+      source: 3dfilamentprofiles.com
+    Blue Blood:
+      hex: '#0000D7,#F23539'
+      source: 3dfilamentprofiles.com
+      link: https://m23dprinting.co.za/product/sa-filament-dual-pla-silk-blue-blood/
+  PLA+/Pro Silk:
+    Pearl:
+      hex: '#E3E8EE'
+      source: 3dfilamentprofiles.com
+    Silky Peach:
+      hex: '#EEBB8B'
+      source: 3dfilamentprofiles.com
+    Chrome Silver:
+      hex: '#B5BDC4'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#3799FB'
+      source: 3dfilamentprofiles.com
+    Merlot:
+      hex: '#D51E50'
+      source: 3dfilamentprofiles.com
+      link: https://m23dprinting.co.za/product/sa-filament-pla-silk-merlot/
+  PLA Basic:
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.safilament.co.za/pla.html
+    Air Force Blue:
+      hex: '#5380AC'
+      source: 3dfilamentprofiles.com
+      link: https://www.safilament.co.za/pla.html
+    Pale Green:
+      hex: '#B6EDD6'
+      source: 3dfilamentprofiles.com
+      link: https://www.safilament.co.za/pla.html
+    Purple:
+      hex: '#8966AA'
+      source: 3dfilamentprofiles.com
+      link: https://www.safilament.co.za/pla.html
+    Grey:
+      hex: '#919191'
+      source: 3dfilamentprofiles.com
+      link: https://www.safilament.co.za/pla.html
+    Orange:
+      hex: '#FF8800'
+      source: 3dfilamentprofiles.com
+      link: https://www.safilament.co.za/pla.html
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.safilament.co.za/pla.html
+    Baby Pink:
+      hex: '#F0BCE9'
+      source: 3dfilamentprofiles.com
+      link: https://www.safilament.co.za/pla.html
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.safilament.co.za/pla.html
+    Olive Drab:
+      hex: '#324E35'
+      source: 3dfilamentprofiles.com
+      link: https://www.safilament.co.za/pla.html
+    Green:
+      hex: '#169224'
+      source: 3dfilamentprofiles.com
+      link: https://www.safilament.co.za/pla.html
+    Blue:
+      hex: '#303EF8'
+      source: 3dfilamentprofiles.com
+      link: https://www.safilament.co.za/pla.html
+  ABS Premium:
+    Silver:
+      hex: '#8FA9BB'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Light Grey:
+      hex: '#C9C9C9'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA High Speed:
+    Orange:
+      hex: '#EF6F10'
+      source: 3dfilamentprofiles.com
+      link: https://www.safilament.co.za/pla-hyper.html
+    Red:
+      hex: '#A20707'
+      source: 3dfilamentprofiles.com
+      link: https://www.safilament.co.za/pla.html
+  PLA Silk Dual:
+    Crimson Eclipse:
+      hex: '#814F83'
+      source: 3dfilamentprofiles.com
+      link: https://www.safilament.co.za/silk-pla.html
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#7600A8'
+      source: 3dfilamentprofiles.com
+    Luminous Green:
+      hex: '#139516'
+      source: 3dfilamentprofiles.com
+    Blaze Orange:
+      hex: '#FF6400'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#575757'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    Green:
+      hex: '#D6FFD1'
+      source: 3dfilamentprofiles.com
+  PLA Neon:
+    Lunar Yellow:
+      hex: '#EDF047'
+      source: 3dfilamentprofiles.com
+  PETG High Speed:
+    Green:
+      hex: '#6EF777'
+      source: 3dfilamentprofiles.com
+    Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.safilament.co.za/petg-speed.html
+  PETG High Speed CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  TPU 98A:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

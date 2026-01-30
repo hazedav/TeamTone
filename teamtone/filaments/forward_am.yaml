@@ -1,0 +1,18 @@
+Forward AM:
+  PLA High Speed:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  TPU 85A:
+    natural:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA HF:
+    Grey:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+  PAHT CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://forward-am.com/material-portfolio/ultrafuse-filaments-for-fused-filaments-fabrication-fff/reinforced-filaments/ultrafuse-paht-cf15/

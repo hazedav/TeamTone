@@ -1,0 +1,17 @@
+Filamentive:
+  PLA Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentive.com/product/pla-black-3d-printer-filament/
+    Natural:
+      hex: '#E7DADA'
+      source: 3dfilamentprofiles.com
+  ASA Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PET CF:
+    Natural Dark Grey:
+      hex: '#3C3D3E'
+      source: 3dfilamentprofiles.com

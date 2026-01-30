@@ -1,0 +1,32 @@
+Filanora:
+  PLA Basic:
+    Óarany:
+      hex: '#726928'
+      source: 3dfilamentprofiles.com
+      link: https://www.filanora.eu/filanora-filacorn-pla-filament-175mm-oarany
+    Lime:
+      hex: '#32CC32'
+      source: 3dfilamentprofiles.com
+      link: https://www.filanora.eu/filanora-filacorn-pla-filament-175mm-lime
+  PLA:
+    RED:
+      hex: '#CC0605'
+      source: 3dfilamentprofiles.com
+      link: https://www.filanora.eu/filanora-filacorn-pla-bio-filament-175mm-piros?keyword=piros
+  PETG Basic:
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.filanora.eu/filanora-filatech-petg-filament-175mm-sarga
+    Slate Grey:
+      hex: '#555555'
+      source: 3dfilamentprofiles.com
+      link: https://www.filanora.eu/filanora-filatech-petg-filament-175mm-palaszurke
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.filanora.eu/filanora-filatech-petg-filament-175mm-piros?keyword=petg%20piros
+    Onyx Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.filanora.eu/filanora-filatech-petg-filament-175mm-onix-fekete

@@ -1,0 +1,66 @@
+Print-Me:
+  PETG:
+    Antique Gold:
+      hex: '#AC9B78'
+      source: 3dfilamentprofiles.com
+    Green bottle:
+      hex: '#0C3B2C'
+      source: 3dfilamentprofiles.com
+  PLA HT:
+    Antique gold:
+      hex: '#AC9B78'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Bone:
+      hex: '#CDCAC2'
+      source: 3dfilamentprofiles.com
+  PLA Ecofil:
+    Pastel blue:
+      hex: '#C3D8EA'
+      source: 3dfilamentprofiles.com
+    Dark blue:
+      hex: '#165DAA'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    Gleaming yellow:
+      hex: '#C8D1CB'
+      source: 3dfilamentprofiles.com
+  PLA Marble:
+    Marble carrara:
+      hex: '#E9E5D0'
+      source: 3dfilamentprofiles.com
+  PC:
+    Blue:
+      hex: '#21A1DE'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Bamboo:
+      hex: '#897367'
+      source: 3dfilamentprofiles.com
+      link: https://print-me.pl/filamenty/smartfit-pla-natural-fibers/
+    Wood:
+      hex: '#BFA47D'
+      source: 3dfilamentprofiles.com
+      link: https://print-me.pl/sklep/produkty/hobby-design/pla/natural-fibers/smartfit-pla-wood/
+    Cork:
+      hex: '#45362B'
+      source: 3dfilamentprofiles.com
+      link: https://print-me.pl/sklep/produkty/hobby-design/pla/natural-fibers/smartfit-pla-cork/
+  ABS:
+    Black Volcano:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://print-me.pl/en/filamenty/smooth-abs/
+    White:
+      hex: '#FFFAF4'
+      source: 3dfilamentprofiles.com
+  TPU:
+    Black (20ShD):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://print-me.pl/en/filamenty/printme-flex/
+  ASA:
+    Natural Ivory:
+      hex: '#E6E0D9'
+      source: 3dfilamentprofiles.com
+      link: https://print-me.pl/en/filamenty/smooth-asa/

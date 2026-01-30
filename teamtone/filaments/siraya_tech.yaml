@@ -1,0 +1,124 @@
+Siraya Tech:
+  PAHT CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PET GF:
+    OD Green:
+      hex: '#36320C'
+      source: 3dfilamentprofiles.com
+      link: https://siraya.tech/products/siraya-tech-fibreheart-pet-gf-3dprintingfilament
+    Flat Dark Earth:
+      hex: '#745F39'
+      source: 3dfilamentprofiles.com
+      link: https://siraya.tech/products/siraya-tech-fibreheart-pet-gf-3dprintingfilament
+  PETG CF:
+    Pro HF Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    rCF08 Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Black - rCF08:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    HF Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://siraya.tech/products/peopoly-lancer-petg-cf-hf-filament-manufactured-by-siraya-tech
+  ABS GF:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://siraya.tech/products/fibreheart-abs-gf-filament
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://siraya.tech/products/fibreheart-abs-gf-filament
+    Grey:
+      hex: '#E7EAE7'
+      source: 3dfilamentprofiles.com
+      link: https://siraya.tech/products/fibreheart-abs-gf-filament
+  PPA CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ABS HT:
+    HF Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PEBA Air:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://siraya.tech/products/siraya-tech-rebound-peba-air-70a-95a-foamed-elastic-filament
+  TPU 85A:
+    Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://siraya.tech/products/flex-tpu-85a-filament?variant=41478850904173
+    Green:
+      hex: '#B6F671'
+      source: 3dfilamentprofiles.com
+      link: https://siraya.tech/pages/flex-tpu-85a-filament-user-guide
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://siraya.tech/pages/flex-tpu-85a-filament-user-guide
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://siraya.tech/products/flex-tpu-85a-filament
+  PEBA 95A:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://siraya.tech/products/fibreheart-rebound-peba-95a-black-elastic-filament
+  ASA GF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://siraya.tech/products/siraya-tech-fibreheart-asa-gf-filament
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  TPU Air:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://siraya.tech/products/flex-tpu-air-65a-82a-foaming-flexible-filament
+    Green:
+      hex: '#B2ED6F'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://siraya.tech/products/flex-tpu-air-65a-82a-foaming-flexible-filament
+  PPA GF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://sirayatech.myshopify.com/products/fibreheart-ppa-gf-filament
+  PET CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://siraya.tech/products/siraya-tech-fibreheart-pet-cf-filament
+  TPU 64D:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://siraya.tech/products/flex-tpu-64d-filament
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://siraya.tech/products/flex-tpu-64d-filament?variant=43470532509805
+  PEBA 85A:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://siraya.tech/products/fibreheart-rebound-peba-85a-black-elastic-flexible-filament

@@ -1,0 +1,93 @@
+Filament Hub:
+  PLA Matte Dual:
+    Blue / Red:
+      hex: '#5146E6,#E05447'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamenthub.com.au/products/pla-matte-dual-blue-red
+    Dark Purple / Yellow:
+      hex: '#7841C1,#FDDF39'
+      source: 3dfilamentprofiles.com
+    Dark Blue / Yellow:
+      hex: '#263CC1,#EBC514'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamenthub.com.au/products/pla-matte-dual-dark-blue-yellow
+  PLA Matte:
+    Orange:
+      hex: '#E3996C'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamenthub.com.au/products/pla-matte-orange?srsltid=AfmBOoqqtaZ5vgnibkscNeJKFFTsLMlP02MDWLU3rIIdjthvsoz6zTFn
+    Pastel Blue:
+      hex: '#79B0C8'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamenthub.com.au/products/pla-matte-pastel-blue
+    Pastel Purple:
+      hex: '#C2AACE'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamenthub.com.au/products/pla-matte-pastel-purple?srsltid=AfmBOopsNTNhGwqJysuS0eI1Ai0IlNcY-XiOe1UaIRag4lCvKWtPqy1f
+    Pastel Green:
+      hex: '#B1D2C3'
+      source: 3dfilamentprofiles.com
+    SKIN:
+      hex: '#F1CCB2'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamenthub.com.au/collections/pla-matte
+    Pastel Yellow:
+      hex: '#D7D692'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamenthub.com.au/products/pla-matte-pastel-yellow
+    Pastel Pink:
+      hex: '#DFAFBF'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamenthub.com.au/products/pla-matte-pastel-pink
+    Grey:
+      hex: '#BCBFBF'
+      source: 3dfilamentprofiles.com
+    Muted Blue:
+      hex: '#556C79'
+      source: 3dfilamentprofiles.com
+  PLA Chameleon:
+    Chameleon - Black:
+      hex: '#022640'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamenthub.com.au/products/pla-magic-purple-copy
+  PETG Pro:
+    Dark Blue:
+      hex: '#00357B'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamenthub.com.au/products/petg-dark-blue
+    Orange:
+      hex: '#BD531B'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamenthub.com.au/products/petg-orange
+  PLA Silk Magic:
+    Tri - Dark Red / Blue / Green:
+      hex: '#8B0000,#0000FF,#00FF00'
+      source: 3dfilamentprofiles.com
+    Tri - Blue / Red / Green:
+      hex: '#0000FF,#FF0000,#00FF00'
+      source: 3dfilamentprofiles.com
+    Tri - Gold / Copper / Purple:
+      hex: '#FFD700,#B87333,#800080'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamenthub.com.au/products/pla-tri-gold-copper-purple
+  PLA High Speed:
+    Blue:
+      hex: '#63A2CD'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Silk:
+    Copper:
+      hex: '#C76F36'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamenthub.com.au/products/pla-silk-copper
+  PLA+/Pro Pro:
+    White:
+      hex: '#E1E4E4'
+      source: 3dfilamentprofiles.com
+    Skin:
+      hex: '#F1CCB2'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamenthub.com.au/products/pla-pro-skin
+  PLA Metal:
+    Brass:
+      hex: '#B5A642'
+      source: 3dfilamentprofiles.com

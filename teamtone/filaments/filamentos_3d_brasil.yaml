@@ -1,0 +1,47 @@
+Filamentos 3D Brasil:
+  PETG Basic:
+    Cinza:
+      hex: '#898989'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentos3dbrasil.com.br/produtos/filamento-petg-cinza/
+    Natural (Transparente):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentos3dbrasil.com.br/produtos/filamento-petg-natural/
+    Preto:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentos3dbrasil.com.br/produtos/filamento-petg-preto/
+  PLA High Speed:
+    Transparente:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentos3dbrasil.com.br/produtos/filamento-pla-premium-transparente/
+    Marrom:
+      hex: '#4B271B'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentos3dbrasil.com.br/produtos/filamento-pla-premium-cobre/
+    Preto:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentos3dbrasil.com.br/produtos/filamento-pla-premium-preto/
+    Branco:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentos3dbrasil.com.br/produtos/filamento-pla-premium-branco/
+    Lilás:
+      hex: '#B680F6'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentos3dbrasil.com.br/produtos/filamento-pla-premium-lilas/
+    Verde Água:
+      hex: '#5EEEF6'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentos3dbrasil.com.br/produtos/filamento-pla-premium-verde-agua/
+    Rosa Claro:
+      hex: '#FD9BFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentos3dbrasil.com.br/produtos/filamento-pla-premium-rosa-claro/
+    Azul Bebê:
+      hex: '#6ABCF6'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentos3dbrasil.com.br/produtos/filamento-pla-premium-azul-bebe/

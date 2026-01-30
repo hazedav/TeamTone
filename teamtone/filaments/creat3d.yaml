@@ -1,0 +1,19 @@
+CREAT3D:
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Purple:
+      hex: '#651C8C'
+      source: 3dfilamentprofiles.com
+    Light purple:
+      hex: '#8C6BC2'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Sky Blue:
+      hex: '#5699A7'
+      source: 3dfilamentprofiles.com
+    Coffee:
+      hex: '#695140'
+      source: 3dfilamentprofiles.com

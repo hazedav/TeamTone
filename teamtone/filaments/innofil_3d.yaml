@@ -1,0 +1,13 @@
+Innofil 3D:
+  PET Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PET Special:
+    InnoPET Blue - Food Safe:
+      hex: '#003385'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Ice Blue:
+      hex: '#5B9DCD'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,14 @@
+Stronghold3D:
+  PETG Translucent:
+    Transparent Blue:
+      hex: '#081191'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dfilament.se/
+    Transparent:
+      hex: '#D6EEFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dfilament.se/
+    Transparent red:
+      hex: '#5E0303'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dfilament.se

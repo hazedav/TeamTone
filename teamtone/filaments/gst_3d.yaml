@@ -1,0 +1,270 @@
+GST 3D:
+  PLA+/Pro Fluorescent:
+    Fluor green:
+      hex: '#2CFF05'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-special-fluorescent-orange?variant=52215576002893
+    Fluor Orange:
+      hex: '#FF7300'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-special-fluorescent-orange?variant=52215575937357
+    Fluor yellow:
+      hex: '#EEFD26'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-special-fluorescent-orange?variant=52215576002893
+  PLA+/Pro Matte:
+    Cream:
+      hex: '#E7F5A3'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-pink-panter?variant=52216347197773
+    Rosa pastel:
+      hex: '#D08BDA'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-pink-panter?variant=52216347197773
+    Violeta pastel:
+      hex: '#B092C3'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/es/products/pla-pink-panter
+  PETG CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/product/carbon-fiber-1kg/
+  PLA+/Pro Basic:
+    Light Blue:
+      hex: '#007BD1'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-pink-panter?variant=52216347197773
+    Light Brown:
+      hex: '#CE864B'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/es/products/pla-pink-panter?variant=52216347394381
+    Blanco:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-pink-panter?variant=52249460408653
+    Rojo Glitter:
+      hex: '#D41A28'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/product-category/pla-filament-en/
+    Nafta super:
+      hex: '#50A2DC'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-pink-panter?variant=52216347197773
+    Rojo:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/product-category/pla-filament-en/
+    Verde Manzana:
+      hex: '#72F769'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/es/products/pla-pink-panter
+    Bronze:
+      hex: '#CD7F32'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-pink-panter?variant=52216346607949
+    Yellow:
+      hex: '#FBFB00'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/product/yellow-1kg/
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/product/blue-1kg/
+    Olive Green:
+      hex: '#4B573E'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-military-army-green?variant=52219135000909
+    Oro:
+      hex: '#E5A65E'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-pink-panter?variant=52216347197773
+    Ice Blue:
+      hex: '#D6EAF0'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-pink-panter?variant=52356419387725
+    Naranja:
+      hex: '#FF6A13'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-pink-panter?variant=52216347197773
+    Verde Pastel:
+      hex: '#78E8B4'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-pink-panter?variant=52216347197773
+    Pink Panter:
+      hex: '#FF0090'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-pink-panter?variant=52216347132237
+    AMARILLO FLUORESCENTE:
+      hex: '#EEFD26'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-pink-panter?variant=52216347197773
+    Rosa:
+      hex: '#E85ED6'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-pink-panter?variant=52216347197773
+    Marble:
+      hex: '#D2D7DA'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-special-fluorescent-orange?variant=52215575609677
+    Fucsia:
+      hex: '#A61750'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/product/fuchsia-1kg/
+    Gold:
+      hex: '#554616'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-pink-panter?variant=52216346575181
+    Army Green:
+      hex: '#155C56'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-pink-panter?variant=52216347197773
+    Silver:
+      hex: '#A2A6A5'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-pink-panter?variant=52216347197773
+    Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-pink-panter?variant=52249460408653
+    Brown:
+      hex: '#61443E'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-pink-panter?variant=52216347197773
+    Violeta:
+      hex: '#8B3CEC'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-pink-panter?variant=52216347197773
+    Negro:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-pink-panter?variant=52216347197773
+    Apple Green:
+      hex: '#66FF00'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-pink-panter?variant=52216346804557
+    Light Pink:
+      hex: '#FFE6EE'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-pink-panter?variant=52216347001165
+    Iridescent Violet:
+      hex: '#966FD6'
+      source: 3dfilamentprofiles.com
+      link: https://www.mechatronik24.com/PLA--3D-DRUCK-FILAMENT---1-75-mm---1-kg---IRIDESCENT-VIOLET-1039.html?language=de
+    Celeste Pastel:
+      hex: '#78BFF2'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-pink-panter?variant=52216347197773
+  PLA Matte:
+    Green:
+      hex: '#6EF7A9'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Silk:
+    Aluminio Silk:
+      hex: '#828282'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF2600'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/product/3d-printer-filament-silk-red-1-75mm-1kg-gst3d/
+    Perla:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Oro:
+      hex: '#F5D06F'
+      source: 3dfilamentprofiles.com
+    Rojo:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Blanco/White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.com.ar/
+    Rose Gold:
+      hex: '#FDAC9A'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/product/3d-printer-filament-gold-rose-1-75mm-gst3d-1kg/
+    Purple:
+      hex: '#BA68C8'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-silk-blue?variant=52216007262541
+    Magenta:
+      hex: '#FF00FF'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-silk-blue?variant=52216007328077
+    azul:
+      hex: '#0726A2'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-silk-blue?variant=52216007131469
+    SILK Gold:
+      hex: '#F09E00'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-silk-blue?variant=52216006607181
+  PLA+/Pro Color Change (UV):
+    Green:
+      hex: '#5FAD47'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/product/black-1kg/
+    Ivory White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/product/petg-white-1kg-gst3d/
+  PETG Translucent:
+    Crystal/Clear:
+      hex: '#EBEBEB'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/product/crystal-clear-1kg-2/
+  TPU Basic:
+    Silver:
+      hex: '#AAAAAA'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/product/flexible-tpu-filament-3d-printer/
+    Red:
+      hex: '#FF2600'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/product/red-1kg-2/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/product/black-1kg-4/
+  ASA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/asa-1kg-blanco-y-negro?variant=52102975193421
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/asa-1kg-blanco-y-negro?variant=52102975127885
+  PLA+/Pro Wood:
+    Oak Wood:
+      hex: '#D8B589'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/
+  PLA+/Pro Sparkle:
+    Bright Silver:
+      hex: '#D9DADB'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-space-10?variant=52158075633997
+    Bright Red:
+      hex: '#C12E1F'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-space-10?variant=52158075830605
+    Bright Black:
+      hex: '#222024'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-space-10?variant=52158075633997
+  PLA Basic:
+    Mustard:
+      hex: '#8F8300'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/pla-special-fluorescent-orange?variant=52215575544141
+  ABS Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://gst3d.eu/products/abs?variant=52165859901773

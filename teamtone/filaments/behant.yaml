@@ -1,0 +1,51 @@
+Behant:
+  PETG Translucent:
+    Clear Blue:
+      hex: '#0000E8'
+      source: 3dfilamentprofiles.com
+    Clear Yellow:
+      hex: '#FFFF62'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF6A00'
+      source: 3dfilamentprofiles.com
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Purple:
+      hex: '#874EFE'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0042AA'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#669C35'
+      source: 3dfilamentprofiles.com
+    Beige / Off-white:
+      hex: '#FFFBED'
+      source: 3dfilamentprofiles.com
+  PLA Silk Rainbow:
+    Candy series:
+      hex: '#A020F0,#00FF00,#FFFF00,#FF0084'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Silver:
+      hex: '#B4B4B4'
+      source: 3dfilamentprofiles.com
+  PLA Silk Magic:
+    Red Green Blue:
+      hex: '#E22400'
+      source: 3dfilamentprofiles.com
+    Red Yellow Blue:
+      hex: '#E22400'
+      source: 3dfilamentprofiles.com
+    Blue Greem Orange:
+      hex: '#0056D6'
+      source: 3dfilamentprofiles.com
+    Gold Silver Copper:
+      hex: '#FDC700'
+      source: 3dfilamentprofiles.com

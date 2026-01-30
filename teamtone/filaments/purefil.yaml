@@ -1,0 +1,54 @@
+PureFil:
+  PLA Basic:
+    Gris clair / Lichtgrau:
+      hex: '#D7D7D7'
+      source: 3dfilamentprofiles.com
+    Gris Fer Eisengrau:
+      hex: '#434B4D'
+      source: 3dfilamentprofiles.com
+    Gris perle Perlhegrau:
+      hex: '#9C9C9C'
+      source: 3dfilamentprofiles.com
+    Gris beton concrete:
+      hex: '#686C5E'
+      source: 3dfilamentprofiles.com
+    gris anthracite:
+      hex: '#293133'
+      source: 3dfilamentprofiles.com
+    BEIGE:
+      hex: '#C2B078'
+      source: 3dfilamentprofiles.com
+    Anthracite Grey:
+      hex: '#111212'
+      source: 3dfilamentprofiles.com
+      link: https://www.purefil.ch/purefil-pla-filament_180_1849
+    leuchtorange:
+      hex: '#FF4D06'
+      source: 3dfilamentprofiles.com
+      link: https://www.purefil.ch/purefil-pla-filament_183_7061/
+    Sky Blue:
+      hex: '#007CAF'
+      source: 3dfilamentprofiles.com
+      link: https://www.purefil.ch/purefil-pla-filament_180_1841
+    Transparent:
+      hex: '#D1D1D1'
+      source: 3dfilamentprofiles.com
+      link: https://www.purefil.ch/en/purefil-abs-filament_180_1861
+    Farbwechsel:
+      hex: '#7F7F7F'
+      source: 3dfilamentprofiles.com
+      link: https://www.purefil.ch/filament/pla-filament/purefil-pla-filament_197_2332
+  TPU 95A:
+    Jet Black:
+      hex: '#0E0E10'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Jet black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.purefil.ch/filament/petg-filament/purefil-petg-filament_750_8958
+  PLA Wood:
+    Wood:
+      hex: '#E4BD90'
+      source: 3dfilamentprofiles.com
+      link: https://www.purefil.ch/purefil-holzfilament_156_1223

@@ -1,0 +1,71 @@
+SliceWorx:
+  PLA Matte:
+    Robitobi Green:
+      hex: '#C0E869'
+      source: 3dfilamentprofiles.com
+      link: https://www.sliceworx.com/products/pla-matte-white
+    WHITE:
+      hex: '#F7F7F7'
+      source: 3dfilamentprofiles.com
+      link: https://www.sliceworx.com/products/pla-matte-white
+    Old Glory Blue:
+      hex: '#002040'
+      source: 3dfilamentprofiles.com
+      link: https://www.sliceworx.com/products/
+    Pearly White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.sliceworx.com/products/
+    OLD GLORY RED:
+      hex: '#E73651'
+      source: 3dfilamentprofiles.com
+  PLA Matte Rainbow:
+    RUBICON Blue-Pink-Gold:
+      hex: '#242212'
+      source: 3dfilamentprofiles.com
+      link: https://www.sliceworx.com/collections/pla
+  PLA Basic:
+    Chocolate Brown:
+      hex: '#822813'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Matte Tri-Color:
+    flaming forest:
+      hex: '#008000,#FF0000,#000000'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Multicolor:
+    Aquazee:
+      hex: '#8000FF,#0000FF,#FF80C0'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    lithopane white:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Matte:
+    ocean cyan:
+      hex: '#00B0B0'
+      source: 3dfilamentprofiles.com
+  PLA Matte Tri-Color:
+    Rose Red-Yellow-Blue:
+      hex: '#5CC3E6,#C3C097,#CE4646'
+      source: 3dfilamentprofiles.com
+  PETG Pro:
+    Dark Grey:
+      hex: '#202020'
+      source: 3dfilamentprofiles.com
+    Robitobi Green:
+      hex: '#CBC805'
+      source: 3dfilamentprofiles.com
+      link: https://www.sliceworx.com/products/petg-robitobi-green?variant=46405987106973
+  PLA High Speed:
+    HS Prototype Series PLA GREY:
+      hex: '#A5A9AC'
+      source: 3dfilamentprofiles.com
+  PLA Pro:
+    Robitobi Green:
+      hex: '#CBC805'
+      source: 3dfilamentprofiles.com
+      link: https://www.sliceworx.com/products/ryobi-green?variant=42767126986909
+  PLA+/Pro Gradient:
+    Fall foliage:
+      hex: '#FF0000,#FF8040'
+      source: 3dfilamentprofiles.com

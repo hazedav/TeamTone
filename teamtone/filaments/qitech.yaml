@@ -1,0 +1,15 @@
+QiTech:
+  PA6 GF:
+    Warmweiß:
+      hex: '#FFEEDB'
+      source: 3dfilamentprofiles.com
+      link: https://www.qitech.de/filament
+  PETG GF:
+    Weiß:
+      hex: '#E8EBED'
+      source: 3dfilamentprofiles.com
+  PETG Recycled:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.qitech.de/filament#bestellen

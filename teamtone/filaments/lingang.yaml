@@ -1,0 +1,26 @@
+Lingang:
+  PETG Basic:
+    Imitation Wood:
+      hex: '#D3C0AB'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#E52A2B'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#DEDEDE'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#378DD4'
+      source: 3dfilamentprofiles.com
+    Dark Blue:
+      hex: '#24275B'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#E03D0E'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#D8C342'
+      source: 3dfilamentprofiles.com
+    Skin Colour:
+      hex: '#B39080'
+      source: 3dfilamentprofiles.com

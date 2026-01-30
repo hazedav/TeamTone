@@ -1,0 +1,15 @@
+Fill 3D:
+  PLA Basic:
+    Apple Green:
+      hex: '#76CD26'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dfilamentshop.nl/pla-filament/fill3d-pla-apple-green-05-kg?gQT=1
+    Brown:
+      hex: '#7A1315'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dfilamentshop.nl/pla-filament/fill3d-pla-brown-05-kg
+  PLA Silk Magic:
+    Raspberry/Black:
+      hex: '#67627F,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dfilamentshop.nl/silk-satin-filament/fill3d-magic-silk-raspberryblack

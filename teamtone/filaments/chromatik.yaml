@@ -1,0 +1,23 @@
+Chromatik:
+  PLA Basic:
+    Blanc:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Bleu Azur:
+      hex: '#3A88FE'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#D95000'
+      source: 3dfilamentprofiles.com
+    Prune:
+      hex: '#450E59'
+      source: 3dfilamentprofiles.com
+    Rouge Pompier:
+      hex: '#831100'
+      source: 3dfilamentprofiles.com
+    Jaune Citron:
+      hex: '#FFFC41'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#2D2926'
+      source: 3dfilamentprofiles.com

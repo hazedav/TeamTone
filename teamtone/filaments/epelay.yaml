@@ -1,0 +1,24 @@
+Epelay:
+  PLA+/Pro Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#5596E2'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#F9F765'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#9D0CA7'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#E1093F'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Chameleon:
+    Burnt Titanium:
+      hex: '#313B47'
+      source: 3dfilamentprofiles.com

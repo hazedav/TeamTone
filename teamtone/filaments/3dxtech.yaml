@@ -1,0 +1,101 @@
+3DXTECH:
+  PLA Basic:
+    Olive:
+      hex: '#012810'
+      source: 3dfilamentprofiles.com
+    Fluorescent Pink:
+      hex: '#FB46E3'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FAFAFA'
+      source: 3dfilamentprofiles.com
+  ABS CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Economy:
+    Yellow:
+      hex: '#FEFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dxtech.com/products/economy-pla?variant=43853083213877
+    Middle Blue:
+      hex: '#1C71D8'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dxtech.com/products/economy-pla?variant=52122515112299
+    Green Fluorescent:
+      hex: '#04FF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dxtech.com/products/economy-pla?variant=43853082722357
+  PETG Basic:
+    Yellow Edge Glow:
+      hex: '#D9FF52'
+      source: 3dfilamentprofiles.com
+  PP CF:
+    Black:
+      hex: '#191919'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dxtech.com/products/carbonx-pp-cf-1
+  PC CF:
+    EZPC+CF:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dxtech.com/products/carbonx-ezpc-cf-1
+  PETG Glow:
+    UV Glow Sparkle Pink:
+      hex: '#E63B7A'
+      source: 3dfilamentprofiles.com
+  PA6 Blend:
+    Black - Wear Resistant:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dxtech.com/products/wearx-1
+  PP GF:
+    Black:
+      hex: '#191919'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dxtech.com/products/fibrex-pp-gf30-1
+  ASA Basic:
+    Black:
+      hex: '#030303'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#6F7575'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dxtech.com/products/3dxmax-r-asa?variant=43809008943157
+  PA6 GF:
+    Black:
+      hex: '#0D0D0D'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dxtech.com/products/fibrex-nylon-6-gf-1
+    Gray:
+      hex: '#5C5C5C'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dxtech.com/products/fibrex-nylon-6-gf-1
+  ASA CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dxtech.com/products/carbonx-asa-cf-1
+  PLA+/Pro CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dxtech.com/products/carbonx-pla-cf-1
+  PLA Fluorescent:
+    Teal:
+      hex: '#0EB6D8'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Transparent Xenomorph:
+      hex: '#00F531'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dxtech.com/products/max-g-petg-1
+  PETG CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dxtech.com/products/carbonx-petg-cf-1
+  PC Easy:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

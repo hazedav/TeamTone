@@ -1,0 +1,8 @@
+STING:
+  PLA+/Pro Basic:
+    WHITE:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    BLACK:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

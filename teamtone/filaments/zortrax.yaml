@@ -1,0 +1,29 @@
+Zortrax:
+  ABS Basic:
+    Grau:
+      hex: '#6E7072'
+      source: 3dfilamentprofiles.com
+      link: https://zortrax.com/filaments/z-abs/
+    Schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://zortrax.com/filaments/z-abs/
+    Elfenbein:
+      hex: '#E5EBF1'
+      source: 3dfilamentprofiles.com
+      link: https://zortrax.com/filaments/z-abs/
+  HIPS Support:
+    Z-support:
+      hex: '#E4E4E4,#000000,#5C5C5C'
+      source: 3dfilamentprofiles.com
+      link: https://zortrax.com/filaments/z-hips/
+  PETG Basic:
+    Schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://zortrax.com/filaments/z-petg/
+  PETG:
+    Z-Glasss:
+      hex: '#FFFFFF,#000000,#707070'
+      source: 3dfilamentprofiles.com
+      link: https://zortrax.com/filaments/z-petg/

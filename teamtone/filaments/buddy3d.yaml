@@ -1,0 +1,54 @@
+Buddy3D:
+  PLA Silk:
+    Red:
+      hex: '#B51A00'
+      source: 3dfilamentprofiles.com
+      link: https://www.prusa3d.com/product/buddy3d-pla-silk-red-1kg/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.prusa3d.com/product/buddy3d-pla-silk-white-1kg/
+    Bronze:
+      hex: '#A57554'
+      source: 3dfilamentprofiles.com
+      link: https://www.prusa3d.com/cs/produkt/buddy3d-pla-silk-bronze-1kg/
+    Copper:
+      hex: '#9F543E'
+      source: 3dfilamentprofiles.com
+      link: https://www.prusa3d.com/cs/produkt/buddy3d-pla-silk-copper-1kg/
+    Rose:
+      hex: '#C253A8'
+      source: 3dfilamentprofiles.com
+      link: https://www.prusa3d.com/product/buddy3d-pla-silk-rose-1kg/
+  PLA StoneFil:
+    Sandstone:
+      hex: '#D1BF8F'
+      source: 3dfilamentprofiles.com
+      link: https://www.prusa3d.com/product/buddy3d-pla-stone-sandstone-1kg/
+  PLA Basic:
+    Glitter Black/Gold:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.prusa3d.com/de/produkt/buddy3d-pla-glitter-black-gold-1kg/
+    Green:
+      hex: '#4DA558'
+      source: 3dfilamentprofiles.com
+      link: https://www.prusa3d.com/product/buddy3d-pla-green-1kg/
+    Grey:
+      hex: '#9FA1A3'
+      source: 3dfilamentprofiles.com
+      link: https://www.prusa3d.com/product/buddy3d-pla-green-1kg/
+  PLA Marble:
+    Stone Marble:
+      hex: '#AAAAAA'
+      source: 3dfilamentprofiles.com
+      link: https://www.prusa3d.com/product/buddy3d-pla-stone-marble-grey-1kg/
+  PETG Basic:
+    Blue:
+      hex: '#009EF8'
+      source: 3dfilamentprofiles.com
+      link: https://www.prusa3d.com/product/buddy3d-petg-blue-1kg/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.prusa3d.com/produkt/buddy3d-petg-white-1kg/

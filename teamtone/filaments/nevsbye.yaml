@@ -1,0 +1,111 @@
+NevsBye:
+  PLA Matte:
+    Brown:
+      hex: '#8B4513'
+      source: 3dfilamentprofiles.com
+    Beige:
+      hex: '#FAE7DA'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#80A4D0'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#C6A5C6'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#68FFBD'
+      source: 3dfilamentprofiles.com
+      link: https://www.nevsbye3d.com/products/pla-matte-3d-printing-filament-1-75mm-1kg?variant=50057558851869
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Macaron:
+      hex: '#A9B8D8,#B6B7B9,#EED1C1'
+      source: 3dfilamentprofiles.com
+      link: https://www.nevsbye3d.com/products/pla-matte-3d-printing-filament-1-75mm-1kg
+    Pink:
+      hex: '#DC8ADD'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#F9F06B'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Brown:
+      hex: '#2F1414'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#FF69B4'
+      source: 3dfilamentprofiles.com
+    bromn:
+      hex: '#6F0000'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Black:
+      hex: '#2C2D2F'
+      source: 3dfilamentprofiles.com
+      link: https://www.nevsbye3d.com/de/products/pla-silk-3d-printing-filament-1-75mm-1kg
+    Bronze:
+      hex: '#CD7F32'
+      source: 3dfilamentprofiles.com
+      link: https://www.nevsbye3d.com/products/pla-silk-3d-printing-filament-1-75mm-1kg?variant=50060768084253
+    Blue:
+      hex: '#49BAFB'
+      source: 3dfilamentprofiles.com
+      link: https://www.nevsbye3d.com/de/products/pla-silk-3d-printing-filament-1-75mm-1kg
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.nevsbye3d.com/de/products/pla-silk-3d-printing-filament-1-75mm-1kg
+    Holly Green:
+      hex: '#5B6D51'
+      source: 3dfilamentprofiles.com
+      link: https://www.nevsbye3d.com/de/products/pla-silk-3d-printing-filament-1-75mm-1kg
+  TPU 95A:
+    Grey:
+      hex: '#9C9C9C'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0037DB'
+      source: 3dfilamentprofiles.com
+    Transparent Blue:
+      hex: '#1854DE'
+      source: 3dfilamentprofiles.com
+      link: https://www.nevsbye3d.com/products/tpu-95a-3d-filament-1-75mm-1kg?variant=50017490338077
+  PETG Basic:
+    Orange:
+      hex: '#CA7344'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#DAC32F'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#58A79A'
+      source: 3dfilamentprofiles.com
+    Starry Blue:
+      hex: '#2D639A'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFDD00'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    RedBlueGreen:
+      hex: '#2915C1,#37EA34,#EC273B'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Blue Purple:
+      hex: '#008BDA,#8671CB'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Black:
+      hex: '#00050A'
+      source: 3dfilamentprofiles.com
+  PETG:
+    Transparent:
+      hex: '#D6D6D6'
+      source: 3dfilamentprofiles.com

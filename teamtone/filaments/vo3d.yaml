@@ -1,0 +1,11 @@
+VO3D:
+  PLA Tough:
+    Bright White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Scarlet Red:
+      hex: '#B63341'
+      source: 3dfilamentprofiles.com
+    Cobalt Blue:
+      hex: '#11039A'
+      source: 3dfilamentprofiles.com

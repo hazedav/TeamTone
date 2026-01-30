@@ -1,0 +1,15 @@
+TERRAFILUM:
+  PLA Blend:
+    PLA-TPU Blend Blue:
+      hex: '#2747C7'
+      source: 3dfilamentprofiles.com
+    PLA-TPE Blend Red:
+      hex: '#B34445'
+      source: 3dfilamentprofiles.com
+    PLA-PP Blend - Green:
+      hex: '#03B300'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com

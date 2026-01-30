@@ -1,0 +1,135 @@
+yxpolyer:
+  ABS ESD:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro:
+    Cool Gray - Food Safe:
+      hex: '#B7B7B7'
+      source: 3dfilamentprofiles.com
+    Gold - Food Safe:
+      hex: '#CA944F'
+      source: 3dfilamentprofiles.com
+    Orange - Food Safe:
+      hex: '#FF8806'
+      source: 3dfilamentprofiles.com
+    Brick Red - Food Safe:
+      hex: '#953738'
+      source: 3dfilamentprofiles.com
+    Skin - Food Safe:
+      hex: '#F2D3BE'
+      source: 3dfilamentprofiles.com
+    Flex White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Pure White - Food Safe:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF8000'
+      source: 3dfilamentprofiles.com
+    Green - Food Safe:
+      hex: '#16A84D'
+      source: 3dfilamentprofiles.com
+    Yellow - Food Safe:
+      hex: '#F0E936'
+      source: 3dfilamentprofiles.com
+    Azure Blue:
+      hex: '#007DFA'
+      source: 3dfilamentprofiles.com
+    Pastel Pink - Food Safe:
+      hex: '#E7D2FF'
+      source: 3dfilamentprofiles.com
+    Silver - Food Safe:
+      hex: '#C2C2C2'
+      source: 3dfilamentprofiles.com
+    Pastel Green-Food Safe:
+      hex: '#96DD99'
+      source: 3dfilamentprofiles.com
+    Brown - Food Safe:
+      hex: '#865743'
+      source: 3dfilamentprofiles.com
+    Raven Black - Food Safe:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  HIPS Support:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Breakaway White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  ABS Translucent:
+    Translucent Orange:
+      hex: '#FF8000'
+      source: 3dfilamentprofiles.com
+    Transparent Green:
+      hex: '#08AA29'
+      source: 3dfilamentprofiles.com
+    Transparent Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+  PA6 Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFFC41'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#009EF1'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Grey Beige:
+      hex: '#9D8A75'
+      source: 3dfilamentprofiles.com
+  ABS Support:
+    Natural:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PA (Nylon) CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Flexible:
+    Brown, Food-Grade Soft PLA:
+      hex: '#AC724D'
+      source: 3dfilamentprofiles.com
+    Mint Green, Food Safe Soft:
+      hex: '#9CDAD1'
+      source: 3dfilamentprofiles.com
+    Pink, Food-Grade Soft PLA:
+      hex: '#F794BC'
+      source: 3dfilamentprofiles.com
+  ABS+ Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Black and Gold:
+      hex: '#FAF200,#000000'
+      source: 3dfilamentprofiles.com
+  PC CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Flexible:
+    Orange, Food-Grade Soft PLA:
+      hex: '#FB9609'
+      source: 3dfilamentprofiles.com

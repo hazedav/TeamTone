@@ -1,0 +1,12 @@
+Patona:
+  ABS Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Vi0lette:
+      hex: '#BE38F3'
+      source: 3dfilamentprofiles.com

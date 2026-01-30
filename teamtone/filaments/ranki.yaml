@@ -1,0 +1,29 @@
+Ranki:
+  PETG Translucent:
+    Transparent Orange:
+      hex: '#F29C07'
+      source: 3dfilamentprofiles.com
+    Transparent Blue:
+      hex: '#2735FC'
+      source: 3dfilamentprofiles.com
+    Transparent Yellow:
+      hex: '#F5F844'
+      source: 3dfilamentprofiles.com
+    Transparent Red:
+      hex: '#C20013'
+      source: 3dfilamentprofiles.com
+    Transparent Green:
+      hex: '#498816'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Coffee:
+      hex: '#B57A26'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Natural:
+      hex: '#FFF0E5'
+      source: 3dfilamentprofiles.com
+  TPU 98A:
+    Skin:
+      hex: '#FFE7DA'
+      source: 3dfilamentprofiles.com

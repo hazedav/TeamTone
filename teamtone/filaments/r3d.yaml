@@ -1,0 +1,481 @@
+R3D:
+  PETG Matte:
+    Light Gray:
+      hex: '#969392'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Zinc Yellow:
+      hex: '#E1C739'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Fresh Green:
+      hex: '#91B87E'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Yellow Orange:
+      hex: '#DF7E4B'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Snow Waxy Skin:
+      hex: '#D8BDAA'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Military Green:
+      hex: '#44543A'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Haze Blue:
+      hex: '#7F939F'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Dark Navy Blue:
+      hex: '#00204D'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Brown:
+      hex: '#7A493E'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Olive Green:
+      hex: '#355627'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Oatmeal White:
+      hex: '#B2A19C'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Milky Apricot Yellow:
+      hex: '#DCBB93'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Red Wine:
+      hex: '#5B2E2F'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Bronze Gold:
+      hex: '#9B693C'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Khaki:
+      hex: '#AC946A'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Warm Gray:
+      hex: '#B7ADA5'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Light Purple:
+      hex: '#D3B7D7'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Light Sky Blue:
+      hex: '#D1DDEE'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Glacier Blue:
+      hex: '#AFE3EB'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Apricot Pollen:
+      hex: '#F8D7E4'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Chinese Red:
+      hex: '#E53C34'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    White Green:
+      hex: '#CDECE8'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Yellow:
+      hex: '#F8EF45'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Gun Gray:
+      hex: '#383F41'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Soft Skin:
+      hex: '#E5D2BF'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Sky Blue:
+      hex: '#5DAAD8'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+  PLA Silk:
+    Green:
+      hex: '#00B200'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Silk Silver:
+      hex: '#D6D6D6'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/products/pla-silk?variant=46511552954619
+    Gold:
+      hex: '#DA9100'
+      source: 3dfilamentprofiles.com
+      link: https://r3d-europe.com/products/r3d-pla-high-speed-or-soie-silk-gold-1-75-mm-1-kg-refill
+    Silk Bronze:
+      hex: '#7BC71F'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Silk Red:
+      hex: '#F20006'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Silk Blue:
+      hex: '#00C7FC'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/
+    Rainbow Two:
+      hex: '#6903A0'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.com/r3d/pla-silk-rainbow-two
+  PETG Basic:
+    中国红/Chinese Red:
+      hex: '#BE3130'
+      source: 3dfilamentprofiles.com
+      link: https://r3d.en.alibaba.com/productgrouplist-912480744/PETG.html?spm=a2700.shop_index.88.34.1b6c7d5f07lAjz
+    粉紫色/Pastel Violet:
+      hex: '#EE82EE'
+      source: 3dfilamentprofiles.com
+      link: https://r3d.en.alibaba.com/productgrouplist-912480744/PETG.html?spm=a2700.shop_index.88.34.1b6c7d5f07lAjz
+    薄荷绿/Mint Green:
+      hex: '#6ED5C4'
+      source: 3dfilamentprofiles.com
+      link: https://r3d.en.alibaba.com/productgrouplist-912480744/PETG.html?spm=a2700.shop_index.88.34.1b6c7d5f07lAjz
+    橘橙色/Orange:
+      hex: '#FF7427'
+      source: 3dfilamentprofiles.com
+      link: https://r3d.en.alibaba.com/productgrouplist-912480744/PETG.html?spm=a2700.shop_index.88.34.1b6c7d5f07lAjz
+    Iris:
+      hex: '#4D00FF'
+      source: 3dfilamentprofiles.com
+      link: https://r3d.en.alibaba.com/productgrouplist-912480744/PETG.html?spm=a2700.shop_index.88.34.1b6c7d5f07lAjz
+    Silver:
+      hex: '#666666'
+      source: 3dfilamentprofiles.com
+      link: https://r3d.en.alibaba.com/productgrouplist-912480744/PETG.html?spm=a2700.shop_index.88.34.1b6c7d5f07lAjz
+    灰色/Gray:
+      hex: '#E7EAF2'
+      source: 3dfilamentprofiles.com
+      link: https://r3d.en.alibaba.com/productgrouplist-912480744/PETG.html?spm=a2700.shop_index.88.34.1b6c7d5f07lAjz
+    粉色/Pink:
+      hex: '#CA71BB'
+      source: 3dfilamentprofiles.com
+      link: https://r3d.en.alibaba.com/productgrouplist-912480744/PETG.html?spm=a2700.shop_index.88.34.1b6c7d5f07lAjz
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://r3d.en.alibaba.com/productgrouplist-912480744/PETG.html?spm=a2700.shop_index.88.34.1b6c7d5f07lAjz
+    Fish Belly White:
+      hex: '#FBFDFB'
+      source: 3dfilamentprofiles.com
+      link: https://r3dbg.world.tmall.com/shop/view_shop.htm
+    DarkBlue:
+      hex: '#00008B'
+      source: 3dfilamentprofiles.com
+      link: https://r3d.en.alibaba.com/productgrouplist-912480744/PETG.html?spm=a2700.shop_index.88.34.1b6c7d5f07lAjz
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://r3d.en.alibaba.com/productgrouplist-912480744/PETG.html?spm=a2700.shop_index.88.34.1b6c7d5f07lAjz
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://r3d.en.alibaba.com/productgrouplist-912480744/PETG.html?spm=a2700.shop_index.88.34.1b6c7d5f07lAjz
+    Tangerine:
+      hex: '#F28500'
+      source: 3dfilamentprofiles.com
+      link: https://r3d.en.alibaba.com/productgrouplist-912480744/PETG.html?spm=a2700.shop_index.88.34.1b6c7d5f07lAjz
+    Purple:
+      hex: '#800080'
+      source: 3dfilamentprofiles.com
+      link: https://r3d.en.alibaba.com/productgrouplist-912480744/PETG.html?spm=a2700.shop_index.88.34.1b6c7d5f07lAjz
+    Coffee Brown:
+      hex: '#4E2C2B'
+      source: 3dfilamentprofiles.com
+      link: https://r3d.en.alibaba.com/productgrouplist-912480744/PETG.html?spm=a2700.shop_index.88.34.1b6c7d5f07lAjz
+    Skin:
+      hex: '#FFDBAC'
+      source: 3dfilamentprofiles.com
+      link: https://r3d.en.alibaba.com/productgrouplist-912480744/PETG.html?spm=a2700.shop_index.88.34.1b6c7d5f07lAjz
+    Snow White Skin:
+      hex: '#FFF1E6'
+      source: 3dfilamentprofiles.com
+      link: https://r3d.en.alibaba.com/productgrouplist-912480744/PETG.html?spm=a2700.shop_index.88.34.1b6c7d5f07lAjz
+    Bambu Green:
+      hex: '#7BB661'
+      source: 3dfilamentprofiles.com
+      link: https://r3d.en.alibaba.com/productgrouplist-912480744/PETG.html?spm=a2700.shop_index.88.34.1b6c7d5f07lAjz
+    Light Blue:
+      hex: '#ADD8E6'
+      source: 3dfilamentprofiles.com
+      link: https://r3d.en.alibaba.com/productgrouplist-912480744/PETG.html?spm=a2700.shop_index.88.34.1b6c7d5f07lAjz
+    Light Purple:
+      hex: '#D8BFD8'
+      source: 3dfilamentprofiles.com
+      link: https://r3d.en.alibaba.com/productgrouplist-912480744/PETG.html?spm=a2700.shop_index.88.34.1b6c7d5f07lAjz
+    Grey:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://r3d.en.alibaba.com/productgrouplist-912480744/PETG.html?spm=a2700.shop_index.88.34.1b6c7d5f07lAjz
+    Pink:
+      hex: '#CA71BB'
+      source: 3dfilamentprofiles.com
+      link: https://r3d.en.alibaba.com/productgrouplist-912480744/PETG.html?spm=a2700.shop_index.88.34.1b6c7d5f07lAjz
+    China Red:
+      hex: '#BE3130'
+      source: 3dfilamentprofiles.com
+      link: https://r3d.en.alibaba.com/productgrouplist-912480744/PETG.html?spm=a2700.shop_index.88.34.1b6c7d5f07lAjz
+    Peach:
+      hex: '#FEA9DB'
+      source: 3dfilamentprofiles.com
+      link: https://r3d.en.alibaba.com/productgrouplist-912480744/PETG.html?spm=a2700.shop_index.88.34.1b6c7d5f07lAjz
+    Latte:
+      hex: '#CDA14B'
+      source: 3dfilamentprofiles.com
+      link: https://r3dbg.world.tmall.com/shop/view_shop.htm
+    Mibao White:
+      hex: '#EFEBDB'
+      source: 3dfilamentprofiles.com
+      link: https://r3dbg.world.tmall.com/shop/view_shop.htm
+    Royal Blue:
+      hex: '#222C90'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com
+  TPU Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.fi/r3d/tpu-black
+  PLA Basic:
+    Dark Skin:
+      hex: '#E0A184'
+      source: 3dfilamentprofiles.com
+    'White ':
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.ch/fr-CH/r3d/pla-white-7
+    Red:
+      hex: '#F31212'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.ch/fr-CH/r3d/pla-red-6
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.nl/r3d/pla-transparent-3?sai=11542
+    Orange:
+      hex: '#FF2600'
+      source: 3dfilamentprofiles.com
+    Fluorescent Yellow:
+      hex: '#FFBA4F'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#919191'
+      source: 3dfilamentprofiles.com
+    Fluorescent Green:
+      hex: '#0DC923'
+      source: 3dfilamentprofiles.com
+      link: https://r3d-europe.com/products/r3d-plahigh-speed-vertfluofluorescentgreen-1-75mm-1kgrefill
+    Brown:
+      hex: '#865E3C'
+      source: 3dfilamentprofiles.com
+    Oats:
+      hex: '#CDAB8F'
+      source: 3dfilamentprofiles.com
+    Persimmon Yellow:
+      hex: '#F5C211'
+      source: 3dfilamentprofiles.com
+    Dark Yellow:
+      hex: '#F6D32D'
+      source: 3dfilamentprofiles.com
+    Nightglow Blue:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.nl/r3d/pla-transparent-3?sai=11542
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.ch/fr-CH/r3d/pla-black-6
+  PLA+/Pro High Speed Matte:
+    Matte Terracotta:
+      hex: '#7A4A00'
+      source: 3dfilamentprofiles.com
+      link: http://www.r3dprinter.com
+    Terracotta:
+      hex: '#BD6735'
+      source: 3dfilamentprofiles.com
+      link: http://www.r3dprinter.com
+    beige:
+      hex: '#FCE5C1'
+      source: 3dfilamentprofiles.com
+      link: http://www.r3dprinter.com
+  PLA Color Change (UV):
+    Blue to Pink:
+      hex: '#FF80C0'
+      source: 3dfilamentprofiles.com
+  PLA Magic:
+    Black-Red:
+      hex: '#000000,#FF0000'
+      source: 3dfilamentprofiles.com
+  PLA High Speed Matte:
+    MAtte Navy Blue:
+      hex: '#384571'
+      source: 3dfilamentprofiles.com
+    dark blue:
+      hex: '#2826A1'
+      source: 3dfilamentprofiles.com
+      link: https://r3d-europe.com/products/r3d-plahigh-speed-kraftmatmattekraft-1-75mm-1kgrefill
+  PLA Matte:
+    Olive Green (A1EA21H):
+      hex: '#646A5C'
+      source: 3dfilamentprofiles.com
+    Terra Cotta:
+      hex: '#B87561'
+      source: 3dfilamentprofiles.com
+    Matte Ash Grey:
+      hex: '#3D3D3D'
+      source: 3dfilamentprofiles.com
+    Matte Light Pink:
+      hex: '#FEA9DB'
+      source: 3dfilamentprofiles.com
+    Army Green:
+      hex: '#4C5637'
+      source: 3dfilamentprofiles.com
+    Matte vert avocat:
+      hex: '#01E91C'
+      source: 3dfilamentprofiles.com
+    Pine Green:
+      hex: '#009966'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Ice Blue:
+      hex: '#39E7EA'
+      source: 3dfilamentprofiles.com
+      link: https://www.r3dprinter.com/products/pla-matte?variant=46511565570299
+  PLA Pro:
+    Red:
+      hex: '#EB4D3D'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro High Speed:
+    Navy:
+      hex: '#384571'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Coffee:
+      hex: '#280300'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#E02531'
+      source: 3dfilamentprofiles.com
+    emerald:
+      hex: '#006624'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG High Speed:
+    RED:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.atome3d.com/products/r3d-petg-high-speed-red-red-1-75-mm-1-kg-refill?variant=52900527210845
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.atome3d.com/products/r3d-petg-high-speed-red-red-1-75-mm-1-kg-refill?variant=52900527210845
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.atome3d.com/products/r3d-petg-high-speed-red-red-1-75-mm-1-kg-refill?variant=52900527210845
+  PLA+/Pro Matte:
+    Ash Grey:
+      hex: '#474747'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Black-red:
+      hex: '#000000,#C90303'
+      source: 3dfilamentprofiles.com
+    Blue-green:
+      hex: '#0061FF,#77BB41'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro:
+    Latte:
+      hex: '#BDAB98'
+      source: 3dfilamentprofiles.com
+  ABS CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Transparent Blue Cost-Effective:
+      hex: '#5EB4F6'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Blue-Purple-Black:
+      hex: '#000000,#0074C7,#591EC8'
+      source: 3dfilamentprofiles.com
+    Rose Red-Purple-Silver:
+      hex: '#591EC8,#818C9F,#C239F3'
+      source: 3dfilamentprofiles.com
+    red-gold-black:
+      hex: '#B51A00,#D29D00,#000000'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Grey:
+      hex: '#BFBFC0'
+      source: 3dfilamentprofiles.com
+      link: https://r3d-europe.com/products/r3d-abs-grisgrey-1-75mm-1kgrefill
+  PA (Nylon) Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Marble:
+    Light Purple:
+      hex: '#E0BFFF'
+      source: 3dfilamentprofiles.com
+    Light Blue:
+      hex: '#A8FFFF'
+      source: 3dfilamentprofiles.com
+    Granite:
+      hex: '#F2F2F2'
+      source: 3dfilamentprofiles.com
+    Milk Coffee:
+      hex: '#F9F2FF'
+      source: 3dfilamentprofiles.com
+    Light Green:
+      hex: '#A8FFC8'
+      source: 3dfilamentprofiles.com
+  PLA Sparkle:
+    Twinkling Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+  PEBA 90A:
+    lemon green:
+      hex: '#96D35F'
+      source: 3dfilamentprofiles.com
+    matcha brown:
+      hex: '#7A4A00'
+      source: 3dfilamentprofiles.com
+  PLA Marble:
+    blue-grey:
+      hex: '#3FABA9'
+      source: 3dfilamentprofiles.com
+  PLA High Speed Marble:
+    Marble White:
+      hex: '#BFBFC0'
+      source: 3dfilamentprofiles.com

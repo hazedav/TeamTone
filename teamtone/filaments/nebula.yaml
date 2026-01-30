@@ -1,0 +1,43 @@
+Nebula:
+  PLA Basic:
+    Lolipop Pink:
+      hex: '#E62D90'
+      source: 3dfilamentprofiles.com
+      link: https://nebulafilaments.com/en/product-line/premium/pla
+    Mystic Green:
+      hex: '#0D1C12'
+      source: 3dfilamentprofiles.com
+      link: https://nebulafilaments.com/en/product-line/premium/pla
+  PLA Premium:
+    Majestic Gold:
+      hex: '#D2B070'
+      source: 3dfilamentprofiles.com
+      link: https://sklep.nebulafilaments.com/en/products/premium-pla-majestic-gold-1-75mm-1kg
+    Latte Beige:
+      hex: '#D3B7A7'
+      source: 3dfilamentprofiles.com
+      link: https://nebulafilaments.com/en/product-line/premium/pla
+    Sunny yellow:
+      hex: '#F2EC26'
+      source: 3dfilamentprofiles.com
+      link: https://www.smart3d.cz/p/filament-nebula-pla-slunecne-zluta-1-75-mm-1-kg
+    Dark Blue:
+      hex: '#212F8E'
+      source: 3dfilamentprofiles.com
+      link: https://zadar.pl/filament-pla-nebula-175-dark-blue-3kg
+  PETG Basic:
+    Midnight Blue:
+      hex: '#5CBBFF'
+      source: 3dfilamentprofiles.com
+      link: https://nebulafilaments.com/pl
+    Iron Gray:
+      hex: '#536573'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    White:
+      hex: '#FAFAFA'
+      source: 3dfilamentprofiles.com
+  PETG Premium:
+    Orange:
+      hex: '#D18215'
+      source: 3dfilamentprofiles.com

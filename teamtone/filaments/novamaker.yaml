@@ -1,0 +1,88 @@
+NOVAMAKER:
+  TPU 95A:
+    Grey:
+      hex: '#5C5C5C'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#A1F00F'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Red:
+      hex: '#AF0400'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#5C5C5C'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#6D5D18'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#680B75'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#F77036'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#40D465'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#F7F022'
+      source: 3dfilamentprofiles.com
+  TPU Translucent:
+    Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Green:
+      hex: '#01FB00'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#F6D02F'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#A6A9AB'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Silver:
+      hex: '#C8C4C1'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#656667'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#071CBB'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#EC3244'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  TPU:
+    White 96A:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Yellow:
+      hex: '#FBE168'
+      source: 3dfilamentprofiles.com
+    Metallic Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+  PC Special:
+    Cleaning Filament:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com

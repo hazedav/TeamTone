@@ -1,0 +1,16 @@
+XTZL3D:
+  PLA+/Pro Basic:
+    Red:
+      hex: '#EE1132'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#EC823C'
+      source: 3dfilamentprofiles.com
+  PETG High Speed:
+    Red Gold Purple:
+      hex: '#7D0808,#ECC251,#610FA3'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Silk Triple:
+    Blue / Red / Green:
+      hex: '#0011FF,#FF0000,#005025'
+      source: 3dfilamentprofiles.com

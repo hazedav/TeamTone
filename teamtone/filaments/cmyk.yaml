@@ -1,0 +1,11 @@
+CMYK:
+  ABS Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#DFDFD4'
+      source: 3dfilamentprofiles.com

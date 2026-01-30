@@ -1,0 +1,85 @@
+Toksen3D:
+  PLA Matte Rainbow:
+    Winter:
+      hex: '#9085CA,#6CABDE'
+      source: 3dfilamentprofiles.com
+  PETG Metal:
+    Silver:
+      hex: '#D5D5D5'
+      source: 3dfilamentprofiles.com
+    Wine Red:
+      hex: '#B03C3D'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Translucent Bamboo:
+      hex: '#6FE0A2,#99D61B,#14CE4C'
+      source: 3dfilamentprofiles.com
+      link: https://www.toksen3d.com/index.php/product/matte-gradient-rainbow/
+    Sky:
+      hex: '#75B6E0,#83D4D7,#94C2E9'
+      source: 3dfilamentprofiles.com
+      link: https://www.toksen3d.com/index.php/product/matte-gradient-rainbow/
+    Flame:
+      hex: '#FF5541,#FD9F39,#FCC368'
+      source: 3dfilamentprofiles.com
+      link: https://www.toksen3d.com/index.php/product/matte-gradient-rainbow/
+    Dreamy Crystal:
+      hex: '#D9A3D5,#8971BF,#AAAEDB'
+      source: 3dfilamentprofiles.com
+      link: https://www.toksen3d.com/index.php/product/matte-gradient-rainbow/
+  PLA Chameleon:
+    Burnt Titanium:
+      hex: '#153A46'
+      source: 3dfilamentprofiles.com
+      link: https://www.toksen3d.com/index.php/product/chameleon/
+    Twilight Black:
+      hex: '#0D000D'
+      source: 3dfilamentprofiles.com
+  PLA Silk Rainbow:
+    Silk Pla-jb-02 Rainbow:
+      hex: '#04A3C2,#945186,#B09A98,#69B8C2'
+      source: 3dfilamentprofiles.com
+      link: https://www.toksen3d.com/index.php/product/silk-rainbow/
+    Silk Gradient Rainbow Black Blue Green:
+      hex: '#4F636A,#1E609A,#215D49'
+      source: 3dfilamentprofiles.com
+      link: https://www.toksen3d.com/index.php/product/silk-rainbow/
+    Silk Gradient Rainbow Black Gold Silver:
+      hex: '#BFA657,#404F53,#C7CDC0'
+      source: 3dfilamentprofiles.com
+      link: https://www.toksen3d.com/index.php/product/silk-rainbow/
+  PLA Matte Tri-Color:
+    Black+Red+Orange:
+      hex: '#000000,#E23408,#EB792D'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Dark Grey:
+      hex: '#616161'
+      source: 3dfilamentprofiles.com
+    Light Grey:
+      hex: '#BDBDBD'
+      source: 3dfilamentprofiles.com
+  PLA Matte Dual:
+    Grey+Black:
+      hex: '#8A9399,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.toksen3d.com/index.php/product/matte-dual-tri-color/
+    Yellow/Pink:
+      hex: '#FFCC95,#FF9BA8'
+      source: 3dfilamentprofiles.com
+      link: https://www.toksen3d.com/index.php/product/matte-dual-tri-color/
+  PLA+/Pro Basic:
+    Orange:
+      hex: '#FF6F00'
+      source: 3dfilamentprofiles.com
+      link: https://www.toksen3d.com/index.php/product/regularcolor/
+  PETG Chameleon:
+    Nebula Purple:
+      hex: '#433B80,#6B93D3'
+      source: 3dfilamentprofiles.com
+      link: https://www.toksen3d.com/index.php/product/chameleon/
+  PLA Matte:
+    Sky Blue:
+      hex: '#87EEFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.toksen3d.com/index.php/product/matte-color/

@@ -1,0 +1,46 @@
+Torwell:
+  PLA Basic:
+    Pink:
+      hex: '#F769F2'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dplast.is/collections/pla-plast/products/pla-bleikur-torwell
+    Green:
+      hex: '#06981F'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dplast.is/collections/pla-plast/products/pla-graenn-torwell
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dplast.is/collections/pla-plast/products/pla-svartur-torwell
+    Silver:
+      hex: '#727C83'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dplast.is/collections/pla-plast/products/pla-silfur-torwell
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dplast.is/collections/pla-plast/products/pla-hvitan-torwell
+    Red:
+      hex: '#FF0505'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dplast.is/collections/pla-plast/products/pla-raudur-torwell
+  PLA Wood:
+    Wood:
+      hex: '#4B3C06'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dplast.is/collections/pla-plast/products/pla-vidur-torwell
+  PLA Translucent:
+    'Transparent ':
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dplast.is/collections/pla-plast/products/pla-gegnsaer-torwell
+  PLA Silk:
+    Green:
+      hex: '#7BFF42'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dplast.is/collections/pla-plast/products/pla-graenn-torwell
+  PLA Silk Rainbow:
+    Rainbow:
+      hex: '#12CE38,#1A93EA'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dplast.is/collections/pla-plast/products/pla-blagraenn-i-gulgraenann-torwell

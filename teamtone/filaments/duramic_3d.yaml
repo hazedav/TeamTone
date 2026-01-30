@@ -1,0 +1,340 @@
+DURAMIC 3D:
+  PETG Premium:
+    Army Green:
+      hex: '#4B5320'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-petg-filament?variant=42104423088323
+    Army Blue:
+      hex: '#002058'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Wine Red:
+      hex: '#D81D48'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-premium-pla-plus-filament-1-75mm-1kg-cardboard-spool-pla-propla-printing-filament-dimensional-accuracy-0-05-mm?variant=41260197970115
+    Denim Blue:
+      hex: '#007DAB'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-premium-pla-pla-plus-filament?variant=32284697755719
+    Purple:
+      hex: '#823A7C'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-premium-pla-pla-plus-filament?variant=32284697755719
+    Brown:
+      hex: '#6C4D31'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-premium-pla-pla-plus-filament?variant=32284697755719
+    Gray:
+      hex: '#929A99'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-premium-pla-pla-plus-filament?variant=32284697755719
+    Light Brown:
+      hex: '#B07C46'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-premium-pla-pla-plus-filament?variant=32284697755719
+    Electric Blue:
+      hex: '#1F79E5'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-premium-pla-plus-filament-1-75mm-1kg-cardboard-spool-pla-propla-printing-filament-dimensional-accuracy-0-05-mm
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-premium-pla-pla-plus-filament?variant=32284697788487
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-premium-pla-pla-plus-filament
+    Silver:
+      hex: '#B4BBBF'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-premium-pla-pla-plus-filament?variant=32284697886791
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-premium-pla-pla-plus-filament?variant=32284697755719
+  PLA Matte:
+    Wood:
+      hex: '#A5886E'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/matte-pla-filament-1-75mm-duramic-3d-black-pla-filament-1kg-dimensional-accuracy-0-05-mm-fit-fdm-3d-printer-matte-pla-black?variant=41845351252163
+    Beige:
+      hex: '#FFF0DB'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/matte-pla-filament-1-75mm-duramic-3d-black-pla-filament-1kg-dimensional-accuracy-0-05-mm-fit-fdm-3d-printer-matte-pla-black
+    Matte Cyan Blue:
+      hex: '#D3FFF6'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-pla-filament-1-75mm-bright-yellow-3d-printing-filament-1kg-spool2-2lbs-no-tangling-no-clogging-dimensional-accuracy-0-05-mm-consistent-performance-for-3d-printer
+    Dark Blue:
+      hex: '#052850'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/matte-pla-filament-1-75mm-duramic-3d-black-pla-filament-1kg-dimensional-accuracy-0-05-mm-fit-fdm-3d-printer-matte-pla-black?variant=42044017606851
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/matte-pla-filament-1-75mm-duramic-3d-black-pla-filament-1kg-dimensional-accuracy-0-05-mm-fit-fdm-3d-printer-matte-pla-black?variant=40005533696195
+    Gray:
+      hex: '#8A8A8A'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/matte-pla-filament-1-75mm-duramic-3d-black-pla-filament-1kg-dimensional-accuracy-0-05-mm-fit-fdm-3d-printer-matte-pla-black
+    Chocolate Brown:
+      hex: '#B38D74'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/matte-pla-filament-1-75mm-duramic-3d-black-pla-filament-1kg-dimensional-accuracy-0-05-mm-fit-fdm-3d-printer-matte-pla-black?variant=41845353251011
+    Blue:
+      hex: '#2561D4'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/matte-pla-filament-1-75mm-duramic-3d-black-pla-filament-1kg-dimensional-accuracy-0-05-mm-fit-fdm-3d-printer-matte-pla-black
+    Matte Olive Green:
+      hex: '#669A32'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/matte-pla-filament-1-75mm-duramic-3d-black-pla-filament-1kg-dimensional-accuracy-0-05-mm-fit-fdm-3d-printer-matte-pla-black
+    Purple:
+      hex: '#B38BEE'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/matte-pla-filament-1-75mm-duramic-3d-black-pla-filament-1kg-dimensional-accuracy-0-05-mm-fit-fdm-3d-printer-matte-pla-black?variant=42044019245251
+    Skin:
+      hex: '#FEE3D4'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/matte-pla-filament-1-75mm-duramic-3d-black-pla-filament-1kg-dimensional-accuracy-0-05-mm-fit-fdm-3d-printer-matte-pla-black?variant=41845350957251
+    Red:
+      hex: '#F50000'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/matte-pla-filament-1-75mm-duramic-3d-black-pla-filament-1kg-dimensional-accuracy-0-05-mm-fit-fdm-3d-printer-matte-pla-black?variant=40005546705091
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/matte-pla-filament-1-75mm-duramic-3d-black-pla-filament-1kg-dimensional-accuracy-0-05-mm-fit-fdm-3d-printer-matte-pla-black
+  PLA Silk Dual:
+    Blue Green:
+      hex: '#309CE8,#02C054'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/collections/frontpage/products/duramic-3d-shiny-silk-pla-filament-1-75mm-shiny-bronze-metallic-pla-filament-dimensional-accuracy-0-05-mm-1kg-spool2-2-lbs?variant=40005054890179
+    Gold Magenta:
+      hex: '#F5CB7F,#F76ED9'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-shiny-silk-pla-filament-1-75mm-shiny-bronze-metallic-pla-filament-dimensional-accuracy-0-05-mm-1kg-spool2-2-lbs?variant=41772868862147
+    Grey Green:
+      hex: '#575757,#00FF00'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-shiny-silk-pla-filament-1-75mm-shiny-bronze-metallic-pla-filament-dimensional-accuracy-0-05-mm-1kg-spool2-2-lbs?variant=41772868862147
+    Magenta/Neon Green:
+      hex: '#F76ED9,#25EE17'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/collections/frontpage/products/duramic-3d-shiny-silk-pla-filament-1-75mm-shiny-bronze-metallic-pla-filament-dimensional-accuracy-0-05-mm-1kg-spool2-2-lbs?variant=41772868862147
+    Gold Silver:
+      hex: '#F5CB7F,#7A7A7A'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/collections/frontpage
+  PETG Basic:
+    Blue:
+      hex: '#001FF7'
+      source: 3dfilamentprofiles.com
+    Magenta:
+      hex: '#F939F2'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/collections/premium-petg/products/duramic-3d-petg-filament?variant=32284752216135
+    Orange:
+      hex: '#F96302'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/collections/premium-petg/products/duramic-3d-petg-filament?variant=40004665147587
+    Yellow:
+      hex: '#FCFF52'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#36CE78'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#E7ACCF'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-petg-filament?variant=41978702692547
+    Black:
+      hex: '#01000A'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#F3AD16'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/collections/premium-petg/products/duramic-3d-petg-filament
+    Silver:
+      hex: '#CFCFCF'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-petg-filament?variant=40004662264003
+    Grey:
+      hex: '#616161'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/collections/premium-petg/products/duramic-3d-petg-filament?variant=32284752216135
+    Lime Green:
+      hex: '#C4D802'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/collections/tpu
+    Clear:
+      hex: '#DDDECF'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/collections/tpu
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/collections/tpu
+    Electric Blue:
+      hex: '#1F79E5'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/tpu-filament-1-75mm-blue-duramic-3d-tpu-flexible-filament-95a-soft-tpu-3d-printing-filament-1kg-spool-dimensional-accuracy-0-05mm-black-1-pack
+    Orange:
+      hex: '#FF7034'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/tpu-filament-1-75mm-blue-duramic-3d-tpu-flexible-filament-95a-soft-tpu-3d-printing-filament-1kg-spool-dimensional-accuracy-0-05mm-black-1-pack?variant=41845378515139
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/collections/tpu
+    Green:
+      hex: '#00AE42'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/tpu-filament-1-75mm-blue-duramic-3d-tpu-flexible-filament-95a-soft-tpu-3d-printing-filament-1kg-spool-dimensional-accuracy-0-05mm-black-1-pack?variant=42044230959299
+    Grey:
+      hex: '#888888'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/tpu-filament-1-75mm-blue-duramic-3d-tpu-flexible-filament-95a-soft-tpu-3d-printing-filament-1kg-spool-dimensional-accuracy-0-05mm-black-1-pack?variant=40230610272451
+    Purple:
+      hex: '#8A65B3'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/tpu-filament-1-75mm-blue-duramic-3d-tpu-flexible-filament-95a-soft-tpu-3d-printing-filament-1kg-spool-dimensional-accuracy-0-05mm-black-1-pack?variant=40230594379971
+  PLA+/Pro Pro:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Pink Pearl:
+      hex: '#E7ACCF'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+    Light Brown:
+      hex: '#B5651D'
+      source: 3dfilamentprofiles.com
+    Rogue Red:
+      hex: '#D33B3B'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#47A5A5'
+      source: 3dfilamentprofiles.com
+    Smoky Gray:
+      hex: '#5F5F5F'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#683628'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Lime Green:
+      hex: '#D2FFBC'
+      source: 3dfilamentprofiles.com
+    Bright Yellow:
+      hex: '#FFFFD3'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#F40A20'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-pla-filament-1-75mm-bright-yellow-3d-printing-filament-1kg-spool2-2lbs-no-tangling-no-clogging-dimensional-accuracy-0-05-mm-consistent-performance-for-3d-printer?variant=42044013445315
+  PLA Glow:
+    Glow Blue:
+      hex: '#B2D4DD'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/collections/pla/products/duramic-3d-pla-glow-in-the-dark-filament-1-75mm-glow-green-3d-printing-pla-filament-1-75mm-dimensional-accuracy-0-05-mm-1kg-spool
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Glow Green:
+      hex: '#39FF14'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    GOLD PURPLE:
+      hex: '#881197,#AA8F08'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-shiny-silk-pla-filament-1-75mm-shiny-bronze-metallic-pla-filament-dimensional-accuracy-0-05-mm-1kg-spool2-2-lbs
+    Green:
+      hex: '#00F97D'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-shiny-silk-pla-filament-1-75mm-shiny-bronze-metallic-pla-filament-dimensional-accuracy-0-05-mm-1kg-spool2-2-lbs
+    Silk Blue:
+      hex: '#3FA2FF'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-shiny-silk-pla-filament-1-75mm-shiny-bronze-metallic-pla-filament-dimensional-accuracy-0-05-mm-1kg-spool2-2-lbs
+    Silk Copper:
+      hex: '#853920'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-shiny-silk-pla-filament-1-75mm-shiny-bronze-metallic-pla-filament-dimensional-accuracy-0-05-mm-1kg-spool2-2-lbs?variant=40005034180803
+    Bronze:
+      hex: '#E67300'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-shiny-silk-pla-filament-1-75mm-shiny-bronze-metallic-pla-filament-dimensional-accuracy-0-05-mm-1kg-spool2-2-lbs
+    Silk Red:
+      hex: '#E10E0E'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-shiny-silk-pla-filament-1-75mm-shiny-bronze-metallic-pla-filament-dimensional-accuracy-0-05-mm-1kg-spool2-2-lbs
+    Gold Red:
+      hex: '#B76E79'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-shiny-silk-pla-filament-1-75mm-shiny-bronze-metallic-pla-filament-dimensional-accuracy-0-05-mm-1kg-spool2-2-lbs
+    Royal Gold:
+      hex: '#F5CB7F'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-shiny-silk-pla-filament-1-75mm-shiny-bronze-metallic-pla-filament-dimensional-accuracy-0-05-mm-1kg-spool2-2-lbs?variant=41772874432707
+    Silk Silver:
+      hex: '#7A7A7A'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-shiny-silk-pla-filament-1-75mm-shiny-bronze-metallic-pla-filament-dimensional-accuracy-0-05-mm-1kg-spool2-2-lbs?variant=40005036048579
+  PETG Translucent:
+    Green:
+      hex: '#30914A'
+      source: 3dfilamentprofiles.com
+    Clear:
+      hex: '#E4ECFF'
+      source: 3dfilamentprofiles.com
+    Translucent Blue:
+      hex: '#38019D'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-petg-filament?variant=42044188721347
+    Translucent Red:
+      hex: '#BD0A25'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Matte:
+    Light Yellow:
+      hex: '#F7F388'
+      source: 3dfilamentprofiles.com
+  TPU Basic:
+    DURAMIC 3D Filament TPU:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Marble:
+    Marble:
+      hex: '#FAFAFA'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-pla-filament-1-75mm-bright-yellow-3d-printing-filament-1kg-spool2-2lbs-no-tangling-no-clogging-dimensional-accuracy-0-05-mm-consistent-performance-for-3d-printer?variant=42044013609155
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/collections/pla-plus/products/duramic-3d-premium-pla-pla-plus-filament?variant=41033710928067
+  PETG Marble:
+    Marble:
+      hex: '#D6D6D6'
+      source: 3dfilamentprofiles.com
+      link: https://duramic3d.com/products/duramic-3d-petg-filament?variant=40004628545731

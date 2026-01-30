@@ -1,0 +1,156 @@
+Bavaria:
+  PETG Basic:
+    Schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/shop?Kategorie=PET-G
+    Leuchtgrün:
+      hex: '#91D35A'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/shop?Kategorie=PET-G
+    Gold:
+      hex: '#EBDB00'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/product-page/bavafil-pet-g-gold
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/product-page/bavafil-pet-g-silber
+    Orange:
+      hex: '#DA5100'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/shop?Kategorie=PET-G
+    Dunkelblau:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/product-page/bavafil-pet-g-dunkelblau
+  ASA Basic:
+    Green:
+      hex: '#34F000'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000,#8CFF00,#0073E6'
+      source: 3dfilamentprofiles.com
+    Schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG:
+    Testgrau:
+      hex: '#444444'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/product-page/kopie-von-bavafil-pet-g-testgrau
+  PLA:
+    Beere:
+      hex: '#8C1028'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/product-page/pla-fantasy-gold
+    Fantasy Gold:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/product-page/pla-fantasy-gold
+  PLA Basic:
+    Orange:
+      hex: '#F56B05'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/shop?Kategorie=PLA
+    Metallic Violett:
+      hex: '#65387D'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/product-page/bavafil-pla-violett-1
+    Petrol:
+      hex: '#4095BA'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/product-page/bavafil-pla-petrol
+    Sandstein:
+      hex: '#F2DB9C'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/product-page/bavafil-pla-sandstein
+    Gelb:
+      hex: '#F3D245'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/shop?Kategorie=PLA
+    Wasserblau (Makitablau):
+      hex: '#007577'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/product-page/bavafil-pla-royalblau-transluzent
+    Rosa:
+      hex: '#EE81C6'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/product-page/bavafil-pla-rosa-neu
+    Grau:
+      hex: '#EBEAE6'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/product-page/kopie-von-bavafil-pla-grau
+    Leuchtgrün:
+      hex: '#7EE96B'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/product-page/bavafil-pla-leuchtgr%C3%BCn
+    Metallic Blau:
+      hex: '#288ED7'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/product-page/bavafil-pla-blau
+    Marmor Grau:
+      hex: '#CBD7D1'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/product-page/bavafil-pla-marmor-grau
+    Bübchenblau:
+      hex: '#4698FC'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/product-page/bavafil-pla-b%C3%BCbchenblau
+    Kupfer:
+      hex: '#5A5048'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/shop?Kategorie=PLA
+    Grün:
+      hex: '#085838'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/shop?Kategorie=PLA
+    Pastelltürkis:
+      hex: '#7FB0B2'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/shop?Kategorie=PLA
+    Fantasy Black:
+      hex: '#28292B'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/shop?Kategorie=PLA
+    Marmor Weiß:
+      hex: '#EBEBEB'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/product-page/bavafil-pla-marmor
+    Seidenmatt Weiss:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/shop?Kategorie=PLA
+    Leuchtrosa:
+      hex: '#FB0FFF'
+      source: 3dfilamentprofiles.com
+    Rot:
+      hex: '#FF212B'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/product-page/bavafil-pla-rot
+    Gelb-Grün:
+      hex: '#92D856'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/product-page/bavafil-pla-gelb-gr%C3%BCn
+    Testgrau:
+      hex: '#444444'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.de
+    Beige:
+      hex: '#DDC6A1'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/shop?Kategorie=PLA
+  TPU 95A:
+    Pearlthane Grey:
+      hex: '#D5D5D5'
+      source: 3dfilamentprofiles.com
+  PLA Metal:
+    Apfelgrün:
+      hex: '#02C735'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/product-page/bavafil-pla-metallic-apfelgr%C3%BCn
+  PETG Recycled:
+    Repro Grün:
+      hex: '#008012'
+      source: 3dfilamentprofiles.com
+      link: https://www.bavaria-filaments.com/product-page/bavafil-repro-pet-g-gr%C3%BCn

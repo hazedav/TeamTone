@@ -1,0 +1,409 @@
+add:north:
+  PLA Easy:
+    Lucent Pink:
+      hex: '#FF00EA'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/E-PLA/E-PLA%20-%201.75mm%20-%20750g%20-%20Lucent%20Pink
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/E-PLA/E-PLA%20-%201.75mm%20-%20750g%20-%20Yellow
+    Medium Blue:
+      hex: '#4766B2'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/E-PLA/E-PLA%20-%201.75mm%20-%20750g%20-%20Medium%20Blue
+    Glitz Purple:
+      hex: '#660066'
+      source: 3dfilamentprofiles.com
+    Lucent Orange:
+      hex: '#FF5900'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/E-PLA/E-PLA%20-%201.75mm%20-%20750g%20-%20Gold
+    Glitz Sapphire:
+      hex: '#394560'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/E-PLA/E-PLA%20-%201.75mm%20-%201000g%20-%20Glitz%20Sapphire
+    Glitz Stardust:
+      hex: '#0C253F'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/shop/Filaments%20by%20material/PLA/E-PLA
+    Aurora Green:
+      hex: '#5A9AB2,#195B66'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/shop/Filaments%20by%20material/PLA/E-PLA
+    Green:
+      hex: '#008000'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/shop/Filaments%20by%20material/PLA/E-PLA
+    Stemfie Orange:
+      hex: '#E79913'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/shop/Filaments%20by%20material/PLA/E-PLA
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/E-PLA/E-PLA%20-%201.75mm%20-%201000g%20-%20Red
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/shop/Filaments%20by%20material/PLA/E-PLA
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.se/product/E-PLA/E-PLA%20-%201.75mm%20-%20750g%20-%20Black
+    Tropical Turquoise:
+      hex: '#00FFFF'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/shop/Filaments%20by%20material/PLA/E-PLA
+    Army green:
+      hex: '#5D6532'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/shop/Filaments%20by%20material/PLA/E-PLA
+    Marble (White):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/E-PLA/E-PLA%20-%201.75mm%20-%201000g%20-%20Marble
+    Glitz Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/E-PLA/E-PLA%20-%201.75mm%20-%201000g%20-%20Glitz%20Black
+    Glitz Grey:
+      hex: '#5A5859'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/E-PLA/E-PLA%20-%201.75mm%20-%20750g%20-%20Glitz%20Grey
+  PETG CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Rigid X Green Camo:
+      hex: '#1C251F'
+      source: 3dfilamentprofiles.com
+    Army green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+    Rigid X Blue Charcoal:
+      hex: '#022635'
+      source: 3dfilamentprofiles.com
+    Rigid X Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Green Camo:
+      hex: '#262F39'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.se/product/Rigid%20X/Rigid%20X%20-%201.75mm%20-%201000g%20-%20Green%20Camo
+  PETG Recycled:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.se/product/Rigid%20X/Rigid%20X%20-%201.75mm%20-%201000g%20-%20Green%20Camo
+  PLA X-PLA:
+    Power Tool Lime Green:
+      hex: '#6EC007'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/X-PLA/X-PLA%20-%201.75mm%20-%20750g%20-%20Power%20Tool%20Lime%20Green
+    Aurora Green:
+      hex: '#195B66'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/shop/Filaments%20by%20material/PLA/X-PLA
+    Power Tool Blue:
+      hex: '#008A97'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/X-PLA/X-PLA%20-%201.75mm%20-%20750g%20-%20Power%20Tool%20Blue
+    Power Tool Yellow:
+      hex: '#FEBD16'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/X-PLA/X-PLA%20-%201.75mm%20-%201000g%20-%20Power%20Tool%20Yellow
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/shop/Filaments%20by%20material/PLA/X-PLA
+    Light Grey:
+      hex: '#878787'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/shop/Filaments%20by%20material/PLA/X-PLA
+    Medium Blue:
+      hex: '#276AB3'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/shop/Filaments%20by%20material/PLA/X-PLA
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/X-PLA/X-PLA%20-%201.75mm%20-%201000g%20-%20Red
+    White:
+      hex: '#FAFAF8'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.se/product/X-PLA/X-PLA%20-%201.75mm%20-%201000g%20-%20White
+    Power Tool Red:
+      hex: '#DB011C'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/X-PLA/X-PLA%20-%201.75mm%20-%20750g%20-%20Power%20Tool%20Red
+  PETG Economy:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/PETG%20Economy/PETG%20Economy%20-%201.75mm%20-%201000g%20-%20White
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/PETG%20Economy/PETG%20Economy%20-%201.75mm%20-%201000g%20-%20Black
+  PLA Matte:
+    Textura Matte White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Textura Matte Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/Textura%E2%84%A2/Textura%E2%84%A2%20-%201.75mm%20-%20750g%20-%20Matte%20Black
+  PLA:
+    Textura Flare Galaxy Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Textura Flare Rocky Grey:
+      hex: '#323639'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/Textura%E2%84%A2%20Flare/Textura%E2%84%A2%20Flare%20-%201.75mm%20-%20750g%20-%20Rocky%20Grey
+  PETG Basic:
+    Glitz Grey:
+      hex: '#444444'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/PETG/PETG%20-%202.85mm%20-%20750g%20-%20Glitz%20Grey
+    Red Metallic:
+      hex: '#A54E57'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/shop/Filaments%20by%20material/PET/PETG
+    Yellow:
+      hex: '#FFFB00'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.se/product/PETG/PETG%20-%201.75mm%20-%201000g%20-%20Yellow
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/PETG/PETG%20-%201.75mm%20-%201000g%20-%20Red
+    Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/PETG/PETG%20-%201.75mm%20-%20750g%20-%20Clear
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/PETG/PETG%20-%201.75mm%20-%201000g%20-%20Black
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/PETG/PETG%20-%201.75mm%20-%20750g%20-%20White
+    Lucent Orange:
+      hex: '#FF7B19'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.se/product/PETG/PETG%20-%201.75mm%20-%20750g%20-%20Lucent%20Orange
+  PLA Marble:
+    Marble:
+      hex: '#C7C3B7'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Red/Yellow/Blue Visdream:
+      hex: '#400080'
+      source: 3dfilamentprofiles.com
+  PLA Textura Flare:
+    Galaxy Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/Textura%E2%84%A2%20Flare/Textura%E2%84%A2%20Flare%20-%201.75mm%20-%201000g%20-%20Galaxy%20Black
+    Rocky Grey:
+      hex: '#686868'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/Textura%E2%84%A2%20Flare/Textura%E2%84%A2%20Flare%20-%201.75mm%20-%20750g%20-%20Rocky%20Grey
+  PLA HT:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White (Pro Matte):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/HT-PLA%20Pro%20Matte/HT-PLA%20PRO%20Matte%20-%201.75mm%20-%201000g%20-%20White
+    Black (Pro Matte):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/HT-PLA%20Pro%20Matte/HT-PLA%20PRO%20Matte%20-%201.75mm%20-%201000g%20-%20Black
+  PLA Basic:
+    Medium Blue:
+      hex: '#4866B2'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.se/shop/Filament%20efter%20material/PLA/E-PLA
+    Yellow:
+      hex: '#FFE613'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.se/shop/Filament%20efter%20material/PLA/E-PLA
+    Glitz Silver:
+      hex: '#CAC8CE'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.se/shop/Filament%20efter%20material/PLA/E-PLA
+    Army Green:
+      hex: '#6A7047'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.se/product/E-PLA/E-PLA%20-%201.75mm%20-%201000g%20-%20Army%20Green
+  TPU:
+    TPU White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.se/product/EasyFlex/EasyFlex%20-%201.75mm%20-%20500g%20-%20Black
+  PA (Nylon) Recycled:
+    ADDLANTIS PASTEL GREEN:
+      hex: '#A6E8D7'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    Glow in the Dark Green:
+      hex: '#C9F3D9'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.se/product/E-PLA/E-PLA%20-%201.75mm%20-%20750g%20-%20Glow%20in%20the%20Dark%20Green
+  PLA Glitter:
+    Twilight Blue Texture Flare:
+      hex: '#597499'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.se/product/Textura%E2%84%A2%20Flare/Textura%E2%84%A2%20Flare%20-%201.75mm%20-%201000g%20-%20Twilight%20Blue
+  TPU 95A:
+    Pro Matte Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/EasyFlex/EasyFlex%20-%201.75mm%20-%20500g%20-%20Yellow
+    Glitz Gray:
+      hex: '#9299A0'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/EasyFlex/EasyFlex%20-%201.75mm%20-%20500g%20-%20Yellow
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.se/product/EasyFlex/EasyFlex%20-%201.75mm%20-%20500g%20-%20Black
+  PLA Economy:
+    Maya Gold:
+      hex: '#7A6043'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.se/shop/Filament%20efter%20material/PLA/E-PLA
+    Yellow:
+      hex: '#FFF700'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/E-PLA/E-PLA%20-%201.75mm%20-%20750g%20-%20Yellow
+    Glitz Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.se/shop/Filament%20efter%20material/PLA/E-PLA
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.se/shop/Filament%20efter%20material/PLA/E-PLA
+    Light Grey:
+      hex: '#BCBCBE,#CDCFCE'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.se/product/PLA%20Economy/PLA%20Economy%20-%201.75mm%20-%201000g%20-%20Light%20Grey
+    Glitz Purple:
+      hex: '#57257F'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/E-PLA/E-PLA%20-%201.75mm%20-%201000g%20-%20Glitz%20Purple
+  PC Blend HT LCF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PE:
+    Black OBC:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  TPU Pro:
+    Matte Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/PETG%20PRO%20Matte/PETG%20PRO%20Matte%20-%201.75mm%20-%201000g%20-%20Black
+  TPU 85A:
+    PRO MATTE BLACK:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PA (Nylon) Adura:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/Adura%E2%84%A2/Adura%E2%84%A2%20-%201.75mm%20-%201000g%20-%20Black
+  PLA Silk:
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+    Premium Green:
+      hex: '#0C4919'
+      source: 3dfilamentprofiles.com
+    Premium Gold:
+      hex: '#8D8600'
+      source: 3dfilamentprofiles.com
+    Premium Silver:
+      hex: '#AAAAAA'
+      source: 3dfilamentprofiles.com
+    Premium Red:
+      hex: '#B51A00'
+      source: 3dfilamentprofiles.com
+    Premium Purple:
+      hex: '#5336A3'
+      source: 3dfilamentprofiles.com
+    Red (Premium Silk):
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/PLA%20Premium%20Silk/PLA%20Premium%20Silk%20-%201.75mm%20-%201000g%20-%20Red
+  PETG Pro:
+    Matte White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/PETG%20PRO%20Matte/PETG%20PRO%20Matte%20-%201.75mm%20-%201000g%20-%20White
+    Matte Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/PETG%20PRO%20Matte/PETG%20PRO%20Matte%20-%201.75mm%20-%20750g%20-%20Black?srsltid=AfmBOopUC_kTNQBMQIHC_mtDDqsumOZ4UMioM_D_iDHfOTQAOWF3Y9ID
+  PA (Nylon) CF:
+    Adura X Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Textura:
+    Matte White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/Textura%E2%84%A2/Textura%E2%84%A2%20-%201.75mm%20-%20750g%20-%20Matte%20Black
+    Matte Natural:
+      hex: '#EBEBEB'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/Textura%E2%84%A2/Textura%E2%84%A2%20-%201.75mm%20-%20750g%20-%20Matte%20Black
+    Black (Matte Black):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/Textura%E2%84%A2/Textura%E2%84%A2%20-%201.75mm%20-%20750g%20-%20Matte%20Black
+  PLA Wood:
+    Nordic Birch:
+      hex: '#D3BDAB'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.fi/product/PLA%20Wood/PLA%20Wood%20-%201.75mm%20-%201000g%20-%20Nordic%20Birch
+    Warm Cherry:
+      hex: '#452811'
+      source: 3dfilamentprofiles.com
+    Light Oak:
+      hex: '#AF9C8B'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.fi/product/PLA%20Wood/PLA%20Wood%20-%201.75mm%20-%201000g%20-%20Light%20Oak
+  PLA Galaxy:
+    Glitz Sapphire:
+      hex: '#394560'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.se/product/E-PLA/E-PLA%20-%201.75mm%20-%20750g%20-%20Glitz%20Sapphire
+  ABS Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/rABS/rABS%20-%201.75mm%20-%20750g%20-%20Black
+  PA (Nylon):
+    ADDLANTIS:
+      hex: '#6BFCE7'
+      source: 3dfilamentprofiles.com
+    Adura Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.com/product/Adura%E2%84%A2/Adura%E2%84%A2%20-%201.75mm%20-%20500g%20-%20Black
+  PLA Premium:
+    Gold:
+      hex: '#AA7942'
+      source: 3dfilamentprofiles.com
+      link: https://addnorth.se/product/PLA%20Premium%20Silk/PLA%20Premium%20Silk%20-%201.75mm%20-%20750g%20-%20Gold

@@ -1,0 +1,14 @@
+Syntech:
+  PETG Basic:
+    Light green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://syntechlab.ru/store/pet-g/pet-g-belyy-1-kg/
+    Clear:
+      hex: '#FFFFF1'
+      source: 3dfilamentprofiles.com
+      link: https://syntechlab.ru/store/pet-g/pet-g-naturalnyj-prozrachnyj/

@@ -1,0 +1,66 @@
+EPAX:
+  PETG HF:
+    Nebula Purple:
+      hex: '#5E75C9'
+      source: 3dfilamentprofiles.com
+      link: https://epax3d.com/products/epax-fast-petg
+  PLA+/Pro Basic:
+    Dark Chocolate Brown:
+      hex: '#32231F'
+      source: 3dfilamentprofiles.com
+      link: https://epax3d.com/products/epax-fast-pla?variant=50474633035989
+    light brown:
+      hex: '#815E3F'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro High Speed:
+    Neon Yellow:
+      hex: '#D6F435'
+      source: 3dfilamentprofiles.com
+      link: https://epax3d.com/
+    Cool White:
+      hex: '#F4FFFF'
+      source: 3dfilamentprofiles.com
+      link: https://epax3d.com/products/epax-fast-pla?variant=50474632446165
+    Candy Red:
+      hex: '#D12820'
+      source: 3dfilamentprofiles.com
+      link: https://epax3d.com/products/epax-fast-pla?variant=50474632511701
+    Military Green:
+      hex: '#525748'
+      source: 3dfilamentprofiles.com
+      link: https://epax3d.com/
+    Fire Engine Red:
+      hex: '#A3272E'
+      source: 3dfilamentprofiles.com
+      link: https://epax3d.com/products/epax-fast-pla?variant=50474632544469
+    Yelow:
+      hex: '#CDBA1D'
+      source: 3dfilamentprofiles.com
+      link: https://epax3d.com/collections/epax-filaments/products/epax-fast-pla
+    Deep Space:
+      hex: '#31424B'
+      source: 3dfilamentprofiles.com
+      link: https://epax3d.com/
+    Orange:
+      hex: '#F58300'
+      source: 3dfilamentprofiles.com
+      link: https://epax3d.com/products/epax-fast-pla?variant=50474632478933
+  PETG Translucent:
+    Glass Purple:
+      hex: '#1C0875'
+      source: 3dfilamentprofiles.com
+      link: https://epax3d.com/products/epax-fast-petg?variant=47037026795733
+  PLA Basic:
+    Light Blue:
+      hex: '#2CBEE2'
+      source: 3dfilamentprofiles.com
+    Neon Yellow:
+      hex: '#E1FF00'
+      source: 3dfilamentprofiles.com
+  PLA Magic:
+    Mermaid:
+      hex: '#9EC8D6,#7547E1,#BFEFAE'
+      source: 3dfilamentprofiles.com
+    Treasure:
+      hex: '#EED181,#DEE3E8,#EFC8AE'
+      source: 3dfilamentprofiles.com

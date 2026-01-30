@@ -1,0 +1,46 @@
+CR3D:
+  ABS Basic:
+    Anthrazitgrau:
+      hex: '#383E42'
+      source: 3dfilamentprofiles.com
+      link: https://www.cr3d.de/produkt/abs-anthrazitgrau/
+    Perlweiss:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.cr3d.de/produkt/abs-perlweiss/
+    Sonnengelb:
+      hex: '#E4DD21'
+      source: 3dfilamentprofiles.com
+      link: https://www.cr3d.de/produkt/abs-gelb/
+    HevORT Green:
+      hex: '#CCFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.cr3d.de/produkt/abs-hevort-green/
+  PLA Basic:
+    Silber:
+      hex: '#C3C3C3'
+      source: 3dfilamentprofiles.com
+      link: https://www.cr3d.de/produkt/pla-silber/?attribute_varianten=1+kg
+    Wasserblau:
+      hex: '#007475'
+      source: 3dfilamentprofiles.com
+      link: https://www.cr3d.de/produkt/pla-wasserblau/?attribute_varianten=0%2C5+kg
+    Bronze:
+      hex: '#4A3004'
+      source: 3dfilamentprofiles.com
+      link: https://www.cr3d.de/produkt/pla-bronze
+  PLA Crystal:
+    GreenMagic:
+      hex: '#061E09'
+      source: 3dfilamentprofiles.com
+      link: https://www.cr3d.de/produkt/pla-greenmagic
+  ABS Matte:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.cr3d.de/produkt/abs-matt-schwarz/
+  PLA Magic:
+    Black Magic:
+      hex: '#171717'
+      source: 3dfilamentprofiles.com
+      link: https://www.cr3d.de/produkt/pla-black-magic/

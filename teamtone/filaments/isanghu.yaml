@@ -1,0 +1,98 @@
+iSANGHU:
+  ASA Basic:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#696969'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFF700'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#653213'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+  PLA High Speed:
+    Glitter Sky Blue:
+      hex: '#C5D0E6'
+      source: 3dfilamentprofiles.com
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Sea Blue Transparent:
+      hex: '#001E94'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Matte:
+    Aqua Blue:
+      hex: '#D9FFFF'
+      source: 3dfilamentprofiles.com
+    Matte Green:
+      hex: '#408263'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro High Speed:
+    Yellow:
+      hex: '#FFF700'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanghu3d.com/product/pla-3d-printing-filament/
+    Black (Matte):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanghu3d.com/product/pla-3d-printing-filament/
+  PLA Basic:
+    Skin:
+      hex: '#D4B891'
+      source: 3dfilamentprofiles.com
+  PETG High Speed:
+    Clear Rainbow:
+      hex: '#AACCE4,#FDA5C8,#BBF7C2,#ACB4B9'
+      source: 3dfilamentprofiles.com
+    Transparent Classical Grey:
+      hex: '#555555'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Blue to Purple:
+      hex: '#3F277F'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Matte Rainbow:
+    Rose Ouartz:
+      hex: '#EF8CEE,#C987B6,#4B81FC'
+      source: 3dfilamentprofiles.com
+    Fluorite:
+      hex: '#A3D3FD,#FBF46A,#EE88CD'
+      source: 3dfilamentprofiles.com
+    Frosting Cake:
+      hex: '#C996BA,#A4AED6,#F3ECC8'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Gradient:
+    Pink - Purple:
+      hex: '#EF92CA,#A864CD'
+      source: 3dfilamentprofiles.com
+  ABS CF:
+    Black CF:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PC CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Black Matte (Frosted):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ASA CF:
+    Matte Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Rainbow:
+    Blue/White/Orange:
+      hex: '#76BAEA'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanghu3d.com/product-category/3d_filament/petg-filament/

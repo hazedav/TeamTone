@@ -1,0 +1,72 @@
+Filaprint:
+  PLA Basic:
+    Traffic Red:
+      hex: '#F70820'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#49124A'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#D4AF37'
+      source: 3dfilamentprofiles.com
+  ASA+ X-Strong:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Dark Blue:
+      hex: '#001D8F'
+      source: 3dfilamentprofiles.com
+  PETG CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Grey:
+      hex: '#D3D3D3'
+      source: 3dfilamentprofiles.com
+  PLA Premium:
+    Light Grey:
+      hex: '#C7C7C7'
+      source: 3dfilamentprofiles.com
+    Dark Blue:
+      hex: '#00008B'
+      source: 3dfilamentprofiles.com
+  PIPG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#E87121'
+      source: 3dfilamentprofiles.com
+      link: https://www.findtheneedle.co.uk/companies/3d-filaprint/products/3d-filaprint-orange-pipg-1-75mm-1kg-recycled-petg-3d-printing-filament
+  ABS Premium:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    BLACK/GREEN:
+      hex: '#005E2F'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#7B838A,#B09611'
+      source: 3dfilamentprofiles.com
+  PLA Lite:
+    WHITE:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    PASTEL WHITE:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PETG Lite:
+    BLACK:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  TPU 95A HF:
+    BLACK:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    SILVER:
+      hex: '#888888'
+      source: 3dfilamentprofiles.com

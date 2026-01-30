@@ -1,0 +1,13 @@
+Zi-Rui:
+  PLA Marble:
+    Marble White:
+      hex: '#D0D2D7'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Rainbow:
+      hex: '#FF0000,#00FF00,#0000FF'
+      source: 3dfilamentprofiles.com
+  PLA Color Change (Temp):
+    Pine Green to Light Orange to Yellow:
+      hex: '#212C3F,#FFD580,#FFFF00'
+      source: 3dfilamentprofiles.com

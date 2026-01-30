@@ -1,0 +1,38 @@
+Nexaforge:
+  PETG Basic:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#A09EA6'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#172BB1'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#9F501F'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#4C4D53'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#391787'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#A12222'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#FF36F7'
+      source: 3dfilamentprofiles.com
+    Skin:
+      hex: '#BA896F'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#C4BC00'
+      source: 3dfilamentprofiles.com

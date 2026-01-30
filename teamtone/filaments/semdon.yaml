@@ -1,0 +1,21 @@
+Semdon:
+  PLA Silk Dual:
+    Black/Purple:
+      hex: '#000000,#9F00F5'
+      source: 3dfilamentprofiles.com
+  PLA Magic:
+    Silk Red-Yellow-Purple:
+      hex: '#FF2F2F,#FFDB2B,#5F2AC0'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+  PLA Gradient:
+    Gold/Bronze:
+      hex: '#D58400,#583400'
+      source: 3dfilamentprofiles.com
+  PLA Silk Magic:
+    Red-Green-Blue:
+      hex: '#FF0000,#00F549,#0080FF'
+      source: 3dfilamentprofiles.com

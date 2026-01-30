@@ -1,0 +1,26 @@
+F3D:
+  PLA Basic:
+    Pink:
+      hex: '#FF0059'
+      source: 3dfilamentprofiles.com
+      link: https://f3dfilament.com/pl/p/FILAMENT-PLA-1%2C75mm-1kg-CZARNY/178
+  PLA Premium:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentos3dbrasil.com.br/
+    NUDE:
+      hex: '#DEDCD9'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentos3dbrasil.com.br/produtos/filamento-pla-premium-nude/
+  TPU 83A:
+    Pink:
+      hex: '#F06292'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  TPU:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com

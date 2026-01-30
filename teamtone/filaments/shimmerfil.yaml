@@ -1,0 +1,18 @@
+SHIMMERFIL:
+  PLA High Speed:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Pure White:
+      hex: '#F5F3DB'
+      source: 3dfilamentprofiles.com
+    Bright White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Almond White:
+      hex: '#FBE8E5'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Light Purple:
+      hex: '#9277A2'
+      source: 3dfilamentprofiles.com

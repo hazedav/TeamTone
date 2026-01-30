@@ -1,0 +1,25 @@
+Sculpto:
+  PLA Basic:
+    Yellow:
+      hex: '#FFEA00'
+      source: 3dfilamentprofiles.com
+      link: https://sculpto-shop.com/en-us/products/filament-1-kg
+    green:
+      hex: '#505904'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#FDDD12'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0080FF'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#5E5C64'
+      source: 3dfilamentprofiles.com
+      link: https://sculpto-shop.com/en-us/products/filament-1-kg

@@ -1,0 +1,230 @@
+SainSmart:
+  PLA Silk:
+    Silk Gold:
+      hex: '#C8B246'
+      source: 3dfilamentprofiles.com
+    Copper:
+      hex: '#A1A880'
+      source: 3dfilamentprofiles.com
+    Silk Pink:
+      hex: '#FF93A8'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Luminous Green:
+      hex: '#B1DD8C'
+      source: 3dfilamentprofiles.com
+      link: https://www.sainsmart.com/products/luminous-green-glow-in-the-dark-flexible-tpu-filament-1-75mm-1kg-2-2lb?variant=32534386344015
+    White:
+      hex: '#D2D5D4'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#CE1717'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#006E97'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#17FB13'
+      source: 3dfilamentprofiles.com
+    Neon Cyan:
+      hex: '#00E1FF'
+      source: 3dfilamentprofiles.com
+    Transparent Red:
+      hex: '#CE1717'
+      source: 3dfilamentprofiles.com
+    Glow:
+      hex: '#96D35F'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#800080'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#858585'
+      source: 3dfilamentprofiles.com
+    Cyberpunk solid blue-green:
+      hex: '#00FFFF'
+      source: 3dfilamentprofiles.com
+    light blue:
+      hex: '#85C9F9'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FFA500'
+      source: 3dfilamentprofiles.com
+      link: https://www.sainsmart.com/products/orange-flexible-tpu-filament-1-75mm-0-8kg-1-76lb
+    Yellow:
+      hex: '#FCFF5C'
+      source: 3dfilamentprofiles.com
+      link: https://www.sainsmart.com/products/all-colors-tpu-flexible-filament-1-75mm-0-8kg-1-76lb?variant=39648550846543
+  PLA LW:
+    Natural:
+      hex: '#E3E3E3'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Hot Pink:
+      hex: '#FF24FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.sainsmart.com/products/all-colors-sainsmart-pro3-series-petg-filament-1-75mm-1kg-2-2lb
+    Blue:
+      hex: '#0080FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.sainsmart.com/products/all-colors-sainsmart-pro3-series-petg-filament-1-75mm-1kg-2-2lb
+  PLA HF:
+    Matte Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.sainsmart.com/products/gt-3-pla-filament-four-color-bundle?variant=41577005187151#idTab2
+    Matte Red:
+      hex: '#DA291C'
+      source: 3dfilamentprofiles.com
+      link: https://www.sainsmart.com/products/gt-3-pla-filament-four-color-bundle?variant=41577005187151#idTab2
+    Flexible White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.sainsmart.com/products/gt-3-flexible-pla-filament?variant=40761143951439
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Matte Cobalt Blue:
+      hex: '#6F7BD4'
+      source: 3dfilamentprofiles.com
+      link: https://www.sainsmart.com/products/gt-3-pla-filament-four-color-bundle?variant=41577005187151#idTab2
+    Matte White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.sainsmart.com/products/gt-3-pla-filament-four-color-bundle?variant=41577005187151#idTab2
+  PVA Basic:
+    Natural:
+      hex: '#F5F5DC'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Blue:
+      hex: '#0068B3'
+      source: 3dfilamentprofiles.com
+    Living Coral:
+      hex: '#E69C56'
+      source: 3dfilamentprofiles.com
+  PLA High Speed Matte:
+    Teal Blue:
+      hex: '#BBCBD2'
+      source: 3dfilamentprofiles.com
+      link: https://www.sainsmart.com/products/gt-3-pla?variant=40667848638543
+    Mint Green:
+      hex: '#D1EEE5'
+      source: 3dfilamentprofiles.com
+      link: https://www.sainsmart.com/products/gt-3-pla?variant=40667848638543
+    Rose Red:
+      hex: '#BA513E'
+      source: 3dfilamentprofiles.com
+      link: https://www.sainsmart.com/products/gt-3-pla?variant=40667848638543
+  PETG Glow:
+    Glow- Blue:
+      hex: '#53D5FD'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FFB0B0'
+      source: 3dfilamentprofiles.com
+    Glow- Green:
+      hex: '#96D35F'
+      source: 3dfilamentprofiles.com
+  TPU Basic:
+    Black:
+      hex: '#1D2223'
+      source: 3dfilamentprofiles.com
+      link: https://www.sainsmart.com/collections/tpu-filament/products/all-colors-tpu-flexible-filament-1-75mm-0-8kg-1-76lb
+    White:
+      hex: '#D2D5D4'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#A9A9A9'
+      source: 3dfilamentprofiles.com
+      link: https://www.sainsmart.com/collections/tpu-filament/products/all-colors-tpu-flexible-filament-1-75mm-0-8kg-1-76lb
+  PEBA 90A:
+    orange:
+      hex: '#FF9300'
+      source: 3dfilamentprofiles.com
+      link: https://www.sainsmart.com/products/peba-filament?variant=43664795435087
+  PLA+/Pro High Speed:
+    Silver:
+      hex: '#606060'
+      source: 3dfilamentprofiles.com
+  TPU High Speed:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.sainsmart.com/products/gt-3-flexible-tpu?variant=41006741356623
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.sainsmart.com/products/gt-3-flexible-tpu?variant=41006741487695
+  PETG Pro:
+    Living Coral:
+      hex: '#FF6F61'
+      source: 3dfilamentprofiles.com
+    Dark Brown:
+      hex: '#583300'
+      source: 3dfilamentprofiles.com
+  TPU LW:
+    Flex Air Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG CF:
+    Bronze:
+      hex: '#807A64'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Blue Green:
+      hex: '#CAF0FE'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PA6 Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.sainsmart.com/products/pa6-nylon-filament-1-75mm-1kg-accuracy-0-04-mm?srsltid=AfmBOoq9dRzxhnqX6FwCXK5l_G8jDfI6tiszg7kqFXgRVBWHfLWpmV3n
+  TPU Matte:
+    Matte Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.sainsmart.com/products/matte-tpu-filament?variant=41773528449103
+    Flat Dark Earth:
+      hex: '#C9B08E'
+      source: 3dfilamentprofiles.com
+    Olive Green:
+      hex: '#B7A982'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Transparent:
+      hex: '#C9C9C9'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Wood Dark:
+      hex: '#7A4A00'
+      source: 3dfilamentprofiles.com
+      link: https://www.sainsmart.com/products/sainsmart-3d-printer-wood-filament-3mm-1kg-dark-brown?srsltid=AfmBOop3dfueC_w13q65m2lBIJAUyrADdCXiiS0zyZnbX7MfjuU8kFfp
+  TPU Translucent:
+    Translucent Red:
+      hex: '#B51A00'
+      source: 3dfilamentprofiles.com
+      link: http://www.sainsmart.com
+  TPU:
+    Neon Cyan:
+      hex: '#8BE6FD'
+      source: 3dfilamentprofiles.com
+      link: https://www.sainsmart.com/products/neon-cyan-cyberpunk-color-tpu-1-75mm-0-8kg-1-76lb
+    Pastel Pink:
+      hex: '#F8BBD9'
+      source: 3dfilamentprofiles.com
+      link: https://www.sainsmart.com/products/pastel-color-1-75mm-92a-flexible-tpu-3d-printer-filament-1kg
+  TPU Air:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://siraya.tech/pages/siraya-tech-tpu-air-user-manual

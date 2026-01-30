@@ -1,0 +1,16 @@
+LBL (UA):
+  PETG Basic:
+    Сoyote:
+      hex: '#8D7432'
+      source: 3dfilamentprofiles.com
+      link: https://lbl-corp.com/copet-petg-plastyk-dlia-3d-pryntera-0.800-kh-260-m-1.75-mm-kaiot/
+  PLA Basic:
+    Mint:
+      hex: '#28FDD8'
+      source: 3dfilamentprofiles.com
+      link: https://lbl-corp.com/pla-pla-plastyk-miatnyi-dlia-3d-pryntera-1.0-kh-335-m-1.75-mm/
+  PETG Translucent:
+    Bottle:
+      hex: '#99FF99'
+      source: 3dfilamentprofiles.com
+      link: https://lbl-corp.com/copet-petg-plastyk-pliashkovyi-prozoryi-dlia-3d-pryntera-0.800-kh-260-m-1.75-mm/

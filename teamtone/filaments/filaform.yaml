@@ -1,0 +1,35 @@
+Filaform:
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA High Speed:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Pink:
+      hex: '#F4A4C0'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF6A00'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0042AA'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#B51A00'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#669C35'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#874EFE'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#53D5FD'
+      source: 3dfilamentprofiles.com

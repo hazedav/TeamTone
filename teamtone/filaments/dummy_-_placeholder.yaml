@@ -1,0 +1,14 @@
+Dummy -  Placeholder:
+  PA (Nylon) Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Gray:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.prigo.dk/vare/prigo-pla-filament-285mm-roed-1-kg/

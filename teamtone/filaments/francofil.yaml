@@ -1,0 +1,92 @@
+Francofil:
+  PLA Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://francofil.fr/product/filament-pla-noir/
+    Blue RAL 5002:
+      hex: '#193278'
+      source: 3dfilamentprofiles.com
+      link: https://francofil.fr/product/filament-pla-bleu-ral-5002/
+    Grey RAL 7000:
+      hex: '#7B858D'
+      source: 3dfilamentprofiles.com
+      link: https://francofil.fr/product/filament-pla-gris-ral-7000/
+    Anthracite RAL 7016:
+      hex: '#3B4044'
+      source: 3dfilamentprofiles.com
+      link: https://francofil.fr/product/filament-pla-anthracite-ral-7016/
+    Grey RAL 7040:
+      hex: '#969CA1'
+      source: 3dfilamentprofiles.com
+      link: https://francofil.fr/product/filament-pla-gris-ral-7040/
+    Orange RAL 2003:
+      hex: '#E17C30'
+      source: 3dfilamentprofiles.com
+      link: https://francofil.fr/product/filament-pla-orange-ral-2003/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://francofil.fr/product/filament-pla-blanc/
+    Yellow RAL 1026:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://francofil.fr/product/filament-pla-jaune-fluo-ral-1026/
+    Yellow RAL 1018:
+      hex: '#EBD346'
+      source: 3dfilamentprofiles.com
+      link: https://francofil.fr/product/filament-pla-jaune-ral-1018/
+    Red RAL 3020:
+      hex: '#AB1519'
+      source: 3dfilamentprofiles.com
+      link: https://francofil.fr/product/filament-pla-rouge-ral-3020/
+    Blue RAL 5015:
+      hex: '#3172AD'
+      source: 3dfilamentprofiles.com
+      link: https://francofil.fr/product/filament-pla-bleu-ral-5015/
+    Pink RAL 4003:
+      hex: '#B65A88'
+      source: 3dfilamentprofiles.com
+      link: https://francofil.fr/product/pla-rose-ral-4003-francofil/
+    Green RAL 6018:
+      hex: '#689A45'
+      source: 3dfilamentprofiles.com
+      link: https://francofil.fr/product/filament-pla-vert-ral-6018/
+    Green RAL 6000:
+      hex: '#4A7363'
+      source: 3dfilamentprofiles.com
+      link: https://francofil.fr/product/filament-pla-vert-ral-6000/
+    Purple RAL 4009:
+      hex: '#95838F'
+      source: 3dfilamentprofiles.com
+      link: https://francofil.fr/product/filament-pla-violet-ral-4009/
+  PETG Basic:
+    Noir:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://francofil.fr/product/petg-noir/
+    Gris:
+      hex: '#5C5C5C'
+      source: 3dfilamentprofiles.com
+      link: https://francofil.fr/product/petg-gris/
+  PLA Metal:
+    Red:
+      hex: '#A62C2B'
+      source: 3dfilamentprofiles.com
+      link: https://francofil.fr/product-category/filaments/
+    Or:
+      hex: '#DDC984'
+      source: 3dfilamentprofiles.com
+      link: https://francofil.fr/product/filament-pla-or/
+    Bronze:
+      hex: '#EF8872'
+      source: 3dfilamentprofiles.com
+      link: https://francofil.fr/product/filament-pla-bronze/
+    Argent:
+      hex: '#BFBCC5'
+      source: 3dfilamentprofiles.com
+      link: https://francofil.fr/product/filament-pla-argent/
+  TPU 95A:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

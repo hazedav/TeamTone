@@ -1,0 +1,41 @@
+MAKO:
+  PETG Basic:
+    Scarlet (алый):
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://3dmako.ru/catalog
+    Черный:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.ozon.ru/product/plastik-dlya-3d-pechati-petg-mako-1-75-chernyy-1-kg-1626799241/
+    Серый:
+      hex: '#666666'
+      source: 3dfilamentprofiles.com
+    Тёмно-Зеленый(Хаки):
+      hex: '#4F553E'
+      source: 3dfilamentprofiles.com
+      link: https://3dmako.ru/catalog
+    Ультрамарин:
+      hex: '#4040FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.ozon.ru/product/petg-ultramarin-svetlo-siniy-poluprozrachnyy-plastik-dlya-3d-printera-mako-1-kg-1574668590/
+    Синий:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.ozon.ru/product/petg-siniy-plastik-dlya-3d-printera-mako-1-kg-1170646793/
+    Белый:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Тёмно-Серый:
+      hex: '#474A51'
+      source: 3dfilamentprofiles.com
+      link: https://www.ozon.ru/product/petg-temno-seryy-plastik-dlya-3d-printera-mako-1-kg-1635603416
+  PLA Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Натуральный:
+      hex: '#DCD9D9'
+      source: 3dfilamentprofiles.com
+      link: https://www.ozon.ru/product/plastik-dlya-3d-pechati-petg-mako-1-75-naturalnyy-1-kg-919875036

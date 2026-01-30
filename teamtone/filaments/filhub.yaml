@@ -1,0 +1,40 @@
+FilHub:
+  PLA Basic:
+    Blood Orange:
+      hex: '#CC5A3E'
+      source: 3dfilamentprofiles.com
+    Light Coffee:
+      hex: '#845D43'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#4D2178'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFE21A'
+      source: 3dfilamentprofiles.com
+      link: https://filhub.pl/produkt/pla-zestaw/
+    Red:
+      hex: '#EB2F1C'
+      source: 3dfilamentprofiles.com
+      link: https://filhub.pl/produkt/pla-zestaw/
+    Grey:
+      hex: '#CDC7BD'
+      source: 3dfilamentprofiles.com
+      link: https://filhub.pl/produkt/pla-zestaw/
+    Pink:
+      hex: '#FFDCE8'
+      source: 3dfilamentprofiles.com
+      link: https://filhub.pl/produkt/pla-zestaw/
+    Blue:
+      hex: '#0C62CE'
+      source: 3dfilamentprofiles.com
+      link: https://filhub.pl/produkt/pla-zestaw/
+    White:
+      hex: '#D6D9DD'
+      source: 3dfilamentprofiles.com
+      link: https://filhub.pl/produkt/pla-zestaw/
+  PETG Glitter:
+    silver metalic:
+      hex: '#BBC2C9'
+      source: 3dfilamentprofiles.com
+      link: https://filhub.pl/produkt/petg/

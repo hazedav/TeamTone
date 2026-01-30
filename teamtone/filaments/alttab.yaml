@@ -1,0 +1,74 @@
+AltTab:
+  PLA+/Pro Basic:
+    Orange:
+      hex: '#FF7300'
+      source: 3dfilamentprofiles.com
+      link: https://alttabelectronics.com/
+    Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#8F8F8F'
+      source: 3dfilamentprofiles.com
+    Cool White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://alttabelectronics.com/
+    Blue:
+      hex: '#2B00FF'
+      source: 3dfilamentprofiles.com
+      link: https://alttabelectronics.com/
+    Yellow:
+      hex: '#FBFF00'
+      source: 3dfilamentprofiles.com
+      link: https://alttabelectronics.com/
+  PLA Silk:
+    Tri-Color (Gold/Silver/Copper):
+      hex: '#FF6600,#C8E9F3,#D69200'
+      source: 3dfilamentprofiles.com
+      link: https://alttabelectronics.com/products/silk-pla-filament-1-75mm-1kg
+    Tri-Color (Red/Blue/Yellow):
+      hex: '#FF0000,#2200CC,#FBFF00'
+      source: 3dfilamentprofiles.com
+      link: https://alttabelectronics.com/products/silk-pla-filament-1-75mm-1kg
+    Tri-Color (Green/Blue/Red):
+      hex: '#00FF02,#2200CC,#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://alttabelectronics.com/products/silk-pla-filament-1-75mm-1kg
+  PLA+/Pro Silk Triple:
+    Tri-Color (Red/Yellow/Blue):
+      hex: '#FF0000,#FBFF00,#2200CC'
+      source: 3dfilamentprofiles.com
+    Tri-Color (Gold/Silver/Copper):
+      hex: '#D69200,#C8E9F3,#FF6600'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Pro:
+    Poly Fossil Grey:
+      hex: '#6F727E'
+      source: 3dfilamentprofiles.com
+      link: https://alttabelectronics.com/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://alttabelectronics.com/products/bundle-pla-pro-plus-pla-filament-1-75mm-1kg
+    BLabs Purple:
+      hex: '#5E43B7'
+      source: 3dfilamentprofiles.com
+      link: https://alttabelectronics.com/
+    Poly Red:
+      hex: '#E72F1D'
+      source: 3dfilamentprofiles.com
+      link: https://alttabelectronics.com/
+    Poly Cotton White:
+      hex: '#E6DDDB'
+      source: 3dfilamentprofiles.com
+      link: https://alttabelectronics.com/
+  PETG Basic:
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://alttabelectronics.com/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://alttabelectronics.com/products/petg-3d-printer-filament-basic-series-1-75mm-1kg

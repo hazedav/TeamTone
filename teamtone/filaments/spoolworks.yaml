@@ -1,0 +1,8 @@
+SpoolWorks:
+  ASA Basic:
+    Red:
+      hex: '#E61017'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#0A92F4'
+      source: 3dfilamentprofiles.com

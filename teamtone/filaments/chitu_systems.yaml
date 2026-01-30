@@ -1,0 +1,56 @@
+Chitu Systems:
+  PETG Basic:
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.chitusystems.com
+  PLA Silk Triple:
+    Green/Gold/Orange:
+      hex: '#32FEB5,#FDF1B4,#FFB07F'
+      source: 3dfilamentprofiles.com
+      link: https://www.chitusystems.com/product/conjure-silk-pla-3d-printer-filament/
+    Red Gold Blue:
+      hex: '#D60A23,#F5CC27,#3F30FA'
+      source: 3dfilamentprofiles.com
+      link: https://www.chitusystems.com/product/conjure-silk-pla-3d-printer-filament/
+    Red Yellow Blue:
+      hex: '#D60A23,#FFED09,#3F30FA'
+      source: 3dfilamentprofiles.com
+      link: https://www.chitusystems.com/product/conjure-silk-pla-3d-printer-filament/
+    Red Gold Purple:
+      hex: '#D60A23,#EDC21B,#8000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.chitusystems.com/product/conjure-silk-pla-3d-printer-filament/
+    Black Blue Purple:
+      hex: '#000000,#0F1BF9,#8000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.chitusystems.com/product/conjure-silk-pla-3d-printer-filament/
+    Red Blue Green:
+      hex: '#FF2B2B,#0F1BF9,#00D000'
+      source: 3dfilamentprofiles.com
+      link: https://www.chitusystems.com/product/conjure-silk-pla-3d-printer-filament/
+  PLA Gradient Matte:
+    Conjure Matte Rainbow:
+      hex: '#80B3E5,#AEEFBB,#B09CCE,#EFF2F6'
+      source: 3dfilamentprofiles.com
+      link: https://www.chitusystems.com/products/matte-rainbow-pla-filament?srsltid=AfmBOoqsDiUsK8_hbUi_V-BbXG8ncfmC63j3k0E9kDzRnDQVPtkzfPBG
+  PLA Silk Dual:
+    Black Red:
+      hex: '#3F0D0D'
+      source: 3dfilamentprofiles.com
+      link: https://www.chitusystems.com/collections/3d-printing-filament/products/conjure-silk-dual-color-pla-filament?variant=45779578716396
+    Black Gold:
+      hex: '#36370B'
+      source: 3dfilamentprofiles.com
+      link: https://www.chitusystems.com/collections/3d-printing-filament/products/conjure-silk-dual-color-pla-filament?variant=45779578683628
+    Black Purple:
+      hex: '#2A0A33'
+      source: 3dfilamentprofiles.com
+      link: https://www.chitusystems.com/collections/3d-printing-filament/products/conjure-silk-dual-color-pla-filament?variant=45827098607852
+    Black Dark Green:
+      hex: '#07310F'
+      source: 3dfilamentprofiles.com
+      link: https://www.chitusystems.com/collections/3d-printing-filament/products/conjure-silk-dual-color-pla-filament?variant=45779578781932
+    Blue Green:
+      hex: '#43B3AE'
+      source: 3dfilamentprofiles.com

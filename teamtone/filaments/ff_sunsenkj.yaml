@@ -1,0 +1,62 @@
+FF SUNSENKJ:
+  PLA Silk Dual:
+    Blue Red:
+      hex: '#0061FE,#E22400'
+      source: 3dfilamentprofiles.com
+  PLA Chameleon:
+    Bronze / Rose:
+      hex: '#C17453'
+      source: 3dfilamentprofiles.com
+    Gold / Green:
+      hex: '#50682C'
+      source: 3dfilamentprofiles.com
+    Dark Orange / Cyan:
+      hex: '#AC722F'
+      source: 3dfilamentprofiles.com
+    Reddish Brown:
+      hex: '#B64225'
+      source: 3dfilamentprofiles.com
+    Green Purple:
+      hex: '#005046,#5B0074'
+      source: 3dfilamentprofiles.com
+    Royal Green:
+      hex: '#305A4F'
+      source: 3dfilamentprofiles.com
+    Nebula Purple:
+      hex: '#3D385F,#15538C,#246788'
+      source: 3dfilamentprofiles.com
+    Blue+Purple:
+      hex: '#2C475C'
+      source: 3dfilamentprofiles.com
+    Purple Nebula:
+      hex: '#3022FC'
+      source: 3dfilamentprofiles.com
+  PLA Sparkle:
+    Starlight Purple:
+      hex: '#6C007F'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Red Green Blue:
+      hex: '#FF0000,#00FF00,#0000FF'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Gold Blue Fuchsia:
+      hex: '#C8AF00,#0D00CD,#CB00C3'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#E22400'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0017AD'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,14 @@
+Neofil3D:
+  PLA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.neofil3d.com/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.neofil3d.com/
+  ABS Basic:
+    Bleu:
+      hex: '#30A8FD'
+      source: 3dfilamentprofiles.com

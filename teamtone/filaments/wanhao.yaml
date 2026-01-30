@@ -1,0 +1,81 @@
+Wanhao:
+  PLA Premium:
+    Rouge père noël:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://wanhao-europe.com/products/pla-wanhao-rouge-red-1kg-1-75mm?variant=47709591568724
+    Gris:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://wanhao-europe.com/products/pla-wanhao-gris-1kg?variant=47709591732564
+    Noir:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    YUMI ROUGE:
+      hex: '#DD0A1A'
+      source: 3dfilamentprofiles.com
+      link: https://artillery3dexpert.fr/products/filament-pla-premium-rouge-1kg-1-75mm
+    HYPER YUMI MATTE BLEU:
+      hex: '#0599E9,#0C9CED'
+      source: 3dfilamentprofiles.com
+      link: https://wanhao-europe.com/products/pla-premium-matte-wanhao-bleu-1kg-1-75mm?variant=47709575381332
+    Blanc Neige:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://wanhao-europe.com/products/pla-wanhao-blanc-white-1kg?variant=47709592420692
+    Vert Saint Patrick:
+      hex: '#008000'
+      source: 3dfilamentprofiles.com
+      link: https://wanhao-europe.com/products/pla-wanhao-vert-fonce-1kg?variant=47709592682836
+    Jaune:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://wanhao-europe.com/products/pla-wanhao-jaune-yellow-1kg?variant=47709592191316
+    Bleu nuit Onestrikers:
+      hex: '#253CE9'
+      source: 3dfilamentprofiles.com
+      link: https://wanhao-europe.com/products/pla-wanhao-bleu-nuit-dark-blue-1kg?variant=47709592715604
+    ORANGE:
+      hex: '#FF8000'
+      source: 3dfilamentprofiles.com
+      link: https://wanhao-europe.com/collections/filament-ender-3-pla-imprimante-3d/products/pla-wanhao-orange-1kg?variant=47710877548884
+    VIOLET:
+      hex: '#800080'
+      source: 3dfilamentprofiles.com
+      link: https://wanhao-europe.com/collections/filament-ender-3-pla-imprimante-3d/products/pla-wanhao-violet-purple-1kg?variant=47709593960788
+    FLAMANT ROSE:
+      hex: '#F98C99'
+      source: 3dfilamentprofiles.com
+      link: https://wanhao-europe.com/products/pla-wanhao-rose-pink-1kg?variant=47709593764180
+  PLA+/Pro Silk Dual:
+    Blue - Purple:
+      hex: '#5E30EB'
+      source: 3dfilamentprofiles.com
+      link: https://wanhao-europe.com/products/pla-silk-magic-bleu-ciel-violet-premium-wanhao-1-75mm-1-kg?variant=47709575315796
+  PLA+/Pro Silk:
+    Blue Sky:
+      hex: '#00A3D7'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    MATTE MACARON ICE BLUE:
+      hex: '#8BB8E8'
+      source: 3dfilamentprofiles.com
+      link: https://wanhao-europe.com/products/pla-premium-matte-macaron-ice-blue-1kg-1-75mm-wanhao?variant=47709576495444
+    noire:
+      hex: '#0D0D0D'
+      source: 3dfilamentprofiles.com
+      link: https://wanhao-europe.com/products/pla-wanhao-orange-1kg?variant=50949284594004
+    Orange:
+      hex: '#FF9300'
+      source: 3dfilamentprofiles.com
+      link: https://wanhao-europe.com/products/pla-wanhao-orange-1kg?variant=50949284594004
+  PLA Silk:
+    gold copper:
+      hex: '#ECAD6E'
+      source: 3dfilamentprofiles.com
+      link: https://wanhao-europe.com/products/pla-silk-or-cuivre-premium-wanhao-1-75mm-1-kg?variant=47709580853588
+  PLA Silk Dual:
+    Ice Water Ocean:
+      hex: '#3A88FE'
+      source: 3dfilamentprofiles.com
+      link: https://wanhao-europe.com/products/pla-silk-premium-wanhao-multicolore-arc-en-ciel-ice-water-ocean-1kg?variant=47709573513556

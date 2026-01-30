@@ -1,0 +1,135 @@
+eono:
+  TPU:
+    Black  ⚡Conductive:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PVB Marble:
+    Marble White:
+      hex: '#F4F4F4'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Copper:
+      hex: '#E8BA3B'
+      source: 3dfilamentprofiles.com
+    Silk Purple:
+      hex: '#5742AE'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+    Weiss:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#EB97ED'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Blue:
+      hex: '#0A2989'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#787878'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#787878'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    Rainbow:
+      hex: '#D4E3FE'
+      source: 3dfilamentprofiles.com
+    Transparent:
+      hex: '#C5C7C9'
+      source: 3dfilamentprofiles.com
+    jadeit:
+      hex: '#74D96D'
+      source: 3dfilamentprofiles.com
+    citrine:
+      hex: '#EDE939'
+      source: 3dfilamentprofiles.com
+    kunzite:
+      hex: '#7269F7'
+      source: 3dfilamentprofiles.com
+    Bright White:
+      hex: '#FAFAFA'
+      source: 3dfilamentprofiles.com
+    Green Starry:
+      hex: '#004000'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PVB Basic:
+    Grey:
+      hex: '#58595A'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000305'
+      source: 3dfilamentprofiles.com
+  PP Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Red/Gold/Blue:
+      hex: '#FF2600,#929000,#0432FF'
+      source: 3dfilamentprofiles.com
+    Green/Purple/Copper:
+      hex: '#008E00,#521B92,#941100'
+      source: 3dfilamentprofiles.com
+    Blue/Purple/Yellow:
+      hex: '#011892,#521B92,#929000'
+      source: 3dfilamentprofiles.com
+    Rose Red/Blue/Green:
+      hex: '#941100,#011892,#008F51'
+      source: 3dfilamentprofiles.com
+    ‎3-Silk Rot Gold Blau:
+      hex: '#3A88FE'
+      source: 3dfilamentprofiles.com
+  TPU Silk:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#FF00FF'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#F8BA47'
+      source: 3dfilamentprofiles.com
+  PLA Silk Rainbow:
+    Candy Series:
+      hex: '#2EFFB9,#E76EF7,#F7E46E'
+      source: 3dfilamentprofiles.com
+  TPU Basic:
+    Transparent:
+      hex: '#C5C7C9'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Blue:
+      hex: '#0091E4'
+      source: 3dfilamentprofiles.com
+  PLA Chameleon:
+    Black Colorshift:
+      hex: '#000040'
+      source: 3dfilamentprofiles.com
+  PLA Gradient:
+    Black White:
+      hex: '#000000,#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black Blue:
+      hex: '#000000,#000A83'
+      source: 3dfilamentprofiles.com
+  PLA Galaxy:
+    Galaxy Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Glitter:
+    Glitter Gold-Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

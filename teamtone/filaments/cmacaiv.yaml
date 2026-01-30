@@ -1,0 +1,16 @@
+CMACAIV:
+  PLA Color Change (UV):
+    Color Change White to Purple:
+      hex: '#FFFFFF,#A31DFC'
+      source: 3dfilamentprofiles.com
+    White to Red:
+      hex: '#FFFFFF,#DA3E3E'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Black Red:
+      hex: '#000000,#FF0000'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Rainbow B:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com

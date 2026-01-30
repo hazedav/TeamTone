@@ -1,0 +1,18 @@
+LVVJ3D:
+  PLA Wood:
+    Walnut:
+      hex: '#503121'
+      source: 3dfilamentprofiles.com
+    Cherry:
+      hex: '#8F3000'
+      source: 3dfilamentprofiles.com
+    Teak:
+      hex: '#C16A3E'
+      source: 3dfilamentprofiles.com
+    Oak Wood:
+      hex: '#A98770'
+      source: 3dfilamentprofiles.com
+  PLA Silk Rainbow:
+    Candy Rainbow:
+      hex: '#FF8DF1,#00DDDB,#FFF184'
+      source: 3dfilamentprofiles.com

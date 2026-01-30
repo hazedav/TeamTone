@@ -1,0 +1,25 @@
+taulman3D:
+  PA (Nylon):
+    Natural:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Alloy910:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.taulman3d.com/bridge-nylon.html
+  PETG Blend:
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: http://www.taulman3d.com/techg-spec.html
+  PA6:
+    (Nylon 230) Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Recycled:
+    Translucent Aqua:
+      hex: '#93CDF9'
+      source: 3dfilamentprofiles.com

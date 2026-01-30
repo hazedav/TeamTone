@@ -1,0 +1,5 @@
+BAREfilament:
+  TPU 90A:
+    Green:
+      hex: '#00512A'
+      source: 3dfilamentprofiles.com

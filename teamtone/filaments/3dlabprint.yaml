@@ -1,0 +1,16 @@
+3DLabPrint:
+  PLA Aero:
+    Orange:
+      hex: '#FF9300'
+      source: 3dfilamentprofiles.com
+      link: https://3dlabprint.com/shop/polylight-1-0-lw-pla-orange/
+  TPU LW:
+    Flexi Light:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dlabprint.com/shop/flexilight-lw/
+  PLA LW:
+    Cub yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://3dlabprint.com/shop/polylight-1-0-lw-pla-filament/

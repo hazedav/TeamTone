@@ -1,0 +1,87 @@
+Real:
+  PLA Basic:
+    Light Blue:
+      hex: '#69C2F8'
+      source: 3dfilamentprofiles.com
+      link: https://www.123-3d.ie/REAL-nuclear-green-PLA-filament-1-75mm-1kg-i608-t27059.html
+    Nuclear Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.123-3d.ie/REAL-nuclear-green-PLA-filament-1-75mm-1kg-i608-t27059.html
+    Dark blue:
+      hex: '#0019D6'
+      source: 3dfilamentprofiles.com
+      link: https://www.123-3d.nl/REAL-filament-blauw-1-75-mm-PLA-1-kg-i10373-t27059.html
+    Satin Splash:
+      hex: '#0080FF'
+      source: 3dfilamentprofiles.com
+      link: http://real-filament.com/3d-filament/pla
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.123-3d.nl/REAL-filament-wit-1-75-mm-PLA-1-kg-i10390-t27059.html
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.123-3d.ie/REAL-nuclear-green-PLA-filament-1-75mm-1kg-i608-t27059.html
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.123-3d.nl/REAL-filament-geel-1-75-mm-PLA-1-kg-DFP02009-i590-t27059.html
+    Dark grey:
+      hex: '#404040'
+      source: 3dfilamentprofiles.com
+      link: https://www.123-3d.nl/REAL-filament-grijs-1-75-mm-PLA-1-kg-i10352-t7325.html
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PETG+:
+    brass:
+      hex: '#2A834C'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Purple:
+      hex: '#78218A'
+      source: 3dfilamentprofiles.com
+      link: https://real-filament.com/3d-filament/abs
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://real-filament.com/3d-filament/abs
+  PLA Glow:
+    Glow in the dark:
+      hex: '#C2EBB4'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Shadow Grey:
+      hex: '#6A6A6A'
+      source: 3dfilamentprofiles.com
+    Dark Red:
+      hex: '#7D1A1C'
+      source: 3dfilamentprofiles.com
+    Neutral:
+      hex: '#F7F7F8'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Translucent Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://real-filament.com/3d-filament/petg
+    Clear:
+      hex: '#F0F2F5'
+      source: 3dfilamentprofiles.com
+      link: https://real-filament.com/3d-filament/petg
+  PLA Fluorescent:
+    Fluorescent pink:
+      hex: '#FF00FF'
+      source: 3dfilamentprofiles.com
+  PLA High Gloss:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+  PLA Sparkle:
+    Purple Topaz:
+      hex: '#FC1DC5'
+      source: 3dfilamentprofiles.com
+      link: https://www.123-3d.nl/REAL-Sparkle-Purple-Topaz-filament-1-75-mm-PLA-0-5-kg-i10451.html

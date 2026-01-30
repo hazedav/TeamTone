@@ -1,0 +1,16 @@
+Zhuopu:
+  PLA Wood:
+    Deep Wood:
+      hex: '#B59381'
+      source: 3dfilamentprofiles.com
+  PLA Marble:
+    Beige Marble:
+      hex: '#E2E5D4'
+      source: 3dfilamentprofiles.com
+    Marble Gray:
+      hex: '#CBD0D8'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Burgundy:
+      hex: '#7E5769'
+      source: 3dfilamentprofiles.com

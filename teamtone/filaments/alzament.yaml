@@ -1,0 +1,104 @@
+Alzament:
+  PETG Basic:
+    Gold:
+      hex: '#FFCC00'
+      source: 3dfilamentprofiles.com
+      link: https://www.alza.cz/alzament-petg-hyper-1-kg-white-d12869968.htm
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.alza.cz/alzament-petg-hyper-1-kg-white-d12869968.htm
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.alza.cz/alzament-petg-1-kg-blue-d12869962.htm.
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.alza.cz/alzament-petg-1-kg-blue-d12869962.htm.
+    Silver:
+      hex: '#CCCCCC'
+      source: 3dfilamentprofiles.com
+      link: https://www.alza.cz/alzament-petg-1-kg-silver-d12869961.htm
+  PLA Basic:
+    Sky Blue:
+      hex: '#45C8D6'
+      source: 3dfilamentprofiles.com
+      link: https://www.alza.cz/alzament-pla-basic-1-kg-sky-blue-d13015332.htm
+    Purple:
+      hex: '#9D00FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.alza.sk/alzament-pla-basic-1-kg-purple-d13015315.htm
+    Yellow:
+      hex: '#FFE226'
+      source: 3dfilamentprofiles.com
+      link: https://www.alza.cz/alzament-pla-basic-1kg-yellow-d12717994.htm
+    Red:
+      hex: '#D9454C'
+      source: 3dfilamentprofiles.com
+      link: https://www.alza.cz/alzament-pla-basic-1kg-red-d12718000.htm
+    Gold:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+      link: https://www.alza.cz/alzament-pla-basic-1-kg-gold-d13015318.htm
+    Fire Engine Red:
+      hex: '#91202B'
+      source: 3dfilamentprofiles.com
+      link: https://www.alza.cz/alzament-pla-basic-1-kg-fire-engine-red-d13015317.htm
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.alza.cz/alzament-pla-basic-1kg-black-d12717998.htm
+    Mint Green:
+      hex: '#7AFFE4'
+      source: 3dfilamentprofiles.com
+      link: https://www.alza.cz/alzament-pla-basic-1-kg-mint-green-d13015322.htm
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.alza.cz/alzament-pla-basic-1kg-white-d12717999.htm
+    Rose:
+      hex: '#FF5792'
+      source: 3dfilamentprofiles.com
+      link: https://www.alza.cz/alzament-pla-basic-1-kg-rose-d13015328.htm
+  PLA+/Pro High Speed:
+    HyperPLA+:
+      hex: '#FFE747'
+      source: 3dfilamentprofiles.com
+      link: https://www.alza.cz/alzament-hyper-pla-1kg-yellow-d12717986.htm
+  PLA+/Pro Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.alza.cz/alzament-pla-1kg-white-d12717987.htm
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.alza.cz/alzament-pla-1kg-black-d12717991.htm
+  PLA Silk Dual:
+    Red - Green:
+      hex: '#1D6E40,#64141B'
+      source: 3dfilamentprofiles.com
+      link: https://www.alza.cz/pla-silk-filamenty/alzament/18881279-v46531.htm
+    Blue-Pink:
+      hex: '#0000FF,#DE3163'
+      source: 3dfilamentprofiles.com
+      link: https://www.alza.cz/alzament-pla-silk-dual-color-1-kg-blue-pink-d12869934.htm
+  PLA Silk:
+    Gold-Green-Rose Red:
+      hex: '#F3B91B,#0FD21C,#EC137C'
+      source: 3dfilamentprofiles.com
+      link: https://www.alza.cz/alzament-pla-silk-tri-color-1-kg-gold-green-rose-red-d12869941.htm
+  PLA Silk Triple:
+    Copper - Silver - Gold:
+      hex: '#B4BAC0,#F09D0F,#E6D40A'
+      source: 3dfilamentprofiles.com
+      link: https://www.alza.cz/pla-silk-filamenty/alzament/18881279-v46531.htm
+  PLA Matte:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.alza.cz/alzament-pla-matte-1-kg-white-d12869944.htm

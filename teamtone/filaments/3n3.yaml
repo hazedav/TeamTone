@@ -1,0 +1,23 @@
+3n3:
+  PLA Basic:
+    Gris Acero:
+      hex: '#272727'
+      source: 3dfilamentprofiles.com
+      link: https://www.instagram.com/3n3.nth
+    Hueso:
+      hex: '#DFEFA3'
+      source: 3dfilamentprofiles.com
+  PLA Premium:
+    Cinza Aço:
+      hex: '#333130'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Bronze:
+      hex: '#766528'
+      source: 3dfilamentprofiles.com

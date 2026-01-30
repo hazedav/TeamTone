@@ -1,0 +1,50 @@
+HZST3D:
+  PLA Silk:
+    SPARKLE BLACK:
+      hex: '#070B0E'
+      source: 3dfilamentprofiles.com
+    Elixir Blue (Silver/Blue:
+      hex: '#53AFF4'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#5A45BA'
+      source: 3dfilamentprofiles.com
+    Silk Rose:
+      hex: '#CD0BBA'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Gun Metal:
+      hex: '#818589'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Marble:
+      hex: '#B9B4B1'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#362796'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#3D43A4'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFEA00'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#F1A6F7'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#C50260'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Flame Orange:
+      hex: '#BF494B'
+      source: 3dfilamentprofiles.com

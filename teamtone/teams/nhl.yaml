@@ -1,0 +1,301 @@
+NHL:
+  Anaheim Ducks:
+    colors:
+    - Black
+    - Gold
+    - Orange
+    hex:
+    - '#000000'
+    - '#F47A38'
+    - '#B9975B'
+  Arizona Coyotes:
+    colors:
+    - Sedona Red
+    - Desert Sand
+    - Black
+    - White
+    hex:
+    - '#8C2633'
+    - '#E2D6B5'
+    - '#000000'
+    - '#FFFFFF'
+  Boston Bruins:
+    colors:
+    - Black
+    - Gold
+    - White
+    hex:
+    - '#000000'
+    - '#FFB81C'
+    - '#FFFFFF'
+  Buffalo Sabres:
+    colors:
+    - Navy Blue
+    - Gold
+    - White
+    hex:
+    - '#002654'
+    - '#FCB514'
+    - '#FFFFFF'
+  Calgary Flames:
+    colors:
+    - Red
+    - Gold
+    - Black
+    - White
+    hex:
+    - '#C8102E'
+    - '#F1BE48'
+    - '#000000'
+    - '#FFFFFF'
+  Carolina Hurricanes:
+    colors:
+    - Red
+    - Black
+    - White
+    hex:
+    - '#CC0000'
+    - '#000000'
+    - '#FFFFFF'
+  Chicago Blackhawks:
+    colors:
+    - Red
+    - Black
+    - White
+    hex:
+    - '#CF0A2C'
+    - '#000000'
+    - '#FFFFFF'
+  Colorado Avalanche:
+    colors:
+    - Burgundy
+    - Steel Blue
+    - Black
+    - Silver
+    hex:
+    - '#6F263D'
+    - '#236192'
+    - '#000000'
+    - '#A2AAAD'
+  Columbus Blue Jackets:
+    colors:
+    - Union Blue
+    - Red
+    - Silver
+    hex:
+    - '#002654'
+    - '#CE1126'
+    - '#A4A9AD'
+  Dallas Stars:
+    colors:
+    - Victory Green
+    - Black
+    - Silver
+    hex:
+    - '#006847'
+    - '#000000'
+    - '#8F8F8C'
+  Detroit Red Wings:
+    colors:
+    - Red
+    - White
+    hex:
+    - '#CE1126'
+    - '#FFFFFF'
+  Edmonton Oilers:
+    colors:
+    - Orange
+    - Blue
+    - White
+    hex:
+    - '#FF4C00'
+    - '#041E42'
+    - '#FFFFFF'
+  Florida Panthers:
+    colors:
+    - Red
+    - Navy Blue
+    - Gold
+    hex:
+    - '#C8102E'
+    - '#041E42'
+    - '#B9975B'
+  Los Angeles Kings:
+    colors:
+    - Black
+    - Silver
+    - White
+    hex:
+    - '#000000'
+    - '#A2AAAD'
+    - '#FFFFFF'
+  Minnesota Wild:
+    colors:
+    - Forest Green
+    - Iron Range Red
+    - Wheat
+    - White
+    hex:
+    - '#154734'
+    - '#A6192E'
+    - '#EAAA00'
+    - '#FFFFFF'
+  Montreal Canadiens:
+    colors:
+    - Red
+    - Blue
+    - White
+    hex:
+    - '#AF1E2D'
+    - '#192168'
+    - '#FFFFFF'
+  Nashville Predators:
+    colors:
+    - Navy Blue
+    - Gold
+    - White
+    hex:
+    - '#041E42'
+    - '#FFB81C'
+    - '#FFFFFF'
+  New Jersey Devils:
+    colors:
+    - Red
+    - Black
+    - White
+    hex:
+    - '#CE1126'
+    - '#000000'
+    - '#FFFFFF'
+  New York Islanders:
+    colors:
+    - Blue
+    - Orange
+    - White
+    hex:
+    - '#00539B'
+    - '#F47D30'
+    - '#FFFFFF'
+  New York Rangers:
+    colors:
+    - Blue
+    - Red
+    - White
+    hex:
+    - '#0038A8'
+    - '#CE1126'
+    - '#FFFFFF'
+  Ottawa Senators:
+    colors:
+    - Red
+    - Black
+    - Gold
+    hex:
+    - '#C52032'
+    - '#000000'
+    - '#C2912C'
+  Philadelphia Flyers:
+    colors:
+    - Orange
+    - Black
+    - White
+    hex:
+    - '#F74902'
+    - '#000000'
+    - '#FFFFFF'
+  Pittsburgh Penguins:
+    colors:
+    - Black
+    - Pittsburgh Gold
+    - White
+    hex:
+    - '#000000'
+    - '#CFC493'
+    - '#FFFFFF'
+  San Jose Sharks:
+    colors:
+    - Deep Pacific Teal
+    - Black
+    - Orange
+    hex:
+    - '#006D75'
+    - '#000000'
+    - '#EA7200'
+  Seattle Kraken:
+    colors:
+    - Deep Sea Blue
+    - Ice Blue
+    - Boundless Blue
+    - Red Alert
+    hex:
+    - '#001628'
+    - '#99D9D9'
+    - '#355464'
+    - '#E9072B'
+  St. Louis Blues:
+    colors:
+    - Blue
+    - Gold
+    - Navy Blue
+    - White
+    hex:
+    - '#002F87'
+    - '#FCB514'
+    - '#041E42'
+    - '#FFFFFF'
+  Tampa Bay Lightning:
+    colors:
+    - Blue
+    - Black
+    - White
+    hex:
+    - '#002868'
+    - '#000000'
+    - '#FFFFFF'
+  Toronto Maple Leafs:
+    colors:
+    - Blue
+    - White
+    hex:
+    - '#00205B'
+    - '#FFFFFF'
+  Vancouver Canucks:
+    colors:
+    - Blue
+    - Green
+    - Silver
+    hex:
+    - '#00205B'
+    - '#00843D'
+    - '#99999A'
+  Vegas Golden Knights:
+    colors:
+    - Steel Grey
+    - Gold
+    - Red
+    - Black
+    hex:
+    - '#B4975A'
+    - '#333F42'
+    - '#C8102E'
+    - '#000000'
+  Washington Capitals:
+    colors:
+    - Red
+    - Navy Blue
+    - White
+    hex:
+    - '#041E42'
+    - '#C8102E'
+    - '#FFFFFF'
+  Winnipeg Jets:
+    colors:
+    - Navy Blue
+    - Blue
+    - Red
+    - Silver
+    hex:
+    - '#041E42'
+    - '#004C97'
+    - '#AC162C'
+    - '#8E9090'

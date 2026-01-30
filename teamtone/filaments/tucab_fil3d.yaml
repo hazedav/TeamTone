@@ -1,0 +1,74 @@
+Tucab Fil3D:
+  PLA Basic:
+    Metalic Black:
+      hex: '#2C2C2B'
+      source: 3dfilamentprofiles.com
+      link: https://f3d.pt/product/fil3d-4032d-pla-tucab/
+    Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+      link: https://f3d.pt/product/fil3d-4032d-pla-tucab/
+    Pink:
+      hex: '#DA5BA1'
+      source: 3dfilamentprofiles.com
+      link: https://f3d.pt/product/fil3d-4032d-pla-tucab/
+    Violet:
+      hex: '#9100FF'
+      source: 3dfilamentprofiles.com
+      link: https://f3d.pt/product/fil3d-4032d-pla-tucab/
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://f3d.pt/product/fil3d-4032d-pla-tucab/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://f3d.pt/product/fil3d-4032d-pla-tucab/
+    Gray:
+      hex: '#999999'
+      source: 3dfilamentprofiles.com
+      link: https://f3d.pt/product/fil3d-4032d-pla-tucab/
+    Copper:
+      hex: '#C68346'
+      source: 3dfilamentprofiles.com
+      link: https://f3d.pt/product/fil3d-4032d-pla-tucab/
+    Orange:
+      hex: '#FFA500'
+      source: 3dfilamentprofiles.com
+      link: https://f3d.pt/product/fil3d-4032d-pla-tucab/
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://f3d.pt/product/fil3d-4032d-pla-tucab/
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://f3d.pt/product/fil3d-4032d-pla-tucab/
+    Gold:
+      hex: '#EFBF04'
+      source: 3dfilamentprofiles.com
+      link: https://f3d.pt/product/fil3d-4032d-pla-tucab/
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.tucab.pt/en/Fil-3D/3D-Filament-PETG
+    Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+      link: https://f3d.pt/product/f3d-petg-tucab/
+  PLA Silk:
+    Brown:
+      hex: '#895129'
+      source: 3dfilamentprofiles.com
+      link: https://f3d.pt/product/fil3d-4032d-pla-tucab/
+  PLA+/Pro Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://f3d.pt/product/fil3d-4032d-pla-tucab/
+  PLA Glitter:
+    Gold:
+      hex: '#EFBF04'
+      source: 3dfilamentprofiles.com
+      link: https://f3d.pt/product/fil3d-4032d-pla-tucab/

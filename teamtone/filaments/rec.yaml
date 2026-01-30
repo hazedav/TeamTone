@@ -1,0 +1,16 @@
+REC:
+  PETG Basic:
+    Blue:
+      hex: '#13447C'
+      source: 3dfilamentprofiles.com
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    White:
+      hex: '#F4F8F4'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Gold:
+      hex: '#927549'
+      source: 3dfilamentprofiles.com

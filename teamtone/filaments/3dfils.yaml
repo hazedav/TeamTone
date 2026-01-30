@@ -1,0 +1,35 @@
+3DFILS:
+  PLA Basic:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Electric blue:
+      hex: '#0040FF'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF6A00'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dfils.com/en/products/filamento-pla-negro
+  PLA Glitter:
+    Galactic Gray:
+      hex: '#4F4F4F'
+      source: 3dfilamentprofiles.com
+    Galactic Red:
+      hex: '#DA152D'
+      source: 3dfilamentprofiles.com
+      link: https://3dfils.com/en/products/filamento-pla-glitter-rojo
+    Galactic Clear:
+      hex: '#C6C7C1'
+      source: 3dfilamentprofiles.com
+      link: https://3dfils.com/products/filamento-pla-glitter-clear
+  PETG Matte:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com

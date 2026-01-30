@@ -1,0 +1,145 @@
+PrimaSelect:
+  ABS:
+    Grey:
+      hex: '#8A9399'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dprima.com/pl/primaselect-abs_30266_12961
+  PETG Basic:
+    Transparent Red:
+      hex: '#D42121'
+      source: 3dfilamentprofiles.com
+    Solid Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Solid White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Chameleon:
+    Blue / Green:
+      hex: '#2066AC,#20833E'
+      source: 3dfilamentprofiles.com
+    Pink/Yellow Fluoride:
+      hex: '#FF5F11'
+      source: 3dfilamentprofiles.com
+    Silver / Gold:
+      hex: '#9E9E9E,#FFD900'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Skin:
+      hex: '#FBC49B'
+      source: 3dfilamentprofiles.com
+    Satin White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Antique Copper:
+      hex: '#D56839'
+      source: 3dfilamentprofiles.com
+  PA6:
+    Natural:
+      hex: '#F0E9E8'
+      source: 3dfilamentprofiles.com
+  PLA Pastello:
+    Hubba Bubba Pink:
+      hex: '#FFC1CC'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dprima.com/se/primaselect-pla-pastel_30285_13185
+  PLA Metal:
+    Silver Surfer:
+      hex: '#BCC6CC'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Surgical Green:
+      hex: '#009F6B'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#D29D39'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#030303'
+      source: 3dfilamentprofiles.com
+    Rose Gold Metal Shine:
+      hex: '#C9015B'
+      source: 3dfilamentprofiles.com
+    Magenta:
+      hex: '#FF00FF'
+      source: 3dfilamentprofiles.com
+    Florecent Yellow:
+      hex: '#CCFF00'
+      source: 3dfilamentprofiles.com
+    Toxic Green:
+      hex: '#61DE2A'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Blood Red:
+      hex: '#780606'
+      source: 3dfilamentprofiles.com
+  PLA:
+    Red metallic:
+      hex: '#4E1309'
+      source: 3dfilamentprofiles.com
+    PLA Streams Green / Northern Lights:
+      hex: '#2D4552'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Clear White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://primacreator.com/products/primaselect-petg?variant=48794109870427
+  PLA Premium:
+    Blood Red:
+      hex: '#780606'
+      source: 3dfilamentprofiles.com
+  PLA CF:
+    Dark Brown:
+      hex: '#41250B'
+      source: 3dfilamentprofiles.com
+  PLA Gradient:
+    Gold/Deep Green/Deep Blue/Blue Purple/Copper/Red:
+      hex: '#255B3F,#C76B74'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dprima.com/pl/primaselect-pla-gradient_30281_13117
+  ABS Basic:
+    Natural:
+      hex: '#EBEBEB'
+      source: 3dfilamentprofiles.com
+  PLA High Gloss:
+    Industrial Gray:
+      hex: '#727A83'
+      source: 3dfilamentprofiles.com
+      link: https://primacreator.com/collections/special-finish-pla-filament/products/primaselect™-pla-glossy?variant=32038584287334
+    Nuclear Green:
+      hex: '#96D35F'
+      source: 3dfilamentprofiles.com
+      link: https://primacreator.com/collections/special-finish-pla-filament/products/primaselect™-pla-glossy?variant=32038584287334
+  ABS+ Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  TPU 64D:
+    Black (TPU64D):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  TPU:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Deep Ocean Blue:
+      hex: '#030C54'
+      source: 3dfilamentprofiles.com
+    Terracotta:
+      hex: '#C87F64'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dprima.com/nl/primaselect-pla-matt_30284_13166
+  PETG:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dprima.com/pl/primaselect-petg_30270_13030
+  PLA Glow:
+    Glow in the Dark Green:
+      hex: '#B7E3C9'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dprima.com/se/primaselect-pla-flame-retardant_30280_13111

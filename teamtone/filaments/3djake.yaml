@@ -1,0 +1,503 @@
+3DJake:
+  PLA Basic:
+    Matt Moss Grey:
+      hex: '#4C5500'
+      source: 3dfilamentprofiles.com
+    ecoPLA Black:
+      hex: '#2A292A'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.com/3djake/ecopla-black
+    Ultra satin gold:
+      hex: '#BD943A'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.com/3djake/ecopla-ultra-satin-gold
+    Pastel Blue:
+      hex: '#21A1DE'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#A1A1A0'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/ecopla-silber
+    Zwart:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Donkerblauw:
+      hex: '#001EFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.nl/3djake/ecopla-donkerblauw?sai=1966
+    Dark-Blue:
+      hex: '#20214F'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/ecopla-dunkelblau
+    ecoPLA Ultra-Satin Purple:
+      hex: '#8529E0'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.ch/en-CH/3djake/ecopla-ultra-satin-purple
+    ecoPLA Neon Green:
+      hex: '#0BD10B'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.ch/en-CH/3djake/ecopla-neon-green
+    ecoPLA Purple:
+      hex: '#A368BB'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.ch/en-CH/3djake/ecopla-purple
+    ecoPLA Glitter Light Green:
+      hex: '#3BCC38'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.ch/en-CH/3djake/ecopla-glitter-light-green
+    ecoPLA Yellow:
+      hex: '#FCB712'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.ch/en-CH/3djake/ecopla-yellow
+    ecoPLA Glitter Blue:
+      hex: '#0056D6'
+      source: 3dfilamentprofiles.com
+    Bronze:
+      hex: '#746501'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.nl/3djake/ecopla-brons
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/ecopla-weiss
+  PLA:
+    EcoPLA Light Grey:
+      hex: '#CED7DE'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/ecopla-weiss
+    Off-White:
+      hex: '#E2EBB5'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.at/suche?keyword=Off-White
+    EcoPLA Orange:
+      hex: '#FF9B00'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/ecopla-orange
+    eco PLA Weiß:
+      hex: '#ECECE7'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/ecopla-weiss
+  PETG:
+    Neon Yellow:
+      hex: '#FCFF2E'
+      source: 3dfilamentprofiles.com
+    Neon Orange:
+      hex: '#FA732A'
+      source: 3dfilamentprofiles.com
+  PLA Tough:
+    EcoPLA Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.fr/3djake/ecopla-tough-gris-fonce
+    RED:
+      hex: '#F10909'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.fr/3djake/ecopla-tough-gris-fonce
+  PETG Basic:
+    Red:
+      hex: '#B81B0E'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.com/3djake/petg-red-1
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.uk/3djake/easypetg-white
+    Yellow:
+      hex: '#E8CC69'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.uk/3djake/easypetg-white
+    Pastel Pink:
+      hex: '#FFDBDF'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.uk/3djake/easypetg-white
+    Silver:
+      hex: '#484A4B'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.uk/3djake/easypetg-white
+  PETG Easy:
+    orange:
+      hex: '#E06310'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de
+    black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de
+  PLA Translucent:
+    Transparent:
+      hex: '#FEDFA9'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/ecopla-transparent?sai=1954
+  ABS Basic:
+    Dark Green:
+      hex: '#1B6758'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.uk/3djake/abs-pink-4?sai=21905
+    Silver:
+      hex: '#A5A8A6'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.uk/3djake/abs-pink-4?sai=21905
+    Light Grey:
+      hex: '#AEB1B2'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.uk/3djake/abs-pink-4?sai=21905
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/abs-schwarz-3?sai=21815
+    Bronze:
+      hex: '#746501'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/abs-bronze?sai=21917
+    Brown:
+      hex: '#4C2B20'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.uk/3djake/abs-brown-2?sai=21899
+    Pink:
+      hex: '#FF00F7'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.uk/3djake/abs-pink-4?sai=21905
+    Purple:
+      hex: '#A07BE3'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.pl/3djake/abs-purple-4?sai=21923
+    Dark Grey:
+      hex: '#5D5E5F'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.at/3djake/abs-dunkelgrau?sai=21842
+  PLA Silk:
+    Satin Pink:
+      hex: '#EFAEE7'
+      source: 3dfilamentprofiles.com
+    Tropical Sea:
+      hex: '#58F2FD'
+      source: 3dfilamentprofiles.com
+    EcoPLA Silk Green:
+      hex: '#008000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.ch/en-CH/3djake/ecopla-silk-green?sai=16757
+    Silk Silver:
+      hex: '#9597A2'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/ecopla-silk-silber
+    Silk Gold:
+      hex: '#D9B75D'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/ecopla-silk-gold
+    Raspberry:
+      hex: '#E64E9F'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.ch/en-CH/3djake/ecopla-silk-raspberry
+    EcoPLA Silk Copper:
+      hex: '#DD6F00'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.ch/en-CH/3djake/ecopla-silk-copper
+  PLA Easy:
+    white:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    dark grey:
+      hex: '#4F5254'
+      source: 3dfilamentprofiles.com
+    Braun:
+      hex: '#563D00'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/ecopla-braun
+  PLA Ecofil:
+    EcoPLA pastelgreen:
+      hex: '#A1E8DC'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.at/3djake/ecopla-pastellgruen
+    Pastel Pink:
+      hex: '#F8D0D2'
+      source: 3dfilamentprofiles.com
+    ecoPLA Pink:
+      hex: '#FF0078'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/ecopla-pink
+    Red:
+      hex: '#BB2003'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.uk/3djake/3djake-filaments
+  PLA Matte:
+    Matt Silver:
+      hex: '#BCBBC1'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/mattepla-silber
+    matte Schwarz:
+      hex: '#29292A'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/mattepla-schwarz
+    matte Weiß:
+      hex: '#ECECE8'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/mattepla-weiss
+    Braun:
+      hex: '#4B2B20'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de
+    Yellow:
+      hex: '#F7B500'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/mattepla-gelb
+    Matt red:
+      hex: '#D75952'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.com/3djake/ecopla-matt-red
+  PLA Marble:
+    ecoPLA Marble:
+      hex: '#DADCE9'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.uk/3djake/ecopla-marble
+  PETG Translucent:
+    Transparent Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Transparent Blue:
+      hex: '#6ABCF6'
+      source: 3dfilamentprofiles.com
+    Blue Transparent:
+      hex: '#151B7A'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.nl/3djake/petg-wit-2
+  PLA ECO:
+    Orange:
+      hex: '#E85500'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/
+    BLEU PAILLETÉ / GITTER BLUE:
+      hex: '#072FF2'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.com
+    Glitter Purple:
+      hex: '#A1215F'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/
+    Glitter Grey:
+      hex: '#292829'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.com
+    Pastell Blue:
+      hex: '#53D5FD'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/
+    Glitter Green:
+      hex: '#065804'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/
+    ecoPLA Neon Orange:
+      hex: '#FF7B00'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.com/3djake/ecopla-neon-orange
+    CMYK Cyan:
+      hex: '#5E84A4'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.com
+    CMYK White:
+      hex: '#F5F5F5'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/
+    CMYK Yellow:
+      hex: '#FFFF82'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/ecopla-cmyk-yellow
+    Matt Red:
+      hex: '#992727'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/
+    Matt Purple:
+      hex: '#A43AA7'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/
+    Dark Green:
+      hex: '#006A4C'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.com/3djake/ecopla-dark-green
+    Dark Grey:
+      hex: '#434B4D'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.com/3djake/ecopla-dark-grey
+    Dark Blue:
+      hex: '#314E82'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.hu/3djake/ecopla-soetetkek
+    CMYK Magenta:
+      hex: '#D5447E'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/
+    Light grey:
+      hex: '#DED9D4'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.at/3djake/ecopla-hellgrau?sai=1974
+    Silver:
+      hex: '#B3B3B3'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/
+    Yellow:
+      hex: '#F7B500'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.com/3djake/ecopla-yellow?sai=2879
+    SKY BLUE:
+      hex: '#0073AF'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.com/3djake/ecopla-sky-blue
+    ecoPLA Neon Green:
+      hex: '#0BD10B'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.com/3djake/ecopla-neon-green
+    Light Green:
+      hex: '#4D9C35'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.com/3djake/ecopla-light-green
+    Red:
+      hex: '#C23424'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/ecopla-rot
+    White:
+      hex: '#ECECE8'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.com/3djake/ecopla-white?sai=1938
+  ASA Basic:
+    Light Blue:
+      hex: '#4792DC'
+      source: 3dfilamentprofiles.com
+    Dark Blue:
+      hex: '#014A7E'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#E1D014'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.be/nl-BE/3djake/asa-geel-1
+    Dark Grey:
+      hex: '#52595D'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.ch/en-CH/3djake/asa-dark-grey?sai=6426
+    White:
+      hex: '#ECECE7'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.nl/3djake/asa-wit
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/asa-schwarz
+    Orange:
+      hex: '#E86B22'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.uk/3djake/asa-orange?sai=6459
+    Verkehrsrot:
+      hex: '#BB1E10'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/asa-rot
+  PETG Matte:
+    Dunkelblau:
+      hex: '#20214F'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.at/3djake/easypetg-matte-pastellblau
+    Dunkelgrün:
+      hex: '#1E5945'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.at/3djake/easypetg-matte-pastellblau
+    Braun:
+      hex: '#4C2F27'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.at/3djake/easypetg-matte-pastellblau
+    Orange:
+      hex: '#F75E25'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.at/3djake/easypetg-matte-pastellblau
+    Light Grey:
+      hex: '#D6D6D7'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.at/3djake/easypetg-matte-pastellblau
+  TPU 95A:
+    Black:
+      hex: '#0A0809'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.com/3djake/tpu-a95-black
+    Red:
+      hex: '#D32E1A'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.ch/en-CH/3djake/tpu-a95-red?sai=6465
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.uk/3djake/tpu-a95-white
+    Light Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.nl/3djake/tpu-a95-lichtblauw
+    Orange:
+      hex: '#FF751A'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/tpu-a95-orange
+  PLA Wood:
+    Dark Brown:
+      hex: '#AF826B'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.com/3djake/ecopla-wood-dark-brown
+    LumberLay Bamboo:
+      hex: '#B1876F'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    Light Green:
+      hex: '#9BEB1F'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.ch/en-CH/3djake/ecopla-light-green?sai=2875
+    Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.com
+    Glow-in-the-Dark:
+      hex: '#E5F5C2'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.com/3djake/ecopla-glow
+  PLA CMYK:
+    CMYK Cyan:
+      hex: '#5E84A4'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/
+  PCTG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/pctg-schwarz-1
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/pctg-transparent?sai=13335
+  PLA Glitter:
+    Glitter orange:
+      hex: '#DF6A3F'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.hu/3djake/ecopla-glitter-narancssarga?sai=4933
+  PLA Multicolor:
+    Silk FrozenGold:
+      hex: '#D6D6D6,#FFD700'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/magicpla-frozen-gold
+  PLA Magic:
+    Deep Space:
+      hex: '#0096FF,#D783FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.at/suche?keyword=magicPLA
+    Juicy Peach:
+      hex: '#FF00FF,#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.at/suche?keyword=magicPLA
+    Frozen Lavender:
+      hex: '#7980FF,#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.at/suche?keyword=magicPLA
+  PLA Silk Mystic:
+    Berry Popsicle:
+      hex: '#E30B5D,#0433FF,#00F900'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/3djake/mysterypla-berry-popsicle?sai=16747
+  PLA Silk Dual:
+    Metallic Emerald:
+      hex: '#0096FF,#00F900'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.com/3djake/magicpla-metallic-emerald

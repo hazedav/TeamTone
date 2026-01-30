@@ -1,0 +1,19 @@
+Tangled Filament:
+  PETG:
+    Blue:
+      hex: '#0F2BB8'
+      source: 3dfilamentprofiles.com
+      link: https://www.tangledfilament.com/product-page/glut-filament-the-stuff-left-over
+    Yellow:
+      hex: '#DFE212'
+      source: 3dfilamentprofiles.com
+      link: https://www.tangledfilament.com/product-page/glut-filament-the-stuff-left-over
+  PLA Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.tangledfilament.com/
+    Gray:
+      hex: '#D6D6D6'
+      source: 3dfilamentprofiles.com
+      link: https://www.tangledfilament.com/product-page/members-only-gray-pla-3kg-print-farm-spool

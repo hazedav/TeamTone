@@ -1,0 +1,136 @@
+Fusion Filaments:
+  PLA Basic:
+    Bubblegum:
+      hex: '#FF48A5'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#F40101'
+      source: 3dfilamentprofiles.com
+    Purple (Freedom):
+      hex: '#800080'
+      source: 3dfilamentprofiles.com
+      link: https://www.fusionfilaments.com/
+    Black (Freedom):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.fusionfilaments.com/
+    White (Freedom):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.fusionfilaments.com/
+  ABS 2.0:
+    Seismic Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://fusionfilaments.com/abs-20
+    Carbon Rod Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fusionfilaments.com/abs-20
+    Ionized Cobalt Black:
+      hex: '#2B2B26'
+      source: 3dfilamentprofiles.com
+      link: https://fusionfilaments.com/abs-20
+    Interstellar Emerald:
+      hex: '#00714F'
+      source: 3dfilamentprofiles.com
+      link: https://fusionfilaments.com/abs-20
+    Plutonic Purple:
+      hex: '#2C0D64'
+      source: 3dfilamentprofiles.com
+      link: https://www.fusionfilaments.com/shop/abs2-0175pp-1kg-abs-gloss-filament-plutonic-purple-7973?category=27
+  PLA+/Pro HT:
+    Radium Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.fusionfilaments.com/shop/870175rg2-0-1kg-htpla-filament-radium-green-2-0-7938
+  PET HT:
+    Carbon Rod Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.fusionfilaments.com/shop/pet175crb-1kg-htpet-filament-carbon-rod-black-7997?category=23
+    Radiated Fog:
+      hex: '#D8D5CC'
+      source: 3dfilamentprofiles.com
+      link: https://www.fusionfilaments.com/shop/category/ht-pet-23
+  PLA Sparkle:
+    Tritium Green:
+      hex: '#32A04F'
+      source: 3dfilamentprofiles.com
+  PLA HT:
+    Radioactive Orange:
+      hex: '#FB8B02'
+      source: 3dfilamentprofiles.com
+  ABS Matte:
+    Interstellar Emerald:
+      hex: '#54B891'
+      source: 3dfilamentprofiles.com
+      link: https://www.fusionfilaments.com/shop/category/abs-matte-26
+    Seismic Red:
+      hex: '#F12E4E'
+      source: 3dfilamentprofiles.com
+      link: https://www.fusionfilaments.com/shop/category/abs-matte-26
+    Thorium Thilver:
+      hex: '#C4BDB7'
+      source: 3dfilamentprofiles.com
+      link: https://www.fusionfilaments.com/shop/category/abs-matte-26
+    Red Dwarf:
+      hex: '#D4151D'
+      source: 3dfilamentprofiles.com
+      link: https://www.fusionfilaments.com/shop/category/abs-matte-26
+    Carbon Rod Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.fusionfilaments.com/shop/category/abs-matte-26
+    Cosmic Ray Blue:
+      hex: '#040973'
+      source: 3dfilamentprofiles.com
+      link: https://www.fusionfilaments.com/shop/category/abs-matte-26
+    Tritium Green:
+      hex: '#00B14C'
+      source: 3dfilamentprofiles.com
+      link: https://www.fusionfilaments.com/shop/category/abs-matte-26
+    Ionized Cobalt Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.fusionfilaments.com/shop/category/abs-matte-26
+    Nano Tube Grey:
+      hex: '#383736'
+      source: 3dfilamentprofiles.com
+      link: https://www.fusionfilaments.com/shop/category/abs-matte-26
+    Electrolytic Deuterium:
+      hex: '#5B9BD5'
+      source: 3dfilamentprofiles.com
+      link: https://www.fusionfilaments.com/shop/category/abs-matte-26
+  ABS High Gloss:
+    Alpha Particle Orange:
+      hex: '#F85638'
+      source: 3dfilamentprofiles.com
+      link: https://www.fusionfilaments.com/shop/category/abs-matte-26
+  ABS Basic:
+    Cold Fusion Blue:
+      hex: '#61BDFF'
+      source: 3dfilamentprofiles.com
+    Interstellar Emerald:
+      hex: '#00714F'
+      source: 3dfilamentprofiles.com
+      link: https://www.fusionfilaments.com/shop/abs2-0175ie-g1p-1kg-abs-gloss-filament-interstellar-emerald-9122
+  HT-PLA HT:
+    Radioactive Orange:
+      hex: '#FB8B02'
+      source: 3dfilamentprofiles.com
+      link: https://www.fusionfilaments.com/shop/category/ht-pla-21
+  PCTG Basic:
+    Natural:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.fusionfilaments.com/
+    Heavy Water Blue:
+      hex: '#4A21DE'
+      source: 3dfilamentprofiles.com
+      link: https://www.fusionfilaments.com/shop/00850076511289-1kg-pctg-filament-heavy-water-blue-9911
+  PLA Translucent:
+    Plutonic Purple:
+      hex: '#2215E6'
+      source: 3dfilamentprofiles.com
+      link: https://www.fusionfilaments.com/shop/870175pp-1kg-htpla-filament-plutonic-purple-7935

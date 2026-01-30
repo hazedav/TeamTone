@@ -1,0 +1,16 @@
+kaaber:
+  PETG Premium:
+    Yellow:
+      hex: '#E6F769'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Yellow:
+      hex: '#FFF700'
+      source: 3dfilamentprofiles.com

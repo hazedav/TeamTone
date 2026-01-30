@@ -1,0 +1,297 @@
+NFL:
+  Arizona Cardinals:
+    colors:
+    - Cardinal Red
+    - Black
+    - White
+    hex:
+    - '#97233F'
+    - '#000000'
+    - '#FFFFFF'
+  Atlanta Falcons:
+    colors:
+    - Red
+    - Black
+    - Silver
+    - White
+    hex:
+    - '#A71930'
+    - '#000000'
+    - '#A5ACAF'
+    - '#FFFFFF'
+  Baltimore Ravens:
+    colors:
+    - Purple
+    - Black
+    - Metallic Gold
+    hex:
+    - '#241773'
+    - '#000000'
+    - '#9E7C0C'
+  Buffalo Bills:
+    colors:
+    - Royal Blue
+    - Red
+    - White
+    hex:
+    - '#00338D'
+    - '#C60C30'
+    - '#FFFFFF'
+  Carolina Panthers:
+    colors:
+    - Process Blue
+    - Black
+    - Silver
+    hex:
+    - '#0085CA'
+    - '#101820'
+    - '#BFC0BF'
+  Chicago Bears:
+    colors:
+    - Navy Blue
+    - Orange
+    - White
+    hex:
+    - '#0B162A'
+    - '#C83803'
+    - '#FFFFFF'
+  Cincinnati Bengals:
+    colors:
+    - Orange
+    - Black
+    - White
+    hex:
+    - '#FB4F14'
+    - '#000000'
+    - '#FFFFFF'
+  Cleveland Browns:
+    colors:
+    - Brown
+    - Orange
+    - White
+    hex:
+    - '#311D00'
+    - '#FF3C00'
+    - '#FFFFFF'
+  Dallas Cowboys:
+    colors:
+    - Navy Blue
+    - Metallic Silver Blue
+    - White
+    hex:
+    - '#041E42'
+    - '#869397'
+    - '#FFFFFF'
+  Denver Broncos:
+    colors:
+    - Orange
+    - Navy Blue
+    - White
+    hex:
+    - '#FB4F14'
+    - '#002244'
+    - '#FFFFFF'
+  Detroit Lions:
+    colors:
+    - Honolulu Blue
+    - Silver
+    - Black
+    - White
+    hex:
+    - '#0076B6'
+    - '#B0B7BC'
+    - '#000000'
+    - '#FFFFFF'
+  Green Bay Packers:
+    colors:
+    - Green
+    - Gold
+    - White
+    hex:
+    - '#203731'
+    - '#FFB612'
+    - '#FFFFFF'
+  Houston Texans:
+    colors:
+    - Deep Steel Blue
+    - Battle Red
+    - White
+    hex:
+    - '#03202F'
+    - '#A71930'
+    - '#FFFFFF'
+  Indianapolis Colts:
+    colors:
+    - Royal Blue
+    - White
+    hex:
+    - '#002C5F'
+    - '#FFFFFF'
+  Jacksonville Jaguars:
+    colors:
+    - Teal
+    - Black
+    - Gold
+    hex:
+    - '#006778'
+    - '#000000'
+    - '#D7A22A'
+  Kansas City Chiefs:
+    colors:
+    - Red
+    - Gold
+    - White
+    hex:
+    - '#E31837'
+    - '#FFB81C'
+    - '#FFFFFF'
+  Las Vegas Raiders:
+    colors:
+    - Black
+    - Silver
+    - White
+    hex:
+    - '#000000'
+    - '#A5ACAF'
+    - '#FFFFFF'
+  Los Angeles Chargers:
+    colors:
+    - Powder Blue
+    - Gold
+    - White
+    hex:
+    - '#0080C6'
+    - '#FFC20E'
+    - '#FFFFFF'
+  Los Angeles Rams:
+    colors:
+    - Royal Blue
+    - Sol
+    - White
+    hex:
+    - '#003594'
+    - '#FFA300'
+    - '#FFFFFF'
+  Miami Dolphins:
+    colors:
+    - Aqua
+    - Orange
+    - White
+    hex:
+    - '#008E97'
+    - '#FC4C02'
+    - '#FFFFFF'
+  Minnesota Vikings:
+    colors:
+    - Purple
+    - Gold
+    - White
+    hex:
+    - '#4F2683'
+    - '#FFC62F'
+    - '#FFFFFF'
+  New England Patriots:
+    colors:
+    - Navy Blue
+    - Red
+    - Silver
+    - White
+    hex:
+    - '#002244'
+    - '#C60C30'
+    - '#B0B7BC'
+    - '#FFFFFF'
+  New Orleans Saints:
+    colors:
+    - Old Gold
+    - Black
+    - White
+    hex:
+    - '#D3BC8D'
+    - '#101820'
+    - '#FFFFFF'
+  New York Giants:
+    colors:
+    - Blue
+    - Red
+    - White
+    hex:
+    - '#0B2265'
+    - '#A71930'
+    - '#FFFFFF'
+  New York Jets:
+    colors:
+    - Green
+    - White
+    hex:
+    - '#125740'
+    - '#FFFFFF'
+  Philadelphia Eagles:
+    colors:
+    - Midnight Green
+    - Black
+    - Silver
+    - White
+    hex:
+    - '#004C54'
+    - '#000000'
+    - '#A5ACAF'
+    - '#FFFFFF'
+  Pittsburgh Steelers:
+    colors:
+    - Black
+    - Gold
+    - White
+    hex:
+    - '#000000'
+    - '#FFB612'
+    - '#FFFFFF'
+  San Francisco 49ers:
+    colors:
+    - Red
+    - Gold
+    - White
+    hex:
+    - '#AA0000'
+    - '#B3995D'
+    - '#FFFFFF'
+  Seattle Seahawks:
+    colors:
+    - Navy Blue
+    - Action Green
+    - Wolf Grey
+    hex:
+    - '#002244'
+    - '#69BE28'
+    - '#A5ACAF'
+  Tampa Bay Buccaneers:
+    colors:
+    - Red
+    - Pewter
+    - Orange
+    - Black
+    hex:
+    - '#D50A0A'
+    - '#34302B'
+    - '#FF7900'
+    - '#000000'
+  Tennessee Titans:
+    colors:
+    - Navy Blue
+    - Titans Blue
+    - Red
+    - Silver
+    hex:
+    - '#0C2340'
+    - '#4B92DB'
+    - '#C60C30'
+    - '#8A8D8F'
+  Washington Commanders:
+    colors:
+    - Burgundy
+    - Gold
+    - White
+    hex:
+    - '#5A1414'
+    - '#FFB612'
+    - '#FFFFFF'

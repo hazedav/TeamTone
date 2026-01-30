@@ -1,0 +1,78 @@
+G3D Pro (Grossiste 3D):
+  PLA Silk:
+    Silk Glossy Bronze:
+      hex: '#7F7A57'
+      source: 3dfilamentprofiles.com
+      link: https://www.grossiste3d.com/500g/1360-filament-3d-silk-glossy-500g-bronze-175-mm-3008800011681.html
+  PLA Basic:
+    Snow White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.grossiste3d.com/336-pla?q=Couleur-Blanc+Neige/
+    Bleu:
+      hex: '#20214F'
+      source: 3dfilamentprofiles.com
+      link: https://www.grossiste3d.com/pla/30-fil-3d-pla-1-kg-175-mm-bleu-3008800000272.html
+    Jaune:
+      hex: '#F8F32B'
+      source: 3dfilamentprofiles.com
+      link: https://www.grossiste3d.com/pla/31-fil-3d-pla-1-kg-175-mm-jaune-3008800000289.html
+    Rouge:
+      hex: '#961F1C'
+      source: 3dfilamentprofiles.com
+      link: https://www.grossiste3d.com/pla/29-fil-3d-pla-1-kg-175-mm-rouge-3008800000265.html
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.grossiste3d.com/336-pla?q=Couleur-Noir/
+    Perle Blanc:
+      hex: '#F7F7F7'
+      source: 3dfilamentprofiles.com
+      link: https://www.grossiste3d.com/pla/29-fil-3d-pla-1-kg-175-mm-rouge-3008800000265.html
+    Orange:
+      hex: '#F75E25'
+      source: 3dfilamentprofiles.com
+      link: https://www.grossiste3d.com/pla/34-fil-3d-pla-1-kg-175-mm-orange-3008800000319.html
+    Dark Grey:
+      hex: '#404A54'
+      source: 3dfilamentprofiles.com
+      link: https://www.grossiste3d.com/pla/1031-fil-3d-pla-1-kg-175-mm-dark-gris-3008800009503.html
+  PLA Luminous Rainbow:
+    Luminescent Blue:
+      hex: '#5CBBFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.grossiste3d.com/phosphorescent/71-filament-3d-pla-phosphorescent-1-kg-175-mm-bleu-3008800000685.html
+  ABS Basic:
+    Red Scarlet:
+      hex: '#B51A00'
+      source: 3dfilamentprofiles.com
+    BLANC NEIGE:
+      hex: '#FDF4E3'
+      source: 3dfilamentprofiles.com
+      link: https://www.grossiste3d.com/abs/758-fil-3d-abs-1-kg-175-mm-blanc-neige-3008800007370.html
+    Blue:
+      hex: '#74A7FE'
+      source: 3dfilamentprofiles.com
+  PLA Pastello:
+    Pastel Skin:
+      hex: '#F7DBBB'
+      source: 3dfilamentprofiles.com
+      link: https://www.grossiste3d.com/pastel/4317-fil-3d-pla-pastel-1-kg-175-mm-peau-skin.html
+  PLA Translucent:
+    Translucent Green:
+      hex: '#147A00'
+      source: 3dfilamentprofiles.com
+      link: https://www.grossiste3d.com/285mm/1010-filament-3d-300-mm-pla-translucide-1-kg-vert-3008800009350.html
+    Translucide Bleu:
+      hex: '#003EFA'
+      source: 3dfilamentprofiles.com
+      link: https://www.grossiste3d.com/translucide/382-filament-3d-pla-translucide-1-kg-bleu-175mm-3008800003648.html
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.grossiste3d.com/petg/162-filament-3d-petg-1-kg-transparent-175-mm-3008800001538.html
+  PETG Basic:
+    Blanc Pur:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.grossiste3d.com/petg/444-filament-3d-petg-1-kg-blanc-175-mm-3008800004300.html

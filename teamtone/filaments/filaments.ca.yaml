@@ -1,0 +1,184 @@
+Filaments.CA:
+  PETG Ecofil:
+    Natural:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Dark Orange:
+      hex: '#FF8C00'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Brown:
+      hex: '#964B00'
+      source: 3dfilamentprofiles.com
+  PLA Ecofil:
+    Army Green:
+      hex: '#4B5320'
+      source: 3dfilamentprofiles.com
+    Light Blue:
+      hex: '#ADD8E6'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Rose:
+      hex: '#F33A6A'
+      source: 3dfilamentprofiles.com
+    Eggshell White:
+      hex: '#F0EAD6'
+      source: 3dfilamentprofiles.com
+    Cold White:
+      hex: '#E3E4ED'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#A145BA'
+      source: 3dfilamentprofiles.com
+    Teal:
+      hex: '#42DCD2'
+      source: 3dfilamentprofiles.com
+    Blue Grey:
+      hex: '#3A5364'
+      source: 3dfilamentprofiles.com
+    Medium Grey:
+      hex: '#CED7DE'
+      source: 3dfilamentprofiles.com
+    Violet:
+      hex: '#6F328B'
+      source: 3dfilamentprofiles.com
+    Cyan:
+      hex: '#6BC1FF'
+      source: 3dfilamentprofiles.com
+    Ivory:
+      hex: '#FFFFE6'
+      source: 3dfilamentprofiles.com
+    Glow Blue:
+      hex: '#E5F4FF,#44A7EE'
+      source: 3dfilamentprofiles.com
+    Dark Brown:
+      hex: '#5C4033'
+      source: 3dfilamentprofiles.com
+    Dark Green:
+      hex: '#006400'
+      source: 3dfilamentprofiles.com
+    Pastel Green:
+      hex: '#77DD77'
+      source: 3dfilamentprofiles.com
+    Dark Blue:
+      hex: '#00008B'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://filaments.ca/products/econofil-1kg-pla-filament-white-1-75mm
+    Gold:
+      hex: '#E3C456'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://filaments.ca/products/econofil-standard-pla-filament-black-1-75mm-1-kg
+    Pink:
+      hex: '#FFC0CB'
+      source: 3dfilamentprofiles.com
+    Baby Pink:
+      hex: '#F5879C'
+      source: 3dfilamentprofiles.com
+      link: https://filaments.ca/collections/3d-printing-filaments/products/econofil-basic-pla-baby-pink
+    Matte Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://filaments.ca/collections/3d-printing-filaments/products/econofil-standard-pla-filament-matte-black-1-75mm-1-kg
+    Golden:
+      hex: '#9A7A45'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Transparent Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Transparent Orange:
+      hex: '#F7A324'
+      source: 3dfilamentprofiles.com
+    Transparent Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+    Transparent Yellow:
+      hex: '#C2FB00'
+      source: 3dfilamentprofiles.com
+  ABS FR:
+    Grey:
+      hex: '#9C9C9C'
+      source: 3dfilamentprofiles.com
+  PVB Basic:
+    Electric Blue:
+      hex: '#0076CF'
+      source: 3dfilamentprofiles.com
+  ABS:
+    Black ⚡Conductive:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Purple:
+      hex: '#E0B0FF'
+      source: 3dfilamentprofiles.com
+    skin:
+      hex: '#C6A38E'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+  PETG Tough:
+    EcoTough PETG 2.0 Black:
+      hex: '#1A1A1A'
+      source: 3dfilamentprofiles.com
+  PLA:
+    Pewter Grey:
+      hex: '#828282'
+      source: 3dfilamentprofiles.com
+  HIPS Support:
+    natural:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PETG:
+    Transparent Orange:
+      hex: '#FF6A00'
+      source: 3dfilamentprofiles.com
+      link: https://filaments.ca/products/econofil-standard-petg-white
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://filaments.ca/products/econofil-standard-petg-white
+  PETG Basic:
+    Dark Yellow:
+      hex: '#C4BC00'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0061FE'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Dark Orange:
+      hex: '#FF6A00'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://filaments.ca/collections/3d-printing-filaments/products/econofil-standard-petg-transparent
+    Sea Green:
+      hex: '#2E8B57'
+      source: 3dfilamentprofiles.com
+  ASA Ecofil:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Ingeo 3D870:
+    charcoal grey:
+      hex: '#2D2E2E'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

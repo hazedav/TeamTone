@@ -1,0 +1,57 @@
+Plastspaw:
+  ABS Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://allegro.pl/oferta/filament-plastspaw-abs-1-75mm-1kg-czarny-11973728528
+    Szary Gołębi:
+      hex: '#DDDDDD'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: http://www.plastspaw.pl/filament-drukarki-3d.html
+    Orange / Pomarańczowy:
+      hex: '#FB7B4A'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#D31517'
+      source: 3dfilamentprofiles.com
+      link: http://www.plastspaw.pl/filament-drukarki-3d.html
+    Light Brown / Jasny Brązowy:
+      hex: '#872807'
+      source: 3dfilamentprofiles.com
+    Wood Beige / Drewno Beżowy:
+      hex: '#E9C8AD'
+      source: 3dfilamentprofiles.com
+    MIlitary Green (zielony wojskowy):
+      hex: '#074331,#0D4934'
+      source: 3dfilamentprofiles.com
+      link: http://www.plastspaw.pl/filament-drukarki-3d.html#drut_pla
+    Light Blue:
+      hex: '#23A0DA'
+      source: 3dfilamentprofiles.com
+    Żółty Satynowy:
+      hex: '#EACD1E'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: http://www.plastspaw.pl/filament-drukarki-3d.html
+    Green:
+      hex: '#00F900'
+      source: 3dfilamentprofiles.com
+      link: http://www.plastspaw.pl/filament-drukarki-3d.html
+    Industrial grey:
+      hex: '#A5B3B3'
+      source: 3dfilamentprofiles.com
+      link: http://www.plastspaw.pl/filament-drukarki-3d.html
+  PLA:
+    Sosna / Cielisty:
+      hex: '#E6D28A'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

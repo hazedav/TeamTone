@@ -1,0 +1,62 @@
+3Dgenius:
+  PLA Silk:
+    Rose Red + Sky Blue + Green:
+      hex: '#C15ADD'
+      source: 3dfilamentprofiles.com
+    Rainbow:
+      hex: '#56ACA7'
+      source: 3dfilamentprofiles.com
+  PLA Silk Rainbow:
+    Universe:
+      hex: '#460074,#005166,#00337B'
+      source: 3dfilamentprofiles.com
+    Gradient Candy:
+      hex: '#4CDEE6,#44F081,#ED56F0'
+      source: 3dfilamentprofiles.com
+  PLA Matte Rainbow:
+    Matte Gradient:
+      hex: '#9CF0B1,#91B7F0,#F0BDD8'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Rose Red + Yellow + Sky Blue:
+      hex: '#AA5046'
+      source: 3dfilamentprofiles.com
+    Gold Red Orange:
+      hex: '#FF4B33,#FFD700,#FFA500'
+      source: 3dfilamentprofiles.com
+    Red + Black:
+      hex: '#C92422,#241822'
+      source: 3dfilamentprofiles.com
+    Dark Blue + Green:
+      hex: '#2E8468,#05045B'
+      source: 3dfilamentprofiles.com
+    Skyblue/Green:
+      hex: '#107AE5,#26BAB8'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Brown:
+      hex: '#583300'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#4D9DE2'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#7F18AF'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Red Gold Purple:
+      hex: '#C49921,#980B0B,#430FA3'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dgenius.com/%E5%89%AF%E6%9C%AC-pla-250g-brown-1
+    Rose Red/Sky Blue/Green:
+      hex: '#3A88FE,#F1138C,#06DD91'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dgenius.com/%E5%89%AF%E6%9C%AC-pla-250g-brown-1
+  PLA+/Pro Silk Dual:
+    Orange - Red:
+      hex: '#FE612C'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Silk:
+    Candy Series:
+      hex: '#C43DC7'
+      source: 3dfilamentprofiles.com

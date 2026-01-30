@@ -1,0 +1,578 @@
+Kingroon:
+  PLA Basic:
+    ORANGE LIGHT:
+      hex: '#FD9330'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/kingroon-pla-basic
+    Cyan:
+      hex: '#00FFFF'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/kingroon-pla-basic
+    Magenta:
+      hex: '#FF3D81'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/kingroon-pla-3d-printer-filament-1-75mm-with-excellent-quality
+    Gold:
+      hex: '#E2DAA6'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/kingroon-pla-basic
+    Silver:
+      hex: '#828A95'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/silver-pla-best-3d-print-filament
+    Gray:
+      hex: '#767C83'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/kingroon-pla-basic
+    Pink:
+      hex: '#FFECEF'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/kingroon-pla-basic
+    Skin:
+      hex: '#FEC3C3'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/kingroon-pla-basic
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/white-pla-1kg-best-3d-printer-filament
+    Dark Green:
+      hex: '#4E7A27'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/kingroon-pla-basic
+    Dark Grey:
+      hex: '#555550'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/kingroon-pla-basic
+    Sky Blue:
+      hex: '#87CEEB'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/kingroon-pla-basic
+    Brown:
+      hex: '#A47E5B'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/kingroon-pla-basic
+    Orange:
+      hex: '#E6AF55'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/orange-pla-best-3d-printer-filament
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/black-pla-1kg-best-3d-printer-filament
+    Green:
+      hex: '#13D683'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/kingroon-pla-basic
+    Purple:
+      hex: '#6632C8'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/kingroon-pla-basic
+    Blue:
+      hex: '#5058D6'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/kingroon-pla-basic
+    Brown-Coffee:
+      hex: '#BB7D42'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/kingroon-pla-basic
+    Red:
+      hex: '#CD382E'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/red-pla-best-3d-print-filament
+    Yellow:
+      hex: '#F7E523'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/kingroon-pla-basic
+  PLA Glow:
+    Green:
+      hex: '#B9CAA6'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#DBA3F5'
+      source: 3dfilamentprofiles.com
+    white/green:
+      hex: '#FFFFFF,#00F900'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#AEE2EF'
+      source: 3dfilamentprofiles.com
+    Luminous Blue:
+      hex: '#907FBB'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#EEEFAE'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#FDB4EA'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Red, Green, Magenta:
+      hex: '#D72344,#26A269,#E040A0'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/silk-filament-silk-pla-filament
+    Purple, Green, Rose Red:
+      hex: '#813D9C,#1D9C36,#DA3978'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/silk-filament-silk-pla-filament
+    Yellow, Blue, Green:
+      hex: '#F8E45C,#1C71D8,#26A269'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/silk-filament-silk-pla-filament
+    golden green blue:
+      hex: '#E6B11F,#26A269,#1C71D8'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/silk-filament-silk-pla-filament
+    golden green black:
+      hex: '#E6B11F,#26A269,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/silk-filament-silk-pla-filament
+    Golden, Green, Rose Red:
+      hex: '#E6B11F,#26A269,#DC4080'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/tri-color-silk-pla-filament-golden-green-fuchsia?variant=43962424230106
+    Red, Golden, Blue:
+      hex: '#E040A0,#E6B11F,#1C71D8'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/silk-filament-silk-pla-filament
+    Gold Fuchsia Black:
+      hex: '#FFD700,#FF00FF,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/silk-filament-silk-pla-filament
+    Red, Yellow, Blue:
+      hex: '#C01C28,#F6D32D,#2B2FB0'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/silk-filament-silk-pla-filament
+    Red, Golden, Purple:
+      hex: '#D72344,#E6B11F,#813D9C'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/kingroon-10kg-silk-multicolor-filament-1-75mm-clearance-sale?variant=46832867115226
+    Blue, Green, Purple:
+      hex: '#0000FF,#008000,#800080'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/silk-filament-silk-pla-filament
+    Blue, Green, Orange:
+      hex: '#1C71D8,#26A269,#FF9300'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/silk-filament-silk-pla-filament
+    Golden Yellow Red:
+      hex: '#D8A361,#FFD422,#F52709'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/silk-filament-silk-pla-filament
+    Black, Blue, Purple:
+      hex: '#0045C7,#303030,#C067DF'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/silk-filament-silk-pla-filament
+    Green, Purple, Copper:
+      hex: '#26A269,#813D9C,#823510'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/silk-filament-silk-pla-filament
+    Golden, purple red, blue:
+      hex: '#E6B11F,#813D9C,#1C71D8'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/silk-filament-silk-pla-filament
+    Golden, Silver, Copper:
+      hex: '#F0A552,#828A95,#823510'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/silk-filament-silk-pla-filament
+    Red, Green, Blue:
+      hex: '#1D2089,#F41F71,#45B88D'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/silk-filament-silk-pla-filament
+  PLA Matte:
+    Yellow:
+      hex: '#DEDB4B'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#6C7175'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#DA8A1B'
+      source: 3dfilamentprofiles.com
+    Grass Green:
+      hex: '#27A098'
+      source: 3dfilamentprofiles.com
+    Shade Brown:
+      hex: '#7B4009'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#AEEFD6'
+      source: 3dfilamentprofiles.com
+    Dark blue:
+      hex: '#021C36'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#F90B0B'
+      source: 3dfilamentprofiles.com
+    Light Blue:
+      hex: '#92C4F7'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#CBCAC8'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/kingroon-matte-pla?variant=46772509049050
+    Lilac Purple:
+      hex: '#957CB6'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com
+  PLA Silk Dual:
+    Blue/Golden:
+      hex: '#0433FF,#D9EB37'
+      source: 3dfilamentprofiles.com
+    Blue / Green:
+      hex: '#2DAC97,#3453A3'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/silk-tri-color-pla-3d-printing-filament
+    Black Red:
+      hex: '#FF0000,#000000'
+      source: 3dfilamentprofiles.com
+    Golden Red:
+      hex: '#F0A552,#FF0000'
+      source: 3dfilamentprofiles.com
+    Black Golden:
+      hex: '#F0A552,#000000'
+      source: 3dfilamentprofiles.com
+    Yellow Green:
+      hex: '#FFFF00,#5AB834'
+      source: 3dfilamentprofiles.com
+    Black Rose Red:
+      hex: '#A045BA,#000000'
+      source: 3dfilamentprofiles.com
+    Black Blue:
+      hex: '#000000,#0F70D2'
+      source: 3dfilamentprofiles.com
+    Black Green:
+      hex: '#000000,#00F900'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFFF80'
+      source: 3dfilamentprofiles.com
+    Copper:
+      hex: '#C05029'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0056D6'
+      source: 3dfilamentprofiles.com
+    Golden:
+      hex: '#F0A552'
+      source: 3dfilamentprofiles.com
+    Black Golden:
+      hex: '#000000,#F9E352'
+      source: 3dfilamentprofiles.com
+    Royal Blue:
+      hex: '#0E80D8'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/silk-pla-filament-for-3d-printing
+    Red:
+      hex: '#E65454'
+      source: 3dfilamentprofiles.com
+    Rainbow Universe:
+      hex: '#79427C,#387099,#47947E,#917C73'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#828A95'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#1FDFDA'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/silk-pla-filament-for-3d-printing?variant=43594442801370
+    Purple:
+      hex: '#5F72C1'
+      source: 3dfilamentprofiles.com
+    Lovely Rainbow:
+      hex: '#907891'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FFBF56'
+      source: 3dfilamentprofiles.com
+  TPU Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFF820'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#00007F'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#F8000F'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#019974'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Blue:
+      hex: '#1111FF'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#E1E2E2'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/2kg-pack-abs-3d-printer-filament-fresh
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/2kg-pack-abs-3d-printer-filament-fresh
+    Grey:
+      hex: '#707070'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/2kg-pack-abs-3d-printer-filament-fresh
+  PETG Basic:
+    Metal Silver:
+      hex: '#AAA9AD'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#563D00'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/black-1kg-3d-printer-petg-filament
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/petg-filament
+    Yellow:
+      hex: '#E2B930'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/2kg-pack-yellow-petg-1kg-3d-printer-filament
+    Deep Blue:
+      hex: '#004879'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#45C4EF'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#E2B2B0'
+      source: 3dfilamentprofiles.com
+    grøn:
+      hex: '#19A973'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/2kg-pack-green-petg-1kg-3d-printer-filament
+    Skin:
+      hex: '#FDDDBF'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/
+    Purple:
+      hex: '#670C79'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/
+    Blue:
+      hex: '#2153B5'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/2kg-pack-blue-petg-1kg-3d-printer-filament
+    Red:
+      hex: '#ED2C2C'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/2kg-pack-red-petg-1kg-3d-printer-filament
+    gul:
+      hex: '#E2B930'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/2kg-pack-yellow-petg-1kg-3d-printer-filament
+    rød:
+      hex: '#ED2C2C'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/2kg-pack-red-petg-1kg-3d-printer-filament
+    Silver:
+      hex: '#A4B2BC'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/2kg-pack-silver-petg-1kg-3d-printer-filament
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/2kg-pack-transparent-petg-filament-1kg
+    Black:
+      hex: '#050505'
+      source: 3dfilamentprofiles.com
+    Dyb Blå:
+      hex: '#2153B5'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/2kg-pack-blue-petg-1kg-3d-printer-filament
+    Gray:
+      hex: '#A1A1A1'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/2kg-pack-gray-petg-1kg-3d-printer-filament
+    Orange:
+      hex: '#FF9300'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/2kg-pack-orange-petg-1kg-3d-printer-filament
+  PETG Sparkle:
+    Grey:
+      hex: '#BAB8B5'
+      source: 3dfilamentprofiles.com
+  PLA High Speed:
+    Red:
+      hex: '#C80F22'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#411F79'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0A43AE'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#555856'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#DAD316'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#D2979B'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#05867D'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#C27600'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Matte:
+    Green:
+      hex: '#95D0A4'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/
+  PLA:
+    Skin light beige:
+      hex: '#F4CEA3'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Pro:
+    Red:
+      hex: '#FE6767'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/3d-printer-filament
+    Yellow:
+      hex: '#F7E523'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/3d-printer-filament
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/3d-printer-filament
+    Gray:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/3d-printer-filament
+    Blue:
+      hex: '#0056D6'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/3d-printer-filament
+    Orange:
+      hex: '#E6AF55'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/3d-printer-filament
+    Green:
+      hex: '#65F1A2'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/3d-printer-filament
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/3d-printer-filament
+    Skin:
+      hex: '#FFF2D5'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/collections/3d-printer-filament
+  PLA Wood:
+    Wood Brown:
+      hex: '#B07C4F'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/1kg-pack-wood-filament-fresh
+  PLA CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ASA Basic:
+    Grey:
+      hex: '#A0A1A2'
+      source: 3dfilamentprofiles.com
+  PETG CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Max:
+    Blue Grey:
+      hex: '#3F3F5D'
+      source: 3dfilamentprofiles.com
+  PETG Fluorescent:
+    Fluorescent Yellow:
+      hex: '#ECEF00'
+      source: 3dfilamentprofiles.com
+    Fluorescent Red:
+      hex: '#EF0022'
+      source: 3dfilamentprofiles.com
+    Fluorescent Blue:
+      hex: '#001CEF'
+      source: 3dfilamentprofiles.com
+  PETG High Speed:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/hs-petg-high-speed-3d-printing-filament?variant=45703938375898
+    Blue:
+      hex: '#2153B5'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/hs-petg-high-speed-3d-printing-filament?variant=45703938605274
+    Orange:
+      hex: '#FF9300'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/hs-petg-high-speed-3d-printing-filament?variant=45703938408666
+    Silver:
+      hex: '#A4B2BC'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/hs-petg-high-speed-3d-printing-filament?variant=45703938670810
+    Brown:
+      hex: '#964B00'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/hs-petg-high-speed-3d-printing-filament?variant=45703938703578
+    Gray:
+      hex: '#A1A1A1'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/hs-petg-high-speed-3d-printing-filament?variant=45703938572506
+    Red:
+      hex: '#ED2C2C'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/hs-petg-high-speed-3d-printing-filament?variant=45703938474202
+    Yellow:
+      hex: '#FEFB41'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/hs-petg-high-speed-3d-printing-filament?variant=45703938539738
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/hs-petg-high-speed-3d-printing-filament?variant=45703938441434
+    Green:
+      hex: '#13D683'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/hs-petg-high-speed-3d-printing-filament?variant=45703938638042
+  PLA Rainbow:
+    Silk Rainbow Candy 2:
+      hex: '#AB85C6,#E968A0,#F8CC6B,#13C1D2'
+      source: 3dfilamentprofiles.com
+    Silk Rainbow Forest:
+      hex: '#3D4F83,#35969B,#51943F,#78713A'
+      source: 3dfilamentprofiles.com
+  PA (Nylon) CF:
+    Nylon-CF Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/kingroon-pa-cf-carbon-fiber-nylon-filament
+  PA6 Basic:
+    White:
+      hex: '#DDDDDD'
+      source: 3dfilamentprofiles.com
+      link: https://kingroon.com/products/copy-of-2kg-pack-pa-nylon-3d-filament?variant=45555842023642

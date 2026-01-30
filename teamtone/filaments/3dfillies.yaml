@@ -1,0 +1,86 @@
+3DFillies:
+  PLA+/Pro Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plaplus-filament-175mm-1kg.html
+    Yellow:
+      hex: '#E1C726'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plaplus-filament-175mm-1kg.html
+    Pink:
+      hex: '#BC43AA'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plaplus-filament-175mm-1kg.html
+    Orange:
+      hex: '#EE6D2F'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plaplus-filament-175mm-1kg.html
+    Transparent:
+      hex: '#AFA796'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plaplus-filament-175mm-1kg.html
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plaplus-filament-175mm-1kg.html
+    Skin:
+      hex: '#E9C3A4'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plaplus-filament-175mm-1kg.html
+    Pastel Purple:
+      hex: '#BCABE5'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plaplus-filament-175mm-1kg.html
+    Purple:
+      hex: '#8000FF'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plaplus-filament-175mm-1kg.html
+    Dark Blue:
+      hex: '#051386'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plaplus-filament-175mm-1kg.html
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plaplus-filament-175mm-1kg.html
+    Lithophane White:
+      hex: '#E0E0E0'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plaplus-filament-175mm-1kg.html
+    Green:
+      hex: '#079140'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plaplus-filament-175mm-1kg.html
+  PLA+/Pro Silk:
+    Midnight Blue:
+      hex: '#0B3D95'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plasilk-filament-175mm-1kg.html
+    Gold:
+      hex: '#F5C555'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plasilk-filament-175mm-1kg.html
+  PLA Multicolor:
+    Chromatic - Twilight:
+      hex: '#A100E2,#000000,#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/chromatic-pla-1kg.html
+    MultiColor - Blue/Red:
+      hex: '#0000FF,#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/multicolour-filament-1-75mm-1kg.html
+  ABS Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/abs-filament-175mm-1kg.html
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/abs-filament-175mm-1kg.html
+  TPU Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/tpu-filament-175mm-1kg.html

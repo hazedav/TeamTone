@@ -1,0 +1,37 @@
+瘋3d (亞客):
+  PETG Wood:
+    Imitated wood:
+      hex: '#FFD5A9'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    WHITE:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    BLUE:
+      hex: '#0B38F2'
+      source: 3dfilamentprofiles.com
+    RED:
+      hex: '#FF3439'
+      source: 3dfilamentprofiles.com
+    BLACK:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Glowing Stars Blue:
+      hex: '#75B5F5'
+      source: 3dfilamentprofiles.com
+    Glowing Green:
+      hex: '#00FF2A'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Black/Gray:
+      hex: '#000000,#616A70'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Matte Grey:
+      hex: '#333333'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Transparent:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://shopee.tw/3D列印-PLA-線材-1.75mm-捲線整齊不打結-真空包裝-快速出貨-多種顏色-開立發票-瘋3D-i.56363632.3627562512

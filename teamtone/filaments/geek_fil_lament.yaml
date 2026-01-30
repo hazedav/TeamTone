@@ -1,0 +1,60 @@
+Geek Fil/lament:
+  ABS Basic:
+    Ultramarine:
+      hex: '#120A8F'
+      source: 3dfilamentprofiles.com
+    Lilac:
+      hex: '#9370DB'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FFA500'
+      source: 3dfilamentprofiles.com
+    Beige:
+      hex: '#B19886'
+      source: 3dfilamentprofiles.com
+    Ash:
+      hex: '#778899'
+      source: 3dfilamentprofiles.com
+    Ivory:
+      hex: '#F6E8CA'
+      source: 3dfilamentprofiles.com
+    Just Green:
+      hex: '#5F963A'
+      source: 3dfilamentprofiles.com
+    Ruby Red:
+      hex: '#9B111E'
+      source: 3dfilamentprofiles.com
+    Sunflower:
+      hex: '#FFDB02'
+      source: 3dfilamentprofiles.com
+    Blue Moon:
+      hex: '#007FEF'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA GF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Orange:
+      hex: '#EC7C25'
+      source: 3dfilamentprofiles.com
+    Sunflower:
+      hex: '#FFC512'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#800080'
+      source: 3dfilamentprofiles.com
+    Lilac:
+      hex: '#6326C0'
+      source: 3dfilamentprofiles.com
+      link: https://u3print.com/plastik-dlya-3d-printera/petg-plastik-gf-lilac
+  PLA CF:
+    Sunflower (Yellow):
+      hex: '#FFF700'
+      source: 3dfilamentprofiles.com

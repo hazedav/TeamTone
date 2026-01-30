@@ -1,0 +1,14 @@
+Cliever:
+  PLA Premium:
+    Creme:
+      hex: '#E4DBBF'
+      source: 3dfilamentprofiles.com
+      link: https://cliever3d.commercesuite.com.br/filamento/filamento-pla/pla-creme-premium-1-75mm-1-kg-cliever
+    Preto:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://cliever3d.commercesuite.com.br/filamento/filamento-pla/pla-preto-premium-1-75mm-1-kg-cliever
+    Branco:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://cliever3d.commercesuite.com.br/filamento/filamento-pla/pla-branco-premium-1-75mm-1-kg-cliever

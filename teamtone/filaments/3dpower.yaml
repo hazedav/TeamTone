@@ -1,0 +1,126 @@
+3DPower:
+  PLA High Speed:
+    Pure White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/menu/hyper-speed-pla-257.html
+    Telegrey:
+      hex: '#C4C4C4'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/menu/hyper-speed-pla-257.html
+    Amber Yellow:
+      hex: '#FFFF89'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/menu/hyper-speed-pla-257.html
+    Water Blue:
+      hex: '#398BAE'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/menu/hyper-speed-pla-257.html
+    Papaya Orange:
+      hex: '#FFA62C'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/menu/hyper-speed-pla-257.html
+    Grass Green:
+      hex: '#1D9850'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/menu/hyper-speed-pla-257.html
+    Flame Red:
+      hex: '#E62A1C'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/products/filament-3dpower-hyper-speed-pla-1-75mm-flame-red-1kg-133.html
+  PLA Basic:
+    Amber Yellow:
+      hex: '#FFFF89'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/products/filament-3dpower-basic-pla-1-75mm-amber-yellow-1kg-128.html
+    Pink:
+      hex: '#C63678'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/products/filament-3dpower-basic-pla-1-75mm-pink-1kg-101.html
+    Grey:
+      hex: '#575E5F'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/products/filament-3dpower-basic-pla-1-75mm-grey-1kg-17.html
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/products/filament-3dpower-basic-pla-1-75mm-white-1kg-10.html
+    black pla:
+      hex: '#01090E'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/menu/basic-pla-152.html
+    Yellow:
+      hex: '#FAEA39'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/products/filament-3dpower-basic-pla-1-75mm-yellow-1kg-13.html
+    Green:
+      hex: '#336633'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/products/filament-3dpower-basic-pla-1-75mm-green-1kg-11.html
+    Black:
+      hex: '#01090E'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/products/filament-3dpower-basic-pla-1-75mm-black-1kg-9.html
+    Gold:
+      hex: '#C39E68'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/products/filament-3dpower-basic-pla-1-75mm-gold-1kg-24.html
+    Orange:
+      hex: '#FEB204'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/products/filament-3dpower-basic-pla-1-75mm-orange-1kg-14.html
+    Papaya Orange:
+      hex: '#FFA62C'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/products/filament-3dpower-basic-pla-1-75mm-papaya-orange-1kg-126.html
+    Brown:
+      hex: '#392412'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/products/filament-3dpower-basic-pla-1-75mm-bronze-1kg-99.html
+    Turquoise:
+      hex: '#008B8B'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/products/filament-3dpower-basic-pla-1-75mm-turquoise-ca-ral-180-50-25-1kg-123.html
+    Flame Red:
+      hex: '#E62A1C'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/products/filament-3dpower-basic-pla-1-75mm-flame-red-1kg-127.html
+  PLA HT:
+    Light Grey:
+      hex: '#949494'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/products/filament-3dpower-pla-ht-150-1-75mm-light-grey-1kg-270.html
+  PLA Matte:
+    Red:
+      hex: '#E25D68'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/products/filament-3dpower-pla-matte-1-75mm-red-1kg-159.html
+  PLA Marble:
+    Brick:
+      hex: '#6E3030'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/products/filament-3dpower-pla-marble-1-75mm-brick-1kg-167.html
+  PLA Silk:
+    Dark violet:
+      hex: '#9400D3'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/menu/pla-silk-156.html
+    Gold:
+      hex: '#D3AF37'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/products/filament-3dpower-silk-1-75mm-gold-1kg-104.html
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/products/filament-3dpower-basic-pet-g-1-75mm-black-1kg-27.html
+  PETG High Speed:
+    Beżowy/ Beige:
+      hex: '#CFC5AF'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/products/filament-3dpower-hyper-speed-pet-g-1-75mm-beige-1kg-209.html
+  PLA Silk Dual:
+    Red/Black:
+      hex: '#FF0000,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dpower-filament.com/en/menu/pla-silk-dual-color-340.html

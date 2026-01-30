@@ -1,0 +1,19 @@
+Jucai:
+  PLA Basic:
+    Yellow:
+      hex: '#F8CA00'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#D7D0F7'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Vibrant Orange:
+      hex: '#FF6548'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Oriental white:
+      hex: '#D3CFBE'
+      source: 3dfilamentprofiles.com
+    Matcha Green:
+      hex: '#AFAA42'
+      source: 3dfilamentprofiles.com

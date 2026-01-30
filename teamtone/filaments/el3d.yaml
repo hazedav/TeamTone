@@ -1,0 +1,24 @@
+EL3D:
+  PLA Glow:
+    Luminous Green:
+      hex: '#DEFDDB'
+      source: 3dfilamentprofiles.com
+      link: https://www.envirolaser3d.com/products/hello3d-pla-glow-in-the-dark-luminous-green-1kg
+  TPU Translucent:
+    Transparent Blue:
+      hex: '#0134FE'
+      source: 3dfilamentprofiles.com
+      link: https://www.envirolaser3d.com/
+    Transparent Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.envirolaser3d.com/
+  PLA Basic:
+    Green:
+      hex: '#47F069'
+      source: 3dfilamentprofiles.com
+      link: https://www.envirolaser3d.com/products/el3d%C2%AE-pla-collection?variant=50706860998934
+  PLA Silk Dual:
+    Black Red:
+      hex: '#FF0000,#000000'
+      source: 3dfilamentprofiles.com

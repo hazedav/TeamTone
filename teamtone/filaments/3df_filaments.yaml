@@ -1,0 +1,15 @@
+3DF Filaments:
+  PETG+ Basic:
+    WHITE:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Purple:
+      hex: '#8C00FF'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#11FF00'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#004CFF'
+      source: 3dfilamentprofiles.com

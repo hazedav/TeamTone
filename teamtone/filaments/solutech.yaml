@@ -1,0 +1,15 @@
+Solutech:
+  PLA Glow:
+    transparent:
+      hex: '#E3E9ED'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Chocolate Brown:
+      hex: '#A25F49'
+      source: 3dfilamentprofiles.com
+    Natural Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Real Green:
+      hex: '#003300'
+      source: 3dfilamentprofiles.com

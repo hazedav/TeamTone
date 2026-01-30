@@ -1,0 +1,24 @@
+Miailuy:
+  PLA Silk:
+    Blue:
+      hex: '#1F9EF9'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#EA7E37'
+      source: 3dfilamentprofiles.com
+    Rainbow:
+      hex: '#CF4444,#2E96FF,#81EC5B,#FF8624'
+      source: 3dfilamentprofiles.com
+    Silk Brass:
+      hex: '#95885C'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Green:
+      hex: '#53E13D'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com

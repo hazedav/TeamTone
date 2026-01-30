@@ -1,0 +1,122 @@
+Printomax:
+  PLA+/Pro Basic:
+    Light purple:
+      hex: '#D357FE'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/
+    Golden Brick:
+      hex: '#FEC700'
+      source: 3dfilamentprofiles.com
+    GREEN:
+      hex: '#317F43'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/
+    LIGHT PEACH:
+      hex: '#FFDAB6'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/
+    BLUE NAVY:
+      hex: '#403A60'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/
+    RED COPPER:
+      hex: '#CB6D51'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/
+    Red Wine Bordeaux:
+      hex: '#722B3D'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/products/filament-3d-pla-pro-red-wine-bordeaux-1-75mm-1kg
+    BEIGE:
+      hex: '#D3BC8D'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/
+    Duck Blue:
+      hex: '#05868E'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/products/filament-3d-pla-pro-duck-blue-1-75mm-1kg
+    yellow:
+      hex: '#F1DD39'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/products/filament-impression-3d-pla-pro-yellow-1-75mm-1kg
+    Pink:
+      hex: '#D38286'
+      source: 3dfilamentprofiles.com
+    BROWN:
+      hex: '#674736'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/
+    SKY BLUE:
+      hex: '#92C1E9'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/
+    PURPLE:
+      hex: '#553A76'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/
+    LIGHT PINK:
+      hex: '#EA899A'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/
+    PURE WHITE:
+      hex: '#ECECE7'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/
+    BLACK:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/
+    Dark Green:
+      hex: '#0F4336'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/products/filament-3d-pla-pro-dark-green-1-75mm-1kg
+    Blood Red:
+      hex: '#B91716'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/products/filament-3d-pla-pro-blood-red-1-75mm-1kg
+    Rich Gold:
+      hex: '#A7A67B'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/products/filament-3d-pla-pro-rich-gold-1-75mm-1kg
+  PLA+/Pro Silk Dual:
+    BLACK/PURPLE:
+      hex: '#000000,#814A7E'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/
+  PLA+/Pro Silk:
+    BLACK:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/
+    GOLD:
+      hex: '#D4AF37'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/
+    RED:
+      hex: '#FF4013'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/
+  TPU 95A:
+    BLACK:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/
+  PETG Basic:
+    RED:
+      hex: '#C40000'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/
+    BLACK:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/
+  PLA+/Pro Marble:
+    MARBLE RED:
+      hex: '#8C3636'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/
+  PLA+/Pro Galaxy:
+    BLACK PAILLETTÉ:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://printomax3d.com/

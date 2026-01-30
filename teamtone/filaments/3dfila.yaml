@@ -1,0 +1,71 @@
+3DFila:
+  PCTG HT:
+    Tritan Preto Black Petroleum:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Azul Claro:
+      hex: '#00A3C2'
+      source: 3dfilamentprofiles.com
+      link: https://3dfila.com.br/produto/filamento-pla-preto/
+    vermelho:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://3dfila.com.br/produto/filamento-pla-preto/
+    Laranja:
+      hex: '#E16F24'
+      source: 3dfilamentprofiles.com
+      link: https://3dfila.com.br/produto/filamento-pla-laranja/
+    Preto:
+      hex: '#242322'
+      source: 3dfilamentprofiles.com
+      link: https://3dfila.com.br/produto/filamento-pla-preto/
+    Branco Gesso:
+      hex: '#E2E8EE'
+      source: 3dfilamentprofiles.com
+      link: https://3dfila.com.br/produto/filamento-pla-preto/
+  TPU 90A:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    XT Branco Snow White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dfila.com.br/produto/filamento-petg-branco/
+  PLA Magic:
+    Amarelo Neon:
+      hex: '#D4FF00'
+      source: 3dfilamentprofiles.com
+    Vermelho Neon:
+      hex: '#FF0040'
+      source: 3dfilamentprofiles.com
+  ABS Premium:
+    Preto Ebony:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG:
+    XT Preto Black Night:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dfila.com.br/produto/filamento-petg-azul/
+    XT Cinza Gray Storm:
+      hex: '#65696A'
+      source: 3dfilamentprofiles.com
+      link: https://3dfila.com.br/categoria-produto/filamento-3d-para-impressora-3d/filamento-petg/
+    XT Transparente Glass:
+      hex: '#FF00F7'
+      source: 3dfilamentprofiles.com
+      link: https://3dfila.com.br/categoria-produto/filamento-3d-para-impressora-3d/filamento-petg/
+    XT Vermelho Red Metal:
+      hex: '#A30008'
+      source: 3dfilamentprofiles.com
+      link: https://3dfila.com.br/categoria-produto/filamento-3d-para-impressora-3d/filamento-petg/
+    XT Azul Blue Metal:
+      hex: '#21607A'
+      source: 3dfilamentprofiles.com
+      link: https://3dfila.com.br/categoria-produto/filamento-3d-para-impressora-3d/filamento-petg/
+    XT Verde Green Metal:
+      hex: '#336054'
+      source: 3dfilamentprofiles.com
+      link: https://3dfila.com.br/categoria-produto/filamento-3d-para-impressora-3d/filamento-petg/

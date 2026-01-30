@@ -1,0 +1,22 @@
+Plasticoff:
+  PETG+ Basic:
+    orange:
+      hex: '#FF6A00'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF6A00'
+      source: 3dfilamentprofiles.com
+    Light Gren:
+      hex: '#81A480'
+      source: 3dfilamentprofiles.com
+    Light Gray:
+      hex: '#C4C4C3'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Dark red:
+      hex: '#5C0700'
+      source: 3dfilamentprofiles.com

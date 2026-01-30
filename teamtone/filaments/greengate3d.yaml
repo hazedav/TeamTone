@@ -1,0 +1,64 @@
+GreenGate3D:
+  PETG Translucent:
+    Ice Blue:
+      hex: '#00CCFF'
+      source: 3dfilamentprofiles.com
+    Traslucent Purple:
+      hex: '#9900FF'
+      source: 3dfilamentprofiles.com
+      link: https://greengate3d.com/collections/recycled-pet-g/products/recycled-translucent-purple-pet-g
+    Pink Grapefruit:
+      hex: '#F5A5D7'
+      source: 3dfilamentprofiles.com
+      link: https://greengate3d.com/collections/recycled-pet-g/products/pink-grapefruit-high-temperature-virgin-pet-g
+    Cherry Pie:
+      hex: '#D31A43'
+      source: 3dfilamentprofiles.com
+      link: https://greengate3d.com/collections/recycled-pet-g/products/cherry-pie-recycled-pet-g
+    Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://greengate3d.com/collections/recycled-pet-g/products/recycled-pet-g
+    Pink Sparkles:
+      hex: '#F49090'
+      source: 3dfilamentprofiles.com
+    America Blue:
+      hex: '#0400FF'
+      source: 3dfilamentprofiles.com
+      link: https://greengate3d.com/collections/recycled-pet-g/products/recycled-petg-filament-american-blue
+  PETG Recycled:
+    Aqua:
+      hex: '#34DCDF'
+      source: 3dfilamentprofiles.com
+    Sandman Tan:
+      hex: '#C9B49A'
+      source: 3dfilamentprofiles.com
+    Spearmint Green:
+      hex: '#31C284'
+      source: 3dfilamentprofiles.com
+    Mars Red:
+      hex: '#982422'
+      source: 3dfilamentprofiles.com
+      link: https://greengate3d.com/collections/recycled-pet-g/products/new-mars-red-recycled-pet-g
+    Olive Drab:
+      hex: '#5F6739'
+      source: 3dfilamentprofiles.com
+      link: https://greengate3d.com/collections/recycled-pet-g/products/olive-drab-recycled-pet-g
+  PETG:
+    Transition Purple Reign:
+      hex: '#754A8D'
+      source: 3dfilamentprofiles.com
+      link: https://greengate3d.com/collections/recycled-pet-g/products/purple-reign-transition-spools-recycled-pet-g
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://greengate3d.com/collections/recycled-pet-g/products/half-spool-black-recycled-pet-g-a-great-way-to-test-greengate3d
+  PETG Fluorescent:
+    Magic Magenta:
+      hex: '#EF238E'
+      source: 3dfilamentprofiles.com
+      link: https://greengate3d.com/collections/recycled-pet-g/products/magic-magenta-recycled-pet-g-new-and-fluorescent
+    Limón:
+      hex: '#F1EC77'
+      source: 3dfilamentprofiles.com
+      link: https://greengate3d.com/collections/recycled-pet-g/products/recycled-limon-pet-g

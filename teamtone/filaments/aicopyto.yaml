@@ -1,0 +1,30 @@
+AICOPYTO:
+  PLA CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Silk Gold:
+      hex: '#DDCF3C'
+      source: 3dfilamentprofiles.com
+    Copper:
+      hex: '#B87333'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#493EBD'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Black-Gold:
+      hex: '#000000,#DDCF3C'
+      source: 3dfilamentprofiles.com
+    Red-Black:
+      hex: '#000000,#AD3970'
+      source: 3dfilamentprofiles.com
+  PLA Marble:
+    Marble White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Red/Blue/Green:
+      hex: '#A70101,#097C16,#1295F3'
+      source: 3dfilamentprofiles.com

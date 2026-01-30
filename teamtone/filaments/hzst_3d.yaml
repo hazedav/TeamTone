@@ -1,0 +1,16 @@
+HZST 3D:
+  PETG:
+    Gray:
+      hex: '#909FAA'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Champagne Gold:
+      hex: '#7D7764'
+      source: 3dfilamentprofiles.com
+    Red Copper:
+      hex: '#C37752'
+      source: 3dfilamentprofiles.com
+  PLA Pro:
+    Flame Orange:
+      hex: '#FF7026'
+      source: 3dfilamentprofiles.com

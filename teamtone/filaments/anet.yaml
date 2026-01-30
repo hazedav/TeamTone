@@ -1,0 +1,8 @@
+Anet:
+  PLA+/Pro Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Orange Fluorescent:
+      hex: '#FF581B'
+      source: 3dfilamentprofiles.com

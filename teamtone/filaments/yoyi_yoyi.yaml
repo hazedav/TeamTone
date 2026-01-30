@@ -1,0 +1,28 @@
+Yoyi Yoyi:
+  PETG Translucent:
+    Green:
+      hex: '#00F900'
+      source: 3dfilamentprofiles.com
+      link: https://www.yoyi-yoyi.com/products/yoyi-yoyi-3d-printer-filament-petg-filament-1-75mm-2-2lbs1kg-spool-dimensional-accuracy-0-03-mm-100-new-raw-material
+    Red:
+      hex: '#F93E47'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Dark green:
+      hex: '#285D04'
+      source: 3dfilamentprofiles.com
+  TPU Translucent:
+    Transparent:
+      hex: '#B0B0B0'
+      source: 3dfilamentprofiles.com
+  TPU Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#C52600'
+      source: 3dfilamentprofiles.com

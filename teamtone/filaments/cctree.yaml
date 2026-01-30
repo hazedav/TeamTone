@@ -1,0 +1,166 @@
+CCTREE:
+  PLA Color Change (Temp):
+    Blue / White:
+      hex: '#0000FF,#FFFFFF'
+      source: 3dfilamentprofiles.com
+  ASA Glow:
+    Glow in the Dark Blue:
+      hex: '#0F78C2'
+      source: 3dfilamentprofiles.com
+      link: https://www.gl.primes3d.com/collections/asa-78
+  PLA+/Pro Basic:
+    Gold:
+      hex: '#D08601'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#00A3E0'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FEFB00'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#2CF604'
+      source: 3dfilamentprofiles.com
+    Grey Blue:
+      hex: '#002398'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF2600'
+      source: 3dfilamentprofiles.com
+    Dark Brown:
+      hex: '#4A332D'
+      source: 3dfilamentprofiles.com
+  PLA Marble:
+    Polychrome Marble:
+      hex: '#D6D4CD'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Purple:
+      hex: '#620A8A'
+      source: 3dfilamentprofiles.com
+    ocean blå:
+      hex: '#009DFF'
+      source: 3dfilamentprofiles.com
+    Ocean Blue:
+      hex: '#009DFF'
+      source: 3dfilamentprofiles.com
+    Lime Grøn:
+      hex: '#00BB06'
+      source: 3dfilamentprofiles.com
+    Green (Teal):
+      hex: '#6EF7D5'
+      source: 3dfilamentprofiles.com
+  ASA Basic:
+    Brown:
+      hex: '#804000'
+      source: 3dfilamentprofiles.com
+      link: https://www.primes3d.com/
+  ABS Basic:
+    Silver:
+      hex: '#737373'
+      source: 3dfilamentprofiles.com
+      link: https://www.primes3d.com/abs-filament_0006
+    Brown:
+      hex: '#964B00'
+      source: 3dfilamentprofiles.com
+      link: https://www.primes3d.com/abs-filament_0006
+    Pink:
+      hex: '#FF8DA1'
+      source: 3dfilamentprofiles.com
+      link: https://www.primes3d.com/abs-filament_0006
+    Grey:
+      hex: '#C5CDD3'
+      source: 3dfilamentprofiles.com
+      link: https://www.primes3d.com/abs-filament_0006
+    Light Blue:
+      hex: '#74C3FB'
+      source: 3dfilamentprofiles.com
+      link: https://www.primes3d.com/abs-filament_0006
+  PETG Glow:
+    White that glows green:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    White that glows blue:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Grey:
+      hex: '#B5B5B5'
+      source: 3dfilamentprofiles.com
+    Teal:
+      hex: '#A1EFDF'
+      source: 3dfilamentprofiles.com
+  SMP:
+    K-Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Teak:
+      hex: '#53302A'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Rød:
+      hex: '#930F1A'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#964B00'
+      source: 3dfilamentprofiles.com
+    gul:
+      hex: '#FFF100'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#999999'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Grå:
+      hex: '#A7A7A7'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Color Change (Temp):
+    Red to White:
+      hex: '#FF0000,#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PETG Galaxy:
+    Galaxy Green:
+      hex: '#54D100'
+      source: 3dfilamentprofiles.com
+      link: https://www.amazon.co.uk/dp/B0DD36XXF6?ref=ppx_yo2ov_dt_b_fed_asin_title
+    Galaxy Purple:
+      hex: '#7D57D6'
+      source: 3dfilamentprofiles.com
+      link: https://www.amazon.co.uk/dp/B0DD36XXF6?ref=ppx_yo2ov_dt_b_fed_asin_title
+    Galaxy Silver:
+      hex: '#606060'
+      source: 3dfilamentprofiles.com
+    Galaxy Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ASA Galaxy:
+    Galaxy Silver:
+      hex: '#9A9996'
+      source: 3dfilamentprofiles.com
+  PLA Blend:
+    Black:
+      hex: '#111111'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ABS Glow:
+    Glow Green:
+      hex: '#59FF59'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Grey:
+      hex: '#787878'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  TPU Color Change (UV):
+    Glow in the Dark Blue:
+      hex: '#0F78C2'
+      source: 3dfilamentprofiles.com
+      link: https://www.primes3d.com/products/cctree-3d-printer-tpu-filament-175mm-285mm-101

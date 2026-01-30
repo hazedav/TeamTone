@@ -1,0 +1,43 @@
+Toner Plastics:
+  PLA Basic:
+    Dark Blue:
+      hex: '#004170'
+      source: 3dfilamentprofiles.com
+    Rich Teal:
+      hex: '#015560'
+      source: 3dfilamentprofiles.com
+    Parrot Green:
+      hex: '#2AFA00'
+      source: 3dfilamentprofiles.com
+    Steel:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+    Dark Green:
+      hex: '#003322'
+      source: 3dfilamentprofiles.com
+  HIPS Basic:
+    Natural:
+      hex: '#E6E6E6'
+      source: 3dfilamentprofiles.com
+  ASA Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  TPU 90A:
+    Blue:
+      hex: '#0068B3'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Yellow:
+      hex: '#FFEE33'
+      source: 3dfilamentprofiles.com
+      link: https://tonerplastics.com/product/petg-filament-reels/
+  ABS Basic:
+    Crimson:
+      hex: '#A02522'
+      source: 3dfilamentprofiles.com
+      link: https://tonerplastics.com/product/village-plastics-abs-filament-reels/
+  PLA Translucent:
+    Translucent Green:
+      hex: '#135317'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,130 @@
+CHCKX:
+  PETG Basic:
+    Blue:
+      hex: '#248FF9'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#61177C'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF8000'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#898989'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FA0000'
+      source: 3dfilamentprofiles.com
+    Color:
+      hex: '#F3E1E1'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#C4C4C4'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FBFF00'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#80FF00'
+      source: 3dfilamentprofiles.com
+    Orange-Light:
+      hex: '#FBA966'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Skin-Color:
+      hex: '#F3E2DE'
+      source: 3dfilamentprofiles.com
+    Starry Blue:
+      hex: '#1044BB'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#4C5057'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#646B73'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF6A00'
+      source: 3dfilamentprofiles.com
+    Peach Pink:
+      hex: '#FC5073'
+      source: 3dfilamentprofiles.com
+    Energetic Orange:
+      hex: '#FF6600'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#FD9DBA'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#AB79C7'
+      source: 3dfilamentprofiles.com
+    Bamboo Green:
+      hex: '#58B04E'
+      source: 3dfilamentprofiles.com
+    Light Yellow:
+      hex: '#EEE850'
+      source: 3dfilamentprofiles.com
+  PETG Matte:
+    Matte Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Matte White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Four Seasons of Autumn:
+      hex: '#E8A354,#F38A12'
+      source: 3dfilamentprofiles.com
+    Four Seasons of Spring:
+      hex: '#FF8AFB'
+      source: 3dfilamentprofiles.com
+    Four Seasons of Summer:
+      hex: '#79F269,#A8E88C,#3E8E69'
+      source: 3dfilamentprofiles.com
+    Four Seasons of Winter:
+      hex: '#66AAC7,#8EABE6'
+      source: 3dfilamentprofiles.com
+    Powder Blue:
+      hex: '#D77AF0,#EFAEE3,#70B0F0'
+      source: 3dfilamentprofiles.com
+  PLA Matte Rainbow:
+    Candy 2:
+      hex: '#E1AEEF,#EBEFAE,#67A6E4'
+      source: 3dfilamentprofiles.com
+    Candy:
+      hex: '#35850A,#CFDF53,#C360D7'
+      source: 3dfilamentprofiles.com
+    Candy 3:
+      hex: '#5E94C9,#4EBE46,#DAF282,#CC85C2'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Red Yellow Blue:
+      hex: '#FF0000,#FBFF00,#006BD6'
+      source: 3dfilamentprofiles.com
+  PETG Multicolor:
+    Glass Ice Cream:
+      hex: '#E78BE9,#AEEFB5,#CECC92'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Blue Green:
+      hex: '#0080FF,#25B128'
+      source: 3dfilamentprofiles.com
+    Black and Red:
+      hex: '#000000,#FF0000'
+      source: 3dfilamentprofiles.com
+  PETG GF:
+    Gray:
+      hex: '#B0B0B0'
+      source: 3dfilamentprofiles.com

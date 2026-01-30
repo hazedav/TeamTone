@@ -1,0 +1,73 @@
+3D Fillies:
+  PLA+/Pro Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plaplus-filament-175mm-1kg.html
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plaplus-filament-175mm-1kg.html
+    Gold:
+      hex: '#A98543'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFFF17'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#6D0155'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF8000'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0042A9'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plaplus-filament-175mm-1kg.html
+    Green:
+      hex: '#00BB08'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plaplus-filament-175mm-1kg.html
+    Light Grey:
+      hex: '#ADADAD'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plaplus-filament-175mm-1kg.html
+    Red:
+      hex: '#B51A00'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plaplus-filament-175mm-1kg.html
+    Dark Blue:
+      hex: '#11053B'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plaplus-filament-175mm-1kg.html
+  PLA Galaxy:
+    Etwinkling Red:
+      hex: '#E00000'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Silver:
+      hex: '#5C5C5C'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plasilk-filament-175mm-1kg.html
+    Iron Grey:
+      hex: '#474747'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plasilk-filament-175mm-1kg.html
+    Green:
+      hex: '#33C759'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plasilk-filament-175mm-1kg.html
+    Red:
+      hex: '#F10404'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/plasilk-filament-175mm-1kg.html
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/petg-filament-175mm-1kg.html
+  PLA Silk Dual:
+    Green/Blue:
+      hex: '#0028F0,#29F500'
+      source: 3dfilamentprofiles.com
+      link: https://3dfillies.com/multicolour-filament-1-75mm-1kg.html

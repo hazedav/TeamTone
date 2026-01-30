@@ -1,0 +1,46 @@
+EIBOS:
+  PLA+/Pro Basic:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://shop.eibos3d.com/
+    Milk White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://shop.eibos3d.com/
+  PLA Matte:
+    Cypress:
+      hex: '#0E4E27'
+      source: 3dfilamentprofiles.com
+      link: https://shop.eibos3d.com/products/eibos-3d-artism-series-i-matte-pla?variant=42592775602355
+    Terracotta:
+      hex: '#E1897F'
+      source: 3dfilamentprofiles.com
+      link: https://shop.eibos3d.com/products/eibos-3d-artism-series-i-matte-pla?variant=42592775307443
+    Oceana:
+      hex: '#3D5976'
+      source: 3dfilamentprofiles.com
+      link: https://shop.eibos3d.com/products/eibos-3d-artism-series-i-matte-pla?variant=42592775700659
+  PLA+/Pro Matte:
+    Gray:
+      hex: '#4C4D4D'
+      source: 3dfilamentprofiles.com
+      link: https://shop.eibos3d.com/products/eibos-filament-basic-series?variant=43690915102899
+  PLA Silk Triple:
+    'Artism Series II – Silk Ribbons PLA Color: Black / Blue / Purple Spool code: HC02':
+      hex: '#000000,#0057B7,#6A0DAD'
+      source: 3dfilamentprofiles.com
+      link: https://shop.eibos3d.com/products/eibos-filament-artism-series-ii?variant=43736782504115
+    Silk Ribbons PLA Red+Yellow+Blue, HC05:
+      hex: '#FF0000,#FFD700,#0057B7'
+      source: 3dfilamentprofiles.com
+      link: https://shop.eibos3d.com/products/eibos-filament-artism-series-ii?variant=43736782995635
+    Red+Green+Dark Blue:
+      hex: '#E22400,#076700,#0054E2'
+      source: 3dfilamentprofiles.com
+      link: https://shop.eibos3d.com/products/eibos-filament-silk-series?variant=43737036685491
+  PLA Silk Dual:
+    Black/Red:
+      hex: '#FF0000,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eibos3d.com/collections/all

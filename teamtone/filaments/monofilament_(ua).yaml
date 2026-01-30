@@ -1,0 +1,68 @@
+Monofilament (UA):
+  PETG Basic:
+    White Pearl:
+      hex: '#EDECE9'
+      source: 3dfilamentprofiles.com
+      link: https://monofilament.com.ua/ua/products/standartnye-materialy/copet/copet-belyj-zhemchug-dlja-3d-printera-fdm
+    Khaki:
+      hex: '#625431'
+      source: 3dfilamentprofiles.com
+      link: https://monofilament.com.ua/ua/products/standartnye-materialy/pla/pla-haki-o1-75mm-ves0-75kg-1
+    Light Gray:
+      hex: '#8A8A8A'
+      source: 3dfilamentprofiles.com
+      link: https://monofilament.com.ua/ua/products/standartnye-materialy/copet/copet-svetlo-seryj-o1-75mm-ves0-75kg
+    White:
+      hex: '#FAFFFD'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Blue:
+      hex: '#0042A9'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#563D00'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://monofilament.com.ua/ua/products/standartnye-materialy/pla/pla-chernyj
+    Khaki:
+      hex: '#625431'
+      source: 3dfilamentprofiles.com
+      link: https://monofilament.com.ua/ua/products/standartnye-materialy/pla/pla-haki-o1-75mm-ves0-75kg-1
+    Salad:
+      hex: '#ADFF2F'
+      source: 3dfilamentprofiles.com
+      link: https://monofilament.com.ua/ua/products/standartnye-materialy/pla/pla-salatovyj
+  PLA Glow:
+    White/Green:
+      hex: '#B1DD8B,#FFFFFF'
+      source: 3dfilamentprofiles.com
+    White/Blue:
+      hex: '#52D6FC,#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#00FFFF'
+      source: 3dfilamentprofiles.com
+      link: https://monofilament.com.ua/ua/products/standartnye-materialy/pla/pla-fosforescentnij-blakitnij-175mm-vaga075kg
+  PLA Silk:
+    Pink:
+      hex: '#FFC6C6'
+      source: 3dfilamentprofiles.com
+      link: https://monofilament.com.ua/ua/products/standartnye-materialy/silk/silk-rozovyj-o1-75mm-ves0-75kg
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://monofilament.com.ua/ua/products/standartnye-materialy/silk/silk-belyj-o1-75mm-ves0-75kg
+  ABS Basic:
+    Natural:
+      hex: '#C7C7C7'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#030303'
+      source: 3dfilamentprofiles.com
+  PLA Glitter:
+    Black Gold:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://monofilament.com.ua/ua/products/standartnye-materialy/pla/pla-chernoe-zoloto-o1-75mm-ves0-5kg

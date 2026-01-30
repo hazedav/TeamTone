@@ -1,0 +1,12 @@
+3DKAIGE:
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#444444'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Wood:
+      hex: '#D3BDAB'
+      source: 3dfilamentprofiles.com

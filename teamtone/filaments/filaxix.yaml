@@ -1,0 +1,57 @@
+Filaxix:
+  PETG Metal:
+    Metallic Blue:
+      hex: '#385B7D'
+      source: 3dfilamentprofiles.com
+  PETG High Speed:
+    White:
+      hex: '#F7F8F8'
+      source: 3dfilamentprofiles.com
+  PET CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ASA Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#D3D7CF'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PETG CF:
+    Marble Grey:
+      hex: '#2C343A'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG GF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#3535FF'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Red/Black:
+      hex: '#FF0000,#000000'
+      source: 3dfilamentprofiles.com
+    red green:
+      hex: '#FF0000,#075601'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Silk Gold:
+      hex: '#B0D37C'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#96A6A6'
+      source: 3dfilamentprofiles.com

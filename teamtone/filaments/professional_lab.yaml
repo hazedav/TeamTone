@@ -1,0 +1,144 @@
+Professional Lab:
+  PLA Silk:
+    Rainbow:
+      hex: '#FAF286,#DE1809,#F29B05,#8A0ACF'
+      source: 3dfilamentprofiles.com
+      link: https://b2b.smartprint24.com/products/filaments/pla/pla-silk/fg-p109-e1-fg-p109-e1-silk-pla-rainbow-_-prof-lab.html
+    Gold:
+      hex: '#FFBB00'
+      source: 3dfilamentprofiles.com
+      link: https://b2b.smartprint24.com/products/filaments/pla/pla-silk
+    Rainbow Light Color:
+      hex: '#F0F0BE,#D6A9C7,#C3DEE9,#F9D1BB'
+      source: 3dfilamentprofiles.com
+      link: https://b2b.smartprint24.com/products/filaments/pla/pla-silk/fg-p110-e1-fg-p110-e1-silk-pla-rainbow-light-color-_-prof-lab.html
+    Silver:
+      hex: '#999999'
+      source: 3dfilamentprofiles.com
+      link: https://b2b.smartprint24.com/products/filaments/pla/pla-silk
+    Red-Gold:
+      hex: '#FF2025,#FAD35C'
+      source: 3dfilamentprofiles.com
+      link: https://b2b.smartprint24.com/products/filaments/pla/pla-silk
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://b2b.smartprint24.com/products/filaments/pla/pla-silk
+    Dual color Black Gold:
+      hex: '#000000,#B7B94B'
+      source: 3dfilamentprofiles.com
+      link: https://b2b.smartprint24.com/products/filaments/pla/pla-silk
+    Tri color red yellow blue:
+      hex: '#D51010,#EEFF00,#0080FF'
+      source: 3dfilamentprofiles.com
+      link: https://b2b.smartprint24.com/products/filaments/pla/pla-silk
+    Dual color black green:
+      hex: '#000000,#00FF1E'
+      source: 3dfilamentprofiles.com
+      link: https://b2b.smartprint24.com/products/filaments/pla/pla-silk
+    Color red yellow green:
+      hex: '#DA0B0B,#00FF1E,#FFF700'
+      source: 3dfilamentprofiles.com
+      link: https://b2b.smartprint24.com/products/filaments/pla/pla-silk
+  PLA High Speed:
+    Green / Zielony:
+      hex: '#36BC0D'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    New pink:
+      hex: '#DE8AF5'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FEFA3F'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#6B2B05'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#A3A3A3'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Blue:
+      hex: '#002E96'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FBFF00'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#0E862E'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#CC0014'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#A96646'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Silver:
+      hex: '#A1A1A0'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#2094FC'
+      source: 3dfilamentprofiles.com
+    GREEN:
+      hex: '#42FF4F'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Wood Black Walnut:
+      hex: '#896C4C'
+      source: 3dfilamentprofiles.com
+    WOOD:
+      hex: '#C7A071'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    BLACK-BLUE:
+      hex: '#000000,#0021C7'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#A30000'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    RED:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Matte white:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Matte Red:
+      hex: '#B51A00'
+      source: 3dfilamentprofiles.com
+    Matte Gray:
+      hex: '#858585'
+      source: 3dfilamentprofiles.com
+  ABS+ Basic:
+    Gray:
+      hex: '#ADADAD'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

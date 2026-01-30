@@ -1,0 +1,43 @@
+Fil X:
+  PLA Basic:
+    Bone White:
+      hex: '#C1C5C8'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#EBEEF0'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#5F6467'
+      source: 3dfilamentprofiles.com
+    Turquoise:
+      hex: '#16A5D4'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#111212'
+      source: 3dfilamentprofiles.com
+    Shamrock Green:
+      hex: '#00A828'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#B13E60'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#D27F57'
+      source: 3dfilamentprofiles.com
+    Kudu Valley Tan:
+      hex: '#B0AE73'
+      source: 3dfilamentprofiles.com
+    Tungsten:
+      hex: '#22262B'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ASA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#151C23'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,80 @@
+3DACTIVE:
+  PETG Translucent:
+    Yellow:
+      hex: '#F8E730'
+      source: 3dfilamentprofiles.com
+    No-color:
+      hex: '#ADADAD'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Light Blue:
+      hex: '#6BC1F5'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF8000'
+      source: 3dfilamentprofiles.com
+    Lime:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+      link: https://sklep.3dactive.pl/pl/products/filament-pla-1-75-mm-1100-g-limonka-23.html
+    Dark Grey:
+      hex: '#3D3D3B'
+      source: 3dfilamentprofiles.com
+    Burgund:
+      hex: '#800040'
+      source: 3dfilamentprofiles.com
+      link: https://3dactive.pl/
+  PLA Basic:
+    pink:
+      hex: '#E100FF'
+      source: 3dfilamentprofiles.com
+    black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    light green:
+      hex: '#11FF00'
+      source: 3dfilamentprofiles.com
+    purple:
+      hex: '#741281'
+      source: 3dfilamentprofiles.com
+    dark green:
+      hex: '#088000'
+      source: 3dfilamentprofiles.com
+    brown:
+      hex: '#551B1B'
+      source: 3dfilamentprofiles.com
+    silver:
+      hex: '#545454'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF5E29'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FCFF52'
+      source: 3dfilamentprofiles.com
+    red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://allegro.pl/oferta/filament-pla-do-drukarek-3d-3dactive-brazowy-1-75mm-1kg-600mm-s-17194972682
+  PLA+/Pro High Speed:
+    Emerald:
+      hex: '#00573F'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#002395'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#A5A5A8'
+      source: 3dfilamentprofiles.com
+  PLA Marble:
+    Biege:
+      hex: '#FFE9B3'
+      source: 3dfilamentprofiles.com
+      link: https://sklep.3dactive.pl/pl/products/filament-pla-1-75-mm-1100-g-bezowy-marmur-30.html

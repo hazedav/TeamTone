@@ -1,0 +1,30 @@
+Haosegd:
+  PLA Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Light Green:
+      hex: '#9EF0DC'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#FFE6DE'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#F05D38'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  TPU Glow:
+    Green:
+      hex: '#80FF00'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#2F60D0'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF8C1A'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#DFD620'
+      source: 3dfilamentprofiles.com

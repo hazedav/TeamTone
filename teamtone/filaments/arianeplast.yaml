@@ -1,0 +1,201 @@
+Arianeplast:
+  PLA+/Pro:
+    Argent:
+      hex: '#7E7E81'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/3d-filament-petg/423-petg-noir-3d-filament-arianeplast-fabrique-en-france.html
+    Dark Blue PANTONE 296C:
+      hex: '#041C2C'
+      source: 3dfilamentprofiles.com
+    Change Color:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF8800'
+      source: 3dfilamentprofiles.com
+    Blanc Diffusant:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/3d-filament-petg/2798-926-petg-blanc-diffusant-3d-filament-arianeplast-fabrique-en-france.html#/3-poids_net-1_kg_175mm
+    Noir métallisé:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/3d-filament-petg/549-502-petg-noir-metallise-3d-filament-arianeplast-175mm-fabrique-en-france-.html#/3-poids_net-1_kg_175mm
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/3d-filament-petg/2675-834-pack-de-5-x-1kg-de-petg-change-color-3760349166870.html#/1-diametre-175mm
+    Kaki:
+      hex: '#999A7B'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/petg/463-1139-petg-kaki.html
+    Android Green PANTONE 368C:
+      hex: '#78BE20'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/3d-filament-petg/1205-553-petg-android-green-3d-filament-arianeplast-fabrique-en-france.html#/3-poids_net-1_kg_175mm
+  PLA+/Pro Basic:
+    Rose Funky:
+      hex: '#F50AE1'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/pla-format-1-kg/536-261-pla-rose-funky-3d-filament-arianeplast-1kg-fabrique-en-france-.html#/1-diametre-175mm
+    Orange:
+      hex: '#F59324'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/51-pla-format-1-kg
+    Turquoise:
+      hex: '#009699'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/refill-pla/5079-refill-pla-turquoise-1kg-175mm.html
+    Noir:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/pla-format-1-kg/100-17-pla-noir-4043d-3d-filament-arianeplast-fabrique-en-france-1kg.html#/1-diametre-175mm
+    Gris Clair:
+      hex: '#DDDCD3'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/3d-filaments-pla/2390-499-bobine-pla-gris-clair-1kg-fil-pour-imprimante-3d-marque-arianeplast.html#/1-diametre-175mm
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/pla-format-1-kg/104-19-plablanc4043d-pla-blanc-4043d-3d-filament-arianeplast-fabrique-en-france-1kg.html#/1-diametre-175mm
+    Bordeaux:
+      hex: '#500219'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/pla-format-1-kg/2945-996-pla-bordeaux-3d-filament-arianeplast-1kg.html#/1-diametre-175mm
+    Gris:
+      hex: '#393A41'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/pla-format-1-kg/149-34-pla-gris-4043d-3d-filament-arianeplast-1kg-fabrique-en-france-.html#/1-diametre-175mm
+    Vert Pomme:
+      hex: '#96DB00'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/pla-format-1-kg/299-188-pla-vert-pomme-3d-filament-arianeplast-fabrique-en-france-1kg.html#/1-diametre-175mm
+  PLA Metal:
+    Bleu métalisé:
+      hex: '#2873C3'
+      source: 3dfilamentprofiles.com
+    Rouge métalisé:
+      hex: '#9D0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/pla-format-1-kg/284-176-pla-rouge-metallise-3d-filament-arianeplast-1kg-fabrique-en-france-.html#/1-diametre-175mm
+  PLA+/Pro Metal:
+    Bleu métallisé:
+      hex: '#51A8E6'
+      source: 3dfilamentprofiles.com
+    Vert Métallisé:
+      hex: '#1CC427'
+      source: 3dfilamentprofiles.com
+    Ocre Métallisé:
+      hex: '#FFAC57'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/pla-format-1-kg/429-pla-ocre-metallise-3d-filament-arianeplast-1kg-fabrique-en-france-.html
+    Cuivre:
+      hex: '#FF6A00'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/pla-format-1-kg/440-pla-cuivre-1kg--3760276360273.html
+  PLA+/Pro Silk:
+    Rose Bonbon:
+      hex: '#F492E7'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Vert Fluo:
+      hex: '#79F769'
+      source: 3dfilamentprofiles.com
+    eco Orange:
+      hex: '#FF8800'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/pla-eco-arianeplast/1726-640-pla-eco-jaune-175mm-1kg-3760276363854.html#/3-poids_net-1_kg_175mm
+    Rouge:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/pla-format-1-kg/219-127-pla-rouge-ral-3020-arianeplast-1kg-fabrique-en-france-.html#/1-diametre-175mm
+    eco Jaune:
+      hex: '#F0C800'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/pla-format-1-kg/2590-pla-jaune-116u-de-la-celebre-marque-d-engins-de-chantier-pantone-3d-filament-arianeplast-175mm-fabrique-en-france-1-3760349163152.html
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/pla-eco-arianeplast/1196-570-pla-eco-blanc.html#/3-poids_net-1_kg_175mm
+    Eco Noir:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/pla-eco-arianeplast/1194-pla-eco-noir-arianeplast-3760276363762.html
+    Végétal 3D Super Bleu:
+      hex: '#0742F1'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/vegetal-3d/413-642-fil-vegetal-3d-bleu-175mm-3760276362246.html#/3-poids_net-1_kg_175mm
+    Vert:
+      hex: '#00C23A'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/pla-format-1-kg/97-15-pla-vert-4043d-3d-filament-arianeplast-fabrique-en-france-1kg.html#/1-diametre-175mm
+    Bleu France:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/pla-format-1-kg/1271-417-pla-bleu-france-3d-filament-arianeplast-1kg-fabrique-en-france-.html#/1-diametre-175mm
+    Change Color:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/les-packs-de-fils-pla/2674-832-pack-5-x-1kg-de-pla-change-color-3760349166863.html#/1-diametre-175mm
+    eco Blanc:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/pla-format-1-kg/104-19-plablanc4043d-pla-blanc-4043d-3d-filament-arianeplast-fabrique-en-france-1kg.html#/1-diametre-175mm
+    Argent:
+      hex: '#969696'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/pla-format-1-kg/2550-566-fil-pla-argent-3d-filament-arianeplast-1kg-fabrique-en-france.html#/1-diametre-175mm
+  PLA ECO:
+    Violet:
+      hex: '#9465EC'
+      source: 3dfilamentprofiles.com
+  PLA Recycled:
+    Metallic:
+      hex: '#393B3C'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/3d-filament-recycle/195-295-pla-recycle-couleur-metallise-filament-175mm.html#/3-poids_net-1_kg_175mm
+  PLA Ingeo 3D870:
+    Red:
+      hex: '#E51010'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/ingeo-3d870/1732-442-pla-ingeo-3d870-rouge-175mm-qualite-professionnelle.html#/3-poids_net-1_kg_175mm
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/ingeo-3d870/1729-1059-pla-ingeo-3d870-blanc-qualite-professionnelle.html#/1-diametre-175mm/50-poids_net-1kg
+    Alu Métallisé:
+      hex: '#999999'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/ingeo-3d870/1985-467-pla-ingeo-3d870-aluminium-metallise-qualite-professionnelle.html#/3-poids_net-1_kg_175mm
+  PLA Wood:
+    bambou wood:
+      hex: '#AA7942'
+      source: 3dfilamentprofiles.com
+  TPU 85A:
+    Gris:
+      hex: '#535455'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/tpu-shore-85a/2042-478-filament-tpu-85a-gris-175mm.html#/11-poids_net-500g_175mm
+  ABS Basic:
+    Brown:
+      hex: '#553D00'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    KAKI:
+      hex: '#475A2B'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/3d-filament-tpu-shore-95a/5135-1214-filament-tpu-95a-kaki.html#/49-poids_net-500g
+  PLA+/Pro Matte:
+    Vert Fluo:
+      hex: '#2DEB12'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/pla-format-1-kg/404-242-pla-vert-fluo-1kg-3d-filament-arianeplast-fabrique-en-france.html#/3-poids_net-1_kg_175mm
+  PLA:
+    Gris:
+      hex: '#616161'
+      source: 3dfilamentprofiles.com
+      link: https://www.arianeplast.com/fr/ingeo-3d870/1733-444-pla-ingeo-3d870-gris-qualite-professionnelle.html#/3-poids_net-1_kg_175mm

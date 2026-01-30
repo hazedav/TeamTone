@@ -1,0 +1,165 @@
+Voolt3D:
+  PLA Silk:
+    Vermelho:
+      hex: '#E01B24'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br/produtos/filamento-pla-vermelho-v-silk-high-speed-premium-1kg/
+    Rosa Choque V-Silk:
+      hex: '#B30146'
+      source: 3dfilamentprofiles.com
+      link: https://www.voolt3d.com.br/pla/v-silk/filamento-pla-rosa-choque-v-silk-high-speed-1kg
+    Azul Metalizado V-Silk:
+      hex: '#07608D'
+      source: 3dfilamentprofiles.com
+      link: https://www.voolt3d.com.br/pla/v-silk/filamento-pla-azul-metalizado-v-silk-high-speed-1kg
+    Ametista V-Silk:
+      hex: '#AB4286'
+      source: 3dfilamentprofiles.com
+      link: https://www.voolt3d.com.br/filamentos/pla/v-silk/filamento-pla-ametista-v-silk-premium
+    Verde V-Silk:
+      hex: '#048A51'
+      source: 3dfilamentprofiles.com
+      link: https://www.voolt3d.com.br/pla/v-silk/filamento-pla-verde-v-silk-high-speed-1kg
+    Bronza V-Silk:
+      hex: '#BF5A61'
+      source: 3dfilamentprofiles.com
+      link: https://www.voolt3d.com.br/pla/v-silk/filamento-pla-bronze-v-silk-1kg
+    Azul Titanium V-Silk:
+      hex: '#405F87'
+      source: 3dfilamentprofiles.com
+      link: https://www.voolt3d.com.br/filamentos/pla/v-silk/filamento-pla-titanium-v-silk-premium
+    Dourado V-Silk:
+      hex: '#CFA101'
+      source: 3dfilamentprofiles.com
+      link: https://www.voolt3d.com.br/pla/v-silk/filamento-pla-dourado-v-silk
+    Rosa Salmão Neon V-Silk:
+      hex: '#FF5212'
+      source: 3dfilamentprofiles.com
+      link: https://www.voolt3d.com.br/filamentos/pla/vsilksalmao
+    Cobre V-Silk:
+      hex: '#DB8F4D'
+      source: 3dfilamentprofiles.com
+      link: https://www.voolt3d.com.br/pla/v-silk/filamento-pla-cobre-v-silk-1kg
+  PLA Matte:
+    Preto Velvet:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br/produtos/kit-filamento-pla-preto-velvet-3kg/
+    Verde Velvet:
+      hex: '#01A683'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br/produtos/filamento-pla-verde-velvet-premium/
+    Branco:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br/produtos/filamento-pla-branco-velvet-premium/
+    Cinza Grafite Velvet:
+      hex: '#898891'
+      source: 3dfilamentprofiles.com
+      link: https://www.voolt3d.com.br/filamentos/pla/velvet/pla-grafite-velvet-efeito-fosco
+  PETG HF:
+    MARROM:
+      hex: '#231709'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br
+    VERDE OLIVA:
+      hex: '#5D6532'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br
+    Translúcido:
+      hex: '#DDDDDD'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br/produtos/filamento-petg-natural-translucido-premium/
+    PRETO:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br
+    Branco Dental:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br/produtos/filamento-petg-branco-dental-premium/
+  PETG Premium:
+    Amarelo:
+      hex: '#F7C502'
+      source: 3dfilamentprofiles.com
+      link: https://www.voolt3d.com.br/filamentos/petg/filamento-petg-amarelo-premium
+  PLA HS Silk Dual:
+    Ametista e Verde:
+      hex: '#076D72,#5F0F60'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br/produtos/filamento-pla-duo-ametista-verde-v-silk-premium/
+    Inox e Rosa Choque:
+      hex: '#A21071,#444246'
+      source: 3dfilamentprofiles.com
+  PLA High Speed:
+    Branco Dental:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br/produtos/filamento-pla-branco-dental-premium/
+    Azul:
+      hex: '#09A1FA'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br/produtos/filamento-pla-azul-premium/
+    Vermelho:
+      hex: '#C80002'
+      source: 3dfilamentprofiles.com
+    Duo Color Azul Sky e Preto V-Silk:
+      hex: '#15142E,#0F59A3'
+      source: 3dfilamentprofiles.com
+    Preto:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br/produtos/filamento-pla-preto-premium/
+    Azul Ciano:
+      hex: '#70DAFE'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br/produtos/filamento-pla-azul-cyan-premium/
+    Laranja:
+      hex: '#FF6600'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br/produtos/filamento-pla-laranja-premium/
+  PLA Premium:
+    Branco Velvet:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br/produtos/filamento-pla-branco-velvet-premium/
+    Vinho Marsala:
+      hex: '#602634'
+      source: 3dfilamentprofiles.com
+      link: https://www.voolt3d.com.br/filamentos/pla/solidos/filamento-pla-marsala-premium
+    Amarelo Velvet:
+      hex: '#ECBF02'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br/produtos/filamento-pla-amarelo-velvet-premium/
+    Vermelho Velvet:
+      hex: '#942022'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br/produtos/filamento-pla-vermelho-velvet-premium/
+    Verde Oliva Velvet:
+      hex: '#6C794E'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br/produtos/filamento-pla-verde-oliva-velvet-premium/
+    Branco Off-White Velvet:
+      hex: '#E8EAED'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br/produtos/filamento-pla-branco-off-white-velvet-premium/
+    Azul Velvet:
+      hex: '#0656D9'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br/produtos/filamento-pla-azul-velvet-premium/
+    Cinza Claro Velvet:
+      hex: '#ACAAB3'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br/produtos/filamento-pla-cinza-claro-velvet-premium/
+    Preto Velvet:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br/produtos/filamento-pla-preto-velvet-premium/
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br/produtos/filamento-pla-vermelho-velvet-premium/
+    Grafite:
+      hex: '#48474C'
+      source: 3dfilamentprofiles.com
+      link: https://voolt3d.com.br/produtos/filamento-pla-grafite-premium/

@@ -1,0 +1,21 @@
+MAJKL3D:
+  PLA Basic:
+    Grey:
+      hex: '#838383'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.majkl3d.cz/p/majkl3d-filaments-pla-1-75mm-1kg-stribrna
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.majkl3d.sk/p/majkl3d-filaments-pla-1-75mm-1kg-transparentny

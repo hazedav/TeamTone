@@ -1,0 +1,528 @@
+Cookiecad:
+  PLA Basic:
+    Ruby Red Elixir:
+      hex: '#E23636'
+      source: 3dfilamentprofiles.com
+    Candy Apple Red:
+      hex: '#B12B2D'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/candy-apple-red-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Magenta Elixer:
+      hex: '#CD4264'
+      source: 3dfilamentprofiles.com
+    Hot Pink:
+      hex: '#DF4991'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/hot-pink-pla-filament-1-75mm-1k
+    Sunrise Mixer Dual:
+      hex: '#E32400,#FFEC00'
+      source: 3dfilamentprofiles.com
+    Dark Magic:
+      hex: '#2C5C63'
+      source: 3dfilamentprofiles.com
+    Unicorn Fast Change:
+      hex: '#7D9FC7,#A86BA9,#C19AE2'
+      source: 3dfilamentprofiles.com
+    Coral:
+      hex: '#FF6251'
+      source: 3dfilamentprofiles.com
+    Bumblegum:
+      hex: '#FF82A1'
+      source: 3dfilamentprofiles.com
+    Bubblegum:
+      hex: '#EE8CBB'
+      source: 3dfilamentprofiles.com
+    Mint Green:
+      hex: '#BFFFBF'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/mint-green-pla-filament-1-75mm?Quantity=1+kg+spool
+    Witchcraft:
+      hex: '#7389BC'
+      source: 3dfilamentprofiles.com
+    Pale Pink:
+      hex: '#EBC3C1'
+      source: 3dfilamentprofiles.com
+    Blue Pearl:
+      hex: '#ECEBE6'
+      source: 3dfilamentprofiles.com
+    Pink Pearl:
+      hex: '#ECEBE6'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/matt-black-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    White:
+      hex: '#E9EAE5'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/matte-white-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Nightshade:
+      hex: '#DE2A61'
+      source: 3dfilamentprofiles.com
+    Orange Sorbet:
+      hex: '#FEC679'
+      source: 3dfilamentprofiles.com
+    Periwinkle:
+      hex: '#8C99DD'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/periwinkle-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Blue Ombre Elixer:
+      hex: '#007572'
+      source: 3dfilamentprofiles.com
+    Mermaid Mixer:
+      hex: '#E1337E'
+      source: 3dfilamentprofiles.com
+    Dual Mermaid:
+      hex: '#00FBFF,#E1337E'
+      source: 3dfilamentprofiles.com
+    Unicorn Mixer:
+      hex: '#A86BA9,#298FFF'
+      source: 3dfilamentprofiles.com
+    Pale Blue Dot:
+      hex: '#A4D9FE'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/pale-blue-dot-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Pale Yellow:
+      hex: '#EBF38F'
+      source: 3dfilamentprofiles.com
+    Apple Green Elixir:
+      hex: '#55C337'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/green-apple-elixir-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+  PLA Rainbow:
+    Mermaid Fast Change:
+      hex: '#A5F8F9,#9AA2DD,#A3C7F4'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/copy-of-mermaid-purple-blue-green-pla-filament-1-75mm-1kg?Size=500g
+    Pink Ombré:
+      hex: '#EECDDB,#F978A6,#F10258'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/pink-ombre-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Purple Ombre Elixer:
+      hex: '#C396EF,#682EA4,#36117A'
+      source: 3dfilamentprofiles.com
+    Sunrise:
+      hex: '#E32400,#FFB43F,#FFEC00'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/sunrise-pink-orange-yellow-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Sunset:
+      hex: '#CF329C,#4626A4,#261CA1'
+      source: 3dfilamentprofiles.com
+    Mermaid:
+      hex: '#4BFAFF,#5FC9F2,#A3C7F4'
+      source: 3dfilamentprofiles.com
+    Unicorn:
+      hex: '#7D9FC7,#A86BA9,#C19AE2'
+      source: 3dfilamentprofiles.com
+    Purple Ombre:
+      hex: '#C396EF,#682EA4,#36117A'
+      source: 3dfilamentprofiles.com
+    Blue Ombré:
+      hex: '#D4E3FE,#94E3FE,#6ABCF6'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/blue-ombre-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Rainbow Fast Change:
+      hex: '#47C1F5,#F780F9'
+      source: 3dfilamentprofiles.com
+    Pink Ombré Elixir:
+      hex: '#E92C8F,#F65FAB,#FBF6FB'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/pink-ombre-elixir-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+  PLA Silk Dual:
+    Sunrise:
+      hex: '#F76EE4'
+      source: 3dfilamentprofiles.com
+    Co-Dual Unicorn:
+      hex: '#ADD8E6,#FFB6C1'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/silk-dual-unicorn-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Granite:
+      hex: '#A4A4A4,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/cookiecad-granite-dual-silk-pla-gray-light-gray-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Sunset Silk:
+      hex: '#F41AC5,#950BE0'
+      source: 3dfilamentprofiles.com
+    Sunrise Elixir:
+      hex: '#F76EF2,#FF8647'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Pale Blue Elixer:
+      hex: '#A7DEEC'
+      source: 3dfilamentprofiles.com
+    Pink Star Stuff:
+      hex: '#E4198D'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/pink-star-stuff-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Lavender Elixir:
+      hex: '#DDA4E5'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/lavender-elixir-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Fairy Floss:
+      hex: '#874EFE'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/fairy-floss-pink-purple-blue-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Gold Dust:
+      hex: '#DBB279'
+      source: 3dfilamentprofiles.com
+    Mint Star Stuff:
+      hex: '#36BCAE'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/mint-star-stuff-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+  ABS Glitter:
+    Pixie Dust:
+      hex: '#F769F2'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/filaments?material=abs
+    Dark Magic:
+      hex: '#1D313F'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/filaments?material=abs
+    Sunset Elixir:
+      hex: '#CC58DE,#9066C9,#C297E2'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/abs-sunset-elixir-abs-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Witches Blue:
+      hex: '#7356B8'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/abs-witches-blue-abs-filament-1-75mm-1kg?Quantity=1+kg+spool
+  PLA Glitter:
+    Pink Star Stuff:
+      hex: '#FBC6F9'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/pink-star-stuff-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Ruby Red Elixir:
+      hex: '#E10B03'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/ruby-red-elixir-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Purple Star Stuff:
+      hex: '#9A4395'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/purple-star-stuff-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Black Star Stuff:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/black-star-stuff-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Witches Blue Elixir:
+      hex: '#4123CF'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/witches-blue-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Pale Blue Elixir:
+      hex: '#A7DEEC'
+      source: 3dfilamentprofiles.com
+    Moonstone Elixir:
+      hex: '#FFFFFF,#CBEFFF,#F6E2F0'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/moonstone-pla-filament-1-75mm-1kg
+    Pixie Dust Elixir:
+      hex: '#F660FD'
+      source: 3dfilamentprofiles.com
+    Solar Flare Elixir:
+      hex: '#E3DE4F'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/solar-flare-pla-filament-1-75mm-1kg
+    Star Dust:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Pale Pink Elixir:
+      hex: '#ECD5DE'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/pale-pink-elixir-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Blue Star Stuff:
+      hex: '#214A60'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/blue-star-stuff-translucent-blue-with-silver-glitter-pla-filament-1-75mm-1kg
+    Nightshade Elixir:
+      hex: '#C844BA'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/nightshade-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Mint Green Elixir:
+      hex: '#36D2B7'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/mint-green-elixir-pla-filament-1-75mm-1kg-1?Quantity=1+kg+spool
+    Teal Elixir:
+      hex: '#02B69F'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/teal-elixir-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Dark Magic Elixir:
+      hex: '#2C5C63'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/cookiecad-dark-magic-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Blue Ombré Elixir:
+      hex: '#6ABCF6,#94E3FE,#D4E3FE'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/blue-ombre-elixir-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+  PLA Marble:
+    Vanilla Redberry:
+      hex: '#BF9DBD'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/vanilla-redberry-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Vanilla Chip:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/660858/cookiecad-175mm-vanilla-pla-3d-printer-filament-1kg-spool-(22-lbs)
+    Mint Chip:
+      hex: '#6DD9C7'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/mint-chip-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Blue Chip:
+      hex: '#1DD0FC'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/blue-chip-marble-pla-filament-1-75mm-1kg-1?Quantity=1+kg+spool
+    Lavender Chip:
+      hex: '#BD95CB'
+      source: 3dfilamentprofiles.com
+    Vanilla Blueberry:
+      hex: '#AFC1D8'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/vanilla-blueberry-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Pink Chip:
+      hex: '#ECC3BB'
+      source: 3dfilamentprofiles.com
+  PLA Sparkle:
+    Star Dust:
+      hex: '#0B0909'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/cookiecad-star-dust-glitter-translucent-black-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Mermaid Elixir:
+      hex: '#0095FF,#7269F7,#00FBFF'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/mermaid-elixir-puple-blue-green-pla-filament-1-75mm-1kg
+    Dark Magic:
+      hex: '#001742'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/cookiecad-dark-magic-pla-filament-1-75mm-1kg
+    Mint Star Stuff:
+      hex: '#36BCAE'
+      source: 3dfilamentprofiles.com
+    Star Dust Glitter Black:
+      hex: '#0B0909'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/cookiecad-star-dust-glitter-translucent-black-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Moonstone:
+      hex: '#FFFFFF,#CBEFFF,#F6E2F0'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/moonstone-pla-filament-1-75mm-1kg
+    Funfetti:
+      hex: '#CCCCCC'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/cookiecad-funfetti-clear-with-rainbow-glitter-pla-filament-1-75mm-
+    Witchcraft:
+      hex: '#4D2C70'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/cookiecad-witchcraft-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+  PETG Sparkle:
+    Fairy Floss:
+      hex: '#E45ECB'
+      source: 3dfilamentprofiles.com
+    Purple Star Stuff:
+      hex: '#9A4395'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/petg-purple-star-stuff-petg-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Dark Magic Elixir:
+      hex: '#121D21'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/copy-of-lavender-petg-filament-1-75mm-1kg
+    Witchcraft:
+      hex: '#8076C2'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/petg-witchcraft-petg-filament-1-75mm-1kg
+  PLA Silk Rainbow:
+    Silk Sunset:
+      hex: '#CF329C,#4626A4,#261CA1'
+      source: 3dfilamentprofiles.com
+    Unicorn:
+      hex: '#7D9FC7,#A86BA9,#C19AE2'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/silk-unicorn-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Silver Ombré:
+      hex: '#929292'
+      source: 3dfilamentprofiles.com
+    Silk Mermaid:
+      hex: '#4BFAFF,#5FC9F2,#8193E0'
+      source: 3dfilamentprofiles.com
+    Blue Ombré Elixir:
+      hex: '#6ABCF6,#94E3FE,#D4E3FE'
+      source: 3dfilamentprofiles.com
+  PLA Multicolor:
+    Mermaid Mixer:
+      hex: '#00FBFF,#E1337E'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/665325/cookiecad-175mm-pla-iridescent-holographic-3d-printer-filament-multi-color-color-10-kg-(22-lbs)-spool-witchcraft
+    Unicorn Elixer:
+      hex: '#7D9FC7,#A86BA9,#C19AE2'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/665325/cookiecad-175mm-pla-iridescent-holographic-3d-printer-filament-multi-color-color-10-kg-(22-lbs)-spool-witchcraft
+    Unicorn Mixer:
+      hex: '#A86BA9,#298FFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/665325/cookiecad-175mm-pla-iridescent-holographic-3d-printer-filament-multi-color-color-10-kg-(22-lbs)-spool-witchcraft
+    Sunrise Elixer:
+      hex: '#F76EF2,#FF8647'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/665325/cookiecad-175mm-pla-iridescent-holographic-3d-printer-filament-multi-color-color-10-kg-(22-lbs)-spool-witchcraft
+    Sunset Elixer:
+      hex: '#DD0E9B,#261CA1'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/665325/cookiecad-175mm-pla-iridescent-holographic-3d-printer-filament-multi-color-color-10-kg-(22-lbs)-spool-witchcraft
+    Sunset Mixer:
+      hex: '#DD0E9B,#261CA1'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/665325/cookiecad-175mm-pla-iridescent-holographic-3d-printer-filament-multi-color-color-10-kg-(22-lbs)-spool-witchcraft
+    Sunrise Mixer:
+      hex: '#E32400,#FFEC00'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/665325/cookiecad-175mm-pla-iridescent-holographic-3d-printer-filament-multi-color-color-10-kg-(22-lbs)-spool-witchcraft
+    Granite Mixer:
+      hex: '#000000,#A4A4A4'
+      source: 3dfilamentprofiles.com
+      link: https://www.microcenter.com/product/665325/cookiecad-175mm-pla-iridescent-holographic-3d-printer-filament-multi-color-color-10-kg-(22-lbs)-spool-witchcraft
+    Witchcraft (561506):
+      hex: '#6611AC'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/cookiecad-witchcraft-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+  ABS Gradient:
+    Unicorn:
+      hex: '#74A7FF'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/copy-of-unicorn-%F0%9F%A6%84-pink-blue-purple-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+  TPU 95A:
+    Dark Magic:
+      hex: '#163C1F'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/tpu-dark-magic-tpu-95a-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Pale Blue Elixer:
+      hex: '#A7DEEC'
+      source: 3dfilamentprofiles.com
+    Fairy Floss:
+      hex: '#C74CA4,#6968BB,#905EAC'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/tpu-fairy-floss-tpu-95a-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Mint Star Stuff:
+      hex: '#36BCAE'
+      source: 3dfilamentprofiles.com
+    Funfetti:
+      hex: '#D4E3FE'
+      source: 3dfilamentprofiles.com
+    Pale Pink Elixir:
+      hex: '#B8664A,#78F6FF,#CBB0B9'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/tpu-pale-pink-elixir-tpu-95a-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Pixie Dust:
+      hex: '#F769F2'
+      source: 3dfilamentprofiles.com
+    Lavender Elixer:
+      hex: '#FFB9DC'
+      source: 3dfilamentprofiles.com
+    Green Apple Elixir:
+      hex: '#A9DC76'
+      source: 3dfilamentprofiles.com
+    Ruby Red Elixir:
+      hex: '#CD4138'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/tpu-ruby-red-elixir-tpu-95a-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Unicorn:
+      hex: '#298FFF,#A400CD'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/tpu-unicorn-tpu-95a-filament-1-75mm-1kg
+    Witches Blue:
+      hex: '#8135F3'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/tpu-witches-blue-tpu-95a-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Sunrise:
+      hex: '#FF6A00'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/tpu-sunrise-tpu-95a-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Blue Star Stuff:
+      hex: '#0D49D3'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/tpu-blue-star-stuff-tpu-95a-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Pale Blue Elixir:
+      hex: '#98C3F3'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/tpu-pale-blue-elixir-tpu-95a-filament-1-75mm-1kg?Quantity=1+kg+spool
+  PLA Gradient:
+    Unicorn Elixir:
+      hex: '#7D9FC7,#A86BA9,#C19AE2'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/unicorn-elixir-pink-blue-purple-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Mermaid:
+      hex: '#89E7FF,#A9C6FF,#4CE6F6'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/mermaid-purple-blue-green-pla-filament-1-75mm-1kg
+    Unicorn:
+      hex: '#7D9FC7,#A86BA9,#C19AE2'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/unicorn-%F0%9F%A6%84-pink-blue-purple-pla-filament-1-75mm-1kg
+    Grey Ombre:
+      hex: '#7A8085'
+      source: 3dfilamentprofiles.com
+  PLA Galaxy:
+    Witches Blue:
+      hex: '#8135F3'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/witches-blue-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+  PLA Silk Mystic:
+    Pink Bubblegum Elixir:
+      hex: '#E665CE'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/bubblegum-elixir-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+  PETG Basic:
+    Apple Green Elixir:
+      hex: '#55D544'
+      source: 3dfilamentprofiles.com
+    Mint Green:
+      hex: '#8DD1C3'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/mint-green-petg-filament-1-75mm-1kg
+    Pixie Dust:
+      hex: '#F769F2'
+      source: 3dfilamentprofiles.com
+  PLA Gradient Twinkling:
+    Sunset Elixir:
+      hex: '#CF329C,#4626A4,#261CA1'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/copy-of-sunrise-elixir-pink-orange-yellow-pla-filament-1-75mm-1kg
+    Purple Ombre:
+      hex: '#5E3A9D,#7C46A9,#826ED1'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/purple-ombre-elixir-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+  PETG Translucent:
+    Pink Star Stuff:
+      hex: '#FF40FF'
+      source: 3dfilamentprofiles.com
+  PETG Glitter:
+    Funfetti:
+      hex: '#D9DAE3'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/petg-funfetti-petg-filament-1-75mm-1kg
+  PETG Magic:
+    Dark Magic:
+      hex: '#3400AD'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/copy-of-lavender-petg-filament-1-75mm-1kg?Quantity=1+kg+spool
+  ABS Gradient Twinkling:
+    Sunset Elixir:
+      hex: '#CF329C,#4626A4,#261CA1,#DD0E9B'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/abs-sunset-elixir-abs-filament-1-75mm-1kg?Quantity=1+kg+spool
+  TPU Gradient:
+    Sunset 95A:
+      hex: '#CF329C,#4626A4,#261CA1'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/tpu-sunset-tpu-95a-filament-1-75mm-1kg?Quantity=1+kg+spool
+  PLA Pastello:
+    Pale Yellow:
+      hex: '#EBF38F'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Lavender Elixir:
+      hex: '#FFB9DC'
+      source: 3dfilamentprofiles.com
+      link: https://cookiecad.com/products/lavender-elixir-pla-filament-1-75mm-1kg?Quantity=1+kg+spool
+    Dual Unicorn:
+      hex: '#298FFF,#A400CD'
+      source: 3dfilamentprofiles.com
+    Solar Flare:
+      hex: '#E3DE4F'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,179 @@
+IIID Max:
+  PETG Basic:
+    Blue:
+      hex: '#11A8EF'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product-category/petg/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product-category/petg/
+    Orange:
+      hex: '#FF5900'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product-category/petg/
+    Red:
+      hex: '#FC0303'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product-category/petg/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product-category/petg/
+  PLA+/Pro Basic:
+    Black:
+      hex: '#282523'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product-category/pla-filament/pla/
+    Fluorescent Green:
+      hex: '#34BD3D'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product-category/pla-filament/pla/
+    New Army Green:
+      hex: '#615E44'
+      source: 3dfilamentprofiles.com
+      link: https://iiidmax.com/collections/high-speed-pla/products/iiid-max-classic-pla?variant=
+    Fuchsia:
+      hex: '#D463AB'
+      source: 3dfilamentprofiles.com
+      link: https://iiidmax.com/collections/high-speed-pla/products/iiid-max-classic-pla?variant=
+    Army Green:
+      hex: '#006641'
+      source: 3dfilamentprofiles.com
+      link: https://iiidmax.com/collections/high-speed-pla/products/iiid-max-classic-pla?variant=
+    Candy Red:
+      hex: '#B83E3F'
+      source: 3dfilamentprofiles.com
+      link: https://iiidmax.com/collections/high-speed-pla/products/iiid-max-classic-pla?variant=
+    Violet:
+      hex: '#7269AE'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product/violet-pla-filament/
+    Space Gray:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product/space-gray-pla-filament/
+    Red:
+      hex: '#B93729'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product/red-pla-filament/
+    Blue:
+      hex: '#0064A8'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product/blue-pla-filament/
+    Brown:
+      hex: '#5A3732'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product/brown-pla-filament/
+    Mystic Purlple:
+      hex: '#5F407B'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product/mystic-purple-pla-filament/
+    New Gold:
+      hex: '#BE9048'
+      source: 3dfilamentprofiles.com
+      link: https://iiidmax.com/collections/high-speed-pla/products/iiid-max-classic-pla?variant=
+    Apple Green:
+      hex: '#7DBE46'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product/apple-green-pla-filament/
+    Pink:
+      hex: '#B6355A'
+      source: 3dfilamentprofiles.com
+      link: https://iiidmax.com/collections/high-speed-pla/products/iiid-max-classic-pla?variant=
+    Teal:
+      hex: '#009CA0'
+      source: 3dfilamentprofiles.com
+      link: https://iiidmax.com/collections/high-speed-pla/products/iiid-max-classic-pla?variant=
+    Vanilla Cream:
+      hex: '#EFF1DE'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product/vanilla-cream-pla-filament/
+    White:
+      hex: '#E3E6E6'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product/white-pla-filament/
+    Crystal Clear:
+      hex: '#FBFDFE'
+      source: 3dfilamentprofiles.com
+      link: https://iiidmax.com/collections/high-speed-pla/products/iiid-max-classic-pla?variant=
+    Key Lime:
+      hex: '#E8F48C'
+      source: 3dfilamentprofiles.com
+      link: https://iiidmax.com/collections/high-speed-pla/products/iiid-max-classic-pla?variant=
+    Night Gray:
+      hex: '#424A52'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product-category/pla-filament/pla/
+    Emerald Green:
+      hex: '#50C878'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product-category/pla-filament/pla/
+    Light Pink:
+      hex: '#FFB6C1'
+      source: 3dfilamentprofiles.com
+      link: https://iiidmax.com/collections/high-speed-pla/products/iiid-max-classic-pla?variant=
+    Light Blue:
+      hex: '#33A9D0'
+      source: 3dfilamentprofiles.com
+      link: https://iiidmax.com/collections/high-speed-pla/products/iiid-max-classic-pla?variant=
+    Baby Blue:
+      hex: '#D6ECFC'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product-category/pla-filament/pla/
+    Fluorescent Orange:
+      hex: '#E0693B'
+      source: 3dfilamentprofiles.com
+      link: https://iiidmax.com/collections/high-speed-pla/products/iiid-max-classic-pla?variant=
+    Navy Blue:
+      hex: '#223150'
+      source: 3dfilamentprofiles.com
+      link: https://iiidmax.com/collections/high-speed-pla/products/iiid-max-classic-pla?variant=
+    Copper:
+      hex: '#B97456'
+      source: 3dfilamentprofiles.com
+      link: https://iiidmax.com/collections/high-speed-pla/products/iiid-max-classic-pla?variant=
+    Yellow:
+      hex: '#F2D202'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product/yellow-pla-filament/
+    Coyote Brown:
+      hex: '#B07A48'
+      source: 3dfilamentprofiles.com
+      link: https://iiidmax.com/collections/high-speed-pla/products/iiid-max-classic-pla?variant=
+    Burnt Orange:
+      hex: '#C15F25'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product/burnt-orange-pla-filament/?srsltid=AfmBOopSC94xtVaxtz8wE9r6eXKJJ3Mkc1O000bo2olLg2-pEWqlTAYY
+    Vintage Pink:
+      hex: '#E59EB0'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product-category/pla-filament/pla/
+    Forest Green:
+      hex: '#326656'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product-category/pla-filament/pla/
+    Tan:
+      hex: '#CCC1A3'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product/tan-pla-filament-1kg/
+    Fluorescent Yellow:
+      hex: '#BED85A'
+      source: 3dfilamentprofiles.com
+      link: https://iiidmax.com/collections/high-speed-pla/products/iiid-max-classic-pla?variant=
+    Orange:
+      hex: '#DF3A19'
+      source: 3dfilamentprofiles.com
+      link: https://iiidmax.com/collections/high-speed-pla/products/iiid-max-classic-pla?variant=46557192355994
+    Gold:
+      hex: '#A48B3C'
+      source: 3dfilamentprofiles.com
+      link: https://www.iiidmax.com/product/new-gold-pla-filament/
+    Silver:
+      hex: '#828685'
+      source: 3dfilamentprofiles.com
+      link: https://iiidmax.com/collections/all-products/products/iiid-max-classic-pla
+  PLA+/Pro Max:
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com

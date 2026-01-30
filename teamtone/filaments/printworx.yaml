@@ -1,0 +1,14 @@
+PrintWorx:
+  PLA Matte:
+    Orange:
+      hex: '#E9770C'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintworx.com.au/product/printworx-pla-matte/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintworx.com.au/product/printworx-pla-matte/
+    Brown:
+      hex: '#BA7848'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintworx.com.au/product/printworx-pla-matte/

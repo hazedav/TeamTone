@@ -1,0 +1,1366 @@
+Eryone:
+  ABS CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Gelb/Grün:
+      hex: '#FFFB00,#00F900'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/dual-color-filament
+    Gold / Copper:
+      hex: '#A84815,#D5983A'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/silk-dual-color-pla?variant=43100485615850
+    Teal / Orange Red:
+      hex: '#FE7F71'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/dual-color-filament
+    Teal/Orange Red:
+      hex: '#7AC2F5,#D945C5'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/silk-dual-color-pla?variant=44201716809962
+    Red / Blue:
+      hex: '#FF0000,#5538E5'
+      source: 3dfilamentprofiles.com
+      link: https://ca.eryone3d.com/collections/easter-day-sale/products/pla-silk-dual-color-filament
+    Blue/Rose Red:
+      hex: '#153FE5,#E71818'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/dual-color-filament
+    Dual Silk Red Green:
+      hex: '#FA0000,#0B6A16'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/silk-dual-color-pla?variant=43100485648618
+    Yellow / Green:
+      hex: '#008000,#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/dual-color-filament
+    Gold / Silver:
+      hex: '#999BA6,#D5983A'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/silk-pla
+    Blue / Green:
+      hex: '#01509D,#019F55'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/dual-color-filament
+    Yellow/Green:
+      hex: '#A6E548,#F9F06B'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/dual-color-filament
+    Rose Red / Light Blue:
+      hex: '#D864C7,#779BF9'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/silk-dual-color-pla?variant=43912068333802
+    Purple / Gold:
+      hex: '#CD38BE'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/de/products/eryone-silk-dual-color-pla-1-roll-250g-total-4-rolls-1kg-2-2lbs-1-75mm-filament-accuracy-0-03-mm
+    Black / Red:
+      hex: '#700000,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/eryone-1kg-2-2lbs-spool-1-75mm-silk-dual-color-pla-filament-for-3d-printers-accuracy-0-03-mm
+    Orange Red / Purple:
+      hex: '#DF4343,#6312A5'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/dual-color-filament
+    Black / Green:
+      hex: '#166F64,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/silk-dual-color-pla?variant=43879344799978
+    Black / Rose Red:
+      hex: '#FA0000,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/dual-color-filament
+    Gold / Purple:
+      hex: '#E5BF3A,#C23FBF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/dual-color-filament
+    Midnight Blue / Silver:
+      hex: '#191970,#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/dual-color-filament
+    Royal Blue / Gold:
+      hex: '#4169E1,#FFD700'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/dual-color-filament
+    Blue/Purple:
+      hex: '#004CFF,#9900FF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/silk-dual-color-pla?variant=44201716875498
+    Black / Gold:
+      hex: '#FFFF00,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/dual-color-filament
+    Purple / Green:
+      hex: '#662E85,#209734'
+      source: 3dfilamentprofiles.com
+    Black and Rose:
+      hex: '#57001E'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/dual-color-filament
+    Black / Purple:
+      hex: '#7A4DA8,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/dual-color-filament
+    Orange Blue:
+      hex: '#C37C64,#5D99F7'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/silk-dual-color-pla
+  PETG Basic:
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://de.eryone3d.com/collections/filament/products/petg
+    Transparent Blue:
+      hex: '#0400FF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/petg?variant=39267875848241
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/petg?variant=39267875913777
+    Red:
+      hex: '#FF0033'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/petg/products/petg
+    Orange:
+      hex: '#FF7B00'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/petg?variant=39426852028465
+    Grey:
+      hex: '#999999'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/petg?variant=39267875946545
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/petg/products/petg
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/petg?variant=39267876012081
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/petg/products/petg
+    Transparent Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/petg?variant=39267875979313
+  PLA Glow:
+    Dark Blue:
+      hex: '#070066'
+      source: 3dfilamentprofiles.com
+    Dark Orange/Yellow:
+      hex: '#CE5E03'
+      source: 3dfilamentprofiles.com
+    Luminous Blue:
+      hex: '#729AF8'
+      source: 3dfilamentprofiles.com
+    Luminous Orange:
+      hex: '#FFA348'
+      source: 3dfilamentprofiles.com
+    Luminous Purple:
+      hex: '#C061CB'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#8EBDFB'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#80F178'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/glow-in-the-dark-pla?variant=39267873030193
+    Orange:
+      hex: '#F7B886'
+      source: 3dfilamentprofiles.com
+    Orange Red:
+      hex: '#FF8000,#FF0000'
+      source: 3dfilamentprofiles.com
+    Rainbow:
+      hex: '#F0FE86,#B0B0B0,#00FF88'
+      source: 3dfilamentprofiles.com
+    Luminous Green:
+      hex: '#7BF976'
+      source: 3dfilamentprofiles.com
+    Luminous Rainbow:
+      hex: '#CEB4FF,#B2E9FF,#FBC4B2,#F981F3'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Pink:
+      hex: '#FDCEDA'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Aqua Blue:
+      hex: '#64D9ED'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/matte-pla/products/matte-pla
+    Yellow:
+      hex: '#F9FD21'
+      source: 3dfilamentprofiles.com
+    Red Wax:
+      hex: '#C79074'
+      source: 3dfilamentprofiles.com
+    Army Green:
+      hex: '#3F412C'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/matte-pla
+    Gray:
+      hex: '#7A7A7A'
+      source: 3dfilamentprofiles.com
+    Navy Blue:
+      hex: '#4F6282'
+      source: 3dfilamentprofiles.com
+      link: https://uk.eryone3d.com/products/matte-pla
+    Olive Green:
+      hex: '#636B2F'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/matte-pla?variant=39267867230257
+    Pottery Red:
+      hex: '#FDB4B4'
+      source: 3dfilamentprofiles.com
+    Blue Lilac:
+      hex: '#85689B'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/matte-pla/products/matte-pla
+    Macaron Rainbow:
+      hex: '#E9F9A9'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/matte-pla/products/matte-pla
+    Ruby Red:
+      hex: '#552D2B'
+      source: 3dfilamentprofiles.com
+    Mint Green:
+      hex: '#B9E0E1'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/matte-pla/products/matte-pla
+    Black Forest Green:
+      hex: '#032B0A'
+      source: 3dfilamentprofiles.com
+    Hyper Speed - Coffee:
+      hex: '#281F1C,#6D462A,#9E8F8A'
+      source: 3dfilamentprofiles.com
+      link: https://de.eryone3d.com/de-be/products/moq1-pla-matte-high-speed-dual-color-filament?variant=43504066691114
+    Red:
+      hex: '#D2464B'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/matte-pla/products/matte-pla
+  PLA Silk Triple:
+    Aurora Dream Quad:
+      hex: '#21357B,#A35B83,#5C9094'
+      source: 3dfilamentprofiles.com
+    Triple Burnt Titanium Green/Red/PurpleBlue:
+      hex: '#A28BBC,#2A2932,#2E2B49'
+      source: 3dfilamentprofiles.com
+    Red / Yellow / Blue:
+      hex: '#EA396D,#FFF786,#313AF7'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/eryone-triple-color-silk-pla-filament-for-3d-printers-1kg-2-2lbs-spool-1-75mm-accuracy-0-03-mm
+    Jewel Green / Orange Red / Gold:
+      hex: '#4DBC9B,#F690D2,#FCBF40'
+      source: 3dfilamentprofiles.com
+    Red Gold  Black:
+      hex: '#D92B44,#CD8401,#000000'
+      source: 3dfilamentprofiles.com
+    Gold Blue Purple:
+      hex: '#D4AF37,#1E90FF,#9B59B6'
+      source: 3dfilamentprofiles.com
+    Burnt Titanium Blue/Gold/Green:
+      hex: '#393982,#254E40,#A29373'
+      source: 3dfilamentprofiles.com
+    Evil Pool Quad:
+      hex: '#5B7EDF,#A33E2D,#76AD9E,#800080'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/high-speed-four-colors-silk-pla?variant=51878237405550
+    Red / Gold / Purple:
+      hex: '#FF0000,#FFD700,#800080'
+      source: 3dfilamentprofiles.com
+    Gold  Blue Purple:
+      hex: '#FFFB40,#0140C1,#821AC5'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-silk-triple-color-filament?variant=44357735874794
+    Red Purple Green:
+      hex: '#FF0000,#8C15B7,#1DFA00'
+      source: 3dfilamentprofiles.com
+    Red/Gold/Purple:
+      hex: '#FFFF00,#FF0000,#8000FF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-silk-triple-color-filament?variant=43405848641770
+    black /blue / purple:
+      hex: '#000000,#0420F6,#7304FB'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com
+    Blue Purple Black:
+      hex: '#000000,#821AC5,#313AF7'
+      source: 3dfilamentprofiles.com
+  PLA Matte Rainbow:
+    Acquerello:
+      hex: '#5FA5FF,#A6E990,#E5A5D7,#BCA1FC'
+      source: 3dfilamentprofiles.com
+    Danxia:
+      hex: '#E27429,#D55209,#F09FB7'
+      source: 3dfilamentprofiles.com
+    Rainbow Fairy:
+      hex: '#86CCFD,#E29EF0,#95EEB0'
+      source: 3dfilamentprofiles.com
+    Shire:
+      hex: '#BFFB65'
+      source: 3dfilamentprofiles.com
+    Fossil:
+      hex: '#EFE0A6,#DCC09E,#FBFFE2'
+      source: 3dfilamentprofiles.com
+    Macaron:
+      hex: '#7BBCEA,#69F7DF,#D12929,#A841EC'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/moq1-pla-matte-matte-rainbow-filament?variant=52389258527086
+    Granite:
+      hex: '#D9EB37,#874EFE'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro PolyTerra:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Glow:
+    Yellow:
+      hex: '#F6E46A'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#F5F8FA'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Burly Wood:
+      hex: '#B3806B'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF3A30'
+      source: 3dfilamentprofiles.com
+    Wood:
+      hex: '#B2917A'
+      source: 3dfilamentprofiles.com
+    Deep Wood:
+      hex: '#706B83'
+      source: 3dfilamentprofiles.com
+    Dark Wood:
+      hex: '#A5836B'
+      source: 3dfilamentprofiles.com
+    Light Wood:
+      hex: '#B2917A'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/wood-pla?variant=39267875192881
+    Terracotta:
+      hex: '#DC6547'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/wood-pla?variant=51609773048174
+  PLA+/Pro High Speed:
+    Rainbow-Stone:
+      hex: '#A98A6E,#CDB49E,#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0033'
+      source: 3dfilamentprofiles.com
+    Ivory White:
+      hex: '#DCDCD5'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-plus-high-speed-filament?variant=51887153742190
+    Azure:
+      hex: '#07BCFB'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-plus-high-speed-filament?variant=51887153840494
+    Cyan:
+      hex: '#1E9DE2'
+      source: 3dfilamentprofiles.com
+      link: https://www.labo3d.be/en/pla/2802-eryone-pla-hyper-speed-cyan-175mm-1-kg.html
+    Black:
+      hex: '#010304'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#5F2710'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#E9BC24'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-plus-high-speed-filament?variant=51887153774958
+    purple:
+      hex: '#8806CE'
+      source: 3dfilamentprofiles.com
+    orange:
+      hex: '#FF8040'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#1866E7'
+      source: 3dfilamentprofiles.com
+      link: https://it.eryone3d.com/products/moq1-pla-ad-alta-velocita-filamento-1kg?variant=47683293675770
+    Magenta:
+      hex: '#FF00FF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-plus-high-speed-filament
+    Gray:
+      hex: '#454643'
+      source: 3dfilamentprofiles.com
+      link: https://uk.eryone3d.com/collections/pla-high-speed/products/pla-plus-high-speed-filament
+  PLA+/Pro Silk+:
+    Copper:
+      hex: '#AC3F1B'
+      source: 3dfilamentprofiles.com
+      link: https://www.amazon.com/dp/B08B3V54GS
+  PLA High Speed Matte:
+    Olive Green:
+      hex: '#344932'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Danxia:
+      hex: '#E89C72,#D3674B'
+      source: 3dfilamentprofiles.com
+    Light Gray:
+      hex: '#D6D6D6'
+      source: 3dfilamentprofiles.com
+    Salt Flat Veins:
+      hex: '#D0DFF3,#7989A3'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/it/products/high-speed-matte-pla-filament?variant=52008252899694
+    Totem Carving:
+      hex: '#655D6C,#D98E6C'
+      source: 3dfilamentprofiles.com
+    Navy Blue:
+      hex: '#4F6282'
+      source: 3dfilamentprofiles.com
+    Frosted Mint:
+      hex: '#B4D5DA,#5EA4A5'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/it/products/high-speed-matte-pla-filament?variant=52008252834158
+    Maple Amber:
+      hex: '#F9E3DD,#FEB687'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/it/products/high-speed-matte-pla-filament?variant=52008252932462
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Rainbow Glaciers:
+      hex: '#1219F8,#B0D1F2,#B5AEEF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/matte-dual-color-high-speed-pla?variant=52354817753454
+  PLA Metal:
+    Metallic Iron:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-metallic-filament
+    Steel:
+      hex: '#BCC6CC'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-metallic-filament
+    Metallic Wolfram:
+      hex: '#323232'
+      source: 3dfilamentprofiles.com
+      link: https://de.eryone3d.com/products/metallic-pla-filament?variant=39992973819946
+    Metallic Copper:
+      hex: '#444714'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-metallic-filament
+  PETG High Speed:
+    Burnt Titanium Blue Purple:
+      hex: '#745D94'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/petg-high-speed-burnt-titanium?variant=52154043924846
+    Burnt Titanium Green:
+      hex: '#172223'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/petg-high-speed-burnt-titanium?variant=52154043793774
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/tpu-filaments/products/petg
+    Blue:
+      hex: '#0887E2'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/petg-high-speed-filament
+    Grey:
+      hex: '#999999'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/petg-high-speed-filament
+    Transparent Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/petg-high-speed-filament
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/petg-high-speed-filament
+    Transparent Blue:
+      hex: '#0080FF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/petg-high-speed-filament
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/petg-high-speed-filament
+    Burnt Titanium Blue:
+      hex: '#385166'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/petg-high-speed-burnt-titanium?variant=52154043826542
+    Burnt Titanium Dark Gold:
+      hex: '#2C2927'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/petg-high-speed-burnt-titanium?variant=52154043892078
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://eryone.com/product/hyper-speed-petg/
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone.com/product/hyper-speed-petg/
+    Orange:
+      hex: '#E3872B,#FF8F0F'
+      source: 3dfilamentprofiles.com
+      link: https://eryone.com/product/hyper-speed-petg/
+    Burnt Titanium Rose Red:
+      hex: '#4F3953'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/petg-high-speed-burnt-titanium?variant=52154043859310
+  PLA Glitter:
+    Blue:
+      hex: '#2A4B7C'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/pla/products/pla-burnt-titanium-filament
+    Chameleon:
+      hex: '#AFB200,#CC9200'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/pla/products/pla-burnt-titanium-filament
+    Green:
+      hex: '#0C7900'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-burnt-titanium-filament
+    Omega Nebula:
+      hex: '#76BB40,#D19D01'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/pla/products/pla-burnt-titanium-filament
+    Glitter Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/de/products/pla-galaxy-sparkly-glitter-filament
+    Burnt Titanium Black and Purple Blue:
+      hex: '#081140,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/moq1-pla-burnt-titanium-dual-color-filament?variant=52389295685998
+    Burnt Titanium Blue and Rose Red:
+      hex: '#1E81D2,#5B0650'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-burnt-titanium-dual-filament?variant=52008261353838
+    Burnt Titanium Dark Gold:
+      hex: '#6E4D21'
+      source: 3dfilamentprofiles.com
+      link: https://de.eryone3d.com/products/eryone-pla-burned-titanium-3d-printer-filament-1-75mm-dimensional-accuracy-0-05-mm-1kg-2-2lbs-spool
+    Burnt Titanium Red:
+      hex: '#3F2727'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-burnt-titanium-filament?variant=51784026030446
+    Sparkle Silver:
+      hex: '#6D6D6D'
+      source: 3dfilamentprofiles.com
+      link: https://uk.eryone3d.com/products/galaxy-sparkly-glitter-pla
+    Glitter Blue:
+      hex: '#323586'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/fr/products/pla-galaxy-sparkly-glitter-filament
+    Burnt Titanium - Blue:
+      hex: '#264E7D'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-burnt-titanium-filament?variant=51784026095982
+    Burnt Titanium Green:
+      hex: '#416568'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-burnt-titanium-filament?variant=51784022065518
+    Burnt Titanium - Technological Blue:
+      hex: '#045690,#AD7DDE,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-burnt-titanium-filament?variant=51784026128750
+    Glitter Purple:
+      hex: '#160C53'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/pla/products/pla-burnt-titanium-filament
+  PLA Silk:
+    Pink Silk:
+      hex: '#FF40FF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/advanced-silk-pla?variant=39267873423409
+    Ultra Silk Copper:
+      hex: '#D45834'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/advanced-silk-pla?variant=39267873423409
+    Merald Green:
+      hex: '#6EA19B'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/advanced-silk-pla?variant=39267873423409
+    Rose:
+      hex: '#F990C8'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/advanced-silk-pla?variant=39267873423409
+    Gold:
+      hex: '#D5983E'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/advanced-silk-pla?variant=39267873423409
+    Emerald Green:
+      hex: '#046307'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/advanced-silk-pla?variant=39267873423409
+    Inferno:
+      hex: '#E72323,#E1962D,#D8DB29'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/advanced-silk-pla?variant=39267873423409
+    Blue:
+      hex: '#63A9D4'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/silk-pla
+    Copper:
+      hex: '#B34830'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/advanced-silk-pla?variant=39267873423409
+    Silver:
+      hex: '#999BA6'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/advanced-silk-pla?variant=39267873423409
+    Kupfer:
+      hex: '#BB520C'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/advanced-silk-pla?variant=39267873423409
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/advanced-silk-pla?variant=39267873423409
+    Bronze:
+      hex: '#FAFA96'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/pla/products/advanced-silk-pla
+    Dark Green:
+      hex: '#B1DD8B'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/advanced-silk-pla?variant=39267873423409
+    Green:
+      hex: '#0F831D'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/advanced-silk-pla?variant=39267873423409
+    Liquid Gold:
+      hex: '#F8CC48'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/advanced-silk-pla?variant=39267873423409
+    Psychedelic:
+      hex: '#FF0000,#EEFF00,#0F2BFF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/advanced-silk-pla?variant=39267873423409
+    Ultra Silk Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/advanced-silk-pla?variant=39267873423409
+    Ultra Silk Silver:
+      hex: '#A0BDCF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/advanced-silk-pla?variant=39267873357873
+    Rainbow Palette:
+      hex: '#FF0000,#00FF00,#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/advanced-silk-pla?variant=39267873423409
+    Ultra Silk Gold:
+      hex: '#FBAC1A'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/advanced-silk-pla?variant=39267873325105
+    Ultra Silk Dark Gold:
+      hex: '#583400'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/silk-pla/products/advanced-silk-pla
+    Rainbow:
+      hex: '#88ACE1,#FA8997,#FEF4CF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/new-arrival/products/macaron-rainbow-pla-filament
+    Ultra Silk Bronze:
+      hex: '#AE9B46'
+      source: 3dfilamentprofiles.com
+      link: https://de.eryone3d.com/de-at/products/moq1-pla-ultra-silk-filament?variant=43504070557738
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/advanced-silk-pla?variant=39267873423409
+    Ultra Silk Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/de/products/advanced-silk-pla?variant=39267873521713
+  PLA Sparkle:
+    silver:
+      hex: '#999BA6'
+      source: 3dfilamentprofiles.com
+  PLA Rainbow:
+    Mini Rainbow:
+      hex: '#B6B443,#4F7B7F,#AD7939'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-burnt-titanium-filament
+    Macaron:
+      hex: '#E3FFFF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-burnt-titanium-filament
+    Burnt Titanium Interstellar:
+      hex: '#0010F5,#050E1F'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-burnt-titanium-filament?variant=51784046772590
+    Burnt Titanium Stargazer:
+      hex: '#DB0096,#111E27'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-burnt-titanium-filament
+    Burnt Titanium Galactic:
+      hex: '#B2831F,#1D8401,#0023D1'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-burnt-titanium-filament
+    Camo:
+      hex: '#38241B,#614232,#383F32'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-burnt-titanium-filament
+    Steampunk:
+      hex: '#CE91AF,#898272,#C58172,#A76B7D'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-burnt-titanium-filament
+    Burnt Titanium Wormhole:
+      hex: '#69F7B9,#111E27'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-burnt-titanium-filament?variant=51784046805358
+  ASA HF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Burnt Titanium:
+      hex: '#252930'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/3d-printer-pla-filament?variant=43166576378090
+    Pearl White:
+      hex: '#FEFFF4'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/de/products/3d-printer-pla-filament?variant=43878720962794
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/3d-printer-pla-filament?variant=43166576378090
+    Ivory White:
+      hex: '#DCDCD5'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/3d-printer-pla-filament?variant=43166576378090
+    Blue:
+      hex: '#3CB5F7'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/1-75mm-pla-filament
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/3d-printer-pla-filament?variant=43166576378090
+    Rose Red:
+      hex: '#5C222E'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/3d-printer-pla-filament?variant=43166576378090
+    Galaxy Red:
+      hex: '#D52A2A'
+      source: 3dfilamentprofiles.com
+    Skin:
+      hex: '#EFC3A0'
+      source: 3dfilamentprofiles.com
+      link: https://uk.eryone3d.com/collections/filament
+    Carbon Black:
+      hex: '#0D0D0D'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/1-75mm-pla-filament?variant=42363910521066
+    Gray:
+      hex: '#7A7A7A'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/3d-printer-pla-filament?variant=43166576378090
+    Military Green:
+      hex: '#3F412C'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-filament?variant=51974851461486
+    Green:
+      hex: '#24A022'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/3d-printer-pla-filament?variant=43166576378090
+    Signal Grey:
+      hex: '#B5AFA7'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/1-75mm-pla-filament?variant=42363910488298
+    Glossy Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/1-75mm-pla-filament?variant=43879314030826
+    Yellow:
+      hex: '#FEE202'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/3d-printer-pla-filament?variant=43166576378090
+    Jet Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/en-ca/products/1-75mm-pla-filament
+    Mango:
+      hex: '#FFBE04'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/3d-printer-pla-filament?variant=43166576378090
+    Transparent:
+      hex: '#E0EDD4'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/3d-printer-pla-filament?variant=43166576378090
+    Apple Green:
+      hex: '#76CD26'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/3d-printer-pla-filament?variant=43166576378090
+    Chinese Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://it.eryone3d.com/products/1-75mm-pla-filament?variant=44163715924218
+    Milky White:
+      hex: '#EDF0F2'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/1-75mm-pla-filament?variant=43983465939178
+    Agate Grey:
+      hex: '#7F878A'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/3d-printer-pla-filament?variant=43166576378090
+    Dark Green:
+      hex: '#068050'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/3d-printer-pla-filament?variant=43166576378090
+    Navy Blue:
+      hex: '#4063B3'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/3d-printer-pla-filament?variant=43166576378090
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/3d-printer-pla-filament?variant=43166576378090
+    Lavender Purple:
+      hex: '#9872DE'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/1-75mm-pla-filament?variant=44160009404650
+    Jade White:
+      hex: '#F1F9FE'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/3d-printer-pla-filament?variant=43166576378090
+    Orange:
+      hex: '#F55F0C'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/1-75mm-pla-filament?variant=39267870572593
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/3d-printer-pla-filament?variant=43166576378090
+    Army Green:
+      hex: '#404E31'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/3d-printer-pla-filament?variant=43166576378090
+    Dark Purple:
+      hex: '#7D4BC7'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/1-75mm-pla-filament?variant=43879314096362
+  ASA High Speed:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Galaxy:
+    Galaxy Red:
+      hex: '#8E3333'
+      source: 3dfilamentprofiles.com
+    Sirius Nebula:
+      hex: '#295059'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-galaxy-sparkly-glitter-filament?variant=51683917496686
+    Blue:
+      hex: '#031D59'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Glitter Purple:
+      hex: '#54006B'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-galaxy-sparkly-glitter-filament?variant=42157650837738
+    Omega Nebula:
+      hex: '#2E3D25'
+      source: 3dfilamentprofiles.com
+    Sparkle Red:
+      hex: '#900D09'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-galaxy-sparkly-glitter-filament?variant=42157637206250
+    Owl Nebula:
+      hex: '#543C68'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-galaxy-sparkly-glitter-filament?variant=51683917562222
+    Bipolar Nebula:
+      hex: '#062D20'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-galaxy-sparkly-glitter-filament?variant=51683917463918
+  TPU Basic:
+    Gray:
+      hex: '#999999'
+      source: 3dfilamentprofiles.com
+    95A Transparent:
+      hex: '#DDDECF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/petg-tpu/products/tpu
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.amazon.com/dp/B0B6G57ZGP
+    Yellow:
+      hex: '#FEFB41'
+      source: 3dfilamentprofiles.com
+    Transparent Blue:
+      hex: '#1100FF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/tpu?variant=39267876306993
+    Transparent Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/tpu?variant=39267876274225
+  ABS+ Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/abs-plus-filament
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#9FA0A0'
+      source: 3dfilamentprofiles.com
+      link: https://de.eryone3d.com/de-nl/products/abs-plus-filament?variant=40572682797098
+    Green:
+      hex: '#209F74'
+      source: 3dfilamentprofiles.com
+      link: https://eryone.com/product/abs-filament-1kg/
+    Blue:
+      hex: '#3152B9'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#D82833'
+      source: 3dfilamentprofiles.com
+      link: https://eryone.com/product/abs-filament-1kg/
+  PLA HS Silk Dual:
+    Green and Black:
+      hex: '#0B4514,#000000'
+      source: 3dfilamentprofiles.com
+    Royal Essence (Purple/Silver/Black/Dark Green):
+      hex: '#412E63,#D7D7E1,#090F14,#213736'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Transparent Red:
+      hex: '#B72C33'
+      source: 3dfilamentprofiles.com
+    Transparent Blue:
+      hex: '#052BC2'
+      source: 3dfilamentprofiles.com
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#81F769'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF9500'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0095FF'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/petg-tpu/products/tpu
+    Gray:
+      hex: '#C5C7CD'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/petg-tpu/products/tpu
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone.com/product/standard-tpu/
+  ASA CF:
+    Purple Red:
+      hex: '#562F44'
+      source: 3dfilamentprofiles.com
+      link: https://www.eryone.com/asa-carbon-fiber-product/
+    Blue:
+      hex: '#324F6B'
+      source: 3dfilamentprofiles.com
+      link: https://www.eryone.com/asa-carbon-fiber-product/
+    Dark Grey:
+      hex: '#393C41'
+      source: 3dfilamentprofiles.com
+      link: https://www.eryone.com/asa-carbon-fiber-product/
+    Olive Green:
+      hex: '#2A4E27'
+      source: 3dfilamentprofiles.com
+      link: https://www.eryone.com/asa-carbon-fiber-product/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://de.eryone3d.com/products/eryone-asa-3d-printer-filament-1-75mm-dimensional-accuracy-0-05-mm-1kg-2-2lbs-spool
+  PETG+ Translucent:
+    Smoky:
+      hex: '#303940'
+      source: 3dfilamentprofiles.com
+      link: https://www.eryone.com/hyper-speed-translucent-petg-product/
+  TPU Rainbow:
+    Aurora Rainbow 95A:
+      hex: '#FEE26E,#BB6D3E,#6BF645'
+      source: 3dfilamentprofiles.com
+    Sea Glass 95A:
+      hex: '#00E1FF,#7300FF,#3EF463'
+      source: 3dfilamentprofiles.com
+  PLA High Speed:
+    Signal Grey:
+      hex: '#C2C9C6'
+      source: 3dfilamentprofiles.com
+      link: https://uk.eryone3d.com/products/pla-high-speed-filament?variant=46338232221913
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Skin:
+      hex: '#F0B493'
+      source: 3dfilamentprofiles.com
+  PLA Silk Rainbow:
+    Multicolour:
+      hex: '#928F2A,#209738,#2182AB'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/macaron-rainbow-pla-filament?variant=44005333467370
+    Rainbow Classic:
+      hex: '#0367C4,#E1DB33,#FD6717'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/macaron-rainbow-pla-filament?variant=44005333467370
+    Macaron:
+      hex: '#CF8769,#B4838C,#739C65,#D89455'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/macaron-rainbow-pla-filament?variant=44005333467370
+    Vortex:
+      hex: '#FF0000,#2A36EA,#04FF00'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/macaron-rainbow-pla-filament?variant=44005333467370
+    Metal Silk Rainbow:
+      hex: '#0000FF,#FF0000,#FFFF00,#00FF00'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/macaron-rainbow-pla-filament?variant=44005333467370
+    Universe:
+      hex: '#00FF00,#FF9A36,#952BFF,#00FFFF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-matte-dual-color-filament-1kg?variant=44135405060330
+    Sunset Rainbow:
+      hex: '#F76EF2'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/macaron-rainbow-pla-filament?variant=44005333467370
+    Silk Rainbow Psychedelic:
+      hex: '#2114BA,#C415A5,#C4E11A'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/macaron-rainbow-pla-filament?variant=44005333467370
+    Obsidian:
+      hex: '#000000,#2448F9,#DF3DFF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/macaron-rainbow-pla-filament?variant=44005333467370
+    Shadow:
+      hex: '#FFC038,#0008FA,#DD66F4'
+      source: 3dfilamentprofiles.com
+    Inferno:
+      hex: '#FF0000,#FFC038,#C342FF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/macaron-rainbow-pla-filament?variant=44005333467370
+    Silk Rainbow Vibrant:
+      hex: '#EB0505,#F59B00,#019D6E,#8305EB'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/macaron-rainbow-pla-filament?variant=44005333467370
+  PETG Translucent:
+    RED:
+      hex: '#B51A00'
+      source: 3dfilamentprofiles.com
+      link: https://www.eryone.com/hyper-speed-translucent-petg-product/
+    rose red and blue:
+      hex: '#DF2ABE,#549CE3'
+      source: 3dfilamentprofiles.com
+      link: https://www.eryone.com/hyper-speed-translucent-petg-product/
+    Gray:
+      hex: '#A8A8A8'
+      source: 3dfilamentprofiles.com
+      link: https://www.eryone.com/hyper-speed-translucent-petg-product/
+    Trans Blue:
+      hex: '#05558F'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/tpu-filaments/products/petg
+    Sky Blue:
+      hex: '#76C3F9'
+      source: 3dfilamentprofiles.com
+      link: https://www.eryone.com/hyper-speed-translucent-petg-product/
+    Smoky:
+      hex: '#1F0B00'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/petg-high-speed-translucent-filament?variant=52337195614574
+  ABS GF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/abs-fiberglass-filament?srsltid=AfmBOoorjeTXYdQ0V6CMnLxOFALeQ7OaRAzICEtO6XFYGr9AU5HpowJS
+  PETG GF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FC630B'
+      source: 3dfilamentprofiles.com
+  ABS Tough:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/abs-plus-filament?variant=44132995236074
+  PLA Silk+:
+    Red:
+      hex: '#CE1C1C'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#5B6265'
+      source: 3dfilamentprofiles.com
+  PLA Matte Dual:
+    Shire:
+      hex: '#00F900,#FFFB00'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-matte-dual-color-filament-1kg?variant=44135405060330
+    Green Purple:
+      hex: '#008000,#800080'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-matte-dual-color-filament-1kg?variant=44135405060330
+    Dreamland:
+      hex: '#00FFFF,#C994FF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-matte-dual-color-filament-1kg?variant=44135405060330
+    Maple Leaf (Red Yellow):
+      hex: '#EB4D34,#F2D84B'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-matte-dual-color-filament-1kg?variant=51609775210862
+    Blue Purple:
+      hex: '#0737C5,#B769F7'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-matte-dual-color-filament-1kg?variant=44135405060330
+  PETG Galaxy:
+    Galaxy Silver:
+      hex: '#889096'
+      source: 3dfilamentprofiles.com
+    Galaxy Red:
+      hex: '#B51A00'
+      source: 3dfilamentprofiles.com
+    Galaxy Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ABS High Speed:
+    Green:
+      hex: '#00EB2F'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0F21EB'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/abs-high-speed-filament?variant=51887166783854
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/abs-high-speed-filament?variant=51887166718318
+    Grey:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/abs-high-speed-filament?variant=51887166849390
+  PETG CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF8000'
+      source: 3dfilamentprofiles.com
+    Dark Grey:
+      hex: '#393C41'
+      source: 3dfilamentprofiles.com
+      link: https://eryone.com/product/carbon-fiber-filament-petg/
+    Blue:
+      hex: '#324F6B'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/tpu-filaments/products/petg
+    Olive Green:
+      hex: '#2A4E27'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/petg-carbon-fiber-filament?variant=51992935661934
+    Reddish Purple:
+      hex: '#562F44'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/petg-carbon-fiber-filament
+  PLA+/Pro Basic:
+    Orange:
+      hex: '#FF5A00'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#454643'
+      source: 3dfilamentprofiles.com
+    Cool White:
+      hex: '#EAECF5'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla?variant=44051414810858
+    blue:
+      hex: '#0651FE'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/
+    Red:
+      hex: '#FF0033'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla?variant=39267868278833
+    Skin Color:
+      hex: '#FFA8A8'
+      source: 3dfilamentprofiles.com
+    Army Green:
+      hex: '#48513E'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla?variant=51993038324078
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.amazon.com/dp/B08K2J9JSZ
+    Green:
+      hex: '#1D7C35'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla?variant=39267868311601
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  TPU 90A:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/tpu-90a-flexible-filament
+    Transparent Red:
+      hex: '#8C0000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/tpu-90a-flexible-filament
+    Grey:
+      hex: '#5F5F5F'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/tpu?variant=44004308353258
+    Transparent Blue:
+      hex: '#004A94'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/tpu-90a-flexible-filament
+  PLA+/Pro Matte:
+    Mint Green:
+      hex: '#00F0C8'
+      source: 3dfilamentprofiles.com
+  PA6 Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Multicolor:
+    Black / White:
+      hex: '#000000,#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PA6 GF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PA12 CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/nylon-filament
+  PP CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/en-ca/products/pp-filament
+  PLA:
+    Burnt Titanium Galaxy:
+      hex: '#00FF00,#0000FF,#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-matte-dual-color-filament-1kg?variant=44135405060330
+  ASA GF:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/asa-fiberglass-filament
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/asa-fiberglass-filament
+  ASA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/collections/asa-standard/products/asa-filament
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/asa-filament?variant=42824398962922
+  PLA Ultra:
+    Ultra Silk Bronze:
+      hex: '#787F1A'
+      source: 3dfilamentprofiles.com
+    Silk Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+  PP Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Marble:
+    Marmor:
+      hex: '#7D7F7C'
+      source: 3dfilamentprofiles.com
+  PLA CF:
+    Black:
+      hex: '#373737'
+      source: 3dfilamentprofiles.com
+      link: https://eryone3d.com/products/pla-carbon-fiber-filament
+  PLA Silk Quad:
+    Royal Essence (Purple/Silver/Black/DarkGreen):
+      hex: '#412E63,#D7D7E1,#090F14,#213736'
+      source: 3dfilamentprofiles.com
+      link: https://www.eryone.com/hyper-speed-silk-tri-color-pla-product/
+    Evil Pool:
+      hex: '#800080,#FB0000,#000DFF,#1DFA00'
+      source: 3dfilamentprofiles.com
+      link: https://www.eryone.com/hyper-speed-silk-tri-color-pla-product/
+    Metallic Frenzy:
+      hex: '#000000,#A30000,#DA9D1B,#9E6C3D'
+      source: 3dfilamentprofiles.com
+      link: https://www.eryone.com/color/metallic-frenzy-black-dark-red-banana-orange-gold/

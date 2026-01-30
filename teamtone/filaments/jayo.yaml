@@ -1,0 +1,1229 @@
+Jayo:
+  PLA+/Pro Basic:
+    Transparent Orange:
+      hex: '#FFB43F'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#A97A43'
+      source: 3dfilamentprofiles.com
+    Transparent Blue:
+      hex: '#0061FF'
+      source: 3dfilamentprofiles.com
+    Transparent Yellow:
+      hex: '#FFF76B'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#39D1EE'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla-plus
+    Chocolate:
+      hex: '#5C4033'
+      source: 3dfilamentprofiles.com
+    Mint Green:
+      hex: '#71D1C2'
+      source: 3dfilamentprofiles.com
+    Lemon Yellow:
+      hex: '#F7D959'
+      source: 3dfilamentprofiles.com
+    Olive Green:
+      hex: '#556B2F'
+      source: 3dfilamentprofiles.com
+    Sunny Orange:
+      hex: '#D8631E'
+      source: 3dfilamentprofiles.com
+    Cyan:
+      hex: '#0086D6'
+      source: 3dfilamentprofiles.com
+    blue:
+      hex: '#5B6579'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#2F2E2D'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla-plus
+    Purple:
+      hex: '#752CCE'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Red:
+      hex: '#D0413F'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Green:
+      hex: '#14C135'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Coffee:
+      hex: '#6B3400'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Grey:
+      hex: '#636767'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla-plus
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla-plus/products/jayo-pla-3d-printing-filament-bundle-1-1kg-1
+    Transparent Red:
+      hex: '#FF2600'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Cherry Red:
+      hex: '#C43537'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Blue:
+      hex: '#0400FF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Sakura Pink:
+      hex: '#E8AFCF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Fuchsia:
+      hex: '#A235C0'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Silver:
+      hex: '#9C9C9C'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Burly Wood:
+      hex: '#CDAD87'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Transparent Clear:
+      hex: '#EBEBEB'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#DF7930'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+  PLA+/Pro Silk Dual:
+    Black/White:
+      hex: '#FFFFFF,#000000'
+      source: 3dfilamentprofiles.com
+    Green / Purple:
+      hex: '#30B870,#9862AE'
+      source: 3dfilamentprofiles.com
+      link: https://www.ebay.com.au/itm/135014927221?var=434951098946
+    Pink / Gold:
+      hex: '#FB6ADC,#DFE160'
+      source: 3dfilamentprofiles.com
+    Rainbow 03 - Lilac - Violet:
+      hex: '#F075EC,#A160F0'
+      source: 3dfilamentprofiles.com
+    Black / Blue:
+      hex: '#000000,#0432FF'
+      source: 3dfilamentprofiles.com
+    Lilac/Violet:
+      hex: '#D778D9'
+      source: 3dfilamentprofiles.com
+    Black / Green:
+      hex: '#000000,#1CCA87'
+      source: 3dfilamentprofiles.com
+    Black / Purple:
+      hex: '#AC59D9,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.ebay.co.uk/itm/403860554104?var
+    Black Gold:
+      hex: '#000000,#E0DD7C'
+      source: 3dfilamentprofiles.com
+    Blue/Green:
+      hex: '#478DD7,#76D3A4'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/products/jayo-multi-color-silk-filamentdual-color-tri-color-1kg
+    Red / Gold:
+      hex: '#E04A3D,#EEB84A'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/products/jayo-multi-color-silk-filamentdual-color-tri-color-1kg
+    Red / Blue:
+      hex: '#FF2600,#0433FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.ebay.co.uk/itm/403860554104?var
+  PLA+/Pro Silk:
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.ebay.co.uk/itm/403860554104?var
+    Grey:
+      hex: '#828787'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Rainbow 2:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    White:
+      hex: '#D9E0E9'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Copper:
+      hex: '#B87333'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Rainbow 01 - Green - Red- Pink - Yellow:
+      hex: '#6EF790,#FB092D,#F906F1,#D9F505'
+      source: 3dfilamentprofiles.com
+    Light Gold:
+      hex: '#E6A519'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Orange:
+      hex: '#FF8700'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Green:
+      hex: '#2BA17A'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Pink:
+      hex: '#FDA0C2'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Rainbow 03 - Lilac - Violet:
+      hex: '#C67EF7,#9A60F0'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Blue:
+      hex: '#0084FF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Red Copper:
+      hex: '#F79083'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla-silk
+  PLA Basic:
+    Grass Green:
+      hex: '#00B377'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla/products/jayo-pla-3d-printing-filament-bundle-1-1kg
+    Cyan:
+      hex: '#00FFFF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla/products/jayo-pla-3d-printing-filament-bundle-1-1kg
+    Silver:
+      hex: '#B2B2B2'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla/products/jayo-pla-3d-printing-filament-bundle-1-1kg
+    Mint Green:
+      hex: '#73C4A1'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/general-filaments/products/moq-5-jayo-pla-classic-1-1kg-1-75mm-3d-printer-filament-better-toughness
+    Orange:
+      hex: '#FFA500'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla/products/jayo-pla-3d-printing-filament-bundle-1-1kg
+    Wood:
+      hex: '#A4856D'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djayo.com/products/jayo-wood-1-1kg-1kg-3d-printer-filament
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Marble:
+      hex: '#ADADAD'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla/products/jayo-pla-3d-printing-filament-bundle-1-1kg
+    Cherry Red:
+      hex: '#FF4013'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla/products/jayo-pla-3d-printing-filament-bundle-1-1kg
+    Beige:
+      hex: '#FFF1BA'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla/products/jayo-pla-3d-printing-filament-bundle-1-1kg
+    Gelb:
+      hex: '#FFD057'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Sakura Pink:
+      hex: '#E8AFCF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla/products/jayo-1-1kg-rolls-pla-pla-pla-matte-pla-meta-petg-3d-printing-filament
+    Chocolate:
+      hex: '#9E5D3E'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla/products/jayo-pla-3d-printing-filament-bundle-1-1kg
+    White/Meta:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla-meta/products/jayo-pla-meta-1-1kg-3d-printer-filament-cardboard-spool
+    Cream White:
+      hex: '#FEFCDD'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla/products/jayo-pla-3d-printing-filament-bundle-1-1kg
+    Fuchsia:
+      hex: '#FF00FF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla/products/jayo-pla-3d-printing-filament-bundle-1-1kg
+    Coffee:
+      hex: '#6F4E37'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla/products/jayo-pla-3d-printing-filament-bundle-1-1kg
+    Lemon Yellow:
+      hex: '#F9DA85'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla/products/jayo-pla-3d-printing-filament-bundle-1-1kg
+    Purple:
+      hex: '#9773E1'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Rainbow 01:
+      hex: '#FFFF00,#FF0000,#0080FF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/de/collections/pla-rainbow
+    Sky Blue:
+      hex: '#87CEEB'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla/products/jayo-pla-3d-printing-filament-bundle-1-1kg
+    Brown:
+      hex: '#5D4139'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla/products/jayo-pla-3d-printing-filament-bundle-1-1kg
+    Classic Primary Pri-Cyan:
+      hex: '#0579CC'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/filament/products/jayo-pla-plus-filament-5-rolls-1-75mm-pla-3d-printer-filament-1-1kg-roll-for-3d-neatly-wound-coloful-3d-printing-material
+    Pure Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla/products/jayo-pla-3d-printing-filament-bundle-1-1kg
+    Green:
+      hex: '#00D9A8'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Blue:
+      hex: '#326DF5'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla/products/jayo-pla-3d-printing-filament-bundle-1-1kg
+    Burly Wood:
+      hex: '#A4856D'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Gold:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Sunny Orange:
+      hex: '#D8631E'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla/products/jayo-pla-3d-printing-filament-bundle-1-1kg
+    Transparent:
+      hex: '#BFC3C7'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Grey:
+      hex: '#636767'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Red:
+      hex: '#FB1818'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Blue Grey:
+      hex: '#0E8DF5'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla/products/jayo-pla-3d-printing-filament-bundle-1-1kg
+    Olive Green:
+      hex: '#3A703F'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla/products/jayo-pla-3d-printing-filament-bundle-1-1kg
+  PLA Matte:
+    Orange:
+      hex: '#E65C00'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#61DA67'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla-plus/products/jayo-pla-3d-printing-filament-bundle-1-1kg-1
+    Olive Green:
+      hex: '#556B2F'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#FE90F5'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#77767B'
+      source: 3dfilamentprofiles.com
+    Lehmgrau:
+      hex: '#A8AA85,#785700'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF000D'
+      source: 3dfilamentprofiles.com
+    Light Blue:
+      hex: '#88D2F1'
+      source: 3dfilamentprofiles.com
+    Light Yellow / Chartreuse:
+      hex: '#CAEF2D'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#8941B0'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0056D6'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Translucent:
+    Transparent Purple:
+      hex: '#874EFE'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Transparent Green:
+      hex: '#00FF40'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Blue:
+      hex: '#0061FF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Clear:
+      hex: '#EBEBEB'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Red:
+      hex: '#FF2600'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Yellow:
+      hex: '#FFF76B'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Transparent Orange:
+      hex: '#DF7930'
+      source: 3dfilamentprofiles.com
+  PETG:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+  TPU Silk:
+    Dark Blue:
+      hex: '#333667'
+      source: 3dfilamentprofiles.com
+    Burgundy:
+      hex: '#512D35'
+      source: 3dfilamentprofiles.com
+    Light Blue:
+      hex: '#ADD8E6'
+      source: 3dfilamentprofiles.com
+    Cream White:
+      hex: '#F8F6E4'
+      source: 3dfilamentprofiles.com
+      link: https://www.sunlu.com/collections/tpu-silk?sca_ref=7471859.dxN0czLnOm
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Orange:
+      hex: '#FF4F05'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Pink:
+      hex: '#E57697'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    black gold purple:
+      hex: '#000000,#C9C401,#664DDD'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/products/jayo-multi-color-silk-filamentdual-color-tri-color-1kg
+    Gold:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Copper:
+      hex: '#B65D5D'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Red:
+      hex: '#CA020C'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Green:
+      hex: '#138663'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Blue:
+      hex: '#503DE1'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Sky Blue:
+      hex: '#2A75D3'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Rainbow:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Silver:
+      hex: '#A6A9AA'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+  PETG Glow:
+    Green:
+      hex: '#97F76E'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    White to Green:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Blue:
+      hex: '#22DEF7'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Yellow:
+      hex: '#F7F269'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Red:
+      hex: '#FB464F'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+  PLA Wood:
+    Walnut:
+      hex: '#6A4A34'
+      source: 3dfilamentprofiles.com
+    Wood:
+      hex: '#E0C2AA'
+      source: 3dfilamentprofiles.com
+    Cherry:
+      hex: '#987073'
+      source: 3dfilamentprofiles.com
+    Cherry wood:
+      hex: '#250228'
+      source: 3dfilamentprofiles.com
+    Maple:
+      hex: '#B88E72'
+      source: 3dfilamentprofiles.com
+  PLA High Speed Marble:
+    Ashen Concrete / Cement Grey:
+      hex: '#8F8F8F'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Brick Red 150-300 mm/sec:
+      hex: '#8C3636'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Chestnut Brown / Bone Beige Marbel:
+      hex: '#FFE2C2'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Oreo / Light Grey:
+      hex: '#272425,#BBBCBC'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+  PLA Silk Dual:
+    Black+Gold:
+      hex: '#000000,#FCF3A0'
+      source: 3dfilamentprofiles.com
+    Black + Green:
+      hex: '#000000,#2E796C'
+      source: 3dfilamentprofiles.com
+    Red+Blue:
+      hex: '#F5409B,#597AFF'
+      source: 3dfilamentprofiles.com
+    Black+Purple:
+      hex: '#000000,#AD7CF9'
+      source: 3dfilamentprofiles.com
+    Black+White:
+      hex: '#000000,#FCFCFC'
+      source: 3dfilamentprofiles.com
+    Red+Gold:
+      hex: '#E9572F,#FFF2A7'
+      source: 3dfilamentprofiles.com
+    Black+Blue:
+      hex: '#000000,#436CA3'
+      source: 3dfilamentprofiles.com
+    Blue Green:
+      hex: '#68CCF9,#70D9AA'
+      source: 3dfilamentprofiles.com
+    Purple Green:
+      hex: '#8331BE,#42C77A'
+      source: 3dfilamentprofiles.com
+    Red/Blue:
+      hex: '#FF2600,#0433FF'
+      source: 3dfilamentprofiles.com
+      link: https://detail.tmall.com/item.htm?id=752137338339
+    Pink/Gold:
+      hex: '#F4A4C0,#FED42D'
+      source: 3dfilamentprofiles.com
+  APLA Matte:
+    Olive Green:
+      hex: '#67824C'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Red/Yellow/Blue:
+      hex: '#FF2600,#FFFB00,#0433FF'
+      source: 3dfilamentprofiles.com
+    Blue Green Purple:
+      hex: '#307BDF,#6AF073,#D2409B'
+      source: 3dfilamentprofiles.com
+    'Quadruple Colour: Blue, Purple, Red, Gold':
+      hex: '#1F4775,#814F68,#C26582,#EACE89'
+      source: 3dfilamentprofiles.com
+    'Quadruple Color: Red, Yellow, Green, Black':
+      hex: '#A83D72,#FFD744,#5DACBB'
+      source: 3dfilamentprofiles.com
+    Black/Gold/Purple:
+      hex: '#000000,#F6FA29,#7A00F5'
+      source: 3dfilamentprofiles.com
+    Red/Yellow/Green:
+      hex: '#FF2600,#FFFB00,#00F900'
+      source: 3dfilamentprofiles.com
+    Orange/Blue/Green:
+      hex: '#FC761D,#6DBBF3,#6EF797'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro 2.0:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Beige:
+      hex: '#FFF1BA'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Pure Yellow:
+      hex: '#F2D00D'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Sakura Pink:
+      hex: '#E8AFCF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Lemon Yellow:
+      hex: '#FBE988'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Sky Blue:
+      hex: '#39D1EE'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Silver:
+      hex: '#9B9DA6'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Yellow:
+      hex: '#F5F127'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Green:
+      hex: '#41CA39'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Olive Green:
+      hex: '#7A7A3D'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Orange:
+      hex: '#F7976F,#EE7D00'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Blue:
+      hex: '#0000E8'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Grey:
+      hex: '#7D7D7D'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Black:
+      hex: '#2F2E2D'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Sunny Orange:
+      hex: '#FF5C00'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+  PLA High Speed:
+    Grey:
+      hex: '#525657'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Purple:
+      hex: '#7D7EFF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Olive Green:
+      hex: '#39492C'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Orange:
+      hex: '#F57617'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://detail.tmall.com/item.htm?id=764361610200
+    Pink:
+      hex: '#CE7A96'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Blue:
+      hex: '#2138C6'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Green:
+      hex: '#0AB930'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Black:
+      hex: '#2F2E2D'
+      source: 3dfilamentprofiles.com
+      link: https://www.aliexpress.com/item/1005007343182063.html
+    Red:
+      hex: '#E22400'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Pure Yellow:
+      hex: '#FDEA25'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+  PLA Rainbow:
+    Rainbow 02:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  ABS Easy:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Mint Green:
+      hex: '#0F9F8E'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#B51A00'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#5C5C5C'
+      source: 3dfilamentprofiles.com
+      link: https://www.aliexpress.us/item/3256807229937347.html?gatewayAdapt=glo2usa4itemAdapt
+  TPU 95A:
+    Clear:
+      hex: '#E3E3E3'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Gray:
+      hex: '#505253'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Blue:
+      hex: '#007DE8'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+  PLA Marble:
+    Oreo Marble:
+      hex: '#B2B6C7'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Ashen Concrete:
+      hex: '#919191'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Brick Red:
+      hex: '#703838'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Shadow Storm Marble:
+      hex: '#DEDEDE'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Forest Green Marble:
+      hex: '#B8C7B2'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+  PETG High Speed Matte:
+    Pink:
+      hex: '#CE7A96'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#0E171B'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/high-speed-filaments/products/jayo-high-speed-matte-petg-1kg-3d-printing-filament-bundle
+    Orange:
+      hex: '#FF9300'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Blue:
+      hex: '#0433FF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/products/jayo-high-speed-matte-petg-1kg-3d-printing-filament-bundle
+    Sky Blue:
+      hex: '#6ABCF6'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/high-speed-filaments/products/jayo-high-speed-matte-petg-1kg-3d-printing-filament-bundle
+    Red:
+      hex: '#FF2600'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Mint Green:
+      hex: '#00B39A'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Grey:
+      hex: '#636767'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Yellow:
+      hex: '#FFFB00'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/products/jayo-high-speed-matte-petg-1kg-3d-printing-filament-bundle
+    Green:
+      hex: '#00F900'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+  PETG Basic:
+    Dark Grey:
+      hex: '#232323'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Sunny Orange:
+      hex: '#FF5C00'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Sakura Pink:
+      hex: '#FFC7FE'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Coffee:
+      hex: '#6F4E37'
+      source: 3dfilamentprofiles.com
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Chocolate:
+      hex: '#9E5D3E'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Gelb:
+      hex: '#F8E45C'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Beige:
+      hex: '#FFC294'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Grey:
+      hex: '#9C9C9C'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Olive Green:
+      hex: '#556B2F'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/petg/products/jayo-petg-3d-printing-filament-1-1kg
+    Cyan:
+      hex: '#7FD8F5'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Pink:
+      hex: '#FF0084'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Purple:
+      hex: '#10309D'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Blue:
+      hex: '#151987'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Green:
+      hex: '#5FC50D'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djayo.com/products/jayo-petg
+    Blue Vif:
+      hex: '#382ED8'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/fr/products/jayo-5roll-petg-petg-clear-3d-printer-filament-1-75-0-02mm-1-1kg-roll-high-toughness-neatly-wound-filament-fit-most-fdm-printer
+    Brown:
+      hex: '#593401'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Mint Green:
+      hex: '#00E1AD'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Lemon Yellow:
+      hex: '#FDF66B'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Sky Blue:
+      hex: '#00A3D7'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/products/jayo-petg-3d-printing-filament-1-1kg
+    Silver:
+      hex: '#C4C2D0'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Orange:
+      hex: '#FF6A13'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Cherry Red:
+      hex: '#C43537'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/products/jayo-petg-3d-printing-filament-1-1kg
+    Red:
+      hex: '#FF2600'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+    Schwarz:
+      hex: '#281F24'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/
+  PLA+/Pro Silk Quad:
+    Blue/Purple/Red/Gold:
+      hex: '#F769EB'
+      source: 3dfilamentprofiles.com
+    Blue/Purple/Orange/Yellow:
+      hex: '#69B9F7'
+      source: 3dfilamentprofiles.com
+    Black/Grey/Red/Yellow:
+      hex: '#F7D169'
+      source: 3dfilamentprofiles.com
+    Red/Yellow/Green/Black:
+      hex: '#CC1E4A'
+      source: 3dfilamentprofiles.com
+    Rainbow 4 - Pink - Yellow - Blue - Green:
+      hex: '#EFAEEA,#DDEE8C,#8CACF8,#84F782'
+      source: 3dfilamentprofiles.com
+    Rainbow 05 - Green - Orange - Light Pink - Yellow:
+      hex: '#F2CAEF,#DDEE8C,#F8C58B,#84F782'
+      source: 3dfilamentprofiles.com
+  PLA High Speed Matte:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Sakura Pink:
+      hex: '#E8AFCF'
+      source: 3dfilamentprofiles.com
+    Olive Green:
+      hex: '#556B2F'
+      source: 3dfilamentprofiles.com
+    Chocolate:
+      hex: '#523D3C,#523D3C'
+      source: 3dfilamentprofiles.com
+    Cherry Red:
+      hex: '#D93B47'
+      source: 3dfilamentprofiles.com
+    Mint Green:
+      hex: '#ADEBB3'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Sunny Orange:
+      hex: '#D8631E'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#414649'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#6ABCF6'
+      source: 3dfilamentprofiles.com
+    Lemon Yellow:
+      hex: '#FBF88A'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/high-speed-filaments-1/products/moq-5-rolls-jayo-high-speed-matte-pla-3d-printing-filament-1-1kg
+  PLA Meta:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/functional-filaments-1/products/moq-5-rolls-jayo-pla-meta-1-1kg-3d-printing-filament-bundle
+    Sky blue:
+      hex: '#39D1EE'
+      source: 3dfilamentprofiles.com
+    Mint green:
+      hex: '#71D1C2'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#626164'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/functional-filaments-1/products/moq-5-rolls-jayo-pla-meta-1-1kg-3d-printing-filament-bundle
+    Sakura Pink:
+      hex: '#E8AFCF'
+      source: 3dfilamentprofiles.com
+    Lemon Yellow:
+      hex: '#F2FF42'
+      source: 3dfilamentprofiles.com
+    green:
+      hex: '#28720D'
+      source: 3dfilamentprofiles.com
+    blue:
+      hex: '#1F23AD'
+      source: 3dfilamentprofiles.com
+    red:
+      hex: '#A51212'
+      source: 3dfilamentprofiles.com
+  APLA Basic:
+    Cream White:
+      hex: '#E2DED5'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#1607E9'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/abs/products/jayo-abs-3d-printer-filament-cardboard-spool
+  PLA+/Pro Silk Triple:
+    Red / Yellow / Blue:
+      hex: '#FF0000,#FFF000,#0000FF'
+      source: 3dfilamentprofiles.com
+    Red / Yellow / Green:
+      hex: '#FF0000,#FFF000,#008000'
+      source: 3dfilamentprofiles.com
+    Blue / Green / Purple:
+      hex: '#0000FF,#008000,#800080'
+      source: 3dfilamentprofiles.com
+    Black / Gold / Purple:
+      hex: '#000000,#FFD700,#800080'
+      source: 3dfilamentprofiles.com
+    Rainbow 02 - Blue - Purple - Magenta:
+      hex: '#515CF0,#D142C5,#761CA6'
+      source: 3dfilamentprofiles.com
+    Rainbow 06 - Cyan - Magenta - Blue:
+      hex: '#00FFFF,#FF00FF,#0000FF'
+      source: 3dfilamentprofiles.com
+    Orange / Blue / Green:
+      hex: '#3668D7,#B56242,#2EB86A'
+      source: 3dfilamentprofiles.com
+  PETG CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3djayo.com
+  PLA Sparkle:
+    Twinkling Blue:
+      hex: '#79CEFF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Matte:
+    GREEN:
+      hex: '#39AD48'
+      source: 3dfilamentprofiles.com
+    Lemon Yellow:
+      hex: '#FBF88C'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/de/collections/filament/products/moq-5-rolls-jayo-high-speed-matte-pla-3d-printing-filament-1-1kg
+  TPU Basic:
+    green:
+      hex: '#39FF14'
+      source: 3dfilamentprofiles.com
+    red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    black:
+      hex: '#080808'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Transparent Orange:
+      hex: '#FF4015'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/petg/products/jayo-petg-3d-printing-filament-1-1kg
+    Transparent Red:
+      hex: '#E22400'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/petg/products/jayo-petg-3d-printing-filament-1-1kg
+    Red:
+      hex: '#E22400'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/petg/products/jayo-petg-3d-printing-filament-1-1kg
+    Transparent Green:
+      hex: '#76BB40'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/petg/products/jayo-petg-3d-printing-filament-1-1kg
+    Transparent Yellow:
+      hex: '#D19D01'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/petg/products/jayo-petg-3d-printing-filament-1-1kg
+    Transparent Purple:
+      hex: '#7081FF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/petg/products/jayo-petg-3d-printing-filament-1-1kg
+    Transparent Blue:
+      hex: '#141CFF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/products/jayo-petg-3d-printing-filament-1-1kg?variant=51325712957745
+  PLA Matte Dual:
+    Red Yellow:
+      hex: '#FFFF00,#FF0000'
+      source: 3dfilamentprofiles.com
+    Green / Purple:
+      hex: '#4AF456,#6E74D4'
+      source: 3dfilamentprofiles.com
+    Black / Blue:
+      hex: '#23272A,#263D8B'
+      source: 3dfilamentprofiles.com
+    Yellow / Cyan:
+      hex: '#48C8CB,#FFFF00'
+      source: 3dfilamentprofiles.com
+    Orange / Red:
+      hex: '#FB7627,#E1427C'
+      source: 3dfilamentprofiles.com
+    Black / Red:
+      hex: '#221E1F,#89161B'
+      source: 3dfilamentprofiles.com
+    Red / Blue:
+      hex: '#263D8B,#89161B'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla-matte/products/jayo-3d-dual-pla-matte-1-75-mm-3d-printer-filament-5-rolls
+  PLA+/Pro Silk+:
+    Blue/Green/Purple:
+      hex: '#1B0BF4,#24BD0F,#A410C1'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/products/jayo-multi-color-silk-filamentdual-color-tri-color-1kg
+  PETG Aero:
+    black:
+      hex: '#0A0A0A'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#00C7FC'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/esthetic-filaments/products/moq-4-rolls-jayo-pla-glow-in-the-dark-luminous-3d-printer-filament-1-75mm-1-1kg
+    White to Green:
+      hex: '#FFFFFF,#00F500'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#DE1212'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/esthetic-filaments/products/moq-4-rolls-jayo-pla-glow-in-the-dark-luminous-3d-printer-filament-1-75mm-1-1kg
+    Yellow:
+      hex: '#FEFB00'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/esthetic-filaments/products/moq-4-rolls-jayo-pla-glow-in-the-dark-luminous-3d-printer-filament-1-75mm-1-1kg
+    green:
+      hex: '#00F500'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/esthetic-filaments/products/moq-4-rolls-jayo-pla-glow-in-the-dark-luminous-3d-printer-filament-1-75
+    White to Blue:
+      hex: '#FEFFFF,#00FCFF'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/esthetic-filaments/products/moq-4-rolls-jayo-pla-glow-in-the-dark-luminous-3d-printer-filament-1-75mm-1-1kg
+  PLA+/Pro High Speed 2.0:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF7F00'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#636363'
+      source: 3dfilamentprofiles.com
+  ASA Basic:
+    Natural:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#0FCC48'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA CF:
+    Black Matte (Frosted):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://jayo3d.com/collections/pla-carbon-fiber
+  PETG High Speed:
+    Mint Green:
+      hex: '#00E1AD'
+      source: 3dfilamentprofiles.com
+    Black Matte:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Glitter:
+    Twinkle Blue:
+      hex: '#00FFFF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Multicolor:
+    Four-color:
+      hex: '#FD0808,#EBEF0B,#05A335,#050505'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Blue:
+      hex: '#3300FF'
+      source: 3dfilamentprofiles.com
+      link: http://www.3djayo.com
+  ASA:
+    Schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

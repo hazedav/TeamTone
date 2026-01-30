@@ -1,0 +1,23 @@
+Econofil:
+  PLA Basic:
+    Skin:
+      hex: '#FFB694'
+      source: 3dfilamentprofiles.com
+      link: https://filaments.ca/
+    Galaxy black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://filaments.ca/
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://filaments.ca/collections/3d-printing-filaments/products/econofil-1kg-pla-filament-yellow-1-75mm
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://filaments.ca/collections/petg/products/econofil-standard-petg-black
+    Grey:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://econofil.ca/products/econofil-standard-petg-grey?variant=40996448763989

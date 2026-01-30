@@ -1,0 +1,88 @@
+FilamentOne:
+  PLA+/Pro Metal:
+    Brass:
+      hex: '#5F510C'
+      source: 3dfilamentprofiles.com
+    Copper:
+      hex: '#7F5E48'
+      source: 3dfilamentprofiles.com
+  PC-ABS Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Matte:
+    Brown:
+      hex: '#381D0B'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Matte Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Silk:
+    Silk Blue:
+      hex: '#0000A0'
+      source: 3dfilamentprofiles.com
+    Copper:
+      hex: '#DC8204'
+      source: 3dfilamentprofiles.com
+    Silk Yellow:
+      hex: '#FDF512'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Desert Red:
+      hex: '#782907'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Marble:
+    Marble:
+      hex: '#9C9C9C'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Premium:
+    Green:
+      hex: '#4CCD4E'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Off White:
+      hex: '#DEDEDE'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Dark Grey:
+      hex: '#4A4A4A'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#0074C7'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#352517'
+      source: 3dfilamentprofiles.com
+    Turquoise:
+      hex: '#69EEF7'
+      source: 3dfilamentprofiles.com
+  PETG+ Pro:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Galaxy:
+    Galaxy Denim Blue:
+      hex: '#015998'
+      source: 3dfilamentprofiles.com
+    Galaxy Cinnamon:
+      hex: '#6A1B01'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Red Stone:
+      hex: '#E42525'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#00B3FF'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Emerald Pearl:
+      hex: '#6EF790'
+      source: 3dfilamentprofiles.com

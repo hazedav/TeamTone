@@ -1,0 +1,779 @@
+Geeetech:
+  PLA Matte:
+    Matte Green:
+      hex: '#263E0F'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-matte-white-3d-printer-filament-175mm-1kgroll-p-1268.html
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-matte-white-3d-printer-filament-175mm-1kgroll-p-1268.html
+    Skin:
+      hex: '#D5A97E'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-matte-white-3d-printer-filament-175mm-1kgroll-p-1268.html
+    Stone Grey:
+      hex: '#CBCBC3'
+      source: 3dfilamentprofiles.com
+      link: https://m.geeetech.com/geeetech-matte-stone-grey-pla-filament-175mm-1kgroll-p-1315.html?srsltid=AfmBOopmpdOFvwrT47n1rCi38oFzScAbpHibu4uN0oQn8O5dEDoz_pvG
+    Light Grey:
+      hex: '#A8A5A3'
+      source: 3dfilamentprofiles.com
+      link: https://a.aliexpress.com/_EzkVsMs
+    Matte Orange:
+      hex: '#E7BB99'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-matte-white-3d-printer-filament-175mm-1kgroll-p-1268.html
+    Terracotta:
+      hex: '#FFAC80'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/geeetech-matte-terracotta-pla-filament-175mm-1kgroll-p-1316.html
+    Brown:
+      hex: '#633B00'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-matte-white-3d-printer-filament-175mm-1kgroll-p-1268.html
+    Navy Blue:
+      hex: '#012F7B'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/geeetech-matte-navy-blue-pla-filament-175mm-1kgroll-p-1313.html?srsltid=AfmBOoqZzw55CuUIDZa5CN52UWepJu3Xs1RC7ruHoxkM3V3k_mGQIFWM
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-matte-white-3d-printer-filament-175mm-1kgroll-p-1268.html
+    Grey:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-matte-grey-3d-printer-filament-175mm-1kgroll-p-1269.html
+    Matte Dark Grey:
+      hex: '#282A2E'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-matte-dark-grey-3d-printer-filament-175mm-1kgroll-p-1350.html
+    Blue:
+      hex: '#1D345D'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-matte-blue-3d-printer-filament-175mm-1kgroll-p-1271.html
+    Olive Green:
+      hex: '#3E853D'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-matte-white-3d-printer-filament-175mm-1kgroll-p-1268.html
+    New White:
+      hex: '#F4E9D0'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/
+  TPU 95A:
+    Transparent Orange:
+      hex: '#FFAA66'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/tpu-grey-3d-printer-filament-175mm-1kgrol-p-1324.html
+    Transparent Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/geeetech-tpu-transparent-yellow-175mm-1kg-per-roll-p-1327.html
+    Transparent Blue:
+      hex: '#0654A7'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/tpu-grey-3d-printer-filament-175mm-1kgrol-p-1324.html
+    Transparent Red:
+      hex: '#F85454'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/tpu-transparent-red-3d-printer-filament-175mm-1kgroll-p-1326.html
+    Grey:
+      hex: '#515152'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/tpu-grey-3d-printer-filament-175mm-1kgrol-p-1324.html
+    Clear Silver:
+      hex: '#E6E6FA'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/tpu-grey-3d-printer-filament-175mm-1kgrol-p-1324.html
+    Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/tpu-transparent-3d-printer-filament-175mm-1kgroll-p-1322.html
+    Noir 95A:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/geeetech-tpu-black-175mm-1kg-per-roll-p-1296.html?srsltid=AfmBOorb_1CdUfRO81WMCR8BQCMvZA_K-mpsLLfac4xgRj5xPULO-ttA
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/tpu-grey-3d-printer-filament-175mm-1kgrol-p-1324.html
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/tpu-grey-3d-printer-filament-175mm-1kgrol-p-1324.html
+    Orange:
+      hex: '#FF8E42'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/tpu-orange-3d-printer-filament-175mm-1kgroll-p-1684.html
+    Transparent Purple:
+      hex: '#7A0085'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Red Yellow Blue:
+      hex: '#FF2600'
+      source: 3dfilamentprofiles.com
+    Orange Blue Green:
+      hex: '#FF9F0F,#0053FF,#00F737'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-tricolor-3d-printer-filament-175mm-1kgroll-orangebluegreen-p-1581.html
+    Gold Silver Copper:
+      hex: '#E7A20D'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-tricolor-3d-printer-filament-175mm-1kgroll-goldsilvercopper-p-1575.html
+    Blue Purple Black:
+      hex: '#4D22B3,#043ADC,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/geeetech-silk-tricolor-bluepurpleblack-pla-filament-175-mm-3d-printer-filament-1kgroll-p-1583.html
+    Red Gold Black:
+      hex: '#FF0000,#EFAD31,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://m.geeetech.com/pla-silk-tricolor-3d-printer-filament-175mm-1kgroll-redgoldblack-p-1577.html
+    Red Blue Green:
+      hex: '#E61D0F'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-tricolor-3d-printer-filament-175mm-1kgroll-redbluegreen-p-1582.html
+  PLA Silk:
+    Purple:
+      hex: '#813F92'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-copper-3d-printer-filament-175mm-1kgroll-p-1123.html
+    Gold + Purple:
+      hex: '#FFF157,#741B7C'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-copper-3d-printer-filament-175mm-1kgroll-p-1123.html
+    Red+Gold+Purple:
+      hex: '#B11100,#BA9D1F,#AF1496'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-copper-3d-printer-filament-175mm-1kgroll-p-1123.html
+    Copper:
+      hex: '#9D4C2B'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-copper-3d-printer-filament-175mm-1kgroll-p-1123.html
+    Silky Royal Blue:
+      hex: '#0042AA'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-royal-blue-3d-printer-filament-175mm-1kgroll-p-1223.html
+    Silk Silver:
+      hex: '#9CA3A8'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-silver-3d-printer-filament-175mm-1kgroll-p-1138.html
+    Royal Blue:
+      hex: '#0F3AC5'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-copper-3d-printer-filament-175mm-1kgroll-p-1123.html
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-copper-3d-printer-filament-175mm-1kgroll-p-1123.html
+    Silver:
+      hex: '#7C7D7E'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-copper-3d-printer-filament-175mm-1kgroll-p-1123.html
+    Metallic Gold Silk Filament:
+      hex: '#D29D00'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-copper-3d-printer-filament-175mm-1kgroll-p-1123.html
+    Red+Yellow+Blue:
+      hex: '#FF0000,#FFF700,#0011FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-tricolor-3d-printer-filament-175mm-1kgroll-redyellowblue-p-1580.html
+    Metallic Black:
+      hex: '#1A1511'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-copper-3d-printer-filament-175mm-1kgroll-p-1123.html
+    Green:
+      hex: '#22A04E'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-copper-3d-printer-filament-175mm-1kgroll-p-1123.html
+    Gold:
+      hex: '#E5B03D'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-copper-3d-printer-filament-175mm-1kgroll-p-1123.html
+    Silk Bronze:
+      hex: '#104F03'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/geeetech-silk-bronze-pla-175mm-1kgroll-p-1214.html
+    Silk Gold:
+      hex: '#C48E30'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-copper-3d-printer-filament-175mm-1kgroll-p-1123.html
+    Metallic Royal Blue:
+      hex: '#0F3AC5'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-copper-3d-printer-filament-175mm-1kgroll-p-1123.html
+    Sky Blue:
+      hex: '#87CEEB'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-copper-3d-printer-filament-175mm-1kgroll-p-1123.html
+    Silk Copper:
+      hex: '#824751'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-copper-3d-printer-filament-175mm-1kgroll-p-1123.html
+    Silk White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-copper-3d-printer-filament-175mm-1kgroll-p-1123.html
+    Metallic Silver:
+      hex: '#89888C'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-copper-3d-printer-filament-175mm-1kgroll-p-1123.html
+    Rainbow:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-rainbow-3d-printer-filament-175mm-1kgroll-p-1140.html
+    Magenta:
+      hex: '#FF00FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-magenta-3d-printer-filament-175mm-1kgroll-p-1240.html
+    Silk Yellow:
+      hex: '#E5B03D'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-yellow-3d-printer-filament-175mm-1kgroll-p-1220.html
+  TPU 95A HF:
+    Yellow:
+      hex: '#F5E000'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/tpu-black-3d-printer-filament-175mm-1kgroll-p-1296.html
+  PLA High Speed Matte:
+    White Matte:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA High Speed:
+    Purple:
+      hex: '#813F92'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#57FB41'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/hspla-green-3d-printer-filament-175mm-1kgroll-p-1616.html
+    Orange:
+      hex: '#E99D48'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#FF46A2'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/hspla-pink-3d-printer-filament-175mm-1kgroll-p-1648.html
+    Apple Green:
+      hex: '#B6D649'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/hspla-apple-green-3d-printer-filament-175mm-1kgroll-p-1636.html
+    Yellow:
+      hex: '#FEED34'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/hspla-yellow-3d-printer-filament-175mm-1kgroll-p-1645.html
+    Skin Color:
+      hex: '#FFDBAC'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/hspla-skin-3d-printer-filament-175mm-1kgroll-p-1650.html
+    Ruby Red:
+      hex: '#A1152B'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#885E3E'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/hspla-brown-3d-printer-filament-175mm-1kgroll-p-1647.html
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/hspla-filament-black-pla-175mm-1kg-per-roll-can-be-used-on-geeetech-thunder-ankermake-m5-bambu-lab-x1-3d-printer-p-1395.html?srsltid=AfmBOopxKObeUDWR_gohOKEJWYILdKtLrDimL3j07Kpl6th7yP6ifQmd
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/hspla-red-3d-printer-filament-175mm-1kgroll-p-1398.html
+  PLA Glitter:
+    Sparkly Blue:
+      hex: '#17036A'
+      source: 3dfilamentprofiles.com
+    Sparkly Purple:
+      hex: '#650B77'
+      source: 3dfilamentprofiles.com
+  PETG Metal:
+    Pink:
+      hex: '#D765C2'
+      source: 3dfilamentprofiles.com
+    Metal Green:
+      hex: '#2C4E23'
+      source: 3dfilamentprofiles.com
+    Metal Gold:
+      hex: '#A76A01'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/petg-metallic-brown-3d-printer-filament-175mm-1kgroll-p-1727.html
+  ASA:
+    Blue:
+      hex: '#0080FF'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Silver:
+      hex: '#909598'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/geeetech-pla-silver-175mm-1kgroll-p-1086.html?currency=GBP
+    New Red:
+      hex: '#FF2600'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-pla-c-83_111.html
+    New Green:
+      hex: '#00E600'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-pla-c-83_111.html
+    Pink:
+      hex: '#C91AE0'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-pla-c-83_111.html
+    Gris:
+      hex: '#868788'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-grey-3d-printer-filament-175mm-1kgroll-p-973.html
+    Water Blue:
+      hex: '#04AACB'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-water-blue-3d-printer-filament-175mm-1kgroll-p-1243.html
+    Bone White:
+      hex: '#ABA190'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-bone-white-3d-printer-filament-175mm-1kgroll-p-1605.html
+    Orange:
+      hex: '#E99D48'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-blue-3d-printer-filament-175mm-1kgroll-p-1632.html
+    Brown:
+      hex: '#563D00'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-pla-c-83_111.html
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-red-3d-printer-filament-175mm-1kgroll-p-976.html
+    Transparent / Crystal:
+      hex: '#BEC4C2'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-transparent-3d-printer-filament-175mm-1kgroll-p-1085.html
+    Grey:
+      hex: '#82868A'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-grey-3d-printer-filament-175mm-1kgroll-p-973.html
+    Marble:
+      hex: '#EBEBEB'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/geeetech-175mm-1kgroll-pla-like-marble-color-p-1213.html?srsltid=AfmBOorZJB6JvXoIgYp7cwvQA8ndhATrjXvxE-itke3xG-OstfPpuBM2
+    Blue:
+      hex: '#0071AE'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-blue-3d-printer-filament-175mm-1kgroll-p-1632.html
+    Warm White:
+      hex: '#DBD6D0'
+      source: 3dfilamentprofiles.com
+      link: https://geeetech.com/pla-warm-white-3d-printer-filament-175mm-1kgroll-p-1604.html
+    Chameleon:
+      hex: '#453653'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-pla-c-83_111.html
+    White:
+      hex: '#DEE2E7'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-white-3d-printer-filament-175mm-1kgroll-p-980.html
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-black-3d-printer-filament-175mm-1kgroll-p-972.html
+    Silk Gold:
+      hex: '#BAC19F'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-pla-c-83_111.html
+    Matte Navy Blue:
+      hex: '#1A2456'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-pla-c-83_111.html
+    Purple:
+      hex: '#813F92'
+      source: 3dfilamentprofiles.com
+      link: https://m.geeetech.com/pla-purple-3d-printer-filament-175mm-1kgroll-p-975.html
+    Skin Color:
+      hex: '#EED7C7'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-skin-3d-printer-filament-175mm-1kgroll-p-1673.html
+    New Grey:
+      hex: '#9CA7B0'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-pla-c-83_111.html
+    New Purple:
+      hex: '#A985ED'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-pla-c-83_111.html
+    New Blue:
+      hex: '#0C73BE'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-pla-c-83_111.html
+    Matte Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-pla-c-83_111.html
+    New White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-pla-c-83_111.html
+    Yellow:
+      hex: '#FFF454'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-pla-c-83_111.html
+    New Sand Gold:
+      hex: '#EEBE98'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-sand-gold-3d-printer-filament-175mm-1kgroll-p-1280.html
+    New Pink:
+      hex: '#C581AE'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-pla-c-83_111.html
+    Bleu:
+      hex: '#0071AE'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-pla-c-83_111.html
+    Green:
+      hex: '#00A32C'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-green-3d-printer-filament-175mm-1kgroll-p-979.html
+    Apple Green:
+      hex: '#ACD55D'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-apple-green-3d-printer-filament-175mm-1kgroll-p-1244.html
+    New Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-pla-c-83_111.html
+  PLA Silk Dual:
+    blue/green:
+      hex: '#439D8B,#4D22B2'
+      source: 3dfilamentprofiles.com
+    Yellow+Green:
+      hex: '#CBF76E'
+      source: 3dfilamentprofiles.com
+    Red + Blue:
+      hex: '#864FFE,#0061FE'
+      source: 3dfilamentprofiles.com
+    Gold + Silver:
+      hex: '#C4BC00'
+      source: 3dfilamentprofiles.com
+    Gold Red:
+      hex: '#EE3A3E'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-dual-3d-printer-filament-175mm-1kgroll-gold-and-red-p-1535.html
+    Green-Red:
+      hex: '#0D810D,#8B1708'
+      source: 3dfilamentprofiles.com
+    gold black:
+      hex: '#ECEF1F,#05080A'
+      source: 3dfilamentprofiles.com
+    Black + Red:
+      hex: '#000000,#F50000'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-silk-dual-3d-printer-filament-175mm-1kgroll-black-red-p-1549.html
+  PLA Glow:
+    Glow Green:
+      hex: '#CCE8B5'
+      source: 3dfilamentprofiles.com
+    Rose Red:
+      hex: '#C061CB'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF7F27'
+      source: 3dfilamentprofiles.com
+    Glow Blue:
+      hex: '#00FFFF'
+      source: 3dfilamentprofiles.com
+    Multicolor:
+      hex: '#70BEF5,#FF859D,#2BA2F7'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-luminous-multicolor-3d-printer-filament-175mm-1kgroll-p-1329.html
+    Glow Yellow:
+      hex: '#F6F9CD'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-luminous-yellow-3d-printer-filament-175mm-1kgroll-p-1354.html
+    Glow White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-luminous-white-3d-printer-filament-175mm-1kgroll-p-1358.html
+  PETG Basic:
+    Transparent:
+      hex: '#9C9C9C'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-petg-c-83_124.html
+    Orange:
+      hex: '#FF8000'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-petg-c-83_124.html
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/petg-black-3d-printer-filament-175mm-1kgroll-p-1153.html
+    Yellow:
+      hex: '#FBE000'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-petg-c-83_124.html
+    Blue:
+      hex: '#0161FD'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-petg-c-83_124.html
+    Silver:
+      hex: '#9E9E9E'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/petg-brown-3d-printer-filament-175mm-1kgroll-p-1638.html
+    Green:
+      hex: '#008000'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/petg-green-3d-printer-filament-175mm-1kgroll-p-1159.html
+    Water Blue:
+      hex: '#04AACB'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/petg-water-blue-3d-printer-filament-175mm-1kgroll-p-1643.html
+    Brown:
+      hex: '#885E3E'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/petg-brown-3d-printer-filament-175mm-1kgroll-p-1638.html
+    Red:
+      hex: '#8B0E18'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/petg-brown-3d-printer-filament-175mm-1kgroll-p-1638.html
+    Purple:
+      hex: '#4B267E'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/petg-purple-3d-printer-filament-175mm-1kgroll-p-1639.html
+    Skin Color:
+      hex: '#EED7C7'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-petg-c-83_124.html
+    Grey:
+      hex: '#869099'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-petg-c-83_124.html
+    Green Apple:
+      hex: '#E7F71A'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/petg-apple-green-3d-printer-filament-175mm-1kgroll-p-1652.html
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/petg-white-3d-printer-filament-175mm-1kgroll-p-1154.html
+    Pink:
+      hex: '#D357FE'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-petg-c-83_124.html
+  PLA Fluorescent:
+    Pink:
+      hex: '#B92D6C'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-luminous-green-3d-printer-filament-175mm-1kgroll-p-1143.html
+    Luminous Green:
+      hex: '#20D71D'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-luminous-green-3d-printer-filament-175mm-1kgroll-p-1143.html
+  ABS+:
+    Orange:
+      hex: '#FF8040'
+      source: 3dfilamentprofiles.com
+  TPU Basic:
+    Brown:
+      hex: '#8B4126'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/tpu-brown-3d-printer-filament-175mm-1kgroll-p-1670.html
+    Transparent Orange:
+      hex: '#FF8E42'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/tpu-orange-3d-printer-filament-175mm-1kgroll-p-1684.html
+    Transparent Green:
+      hex: '#7CFF6B'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/tpu-transparent-green-3d-printer-filament-175mm-1kgroll-p-1328.html
+    Transparent Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/tpu-transparent-blue-3d-printer-filament-175mm-1kgroll-p-1416.html
+    Transparent Blue:
+      hex: '#0654A7'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/tpu-transparent-blue-3d-printer-filament-175mm-1kgroll-p-1416.html
+    Grey:
+      hex: '#515152'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/tpu-transparent-blue-3d-printer-filament-175mm-1kgroll-p-1416.html
+    Red:
+      hex: '#E32400'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/tpu-transparent-blue-3d-printer-filament-175mm-1kgroll-p-1416.html
+    Transparent Pink:
+      hex: '#FF56F6'
+      source: 3dfilamentprofiles.com
+      link: https://m.geeetech.com/tpu-transparent-pink-3d-printer-filament-175mm-1kgroll-p-1386.html
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/tpu-white-3d-printer-filament-175mm-1kgroll-p-1321.html
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/tpu-transparent-blue-3d-printer-filament-175mm-1kgroll-p-1416.html
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/tpu-transparent-3d-printer-filament-175mm-1kgroll-p-1322.html
+  ABS+ Basic:
+    Skin:
+      hex: '#FFD4C1'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/abs-skin-3d-printer-filament-175mm-1kgroll-p-1641.html
+    Grey:
+      hex: '#5C5E60'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/geeetech/abs-water-blue
+    Black:
+      hex: '#242424'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/abs-black-3d-printer-filament-175mm-1kgroll-p-1618.html
+    Brown:
+      hex: '#875718'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/abs-brown-3d-printer-filament-175mm-1kgroll-p-1600.html
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/abs-white-3d-printer-filament-175mm-1kgroll-p-713.html
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/abs-red-3d-printer-filament-175mm-1kgroll-p-1366.html
+    WaterBlue:
+      hex: '#6BC1FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.de/geeetech/abs-water-blue
+  PLA+/Pro Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Apple Green:
+      hex: '#A5EA3E'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#8D4B35'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#9807C0'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#CD580A'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#858585'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/abs-grey-3d-printer-filament-175mm-1kgroll-p-1427.html
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Water Blue:
+      hex: '#0298F2'
+      source: 3dfilamentprofiles.com
+    Skin:
+      hex: '#FED7CE'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/abs-skin-3d-printer-filament-175mm-1kgroll-p-1641.html
+    Pink:
+      hex: '#F864A8'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/abs-pink-3d-printer-filament-175mm-1kgroll-p-1640.html
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/abs-white-3d-printer-filament-175mm-1kgroll-p-713.html
+    Red:
+      hex: '#DF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/abs-red-3d-printer-filament-175mm-1kgroll-p-1366.html
+  PLA Gradient:
+    Color Gradient:
+      hex: '#FF0000,#00FF00,#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/geeetech-pla-gradient-colour-filament-175-mm-3d-printer-pla-filament-p-1291.html?gad_source=1
+  PLA CF:
+    Brick Red:
+      hex: '#5C0700'
+      source: 3dfilamentprofiles.com
+    Matcha Green:
+      hex: '#4F7A28'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#001E57'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/geeetech-pla-black-carbon-fiber-3d-printer-filament-1kg-p-1579.html?srsltid=AfmBOoozPkijwaNbRXfdmRPp_WM_pjFbhWS7gzcVQYN0BGPwfJ2atSSdv
+  PLA Rainbow:
+    Rainbow:
+      hex: '#FF0000,#FFFF00,#00FF00,#0080FF'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Clear:
+      hex: '#C0EAF2'
+      source: 3dfilamentprofiles.com
+  ASA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-asa-c-83_180.html
+    Grey:
+      hex: '#878787'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-asa-c-83_180.html
+    Blue:
+      hex: '#00478F'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/filament-asa-c-83_180.html
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/asa-black-3d-printer-filament-175mm-1kgroll-p-1740.html
+  PLA Marble:
+    Like Marble Brown:
+      hex: '#F7EFC5'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-like-marble-brown-3d-printer-filament-175mm-1kgroll-p-1448.html
+    Like Marble Grey:
+      hex: '#D9E5EC'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-like-marble-grey-3d-printer-filament-175mm-1kgroll-p-1213.html
+    Like Marble Blue:
+      hex: '#DDE7ED'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-like-marble-blue-3d-printer-filament-175mm-1kgroll-p-1449.html?srsltid=AfmBOopDqgFKLubCYlMTtcUCYWFsEXwKb8U-D93vo6KLS9Q9fFVOrIei
+  PLA Wood:
+    Rosewood:
+      hex: '#734845'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-wood-rose-3d-printer-filament-175mm-1kgroll-p-1651.html
+    Ebony:
+      hex: '#514C4C'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/geeetech-pla-ebony-175mm-1kgroll-p-1472.html
+    Wood:
+      hex: '#C0A78A'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-wood-3d-printer-filament-175mm-1kgroll-p-1602.html
+    Poplar:
+      hex: '#EBDDCB'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-wood-poplar-3d-printer-filament-175mm-1kgroll-p-1471.htmlhttps://www.geeetech.com/pla-wood-poplar-3d-printer-filament-175mm-1kgroll-p-1471.html
+    Black Walnut:
+      hex: '#D7C3AB'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-wood-3d-printer-filament-175mm-1kgroll-p-1602.html
+  PLA Sparkle:
+    Sparkly Silver:
+      hex: '#919191'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/pla-sparkly-silver-3d-printer-filament-175mm-1kgroll-p-1219.html
+  PLA Silk Rainbow:
+    Rainbow:
+      hex: '#5E87D9,#C1CE83,#C2706B'
+      source: 3dfilamentprofiles.com
+      link: https://www.geeetech.com/3d-printer-supplies-175mm-filament-pla-1kgroll-silk-rainbow-p-1140.html

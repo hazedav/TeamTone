@@ -1,0 +1,22 @@
+FilaFarm:
+  PLA Basic:
+    Gorilla Black Classic:
+      hex: '#1C1B17'
+      source: 3dfilamentprofiles.com
+      link: https://www.filafarm.de/collections/truepla-classic/products/truepla-gorillla-black-classic
+    Ruby Red Classic:
+      hex: '#F70808'
+      source: 3dfilamentprofiles.com
+    Light Brown:
+      hex: '#E39663'
+      source: 3dfilamentprofiles.com
+    Sun Yellow Classic:
+      hex: '#FFDF22'
+      source: 3dfilamentprofiles.com
+      link: https://www.filafarm.de/products/truepla-sun-yellow-classic?srsltid=AfmBOorEUF1d149rnWVgqQYBEaeznAoQWYPZKDspQDbpyha5xNoXrtOv
+    Gold Glossy:
+      hex: '#C6C25D'
+      source: 3dfilamentprofiles.com
+    Light Green Classic:
+      hex: '#5DC672'
+      source: 3dfilamentprofiles.com

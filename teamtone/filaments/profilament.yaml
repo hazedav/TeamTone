@@ -1,0 +1,11 @@
+ProFilament:
+  PLA Matte:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Dark Blue:
+      hex: '#1F2D50'
+      source: 3dfilamentprofiles.com
+    Mint Green:
+      hex: '#9DC6C2'
+      source: 3dfilamentprofiles.com

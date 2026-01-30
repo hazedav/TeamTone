@@ -1,0 +1,1038 @@
+Creality:
+  PLA Basic:
+    Blue:
+      hex: '#357BED'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Ender Value Pack Gray:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Ender Grey:
+      hex: '#4B4949'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Orange:
+      hex: '#FFA500'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Ender PLA Blue:
+      hex: '#009DFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Ender PLA Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-1-75mm-pla-3d-printing-filament-1kg?variant=49136870-23bb-40a1-94ac-6cad0a6ba8a2
+    CR-PLA Blue:
+      hex: '#089DF5'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Silver:
+      hex: '#9C9EA0'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Red:
+      hex: '#FB0E0E'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    White  (255,255,255):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    CR-PLA Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Yellow:
+      hex: '#F9F06B'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    White Prototyping:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Grey Prototyping:
+      hex: '#919191'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Ender PLA Yellow:
+      hex: '#FAE91B'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Fluorescent Yellow:
+      hex: '#CBFD5D'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    CR-PLA Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Ender Value Red:
+      hex: '#AD3D4A'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Black (0,0,0):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Ender Value Pack Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Ender PLA White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Ender PLA Red:
+      hex: '#BB1F11'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Ender Value Pack White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Fluorescent Orange:
+      hex: '#FF7323'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Ender PLA Grey:
+      hex: '#7A7C7D'
+      source: 3dfilamentprofiles.com
+    Ender Value Blue:
+      hex: '#70B2F0'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+  PLA High Speed:
+    Ender Fast PLA Orange:
+      hex: '#FF8800'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-pla-rfid-3d-printing-filament-1kg
+    Yellow:
+      hex: '#C2E708'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-pla-rfid-3d-printing-filament-1kg
+    High Speed - Burnt Orange:
+      hex: '#BC5E39'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-pla-rfid-3d-printing-filament-1kg
+    Hyper Grey:
+      hex: '#7A7C7D'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#7269F7'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-pla-rfid-3d-printing-filament-1kg
+    Hyper PLA SKIN:
+      hex: '#D8C7B6'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-fast-1-75mm-pla-3d-printing-filament
+    Hyper PLA Violet Tulip:
+      hex: '#7269F7'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-fast-1-75mm-pla-3d-printing-filament
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.creality3dofficial.com/products/hyper-high-speed-filament-bundles
+    Hyper Blue:
+      hex: '#006FD6'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/uk/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+    Hyper Brown:
+      hex: '#7A4A00'
+      source: 3dfilamentprofiles.com
+    Hyper Orange:
+      hex: '#FB7B04'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-fast-1-75mm-pla-3d-printing-filament
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-fast-1-75mm-pla-3d-printing-filament
+    HP-Yellow:
+      hex: '#F3E220'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-pla-rfid-3d-printing-filament-1kg
+    Hyper Skin:
+      hex: '#FFE7C0'
+      source: 3dfilamentprofiles.com
+    Ender Fast PLA PINK:
+      hex: '#FF80C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.aliexpress.com/item/1005004516666847.html
+    Red:
+      hex: '#DB0A0A'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-pla-rfid-3d-printing-filament-1kg
+    Hyper Green:
+      hex: '#76B16D'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/uk/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+    Rainbow - Wild Blossom L:
+      hex: '#F9B7FF,#A6B08D,#A7A0A0'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/uk/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+    Hyper Marble:
+      hex: '#DBE2E9'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-fast-1-75mm-pla-3d-printing-filament
+    Rot:
+      hex: '#E71D1D'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-pla-rfid-3d-printing-filament-1kg
+    Orange:
+      hex: '#FFB65A'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/uk/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+    Gelb:
+      hex: '#FBF428'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/uk/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+    Grün:
+      hex: '#098D07'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/uk/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+    Weiß:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-pla-rfid-3d-printing-filament-1kg
+    Hyper White:
+      hex: '#F8FCFB'
+      source: 3dfilamentprofiles.com
+      link: https://www.creality3dofficial.com/products/hyper-high-speed-filament-bundles
+    light blue green:
+      hex: '#B3FFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-pla-rfid-3d-printing-filament-1kg
+    Hyper Purple:
+      hex: '#C5338B'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/uk/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+    Peach Fuzz:
+      hex: '#FFE5B4'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-pla-rfid-3d-printing-filament-1kg
+    Rainbow:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-pla-rfid-3d-printing-filament-1kg
+    Blau:
+      hex: '#063AB1'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/uk/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+    Ender Fast PLA Silver:
+      hex: '#898E92'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-fast-1-75mm-pla-3d-printing-filament
+    Ender Fast PLA Purple:
+      hex: '#BB00FF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/ender-fast-1-75mm-pla-3d-printing-filament
+    Or:
+      hex: '#FFC21A'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/uk/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+    Hyper Stardust Gray:
+      hex: '#A0A2AC'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/de/products/hyper-pla-rfid-stardust
+    Ender Fast PLA:
+      hex: '#6FFBF8'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/ender-fast-1-75mm-pla-3d-printing-filament
+    Hyper Luminous Yellow:
+      hex: '#EFEC8A'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/de/products/hyper-pla-luminous-pla-filament-1-75-mm-1-kg
+    Hyper Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-fast-1-75mm-pla-3d-printing-filament
+    Hyper Stardust Pink:
+      hex: '#DA8879'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/de/products/hyper-pla-rfid-stardust
+    Hyper Light Blue Green:
+      hex: '#7CE0D3'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-fast-1-75mm-pla-3d-printing-filament
+    Ultramarine Green:
+      hex: '#23AF9A'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-pla-rfid-3d-printing-filament-1kg
+    Blanc:
+      hex: '#DEE4E3'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Hyper Gold:
+      hex: '#BD9400'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-fast-1-75mm-pla-3d-printing-filament
+    Hyper PLA Gold:
+      hex: '#B28B33'
+      source: 3dfilamentprofiles.com
+    Hyper Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Hyper Very Peri:
+      hex: '#6667AB'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/uk/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+    Ender Fast PLA Blue:
+      hex: '#1D00F5'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/ender-fast-1-75mm-pla-3d-printing-filament
+    Ender Fast PLA Fire Red:
+      hex: '#7A1D26'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/uk/products/ender-fast-pla-1-75mm-3d-printing-filament-1kg
+    Ender Fast PLA Light Blue:
+      hex: '#6EA2F7'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/ender-fast-1-75mm-pla-3d-printing-filament
+    Ender Fast Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/ender-fast-1-75mm-pla-3d-printing-filament?variant=2b1b34f1-87bf-41b3-a040-83e0323e64b3
+    Hyper Viva Magenta:
+      hex: '#D7006B'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/uk/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+    Hyper  Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/uk/products/hyper-1-75mm-pla-3d-printing-filament-1kg
+    Hyper Luminous Green:
+      hex: '#76B16D'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/de/products/hyper-pla-luminous-pla-filament-1-75-mm-1-kg
+    Hyper Luminous Pink:
+      hex: '#E38090'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/de/products/hyper-pla-luminous-pla-filament-1-75-mm-1-kg
+    Hyper Luminous Blue:
+      hex: '#84BBDE'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/de/products/hyper-pla-luminous-pla-filament-1-75-mm-1-kg
+    Hyper Stardust Blue:
+      hex: '#283883'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/de/products/hyper-pla-rfid-stardust
+    Hyper Stardust Purple:
+      hex: '#613E5F'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/de/products/hyper-pla-rfid-stardust
+    Hyper Stardust Coffee:
+      hex: '#A1877F'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/de/products/hyper-pla-rfid-stardust
+    Hyper Stardust Yellow:
+      hex: '#F5E1A4'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/de/products/hyper-pla-rfid-stardust
+    Hyper Stardust Orange:
+      hex: '#EA733D'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/de/products/hyper-pla-rfid-stardust
+    Hyper Stardust Brown:
+      hex: '#A9533F'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/de/products/hyper-pla-rfid-stardust
+    Hyper Stardust Green:
+      hex: '#2F6F7A'
+      source: 3dfilamentprofiles.com
+    Ender Fast White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/ender-fast-1-75mm-pla-3d-printing-filament?variant=e337cc43-d2fd-4a2c-b1d5-49414efa2b36
+  PLA+/Pro High Speed:
+    Green Apple:
+      hex: '#7DBE46'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    green:
+      hex: '#C2FF9C'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Blue:
+      hex: '#1099E8'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+  PA6 CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PA612 CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA High Speed CF:
+    Hyper Ochre:
+      hex: '#CCB43E'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-pla-cf
+    Hyper Purple:
+      hex: '#400052'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-pla-cf
+    Hyper Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/uk/collections/materials/products/hyper-pla-cf-carbon-fiber-1-75mm-3d-printing-filament-1kg
+    Hyper Greyish Yellow:
+      hex: '#807333'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-pla-cf
+    Hyper Dark Green:
+      hex: '#002E29'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-pla-cf
+  ASA High Speed:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/creality-hp-asa-3d-printing-filament
+  PETG Blend:
+    CR-Green:
+      hex: '#00B55A'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    CR-Magenta:
+      hex: '#FF00FF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    CR-Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    CR-Army Green:
+      hex: '#005900'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Technology Blue:
+      hex: '#09A4E5'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    CR-Purple:
+      hex: '#B705DC'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    CR-Grey:
+      hex: '#B5B5B5'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    CR-Brown:
+      hex: '#7A4805'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    CR-Orange:
+      hex: '#FF8000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    CR-Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    CR-Beige:
+      hex: '#FEDA9C'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    CR-White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    CR-Pink:
+      hex: '#FFA6D2'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+  PLA+/Pro Pro:
+    Ender PLA+ Blue:
+      hex: '#009DFF'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Ender PLA+ Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#C32D30'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FFA200'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/uk/products/ender-1-75mm-pla-3d-printing-filament-1kg-0p4z
+  PLA Rainbow:
+    Rainbow:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-rainbow-pla-3d-printing-filament-1kg
+    Wild Blossom-Short:
+      hex: '#5D90B9,#7BC29A,#DB8991'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-rainbow-pla-3d-printing-filament-1kg
+    Wild Blossom-Long:
+      hex: '#5D90B9,#7BC29A,#DB8991'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-rainbow-pla-3d-printing-filament-1kg
+    Spring Lake:
+      hex: '#88ABC2,#A9D4D1,#EAADB7'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-rainbow-pla-3d-printing-filament-1kg
+  PLA+/Pro Tough:
+    Deep Pink:
+      hex: '#C94C9E'
+      source: 3dfilamentprofiles.com
+    Violet:
+      hex: '#9E7AE9'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    CR-Gray:
+      hex: '#878787'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/cr-pla-matte-1-75mm-pla-3d-printing-filament-1kg?variant=3f7d46ad-7c4d-4d94-a96a-97ad305e56d2
+    Avocado Green:
+      hex: '#77BB41'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Navy Blue:
+      hex: '#404D65'
+      source: 3dfilamentprofiles.com
+      link: https://www.canadacomputers.com/en/filaments/230623/creality-cr-pla-matte-filament-for-fdm-3d-printer-1-0kg-1-75mm-navy-blue-cr-pla-matte-nb.html
+    Strawberry Red:
+      hex: '#C53A30'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Ivory White:
+      hex: '#FAFAFA'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Gypsum White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Black:
+      hex: '#322F2D'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    CR-ABS Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.crealitycloud.com/product/filament-resin/CR-ABS-filament-62f0e0dca99b803c8f43ad72
+    CR ABS White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.crealitycloud.com/product/filament-resin/CR-ABS-filament-62f0e0dca99b803c8f43ad72
+    CR ABS Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.crealitycloud.com/product/filament-resin/CR-ABS-filament-62f0e0dca99b803c8f43ad72
+    Hyper ABS:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://allegro.pl/oferta/creality-hyper-filament-abs-do-drukarki-3d-czarny-oryginalny-1-75mm-1kg-15910251770
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.crealitycloud.com/product/filament-resin/CR-ABS-filament-62f0e0dca99b803c8f43ad72
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#A0CFEF'
+      source: 3dfilamentprofiles.com
+      link: https://www.crealitycloud.com/product/filament-resin/CR-ABS-filament-62f0e0dca99b803c8f43ad72
+    Gray:
+      hex: '#8493A5'
+      source: 3dfilamentprofiles.com
+      link: https://www.crealitycloud.com/product/filament-resin/CR-ABS-filament-62f0e0dca99b803c8f43ad72
+    Yellow:
+      hex: '#DAC00A'
+      source: 3dfilamentprofiles.com
+      link: https://www.crealitycloud.com/product/filament-resin/CR-ABS-filament-62f0e0dca99b803c8f43ad72
+    Red:
+      hex: '#FF2600'
+      source: 3dfilamentprofiles.com
+      link: https://www.crealitycloud.com/product/filament-resin/CR-ABS-filament-62f0e0dca99b803c8f43ad72
+    CR-ABS Gray:
+      hex: '#445463'
+      source: 3dfilamentprofiles.com
+      link: https://allegro.pl/oferta/oryginalny-filament-creality-cr-abs-szary-gray-1kg-1-75mm-13271324872
+    CR-ABS Blue:
+      hex: '#2D4E77'
+      source: 3dfilamentprofiles.com
+      link: https://archiwum.allegro.pl/oferta/oryginalny-filament-creality-cr-abs-niebieski-blue-1kg-1-75mm-i15085703417.html
+  PLA Glow:
+    Pink to White:
+      hex: '#FFB0D3'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    'magenta ':
+      hex: '#E06EF7'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    CR-Black (0/0/0):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Blue:
+      hex: '#1218D9'
+      source: 3dfilamentprofiles.com
+    Army Green:
+      hex: '#08180C'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    CR-White (255/255/255):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Purple:
+      hex: '#A269F7'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Cr-PETG Transparent Blue:
+      hex: '#0B50DA'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    CR-PETG Transparent:
+      hex: '#BEC4C2'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/cr-petg-1-75mm-3d-printing-filament-1kg
+    Brown:
+      hex: '#483014'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Technology Blue:
+      hex: '#288BD2'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Pink:
+      hex: '#C77AD1'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    A-I Green:
+      hex: '#49D66E'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/eu/products/cr-petg-3d-printing-filament-1kg
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    CR-Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Digital Blue:
+      hex: '#01C7FC'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Gray (225/225/225):
+      hex: '#E1E1E1'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Yellow (255,255,0):
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Red:
+      hex: '#BB1F11'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Orange (225/96/9):
+      hex: '#E16009'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Green:
+      hex: '#59EE63'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Beige:
+      hex: '#F5F5DC'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    CR-Red:
+      hex: '#E20303'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+  PLA Silk:
+    Golden Silver:
+      hex: '#F7F976,#E6E6E6'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/cr-silk-1-75mm-pla-3d-printing-filament-1kg
+    Golden-Red:
+      hex: '#BA251C'
+      source: 3dfilamentprofiles.com
+    cr-pink/purple:
+      hex: '#D96EF7'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/cr-silk-1-75mm-pla-3d-printing-filament-1kg
+    Shiny Blue:
+      hex: '#2B30DA'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/cr-silk-1-75mm-pla-3d-printing-filament-1kg
+    Purple:
+      hex: '#9635C4'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/cr-silk-1-75mm-pla-3d-printing-filament-1kg
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/cr-silk-1-75mm-pla-3d-printing-filament-1kg
+    Red Copper:
+      hex: '#F26536'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/cr-silk-1-75mm-pla-3d-printing-filament-1kg
+    Silver:
+      hex: '#C1BEBE'
+      source: 3dfilamentprofiles.com
+    GOLD:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/cr-silk-1-75mm-pla-3d-printing-filament-1kg
+    Yellow-blue:
+      hex: '#F2F207,#193BE6'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/cr-silk-1-75mm-pla-3d-printing-filament-1kg
+    Rainbow:
+      hex: '#5DA6EE,#ECB336,#51EC94,#9B7DD4'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/cr-silk-1-75mm-pla-3d-printing-filament-1kg
+  PETG Translucent:
+    Transparent Green:
+      hex: '#4AAE7C'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Transparent Light Blue:
+      hex: '#D2E8F5'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Translucent Purple:
+      hex: '#D26FC1'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Burgundy:
+      hex: '#62171B'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Cyan:
+      hex: '#85FFC5'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Transparent.:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Light Purple:
+      hex: '#D357FE'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Transparent Blue:
+      hex: '#06038D'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/cr-petg-1-75mm-3d-printing-filament-1kg
+    light pink:
+      hex: '#FFB6C1'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Green:
+      hex: '#007436'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Gradient Blue Green:
+      hex: '#6BFBFE,#89FDBA'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Transparent:
+      hex: '#BEC4C2'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+  PETG ReFill:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#818C98'
+      source: 3dfilamentprofiles.com
+    Transparent:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF6A13'
+      source: 3dfilamentprofiles.com
+  PETG High Speed:
+    Blue:
+      hex: '#063AB1'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Red:
+      hex: '#E20303'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Hyper White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Hyper Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Hyper Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Transparent:
+      hex: '#DCDBDB'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Hyper Red:
+      hex: '#E71D1D'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Grau:
+      hex: '#979FA5'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Hyper PETG Blue:
+      hex: '#1F00B8'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Hyper Green:
+      hex: '#098D07'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Hyper Grey:
+      hex: '#888888'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Hyper Yellow:
+      hex: '#EEE617'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Yellow:
+      hex: '#FBF428'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+    Hyper Blue:
+      hex: '#2010E4'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-petg-3d-printing-filament-1kg
+  PLA:
+    Rose Gold:
+      hex: '#FFB9D7'
+      source: 3dfilamentprofiles.com
+      link: https://www.jaycar.com.au/creality-ender-pla-1-75mm-grey-pla-prototyping-filament-1kg-roll/p/TL4803
+    White Pine:
+      hex: '#A47C5B'
+      source: 3dfilamentprofiles.com
+      link: https://www.jaycar.com.au/creality-ender-pla-1-75mm-grey-pla-prototyping-filament-1kg-roll/p/TL4803
+    Brown:
+      hex: '#D15E47'
+      source: 3dfilamentprofiles.com
+      link: https://www.jaycar.com.au/creality-ender-pla-1-75mm-grey-pla-prototyping-filament-1kg-roll/p/TL4803
+    HP Ultra Green:
+      hex: '#7CF472'
+      source: 3dfilamentprofiles.com
+      link: https://www.crealitycloud.com/product/filament-resin/HP-Ultra-PLA-filament-62f0e64478c9f43d9094c305
+    Wight:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.jaycar.com.au/creality-ender-pla-1-75mm-grey-pla-prototyping-filament-1kg-roll/p/TL4803
+  PLA LW:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/hyper-lightweight-pla
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/ca/products/hyper-lightweight-pla
+  PLA Fluorescent:
+    Orange:
+      hex: '#FF5C00'
+      source: 3dfilamentprofiles.com
+    Fluorescent Green:
+      hex: '#00F204'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#00B447'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Snapdragon Yellow:
+      hex: '#FEDC62'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    JADE GREEN:
+      hex: '#33C48F'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-series-pla-3d-printing-filament-1kg
+    Grey:
+      hex: '#858585'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0086E6'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#C32D30'
+      source: 3dfilamentprofiles.com
+  ABS High Speed:
+    Hyper Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+    Hyper Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    white:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Hyper ABS:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Hyper White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Hyper Pink:
+      hex: '#F393C4'
+      source: 3dfilamentprofiles.com
+    Hyper ABS Grey:
+      hex: '#A2A9AE'
+      source: 3dfilamentprofiles.com
+  PLA Ultra:
+    Rosehip:
+      hex: '#DD7A08'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/soleyin-ultra-pla-3d-printing-filament-1kg
+  TPU Basic:
+    Green:
+      hex: '#76B16D'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PETG CF:
+    Hyper Rocks Red Milk:
+      hex: '#653024'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-petg-cf-3d-printing-filament-1kg
+    Hyper Phanton Purple:
+      hex: '#403845'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-petg-cf-3d-printing-filament-1kg
+    Hyper Timber Green:
+      hex: '#32464D'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-petg-cf-3d-printing-filament-1kg
+    Hyper Night Gray:
+      hex: '#3D3935'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-petg-cf-3d-printing-filament-1kg
+    Hyper Brown Caramel:
+      hex: '#774212'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-petg-cf-3d-printing-filament-1kg
+    Hyper Night Gray Tea:
+      hex: '#6F5D58'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-petg-cf-3d-printing-filament-1kg
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-petg-cf-3d-printing-filament-1kg
+    Hyper Brown Dusk Blue:
+      hex: '#475D76'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-petg-cf-3d-printing-filament-1kg
+  PLA Matte Rainbow:
+    Hyper Rainbow (Wildblossom-long):
+      hex: '#FF0000,#00FF00,#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-rainbow-pla-3d-printing-filament-1kg?srsltid=AfmBOorxveP4__o87S-ABcX-dNT5KcfL-QUR6LLSnjNgKTpfcK_WGIZG
+    Hyper Spring Lake:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-rainbow-pla-3d-printing-filament-1kg
+  PLA CF:
+    Greyish Yellow:
+      hex: '#AAAA96'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/eu/products/hyper-pla-carbon-fiber-filament
+    Ochre:
+      hex: '#842B00'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/hyper-pla-cf
+    Purple:
+      hex: '#A020F0'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/eu/products/hyper-pla-carbon-fiber-filament
+    CR-PLA Carbon:
+      hex: '#212121'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/products/cr-pla-carbon-3d-printing-filament-1kg
+  PLA Silk Dual:
+    Blue-Green:
+      hex: '#0011FF,#80FF80'
+      source: 3dfilamentprofiles.com
+    Gold/Silver:
+      hex: '#FBF6A2,#AAAAAA'
+      source: 3dfilamentprofiles.com
+    Gold-Red:
+      hex: '#F0C674,#F64442'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    White Pine:
+      hex: '#D2B48C'
+      source: 3dfilamentprofiles.com
+  PA (Nylon) Basic:
+    Natural:
+      hex: '#E5D3BF'
+      source: 3dfilamentprofiles.com
+  PLA Rapid:
+    Grey:
+      hex: '#394757'
+      source: 3dfilamentprofiles.com
+  PPA CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.creality.com/eu/products/ppa-cf-carbon-fiber-3d-printing-filament

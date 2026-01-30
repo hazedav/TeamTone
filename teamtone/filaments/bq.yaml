@@ -1,0 +1,34 @@
+BQ:
+  PLA Basic:
+    Aubergine:
+      hex: '#350834'
+      source: 3dfilamentprofiles.com
+      link: https://bqeducacion.cc/tienda/impresion-3d/pla-filtory/
+    Grass Green:
+      hex: '#558A52'
+      source: 3dfilamentprofiles.com
+      link: https://bqeducacion.cc/tienda/impresion-3d/pla-filtory/
+    Grey:
+      hex: '#4A4D4F'
+      source: 3dfilamentprofiles.com
+      link: https://bqeducacion.cc/tienda/impresion-3d/pla-filtory/
+    Red:
+      hex: '#BA1223'
+      source: 3dfilamentprofiles.com
+      link: https://bqeducacion.cc/tienda/impresion-3d/pla-filtory/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://bqeducacion.cc/tienda/impresion-3d/pla-filtory/
+    Torquoise:
+      hex: '#6EF4F7'
+      source: 3dfilamentprofiles.com
+      link: https://bqeducacion.cc/tienda/impresion-3d/pla-filtory/
+  PLA Translucent:
+    Transparent:
+      hex: '#CFD9E3'
+      source: 3dfilamentprofiles.com
+  PLA HF:
+    Inflatable Sponge:
+      hex: '#FF6A00'
+      source: 3dfilamentprofiles.com

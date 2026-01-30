@@ -1,0 +1,24 @@
+Shengtian:
+  PLA Silk:
+    Silver:
+      hex: '#BABABA'
+      source: 3dfilamentprofiles.com
+    Shiny Bronze:
+      hex: '#B9D0AA'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#776E03'
+      source: 3dfilamentprofiles.com
+    Copper:
+      hex: '#B87333'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#4D1595'
+      source: 3dfilamentprofiles.com
+  PLA Magic:
+    Gold SIlver Copper:
+      hex: '#C6602A'
+      source: 3dfilamentprofiles.com

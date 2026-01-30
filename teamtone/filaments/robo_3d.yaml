@@ -1,0 +1,10 @@
+Robo 3D:
+  PLA Basic:
+    Pink:
+      hex: '#E392FE'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Wood:
+      hex: '#EDD8B6'
+      source: 3dfilamentprofiles.com
+      link: https://robo3d.com/collections/filaments/products/pla-wood-500g

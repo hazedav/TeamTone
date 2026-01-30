@@ -1,0 +1,102 @@
+FilaCube:
+  PLA Basic:
+    Red:
+      hex: '#CD2723'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#8F8F8F'
+      source: 3dfilamentprofiles.com
+    Mint Blue:
+      hex: '#83DCE5'
+      source: 3dfilamentprofiles.com
+      link: https://www.filacube.com/products/1-75mm-1kg-mint-blue-filacube-3d-printer-pla-2-filament
+    John Deere Green:
+      hex: '#367C2B'
+      source: 3dfilamentprofiles.com
+    Skin/Flesh:
+      hex: '#B99173'
+      source: 3dfilamentprofiles.com
+    John Deere Yellow:
+      hex: '#FFDE00'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#F54E29'
+      source: 3dfilamentprofiles.com
+    Leather Brown:
+      hex: '#DE8746'
+      source: 3dfilamentprofiles.com
+      link: https://www.filacube.com/collections/1-75mm-1kg-filacube-3d-printer-pla-2-filament-18-colors/products/leather-brown-1-75mm-1kg-filacube-3d-printer-pla-2-filament-red-brown
+    Living Coral:
+      hex: '#F76C5F'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#EEE138'
+      source: 3dfilamentprofiles.com
+    Ivory White:
+      hex: '#DADFD8'
+      source: 3dfilamentprofiles.com
+    Saphire Blue:
+      hex: '#2D96E1'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.filacube.com/collections/1-75mm-1kg-filacube-3d-printer-pla-2-filament-18-colors/products/1-75mm-1kg-black-filacube-3d-printer-pla-2-filament
+    Hot Pink:
+      hex: '#FF8B92'
+      source: 3dfilamentprofiles.com
+    Grayish Brown:
+      hex: '#D2AB92'
+      source: 3dfilamentprofiles.com
+    Process Cyan:
+      hex: '#00D4EE'
+      source: 3dfilamentprofiles.com
+    Mint Green:
+      hex: '#00DEAD'
+      source: 3dfilamentprofiles.com
+    Olive Green:
+      hex: '#606349'
+      source: 3dfilamentprofiles.com
+    Iced Coffee:
+      hex: '#BCA18A'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#504944'
+      source: 3dfilamentprofiles.com
+    Engineering Gray:
+      hex: '#B0AFB4'
+      source: 3dfilamentprofiles.com
+    Classic Blue:
+      hex: '#487ECD'
+      source: 3dfilamentprofiles.com
+    Ultra Violet:
+      hex: '#8071AA'
+      source: 3dfilamentprofiles.com
+    Burnt Orange:
+      hex: '#C55C14'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#B17FC6'
+      source: 3dfilamentprofiles.com
+      link: https://www.filacube.com/products/1-75mm-1kg-purple-filacube-3d-printer-pla-2-filament
+    Maroon:
+      hex: '#41072A'
+      source: 3dfilamentprofiles.com
+      link: https://www.filacube.com/collections/1-75mm-filacube-pla-2-3d-printer-filaments/products/1-75mm-1kg-maroon-filacube-3d-printer-pla-2-filament-pms-7421c-7421-c-aggiemaroon-aggie-tamu-a-m-texas-a-m
+    Greenery:
+      hex: '#BACF6E'
+      source: 3dfilamentprofiles.com
+      link: https://www.filacube.com/collections/1-75mm-1kg-filacube-3d-printer-pla-2-filament-18-colors/products/1-75mm-1kg-greenery-color-of-the-year-2017-filacube-3d-printer-pla-2-filament
+  PLA+/Pro HT:
+    Engineering Gray:
+      hex: '#B0AFB4'
+      source: 3dfilamentprofiles.com
+  PLA 2.0:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.filacube.com/products/1-75mm-1kg-black-filacube-3d-printer-pla-2-filament
+    Burnt Orange:
+      hex: '#CB6015'
+      source: 3dfilamentprofiles.com
+      link: https://www.filacube.com/products/1-75mm-1kg-black-filacube-3d-printer-pla-2-filament

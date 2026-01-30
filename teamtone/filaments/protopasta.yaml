@@ -1,0 +1,850 @@
+Protopasta:
+  PLA Metal:
+    Gold Stainless Steel:
+      hex: '#6F5F4E'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/metal-filled
+    Blue Stainless Steel:
+      hex: '#123655'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/metal-filled
+    Burgundy Stainless Steel:
+      hex: '#572F33'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/metal-filled
+    Iron-filled Metal Composite PLA:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/all/products/magnetic-iron-pla
+    Composite Steel:
+      hex: '#696969'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/all/products/stainless-steel-pla
+    Composite Iron:
+      hex: '#363C3F'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/metal-filled
+    Brass Composite HTPLA:
+      hex: '#DBAE4D'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/brass-metal-composite-htpla
+    Stainless Steel:
+      hex: '#494949'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/metal-filled
+    Bronze Composite HTPLA:
+      hex: '#352617'
+      source: 3dfilamentprofiles.com
+    Copper-filled Metal Composite PLA:
+      hex: '#B8705D'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/all/products/copper-metal-composite-htpla
+  PLA HT:
+    Primrose Translucent Purple:
+      hex: '#DA94FF'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Summertime Green:
+      hex: '#5BD376'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Forget-Me-Not Translucent Blue:
+      hex: '#73C0F7'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    'Amethyst Aria ':
+      hex: '#E63D3D,#F769CA'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/amethyst-aria-multicolor-htpla?variant=43731503415544
+    Northern Lights Dark Pearl Blue:
+      hex: '#070A69'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Fleck 'n Forest Green:
+      hex: '#217A2D'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/all/products/fleck-n-forest-green-glitter-htpla
+    Totally Translucent Yellow:
+      hex: '#E6E600'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/totally-translucent-yellow-htpla
+    Juliette's Raspberry Jam:
+      hex: '#EC4F6F'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Nebula Cotton Candy Pastel:
+      hex: '#A8C6FE,#F1C9FE,#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/nebula-cotton-candy-pastel-multicolor-htpla?variant=43351598825720
+    Holiday Pine 2023:
+      hex: '#7A100A'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/aromatic-pine-htpla-2017-special-edition
+    Cupid's Crush Metallic Pink:
+      hex: '#FE7CA6'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    What Karat? Smooth Gold:
+      hex: '#FFA526'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Soda Green Transparent:
+      hex: '#069859'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/soda-green-translucent-htpla
+    Cloverleaf Metallic Green:
+      hex: '#245A40'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/cloverleaf-metallic-green-htpla
+    Atomic Age Glitter:
+      hex: '#A7A7A7,#EBF09A'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/atomic-age-gray-htpla
+    Derek's Olive Drab:
+      hex: '#615B3A'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/dereks-olive-drab-htpla
+    Stef's Rose Gold:
+      hex: '#FFC5A2'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/stefs-rose-gold
+    Watermelon Crush Red:
+      hex: '#FF8F96'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/watermelon-crush-red-htpla
+    International Orange:
+      hex: '#FF4F00'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/international-orange-opaque-htpla?variant=46568528314616
+    Black to the Fuchsia:
+      hex: '#DB006D,#800040,#460023'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/black-to-the-fuchsia-htpla
+    Black Carbon Fiber Composite:
+      hex: '#171717'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/carbon-fiber/products/high-temp-carbon-fiber-pla-composite
+    Stone Gray Marble:
+      hex: '#616D7B'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/stone-gray-marble-htpla?variant=46400216662264
+    Stardust Silver:
+      hex: '#AAB1AF'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/glitter-flake-htpla-stardust
+    Fleck 'n Fire Red Glitter:
+      hex: '#9B2427'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/fleckn-fire-red-glitter-htpla
+    Double Espresso Metallic Brown:
+      hex: '#442619'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/double-espresso-metallic-brown-htpla?variant=13698934931501
+    Amber Alchemy Translucent Sparkle:
+      hex: '#D58400'
+      source: 3dfilamentprofiles.com
+    Tidal Turquoise:
+      hex: '#004D65,#00A3D7'
+      source: 3dfilamentprofiles.com
+    Texas Tea Black with Gold Glitter:
+      hex: '#0D0D00'
+      source: 3dfilamentprofiles.com
+    Fading Rainbow:
+      hex: '#DCA7D1,#9DD4FB,#EAAE99'
+      source: 3dfilamentprofiles.com
+    Kermic Green:
+      hex: '#8CFF00'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Aqua Ice:
+      hex: '#01FED8'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/aqua-ice-translucent-htpla?variant=46246335086840
+    Mermaid's Tale Metallic Teal:
+      hex: '#016779'
+      source: 3dfilamentprofiles.com
+    Armored Unicorn:
+      hex: '#E19C70'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Metallic Obsidian:
+      hex: '#333333'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Turkish Poppy Translucent Orange:
+      hex: '#F4A862'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Frosty Morning Light Pearl Blue:
+      hex: '#52A399'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Chocolate Eruption Brown:
+      hex: '#4F2700'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Unicorn Tail Teal - Sparkle:
+      hex: '#5691A5'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Copper:
+      hex: '#4F3612'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Scarlet Symphony:
+      hex: '#FF1F6D,#F76969'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/scarlet-symphony-htpla?variant=43731183665400
+    Ecto Ooze Green:
+      hex: '#77FF3D'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/ecto-ooze-green-htpla?variant=44536657772792
+    Citrus Sunrise Orange:
+      hex: '#FF6A00,#FFAB01'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/citrus-sunrise-orange-multicolor-htpla?variant=44240721871096
+    Joel's Highfive Blue:
+      hex: '#027CC7'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/all/products/metallic-htpla-v3-highfive-blue
+    Red Opaque:
+      hex: '#BC1327'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-red
+    Silver Smoke Grey Translucent:
+      hex: '#A5ACAA'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/all/products/high-performance-htpla-silver-smoke
+    Fluorescent Yellow:
+      hex: '#D4DC3C'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Wonder Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Electric Lemonade Metallic:
+      hex: '#F7F700'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/steves-electric-lemonade-metallic-yellow-htpla
+    Beach Bum Beige:
+      hex: '#E4D1B3'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Tom's Tangerine Orange Metallic Gold:
+      hex: '#E24F28'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/tangerine-orange-metallic-gold-htpla
+    Arctic Blizzard Pearl White:
+      hex: '#FDFBFB'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Glitter's Mane Teal:
+      hex: '#00B6D4'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Bobbi's Purple Iris:
+      hex: '#854F8F'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Matte Fiber Olive:
+      hex: '#656046'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Brick Red cMatte:
+      hex: '#5F2318'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/brick-red-c-matte-pla?variant=46519255040248
+    Matte Fiber Red:
+      hex: '#E71818'
+      source: 3dfilamentprofiles.com
+    Matte Fiber Gray:
+      hex: '#7A848A'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Matte Fiber Honey:
+      hex: '#E7A376'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Matte Fiber Chestnut:
+      hex: '#866E66'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Matte Fiber Mahogany:
+      hex: '#663B35'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Smooth Bronze:
+      hex: '#927448'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Gradient Gray:
+      hex: '#BDC0C9,#353B45'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Glitter 'n Gourd:
+      hex: '#B98D2A'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Good as Gold:
+      hex: '#9A774C'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/good-as-gold-htpla
+    Tears of My Enemies:
+      hex: '#33C7A9'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Spittin' Seeds Gray - Translucent:
+      hex: '#A5ADA7'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Grape Candy:
+      hex: '#514377'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Cherry Pie:
+      hex: '#A80000'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Fantasy Island Blue:
+      hex: '#51769E'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Super Green Smoothie:
+      hex: '#009100'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/super-green-smoothie-htpla?variant=46400212599032
+    Gold Dust Glitter:
+      hex: '#BFAE6E'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/gold-dust-glitter-flake-htpla
+    Nerfed Translucent Orange:
+      hex: '#FF9300'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/nerfed-translucent-orange-htpla
+    Tropical Palm Green:
+      hex: '#187644'
+      source: 3dfilamentprofiles.com
+    Nebula Multicolor:
+      hex: '#A0B8D8,#B84986,#8D7BBE'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/nebula-multicolor-htpla
+    Highfive Metallic Blue:
+      hex: '#0694F9'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Iridescent Ice Clear Translucent:
+      hex: '#F7F7F7'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/high-temp-pla-v2-0
+    Soda Green Translucent:
+      hex: '#007E43'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/soda-green-translucent-htpla
+    Atikam Teal:
+      hex: '#12585A'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/on-sale/products/atikam-teal-htpla
+    Sophy's Aqua Phresh:
+      hex: '#97D9CC'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/on-sale/products/sophys-aquaphresh-htpla
+    Seafoam Green:
+      hex: '#00C6A7'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/on-sale/products/seafoam-green-multicolor-htpla
+    Moonstruck White Satin:
+      hex: '#DCE4DF'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/on-sale/products/moonstruck-white-satin-htpla
+    Partly Cloudy Blue:
+      hex: '#006CF0,#28AEFF,#65DCFE'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/all/products/partly-cloudy-blue-multicolor-htpla
+    Heartthrob Metallic Red HTPLA:
+      hex: '#8B1319'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/heartthrob-red-htpla?variant=40315236155553
+    Chlorophylled Thermochromic:
+      hex: '#0B1917'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/on-sale/products/chlorophylled-thermochromic-htpla
+    Black Opaque:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Cobalt Blue Translucent:
+      hex: '#003E9A'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/all/products/cobalt-blue-translucent-htpla
+    Luke's Proton Purple:
+      hex: '#CE63F3'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/all/products/lukes-proton-purple-htpla
+    Bottle Brown Translucent:
+      hex: '#6F4223'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/all/products/bottle-brown-translucent-htpla
+    Caution Opaque Yellow:
+      hex: '#EEB300'
+      source: 3dfilamentprofiles.com
+    Blueberry Smoothie:
+      hex: '#0173BF'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/blueberry-smoothie-htpla?variant=46400187171064
+    Purple Ice:
+      hex: '#B184FD'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/purple-ice-translucent-htpla
+    Blue Ice:
+      hex: '#0186B3'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/blue-ice-translucent-htpla?variant=46246310510840
+    Carbon Fiber - Dark Grey:
+      hex: '#5E6466'
+      source: 3dfilamentprofiles.com
+    Empire Strikes Metallic Black:
+      hex: '#040007'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/empire-strikes-metallic-black-htpla?variant=44125142679800
+    Cobalt Blue Transparent:
+      hex: '#0154B1'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/cobalt-blue-translucent-htpla
+    Nice 'n Navy Blue:
+      hex: '#161A2B'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/nice-n-navy-htpla
+    Pretty in Pink Pearl:
+      hex: '#E99EAE'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/pretty-in-pink-pearl-htpla
+    Nebula Night Glow Fluorescent:
+      hex: '#74A7FE'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/all/products/nebula-night-glow-fluorescent-multicolor-htpla
+    Dragon Scale Purple:
+      hex: '#8A80AD'
+      source: 3dfilamentprofiles.com
+    Terracotta cMatte:
+      hex: '#C2653A'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/terracotta-c-matte-pla?variant=46515681427704
+    Candle Light White:
+      hex: '#F1E1C7'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/candle-light-white-with-gold-glitter
+    White Marble HTPLA:
+      hex: '#ECE8E7,#CBC4C1'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/all/products/white-marble-htpla
+    Second to None Silver:
+      hex: '#B4B6B7'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/second-to-none-silver-htpla
+    Gold Dust Translucent:
+      hex: '#BFAE6E'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/gold-dust-glitter-flake-htpla
+    Lootsef Green:
+      hex: '#61993B'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/lootsef-green-htpla?variant=42516958281976
+    Night Before Blue (silver glitter):
+      hex: '#002E7A'
+      source: 3dfilamentprofiles.com
+    Kermie Green:
+      hex: '#BFD553,#80BB5F'
+      source: 3dfilamentprofiles.com
+    Stratocumulus Multicolor:
+      hex: '#7BDAD2'
+      source: 3dfilamentprofiles.com
+    Lapis Lazuli:
+      hex: '#00364A'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/lapis-lazuli-glitter-htpla?variant=46577867391224
+    Gloop! Purple:
+      hex: '#9E32B3'
+      source: 3dfilamentprofiles.com
+    Candy Apple Metallic Red:
+      hex: '#A32424'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/glitter-flake-htpla-v2-candy-apple-red
+    Sun Gold:
+      hex: '#FEC700'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Blood of My Enemies - Translucent:
+      hex: '#7A1A23'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/amies-blood-of-my-enemies-htpla
+    Dragonfruit Smoothie:
+      hex: '#DF122F'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/dragonfruit-smoothie-htpla
+    Partly Sunny Yellow:
+      hex: '#FFFB94,#FFFEE0,#FFFF31'
+      source: 3dfilamentprofiles.com
+    Stratocumulus:
+      hex: '#D6ECFC,#8ECCF9,#1CC1F9'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/stratocumulus-multicolor-htpla?variant=44240711450872
+    Obsidian:
+      hex: '#474744'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/obsidian-htpla
+    Windy Unicorn - Sparkle:
+      hex: '#027BDB'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Bluish Opaque Purple:
+      hex: '#372862'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-black
+    Granite Gray cMatte:
+      hex: '#CDCDCD'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/granite-gray-c-matte-pla?variant=46515645055224
+    Midnight Multicolor Black Grey Blue Glitter:
+      hex: '#004D65'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/midnight-multicolor-htpla
+  PLA CF:
+    Light Grey:
+      hex: '#B4C0C8'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/light-grey-carbon-fiber-composite-htpla
+  PLA Matte:
+    Fiber Walnut (LRV 6):
+      hex: '#524636'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/matte-fiber-htpla-walnut-wood
+  PLA Recycled:
+    Still Colorful 018:
+      hex: '#00806E'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/recycled
+    032 Reddish-Orange:
+      hex: '#CA3525'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/still-colorful-recycled-pla-032
+    Still Colorful - 031 Bluish Grey:
+      hex: '#D4E3FE'
+      source: 3dfilamentprofiles.com
+    Still Colorful - 033 Classic Blue:
+      hex: '#355FA9'
+      source: 3dfilamentprofiles.com
+    Still colorful 28 Burgundy:
+      hex: '#5C0700'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/all/products/still-colorful-recycled-pla-028
+    Still Colorful 023 Dark Teal:
+      hex: '#0D4A39'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/all/products/still-colorful-recycled-pla-023
+    Black Recycled:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/recycled-pla-bla?variant=41145165217953
+  PLA Glow:
+    Green Glow-in-the-Dark, Fluorescent Yellow:
+      hex: '#93B771'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/green-glow-in-the-dark-fluorescent-yellow
+    Green Glow-in-the-Dark, Natural:
+      hex: '#9D9D80'
+      source: 3dfilamentprofiles.com
+  PLA HF:
+    Seafoam Green:
+      hex: '#5FFDDA,#B1FBE9'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/seafoam-green-multicolor-htpla
+    Mango Medley:
+      hex: '#F53337,#FD871D'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Orance Metallic Gołd:
+      hex: '#FF4013'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/all/products/tangerine-orange-metallic-gold-htpla
+    Galactic Empire Metallic Purple:
+      hex: '#2C1376'
+      source: 3dfilamentprofiles.com
+    Blood of My Enemies:
+      hex: '#B51A00'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/all/products/amies-blood-of-my-enemies-translucent-red-petg
+    Metallic Blue:
+      hex: '#0056D6'
+      source: 3dfilamentprofiles.com
+  HT-PLA Glitter:
+    For the Lulz:
+      hex: '#A0A85B'
+      source: 3dfilamentprofiles.com
+    Glitter Fake Stardust:
+      hex: '#BFBDBC'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/glitter-flake-htpla-stardust?variant=27754114248
+    Gold Dust Glitter:
+      hex: '#BDA242'
+      source: 3dfilamentprofiles.com
+    Unicorn Tears White Glitter:
+      hex: '#D7EBE6'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/unicorn-tears-white-glitter-htpla?srsltid=AfmBOoq0E-Vh6xt3vgQtcc6w6dUFYCPF3wgNPeG1a22H6NdRmOOxb3I8
+    Winter Blue:
+      hex: '#0F57FF'
+      source: 3dfilamentprofiles.com
+  PLA GF:
+    Blue Glass Fiber:
+      hex: '#0210A1'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/blue-glass-fiber-htpla?variant=46707379372280
+    White Glass Fiber:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/white-glass-fiber-htpla?variant=46701562593528
+    Red Glass Fiber:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/red-glass-fiber-htpla?variant=46707366363384
+  HT-PLA Basic:
+    Sophy's Aqua Phresh:
+      hex: '#C3FFDB'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/sophys-aquaphresh-htpla
+    Chocolate Eruption Brown:
+      hex: '#4F2700'
+      source: 3dfilamentprofiles.com
+    Marine Dream Blue:
+      hex: '#21E4D6'
+      source: 3dfilamentprofiles.com
+    Gold Dust Glitter:
+      hex: '#FFCB13'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/sophys-aquaphresh-htpla
+    Atomic Age Grey Glitter:
+      hex: '#444444'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/atomic-age-gray-htpla?srsltid=AfmBOophEutumej10xSql7qQMuipR0TWu0lQAZbRN5iRFdAMJ1fpWfur
+    Lab Coat White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/sophys-aquaphresh-htpla
+    Dragon Fruit Smoothie:
+      hex: '#DF122F'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/dragonfruit-smoothie-htpla
+    Nebula Stardust:
+      hex: '#1A0A53,#371A94,#9929BD,#D357FE'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/nebula-stardust-multicolor-htpla
+  HT-PLA Matte:
+    Matte Fiber Chestnut:
+      hex: '#5A1F05'
+      source: 3dfilamentprofiles.com
+    Jurassic Jungle Green cMatte:
+      hex: '#667724'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/cmatte
+    Blue:
+      hex: '#0A3866'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#0F3F0E'
+      source: 3dfilamentprofiles.com
+    Matte Fiber Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Matte Fiber Gray:
+      hex: '#97A1A9'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/matte-fiber-htpla-gray?variant=33706480533635
+  PLA Marble:
+    Super Green Smoothie:
+      hex: '#027354'
+      source: 3dfilamentprofiles.com
+    Pineapple Banana Smoothie:
+      hex: '#FFDF6A'
+      source: 3dfilamentprofiles.com
+  PA6 CF:
+    Polyketone:
+      hex: '#0A0C0F'
+      source: 3dfilamentprofiles.com
+  PA6 GF:
+    Polyketone:
+      hex: '#E9E9DC'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/
+    Still Colorful - 013 Recycled PLA Bluish Grey:
+      hex: '#97B1C3'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/still-colorful-recycled-pla-031?variant=46112104939768
+  PLA Gradient:
+    Nebula Silver Silk Multicolor:
+      hex: '#7396F8'
+      source: 3dfilamentprofiles.com
+    Erratic Indigo Multicolor:
+      hex: '#7684B8,#4E5AA1'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/erratic-indigo-multicolor-htpla
+  PLA:
+    Autumn Orange Thermochromic:
+      hex: '#FF8647'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/autumn-orange-thermochromic-htpla
+    Sour Apple Thermochromic:
+      hex: '#92C13E,#043D40'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/sour-apple-thermochromic-htpla
+    Just Peachy Thermochromic:
+      hex: '#FF6842'
+      source: 3dfilamentprofiles.com
+    The Vine Fruit Thermochromic:
+      hex: '#5E30EB'
+      source: 3dfilamentprofiles.com
+    Chlorophylled Thermochromic:
+      hex: '#96D35F'
+      source: 3dfilamentprofiles.com
+    Composite Conductive:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Galactic Duel Thermochromic:
+      hex: '#211E23,#818583'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/galactic-duel-thermochromic-htpla
+  PETG Recycled:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/all/products/black-recycled-petg
+  PLA Sparkle:
+    What Karat:
+      hex: '#CD974C'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/what-karat-smooth-gold-htpla
+    Sparkling Spruce:
+      hex: '#2C6454'
+      source: 3dfilamentprofiles.com
+    Red Hot Cinnamon:
+      hex: '#7D5A5A'
+      source: 3dfilamentprofiles.com
+    Filafetti Confetti Frosting:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Nebula Stardust:
+      hex: '#F769EB'
+      source: 3dfilamentprofiles.com
+    Wonder Blue Rainbow Glitter:
+      hex: '#076FA1'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/wonder-blue-glitter-flake-htpla
+    Forest Fantasy Green Multicolor:
+      hex: '#017262,#61C362,#39B464'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/forest-fantasy-green-multicolor-htpla
+    Dusty Smoke:
+      hex: '#8F9492'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/dusty-smoke-htpla
+  PLA Special:
+    Galactic Empire Metallic Purple:
+      hex: '#3B3F5E'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/all/products/galactic-empire-metallic-purple-htpla#product_details
+  PLA Translucent:
+    Holiday Pine:
+      hex: '#956B4B'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/collections/all?filter.p.m.custom.base_material=HTPLA
+    Blood of My Enemies:
+      hex: '#7A1A23'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/amies-blood-of-my-enemies-htpla
+  PLA+/Pro Shimmer:
+    Sun Gold Metallic Yellow:
+      hex: '#C07E03'
+      source: 3dfilamentprofiles.com
+  HT-PLA Translucent:
+    Aromatic Cinnamon:
+      hex: '#473010'
+      source: 3dfilamentprofiles.com
+    Nerfed Translucent Orange HTPLA:
+      hex: '#F39A1B'
+      source: 3dfilamentprofiles.com
+    Iridescent Ice:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/high-temp-pla-v2-0?srsltid=AfmBOoothGBst_OrnHZRXg8ARZmfdrigycsmvxxCNlGVAM_ycUaJHyi3#product_details
+  PLA Glitter:
+    Midnight Multicolor:
+      hex: '#004D65'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/midnight-multicolor-htpla
+  HT-PLA:
+    For The Lulz Metallic Green:
+      hex: '#D5C43F'
+      source: 3dfilamentprofiles.com
+  TPU 98A:
+    Clear:
+      hex: '#F0F2F5'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/clear-flexible-tpu
+  HT-PLA Gradient:
+    Back to teh Fuchsia:
+      hex: '#61177C,#E63B7A'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/black-to-the-fuchsia-htpla
+  PLA Conductive:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/conductive-pla
+  PLA Blend:
+    Calcium Carbonate:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/calcium-carbonate-pla-composite?variant=46519266115832
+  HT-PLA Multicolor:
+    Mango Medley:
+      hex: '#F18B2F,#F04846'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/mango-medley-multicolor-htpla?variant=43731493060856
+    Nebula Gold Dust:
+      hex: '#8F5F60,#58475B,#2E4059'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/nebula-gold-dust-multicolor-htpla?variant=43257836863736
+  HT-PLA Marble:
+    Orange Papaya Smoothie:
+      hex: '#F3771D'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/orange-papaya-smoothie-htpla
+    White:
+      hex: '#DDDDDD'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/white-marble-htpla
+  PETG CF:
+    Black Carbon Fiber:
+      hex: '#212121'
+      source: 3dfilamentprofiles.com
+    Black Carbon Fiber Recycled:
+      hex: '#212121'
+      source: 3dfilamentprofiles.com
+  HT-PLA HT:
+    Opaque White:
+      hex: '#FDFDFD'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/premium-htpla-v3-white?variant=33706475946115
+  HT-PLA Sparkle:
+    Empire Strikes Metallic Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  HT-PLA Wood:
+    Daffodil:
+      hex: '#CE9B64'
+      source: 3dfilamentprofiles.com
+      link: https://proto-pasta.com/products/matte-fiber-htpla-daffodil-wood?srsltid=AfmBOoospQw24Nt7gAAiZ_nIO9_LF2RxlXbm0S8O-X-6MIRWW56R3cuT

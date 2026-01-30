@@ -1,0 +1,220 @@
+Matter3D:
+  PETG+ HF:
+    Volant Light Blue:
+      hex: '#81E4FD'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/performance-petg-black?variant=44727223746737
+  PLA Basic:
+    Slate Grey:
+      hex: '#708090'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/basics-series-pla-1?variant=44723038585009
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/basics-series-pla-1?variant=44723039371441
+    Metallic red:
+      hex: '#C8291E'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/basics-series-pla-1?variant=44723039436977
+    Sunshine Yellow:
+      hex: '#FFE900'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/basics-series-pla-1
+    Blue:
+      hex: '#0000B3'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/basics-series-pla-1?variant=44723039371441
+    Gunmetal Grey:
+      hex: '#0F1314'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/basics-series-pla-1?variant=44723039371441
+    Fighter Jet Blue:
+      hex: '#023862'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/basics-series-pla-1?variant=44723039436977
+    Grass Green:
+      hex: '#009925'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/basics-series-pla-1
+    Royal Purple:
+      hex: '#34114B'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/basics-series-pla-1?variant=44723039436977
+    Khaki / Desert Tan:
+      hex: '#FAEAAC'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/collections/pla-filament/products/basics-series-pla-1?variant=46216366194865
+    Chocolate Brown:
+      hex: '#7B3F00'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/collections/pla-filament/products/basics-series-pla-1?variant=44723039109297
+    Wine Red:
+      hex: '#7B0323'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/basics-series-pla-1
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/basics-series-pla-1
+    Red:
+      hex: '#F80000'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/basics-series-pla-1
+    Clay / Brick Red:
+      hex: '#853523'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/basics-series-pla-1
+    Bone White:
+      hex: '#D7D0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/basics-series-pla-1
+    Mocha Brown:
+      hex: '#B76A20'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/collections/pla-filament/products/basics-series-pla-1?variant=46216366260401
+    Sandstone:
+      hex: '#BE9B80'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/collections/pla-filament/products/basics-series-pla-1?variant=46216366194865
+    Natural:
+      hex: '#E0E0E0'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/basics-series-pla-1?variant=44723039436977
+    Grape Drink Purple:
+      hex: '#800080'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/collections/pla-filament/products/basics-series-pla-1?variant=44723039568049
+    Lime Green:
+      hex: '#97D700'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/collections/pla-filament/products/basics-series-pla-1?variant=44723043696817
+    Egg Shell White:
+      hex: '#EEEAE6'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/collections/pla-filament/products/basics-series-pla-1?variant=44723038453937
+    Caterpillar Yellow:
+      hex: '#FFCC00'
+      source: 3dfilamentprofiles.com
+    Ocean Blue:
+      hex: '#0056F9'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/collections/pla-filament/products/basics-series-pla-1?variant=44723039305905
+    Fuchsia / Magenta:
+      hex: '#C20078'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/collections/pla-filament/products/basics-series-pla-1?variant=44723039699121
+    Lavender:
+      hex: '#845CD6'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/collections/pla-filament/products/basics-series-pla-1?variant=44723039633585
+    Dark / Forest Green:
+      hex: '#44693D'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/collections/pla-filament/products/basics-series-pla-1?variant=44723043500209
+    Sky Blue:
+      hex: '#87CEFA'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/basics-series-pla-1?variant=44723039436977
+    Cayman Blue:
+      hex: '#009CDE'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/collections/pla-filament/products/basics-series-pla-1?variant=44723039240369
+    Turquoise:
+      hex: '#8CFFDB'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/collections/pla-filament/products/basics-series-pla-1?variant=44723043893425
+    Aqua:
+      hex: '#74E5EA'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/collections/pla-filament/products/basics-series-pla-1?variant=44723043827889
+    Evergreen:
+      hex: '#0D5C54'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/collections/pla-filament/products/basics-series-pla-1?variant=44723043565745
+    Neon Green:
+      hex: '#73D700'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/collections/pla-filament/products/basics-series-pla-1?variant=44723043631281
+    Recycled:
+      hex: '#140012'
+      source: 3dfilamentprofiles.com
+      link: https://www.reprapwarehouse.com/products/recycled-pla
+    Snow White:
+      hex: '#F9FDFE'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/collections/pla-filament/products/basics-series-pla-1?variant=44723038388401
+    Light Pink:
+      hex: '#FFB5C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/collections/pla-filament/products/basics-series-pla-1?variant=44723039043761
+    Safety Orange:
+      hex: '#FE5000'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/collections/pla-filament/products/basics-series-pla-1?variant=44723043762353
+    Light Grey:
+      hex: '#D9D9D6'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/collections/pla-filament/products/basics-series-pla-1?variant=44723038519473
+    Peach:
+      hex: '#FFC3A0'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/collections/pla-filament/products/basics-series-pla-1?variant=44723038912689
+    Bubblegum Pink:
+      hex: '#E87191'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/collections/pla-filament/products/basics-series-pla-1?variant=44723038978225
+    Industrial Blue:
+      hex: '#006777'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/collections/pla-filament/products/basics-series-pla-1?variant=46216366325937
+  PLA Wood:
+    Cedar Wood:
+      hex: '#583239'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Dark / Forest Green:
+      hex: '#44693D'
+      source: 3dfilamentprofiles.com
+    Fighter Jet Blue:
+      hex: '#023862'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/basics-series-matte-pla?variant=43107953770673
+    Gunmetal Grey:
+      hex: '#0F1314'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/basics-series-matte-pla?variant=43107953770673
+  PETG Pro:
+    Slate Grey:
+      hex: '#708090'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/performance-petg-black
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/performance-petg-black
+    Red:
+      hex: '#F80000'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/performance-petg-black
+    Blue:
+      hex: '#0000B3'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/performance-petg-black
+    Dark / Forest Green:
+      hex: '#44693D'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/performance-petg-black
+    Ocean Blue:
+      hex: '#0056F9'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/performance-petg-black
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/performance-petg-black
+  PETG Basic:
+    Natural (Clear):
+      hex: '#FFFFFF,#A7D7FA'
+      source: 3dfilamentprofiles.com
+      link: https://www.matter3d.com/products/performance-petg-black?variant=42684184068273

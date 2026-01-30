@@ -1,0 +1,64 @@
+Amoybaby:
+  PLA Silk:
+    Yellow:
+      hex: '#CCFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.iamoybaby.com/collections/silk-pla-filament/products/amoybaby-silk-red-copper-pla-filament-1-75mm-shiny-silk-pla-3d-printer-filament-high-speed-clog-free-dimensional-accuracy-0-03mm-1kg2-2lb-fits-for-most-fdm-3d-printers
+    Red:
+      hex: '#A22725'
+      source: 3dfilamentprofiles.com
+      link: https://www.iamoybaby.com/collections/silk-pla-filament/products/amoybaby-silk-red-pla-filament-1-75mm-shiny-silk-pla-3d-printer-filament-high-speed-clog-free-accuracy-0-03mm-1kg2-2lb-fits-for-most-fdm-3d-printers
+    Blue-Green:
+      hex: '#266AA0,#4CA163'
+      source: 3dfilamentprofiles.com
+      link: https://www.iamoybaby.com/collections/silk-pla-filament/products/amoybaby-silk-red-copper-pla-filament-1-75mm-shiny-silk-pla-3d-printer-filament-high-speed-clog-free-dimensional-accuracy-0-03mm-1kg2-2lb-fits-for-most-fdm-3d-printers
+    Pearl White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.iamoybaby.com/collections/silk-pla-filament/products/amoybaby-silk-red-copper-pla-filament-1-75mm-shiny-silk-pla-3d-printer-filament-high-speed-clog-free-dimensional-accuracy-0-03mm-1kg2-2lb-fits-for-most-fdm-3d-printers
+    Blue:
+      hex: '#3946F3'
+      source: 3dfilamentprofiles.com
+      link: https://www.iamoybaby.com/collections/silk-pla-filament/products/amoybaby-silk-red-copper-pla-filament-1-75mm-shiny-silk-pla-3d-printer-filament-high-speed-clog-free-dimensional-accuracy-0-03mm-1kg2-2lb-fits-for-most-fdm-3d-printers
+    Silver:
+      hex: '#878787'
+      source: 3dfilamentprofiles.com
+      link: https://www.iamoybaby.com/collections/silk-pla-filament/products/amoybaby-silk-red-copper-pla-filament-1-75mm-shiny-silk-pla-3d-printer-filament-high-speed-clog-free-dimensional-accuracy-0-03mm-1kg2-2lb-fits-for-most-fdm-3d-printers
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.iamoybaby.com/collections/silk-pla-filament/products/amoybaby-silk-red-copper-pla-filament-1-75mm-shiny-silk-pla-3d-printer-filament-high-speed-clog-free-dimensional-accuracy-0-03mm-1kg2-2lb-fits-for-most-fdm-3d-printers
+    Gold:
+      hex: '#D29D00'
+      source: 3dfilamentprofiles.com
+      link: https://www.iamoybaby.com/collections/silk-pla-filament/products/amoybaby-silk-gold-pla-filament-1-75mm-shiny-silk-pla-3d-printer-filament-high-speed-clog-free-dimensional-accuracy-0-03mm-1kg2-2lb-fits-for-most-fdm-3d-printers
+    Green:
+      hex: '#008241'
+      source: 3dfilamentprofiles.com
+      link: https://www.iamoybaby.com/collections/silk-pla-filament/products/amoybaby-silk-green-pla-filament-1-75mm-shiny-silk-pla-3d-printer-filament-high-speed-clog-free-accuracy-0-03mm-1kg2-2lb-fits-for-most-fdm-3d-printers
+  PLA Silk+:
+    Gold:
+      hex: '#FFBF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.iamoybaby.com/collections/silk-pla-filament/products/amoybaby-silk-gold-pla-filament-1-75mm-shiny-silk-pla-3d-printer-filament-high-speed-clog-free-dimensional-accuracy-0-03mm-1kg2-2lb-fits-for-most-fdm-3d-printers
+  PLA Matte:
+    Solar Horizon:
+      hex: '#5A4035'
+      source: 3dfilamentprofiles.com
+    Solar Eclipse:
+      hex: '#503516'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    Violet Phosphorescent:
+      hex: '#7269F7'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Purple-Green:
+      hex: '#3C3353,#69A36A'
+      source: 3dfilamentprofiles.com
+    Green - Yellow:
+      hex: '#CCFF00'
+      source: 3dfilamentprofiles.com
+    Gold to Red:
+      hex: '#9C5122'
+      source: 3dfilamentprofiles.com

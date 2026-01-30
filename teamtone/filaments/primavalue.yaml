@@ -1,0 +1,47 @@
+PrimaValue:
+  PLA Basic:
+    Orange:
+      hex: '#FF8000'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Light Green:
+      hex: '#5DE65B'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#919191'
+      source: 3dfilamentprofiles.com
+    Dark Grey:
+      hex: '#444444'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#03386D'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://primacreator.com/collections/filament-pla/products/primavalue-pla
+  PLA+/Pro Matte:
+    Light Grey:
+      hex: '#C4C3C5'
+      source: 3dfilamentprofiles.com
+      link: https://primacreator.com/products/primavalue-pla?variant=48794154598747
+    Black Matt:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Dark Grey:
+      hex: '#3B3D3F'
+      source: 3dfilamentprofiles.com
+    red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Light Grey:
+      hex: '#C4C7C1'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dprima.com/de/filament-resin/hersteller/primacreator/primavalue-pla_30231_12790

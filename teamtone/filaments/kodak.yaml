@@ -1,0 +1,10 @@
+Kodak:
+  PETG Translucent:
+    Purple Translucent:
+      hex: '#CF079A'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://cdn.shopify.com/s/files/1/0765/4369/files/Kodak_-_TECHNICAL_DATA_SHEET_ABS.pdf?v=1584631213

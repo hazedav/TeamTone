@@ -1,0 +1,134 @@
+Ujoybio3d:
+  PLA Silk:
+    Copper:
+      hex: '#FFA86F'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#FFEE78'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Black Gold Purple:
+      hex: '#000000,#FEE039,#943DFF'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Sakura Pink:
+      hex: '#FFC2F4'
+      source: 3dfilamentprofiles.com
+    Lilac Purple:
+      hex: '#AE96D4'
+      source: 3dfilamentprofiles.com
+    Beige:
+      hex: '#F5F5DC'
+      source: 3dfilamentprofiles.com
+    Desert Yellow:
+      hex: '#E8EC83'
+      source: 3dfilamentprofiles.com
+      link: https://ujoybio3d.com/products/ujoybio-matte-pla-3d-printing-filament-1-75mm-1-kg-smooth-elegant?variant=42248846344282
+    Mint Green:
+      hex: '#C7FFD8'
+      source: 3dfilamentprofiles.com
+      link: https://ujoybio3d.com/products/ujoybio-matte-pla-3d-printing-filament-1-75mm-1-kg-smooth-elegant?variant=42248846147674
+  PLA+/Pro High Speed:
+    Orange:
+      hex: '#FFA500'
+      source: 3dfilamentprofiles.com
+      link: https://ujoybio3d.com/
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://ujoybio3d.com/
+    Pink:
+      hex: '#FFC0CB'
+      source: 3dfilamentprofiles.com
+      link: https://ujoybio3d.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://ujoybio3d.com/
+    Grey:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://ujoybio3d.com/
+    DimGray:
+      hex: '#696969'
+      source: 3dfilamentprofiles.com
+      link: https://ujoybio3d.com/
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://ujoybio3d.com/
+    Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+      link: https://ujoybio3d.com
+    Brown:
+      hex: '#5C3317'
+      source: 3dfilamentprofiles.com
+      link: https://ujoybio3d.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://ujoybio3d.com/
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://ujoybio3d.com
+    Olive Green:
+      hex: '#556B2F'
+      source: 3dfilamentprofiles.com
+      link: https://ujoybio3d.com
+  PETG Basic:
+    Sky Blue:
+      hex: '#80FFFF'
+      source: 3dfilamentprofiles.com
+      link: https://ujoybio3d.com/products/ujoybio-petg-filament-1-75-mm-1-kg-high-strength-tangle-free-spool-for-fdm-3d-printers?variant=42550009626714
+    Jade White:
+      hex: '#DFEBE6'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF7611'
+      source: 3dfilamentprofiles.com
+      link: https://ujoybio3d.com/products/ujoybio-petg-filament-1-75-mm-1-kg-high-strength-tangle-free-spool-for-fdm-3d-printers?variant=42550009790554
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://ujoybio3d.com/products/ujoybio-petg-filament-1-75-mm-1-kg-high-strength-tangle-free-spool-for-fdm-3d-printers?variant=42550009921626
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Beige:
+      hex: '#F5E6C8'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#FFB4C8'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFDC64'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#6496FF'
+      source: 3dfilamentprofiles.com
+  PETG+ Pro:
+    Christmas Green:
+      hex: '#007007'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Metallic Copper:
+      hex: '#ECB684'
+      source: 3dfilamentprofiles.com
+  PLA High Speed:
+    Purple:
+      hex: '#C5338B'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#1BB6CB'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Matte:
+    Titanium Gray:
+      hex: '#61616C'
+      source: 3dfilamentprofiles.com
+      link: https://ujoybio3d.com/
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://ujoybio3d.com/

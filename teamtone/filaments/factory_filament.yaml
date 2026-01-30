@@ -1,0 +1,10 @@
+Factory Filament:
+  PLA+/Pro Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.factoryfilament.com/products/pla-pro
+    Peach:
+      hex: '#F16C4A'
+      source: 3dfilamentprofiles.com
+      link: https://www.factoryfilament.com/products/pla-pro?variant=44243984122158

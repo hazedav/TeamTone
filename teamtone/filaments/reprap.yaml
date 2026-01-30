@@ -1,0 +1,19 @@
+RepRap:
+  PETG Basic:
+    Med./Light Grey:
+      hex: '#93999F'
+      source: 3dfilamentprofiles.com
+      link: https://www.reprapwarehouse.com/?srsltid=AfmBOoreQHhu7QnLSFYIZY6yYU5g6xWq8vMQu44ghOjTKvyCpJH17RjX
+    Orange:
+      hex: '#F07400'
+      source: 3dfilamentprofiles.com
+      link: https://www.reprapwarehouse.com/?srsltid=AfmBOoreQHhu7QnLSFYIZY6yYU5g6xWq8vMQu44ghOjTKvyCpJH17RjX
+  PLA Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.reprapwarehouse.com/products/official-reprap-pla?variant=46989975453939
+    True North White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.reprapwarehouse.com/products/official-reprap-pla?variant=46989975453939

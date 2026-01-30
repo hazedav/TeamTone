@@ -1,0 +1,62 @@
+Maker Geeks:
+  PETG Basic:
+    HD Clear Glass (transparent):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    HD Red Glass:
+      hex: '#DD8888'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Army Green:
+      hex: '#2A5A42'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Tiger Orange:
+      hex: '#FF7300'
+      source: 3dfilamentprofiles.com
+    Army Green:
+      hex: '#0E4E0D'
+      source: 3dfilamentprofiles.com
+    White HOT White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Pearl Starlight Blue:
+      hex: '#275D9A'
+      source: 3dfilamentprofiles.com
+    Make Me Blush:
+      hex: '#D95959'
+      source: 3dfilamentprofiles.com
+    Charlie Brown:
+      hex: '#54463B'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Gray Matter:
+      hex: '#545454'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#116600'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Translucent Blue:
+      hex: '#008CF0'
+      source: 3dfilamentprofiles.com
+  PLA Crystal:
+    Translucent Red:
+      hex: '#C3413D'
+      source: 3dfilamentprofiles.com
+    Translucent Purple:
+      hex: '#543559'
+      source: 3dfilamentprofiles.com
+    Transparent Red:
+      hex: '#952828'
+      source: 3dfilamentprofiles.com
+    Transparent Green:
+      hex: '#167E01'
+      source: 3dfilamentprofiles.com
+    Transparent Blue:
+      hex: '#001CA8'
+      source: 3dfilamentprofiles.com
+  PLA Metal:
+    Dragon's Metallic Gold:
+      hex: '#CA9502'
+      source: 3dfilamentprofiles.com

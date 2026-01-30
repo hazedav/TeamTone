@@ -1,0 +1,38 @@
+Wellshow:
+  PETG Basic:
+    Blue:
+      hex: '#1C57B2'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#3D3D3D'
+      source: 3dfilamentprofiles.com
+    Army Green:
+      hex: '#4B5320'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Matte:
+    Cold Gray:
+      hex: '#888991'
+      source: 3dfilamentprofiles.com
+    Wood Brown:
+      hex: '#C99C6E'
+      source: 3dfilamentprofiles.com
+    Latte Brown/Light Brown:
+      hex: '#CFB498'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Metallic Red:
+      hex: '#A62C2B'
+      source: 3dfilamentprofiles.com
+    Gold Silk:
+      hex: '#C4BD97'
+      source: 3dfilamentprofiles.com
+  PC Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

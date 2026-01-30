@@ -1,0 +1,37 @@
+YOYI:
+  TPU:
+    Transparent Red:
+      hex: '#C52600'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Silk-Like:
+    olive green:
+      hex: '#808000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Translucence Yellow:
+      hex: '#FFF995'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#E22400'
+      source: 3dfilamentprofiles.com
+    Living Coral:
+      hex: '#E01B24'
+      source: 3dfilamentprofiles.com
+  TPU Flexible:
+    Pink:
+      hex: '#FB23AF'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Sky Blue:
+      hex: '#38ACFF'
+      source: 3dfilamentprofiles.com

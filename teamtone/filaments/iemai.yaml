@@ -1,0 +1,340 @@
+IEMAI:
+  PETG Translucent:
+    Transparent Cyan:
+      hex: '#00FFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Transparent:
+      hex: '#F0F0F0'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Gradient Green to Purple:
+      hex: '#41B3A5,#9D92D7'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Transparent Blue:
+      hex: '#254FCB'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Yellow-Green:
+      hex: '#CCEF63,#1EBF7E'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Blue/Lila:
+      hex: '#1178FF'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Transparent Grape Purple:
+      hex: '#732EB8'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Transparent Yellow:
+      hex: '#FFE066'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Clear Light Purple:
+      hex: '#CCA7E8'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Transparent Green:
+      hex: '#6EF78A'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Fluorescent Green:
+      hex: '#1EFF00'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Yellow Red Green:
+      hex: '#EDF104,#ED1233,#08E24A'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Orange Blue:
+      hex: '#ED8E07,#260FD7'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Yellow Red Blue:
+      hex: '#EDF104,#ED1233,#1708E2'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Gradient Blue-Green:
+      hex: '#52D6FC,#B1DD8B'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Transparent Red:
+      hex: '#FB5656'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Gardient Orange-White:
+      hex: '#FF8000,#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Light Pink:
+      hex: '#F1B3F9'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Translucent Dual Color Gradient Blue to Purple:
+      hex: '#05AADD,#A88FE0'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Translucent Gradient Pink - Yellow:
+      hex: '#FF80C0,#FFFF80'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    ORANGE:
+      hex: '#C57A11'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Transparent Light Blue:
+      hex: '#C5DFF2'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Transparent Smoke Gray:
+      hex: '#373B3F'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Gradient Blue to White:
+      hex: '#58B3F3,#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Pink-Purple:
+      hex: '#EA78ED,#713EA8'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Rainbow:
+      hex: '#55B0F1,#50F286,#F59714'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Light Purple:
+      hex: '#A694FF'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+    Blue Purple:
+      hex: '#2409F1,#9405E1'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+  PLA Silk Dual:
+    Violet Red:
+      hex: '#9929BD'
+      source: 3dfilamentprofiles.com
+    Yellow to Green:
+      hex: '#85F76E'
+      source: 3dfilamentprofiles.com
+    Green Silver:
+      hex: '#919191'
+      source: 3dfilamentprofiles.com
+    Violet Yellow:
+      hex: '#874EFE'
+      source: 3dfilamentprofiles.com
+    Red Blue:
+      hex: '#5E30EB'
+      source: 3dfilamentprofiles.com
+    Blue Green:
+      hex: '#1708E2,#37F104'
+      source: 3dfilamentprofiles.com
+    Blue/Silver:
+      hex: '#0258B2,#8E9A9A'
+      source: 3dfilamentprofiles.com
+  PLA High Speed Matte:
+    Army Green:
+      hex: '#086A01'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Smoke Gray:
+      hex: '#373B3F'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FB5656'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#283DCC'
+      source: 3dfilamentprofiles.com
+    Clear:
+      hex: '#FBFBF9'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FB810C'
+      source: 3dfilamentprofiles.com
+    Clear Green:
+      hex: '#6EF78A'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Silver:
+      hex: '#6B6B6B'
+      source: 3dfilamentprofiles.com
+    Red Bronze:
+      hex: '#C85F32'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#C7A548'
+      source: 3dfilamentprofiles.com
+    VIolet:
+      hex: '#40166A'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#FE9EFF'
+      source: 3dfilamentprofiles.com
+    Copper:
+      hex: '#831100'
+      source: 3dfilamentprofiles.com
+    Metallic Gold:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+  PETG CF:
+    Orange:
+      hex: '#AD3E00'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#5C0700'
+      source: 3dfilamentprofiles.com
+    Matte Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG High Speed Matte:
+    Matte Army Green:
+      hex: '#024B01'
+      source: 3dfilamentprofiles.com
+  PETG+ High Speed:
+    C-Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    C-White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PETG Glitter:
+    Green:
+      hex: '#1E8609'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#B01307'
+      source: 3dfilamentprofiles.com
+    Smoke Grey:
+      hex: '#8D8985'
+      source: 3dfilamentprofiles.com
+    Light Blue:
+      hex: '#025F75'
+      source: 3dfilamentprofiles.com
+    blue:
+      hex: '#0E8BE9'
+      source: 3dfilamentprofiles.com
+    Clear Blue Purple:
+      hex: '#B18CFE'
+      source: 3dfilamentprofiles.com
+  PLA Marble:
+    Stone White:
+      hex: '#E0E0E0'
+      source: 3dfilamentprofiles.com
+  PETG Transparent:
+    Amber:
+      hex: '#FFBF00'
+      source: 3dfilamentprofiles.com
+  ASA CF:
+    Matt Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.iemai3d.com/index.php/cf-asa-3d-printing-filament/
+  PETG GF:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#5C5C5C'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/petg/
+  ABS CF:
+    Carbon Fiber:
+      hex: '#232323'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro High Speed:
+    rainbow:
+      hex: '#53D5FD,#F4A4C0,#FFF76B,#96D35F'
+      source: 3dfilamentprofiles.com
+    rainbow-01:
+      hex: '#E392FE,#BE38F3,#3A88FE'
+      source: 3dfilamentprofiles.com
+  PETG Crystal:
+    Transparent Yellow:
+      hex: '#FFE066'
+      source: 3dfilamentprofiles.com
+  PLA CF:
+    Blue:
+      hex: '#003052'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#545454'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#553030'
+      source: 3dfilamentprofiles.com
+    Army Green:
+      hex: '#1C4025'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#020303'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/cf-pla/
+  TPU 95A:
+    Clear Smoke Gray:
+      hex: '#CFC8CA'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/tpu/
+  PC CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.iemai3d.com/index.php/cf-pc-3d-printing-filament/
+  PETG Marble:
+    Marble:
+      hex: '#D2DAE1'
+      source: 3dfilamentprofiles.com
+  PLA Gradient:
+    Rainbow-c Summer Breeze:
+      hex: '#B2DD23,#3FC99B'
+      source: 3dfilamentprofiles.com
+    Rainbow-01 Pink to Purple:
+      hex: '#E358BC,#8171E3'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/pla
+    Transparent Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF8000'
+      source: 3dfilamentprofiles.com
+      link: https://store.iemai3d.com/index.php/product/pla
+  PETG Fluorescent:
+    Green Glitter:
+      hex: '#0FFF0D'
+      source: 3dfilamentprofiles.com
+  ASA Basic:
+    White:
+      hex: '#F2F2F2'
+      source: 3dfilamentprofiles.com
+  PETG High Speed:
+    Translucent Dual Color Gradient Indigo to White:
+      hex: '#132C43,#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.iemai3d.com/index.php/3d-printing-filament/
+  PETG Glow:
+    Purple:
+      hex: '#BF40ED'
+      source: 3dfilamentprofiles.com
+  PLA High Speed:
+    Mist Gray:
+      hex: '#999999'
+      source: 3dfilamentprofiles.com
+  PA6 CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.iemai3d.com/index.php/cf-pa6-3d-printing-filament/

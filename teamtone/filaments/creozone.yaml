@@ -1,0 +1,43 @@
+CREOZONE:
+  PETG Premium:
+    Blue:
+      hex: '#323AAA'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#C20C20'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#0E0D0F'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#F7F500'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#51B251'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Violet:
+      hex: '#5830B5'
+      source: 3dfilamentprofiles.com
+    Turquoise:
+      hex: '#80E3EA'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Silver:
+      hex: '#BAC0C5'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#E58C10'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PC:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com

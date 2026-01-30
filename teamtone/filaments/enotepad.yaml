@@ -1,0 +1,46 @@
+Enotepad:
+  PLA Silk:
+    Deep Purple:
+      hex: '#8A2EE5'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Silk:
+    Bronze:
+      hex: '#5CA382'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Green:
+      hex: '#00F900'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Wood 1:
+      hex: '#967E63'
+      source: 3dfilamentprofiles.com
+  PLA Marble:
+    Light grey marble:
+      hex: '#ADADAD'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Green:
+      hex: '#00F900'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Twinkling Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Silk Rainbow:
+    Shiny Multicolor Ye/Gr/Bl/Pu/Re:
+      hex: '#DC9E18,#45683B,#C786DF,#8C738A'
+      source: 3dfilamentprofiles.com

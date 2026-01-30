@@ -1,0 +1,102 @@
+StarPlast:
+  PETG Basic:
+    Grey:
+      hex: '#9E9E9E'
+      source: 3dfilamentprofiles.com
+      link: https://star-plast.com/
+    Orange:
+      hex: '#D9865F'
+      source: 3dfilamentprofiles.com
+      link: https://star-plast.com/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://star-plast.com/
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://star-plast.com/
+    Синий прозрачный:
+      hex: '#00478F'
+      source: 3dfilamentprofiles.com
+      link: https://star-plast.com/
+    Alluminium:
+      hex: '#606060'
+      source: 3dfilamentprofiles.com
+      link: https://star-plast.com/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://star-plast.com/
+  PLA Basic:
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://star-plast.com/
+    Brown:
+      hex: '#AA5500'
+      source: 3dfilamentprofiles.com
+      link: https://star-plast.com/
+    Green:
+      hex: '#00AA00'
+      source: 3dfilamentprofiles.com
+      link: https://star-plast.com/
+    Orange:
+      hex: '#FFAA00'
+      source: 3dfilamentprofiles.com
+      link: https://star-plast.com/
+    Turquoise:
+      hex: '#55FFFF'
+      source: 3dfilamentprofiles.com
+      link: https://star-plast.com/
+    Red:
+      hex: '#AA0000'
+      source: 3dfilamentprofiles.com
+      link: https://star-plast.com/
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://star-plast.com/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://star-plast.com/
+    Алюминий:
+      hex: '#5E5C64'
+      source: 3dfilamentprofiles.com
+      link: https://star-plast.com/magazin/product/pla-al-alyuminij
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://star-plast.com/
+  PETG Silk:
+    Ruby:
+      hex: '#51262F'
+      source: 3dfilamentprofiles.com
+      link: https://star-plast.com/
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://star-plast.com/
+    Синий прозрачный:
+      hex: '#4F8AC4'
+      source: 3dfilamentprofiles.com
+      link: https://star-plast.com/
+    Blue:
+      hex: '#00007F'
+      source: 3dfilamentprofiles.com
+      link: https://star-plast.com/
+    Green:
+      hex: '#007A00'
+      source: 3dfilamentprofiles.com
+      link: https://star-plast.com/
+  PLA Silk Triple:
+    Coral - Violet - Turquoise:
+      hex: '#F769CA'
+      source: 3dfilamentprofiles.com
+      link: https://star-plast.com
+  PETG Translucent:
+    Оранжевый:
+      hex: '#FF7800'
+      source: 3dfilamentprofiles.com
+      link: https://star-plast.com/magazin/product/petg-silk-oranzhevyy-prozrachnyj

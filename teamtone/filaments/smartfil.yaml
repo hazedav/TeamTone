@@ -1,0 +1,136 @@
+Smartfil:
+  PLA Recycled:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    White:
+      hex: '#D8E1ED'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Purple:
+      hex: '#47243C'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Red:
+      hex: '#FF2600'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/66-color-red
+    Green:
+      hex: '#02E905'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/68-color-green
+    Coral:
+      hex: '#FF757E'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/en/pla-recycled#/3-size-l_1000g/26-shoes_size-175mm/93-colour-coral
+    Cold White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled#/3-tamano-l_1000g/26-diametro-175_mm/211-color-cold_white
+    Violet:
+      hex: '#6B4BB4'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/en/pla-recycled#/3-size-l_1000g/26-shoes_size-175mm/166-colour-violet
+    Light Green:
+      hex: '#058B8C'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/en/pla-recycled#/3-size-l_1000g/26-shoes_size-175mm/175-colour-light_green
+    Yellow:
+      hex: '#F1DD38'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-recycled
+    Gold:
+      hex: '#694D12'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/en/pla-recycled#/3-size-l_1000g/26-shoes_size-175mm/94-colour-gold
+  ABS Basic:
+    Sapphire:
+      hex: '#068FD0'
+      source: 3dfilamentprofiles.com
+      link: https://archiwum.allegro.pl/oferta/filament-smartfil-abs-1-75mm-niebieski-sapphire-750g-i15131086046.html
+  PLA Glitter:
+    Silver:
+      hex: '#658AB3'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/en/pla-glitter-filament
+    Violet:
+      hex: '#773BAD'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/en/pla-glitter-filament#/3-size-l_1000g/26-shoes_size-175mm/108-colour-violet_glitter
+    Red Glitter:
+      hex: '#B20015'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/en/pla-glitter-filament#/3-size-l_1000g/26-shoes_size-175mm/104-colour-silver_glitter
+  PLA High Speed:
+    Chlorophyll:
+      hex: '#44D839'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/en/pla-filament#/3-size-l_1000g/15-colour-chlorophyll/26-shoes_size-175mm
+    Light Grey:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/en/pla-filament
+  PLA Wood:
+    Wenge:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/en/wood-filament
+  PLA Basic:
+    black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#00BE23'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-basic#/3-tamano-l_1000g/26-diametro-175_mm/68-color-green
+    Signal blue:
+      hex: '#005083'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#694D12'
+      source: 3dfilamentprofiles.com
+    white:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-basic
+    True Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/pla-basic#/3-tamano-l_1000g/26-diametro-175_mm/69-color-yellow
+  PETG Translucent:
+    Natural:
+      hex: '#005E83'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/petg-filamento#/3-tamano-l_1000g/25-color-natural/26-diametro-175_mm
+  PLA Glow:
+    Blue:
+      hex: '#D1ECFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/en/pla-glow#/3-size-l_1000g/26-shoes_size-175mm/182-colour-blue_glow
+    Green:
+      hex: '#AEEFCA'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/en/pla-glow#/3-size-l_1000g/26-shoes_size-175mm/182-colour-blue_glow
+  PVA Support:
+    Natural:
+      hex: '#FBEDFF'
+      source: 3dfilamentprofiles.com
+  PLA:
+    Glace:
+      hex: '#F5F5F5'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/en/pla-filament#/3-size-l_1000g/10-colour-ruby/26-shoes_size-175mm
+  TPU Flexible:
+    TRUE BLACK:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/flex-93a#/2-tamano-m_750g/11-color-true_black/26-diametro-175_mm
+  PLA Support:
+    Weiß Reinigungsfilament:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.smartmaterials3d.com/en/clean-filament

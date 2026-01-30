@@ -1,0 +1,45 @@
+Mecpow:
+  PLA High Speed:
+    Orange:
+      hex: '#FF7B00'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FBFF00'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#001EFF'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#2BC700'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#F358DA'
+      source: 3dfilamentprofiles.com
+    Skin:
+      hex: '#FFB68F'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Smoke Grey:
+      hex: '#8B9198'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Light Purple:
+      hex: '#B061FF'
+      source: 3dfilamentprofiles.com
+    Cyan:
+      hex: '#78EAF2'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#1825E2'
+      source: 3dfilamentprofiles.com
+    Light Pink:
+      hex: '#FDA0F5'
+      source: 3dfilamentprofiles.com
+    Light Blue:
+      hex: '#505AE7'
+      source: 3dfilamentprofiles.com

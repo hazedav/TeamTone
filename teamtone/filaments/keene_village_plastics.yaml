@@ -1,0 +1,104 @@
+Keene Village Plastics:
+  PLA Silk:
+    Strawberry Pearl:
+      hex: '#861919'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Orange:
+      hex: '#FFA500'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFF824'
+      source: 3dfilamentprofiles.com
+    Neon Green:
+      hex: '#24FF27'
+      source: 3dfilamentprofiles.com
+    Bold Black:
+      hex: '#26272B'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#1B9A33'
+      source: 3dfilamentprofiles.com
+      link: https://www.villageplastics.com/product-page/pla-filament
+  ABS Basic:
+    Voron Red:
+      hex: '#AD2724'
+      source: 3dfilamentprofiles.com
+    Battleship Gray:
+      hex: '#655F51'
+      source: 3dfilamentprofiles.com
+      link: https://tonerplastics.com/product/village-plastics-abs-filament-reels/
+    Glow In The Dark Blue:
+      hex: '#51A3DE'
+      source: 3dfilamentprofiles.com
+    Crimson:
+      hex: '#A6102D'
+      source: 3dfilamentprofiles.com
+    Proper Purple:
+      hex: '#502D6D'
+      source: 3dfilamentprofiles.com
+      link: https://tonerplastics.com/product/village-plastics-abs-filament-reels/
+    Stellar Black:
+      hex: '#3E393C'
+      source: 3dfilamentprofiles.com
+      link: https://tonerplastics.com/product/village-plastics-abs-filament-reels/
+    Fluorescent Green:
+      hex: '#5EC300'
+      source: 3dfilamentprofiles.com
+      link: https://tonerplastics.com/product/village-plastics-abs-filament-reels/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://tonerplastics.com/product/village-plastics-abs-filament-reels/
+  PETG Translucent:
+    Yellow Edge Glow:
+      hex: '#C9C10A'
+      source: 3dfilamentprofiles.com
+      link: https://www.villageplastics.com/3d-filament-color-charts
+  PLA Translucent:
+    Translucent Blue:
+      hex: '#B2B2B2'
+      source: 3dfilamentprofiles.com
+    Translucent Purple:
+      hex: '#3F1F46'
+      source: 3dfilamentprofiles.com
+    Translucent Black Sparkle:
+      hex: '#2D2926'
+      source: 3dfilamentprofiles.com
+    Translucent Red:
+      hex: '#BA2328'
+      source: 3dfilamentprofiles.com
+    Deep Translucent Red:
+      hex: '#8A252D'
+      source: 3dfilamentprofiles.com
+    Deep Translucent Blue:
+      hex: '#241160'
+      source: 3dfilamentprofiles.com
+  PETG Crystal:
+    Glass:
+      hex: '#B5E8E4'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Tru Wood Cherry:
+      hex: '#906241'
+      source: 3dfilamentprofiles.com
+  PLA:
+    Evergreen Pearl:
+      hex: '#0F3427'
+      source: 3dfilamentprofiles.com
+    Pearl Blueberry:
+      hex: '#00537F'
+      source: 3dfilamentprofiles.com
+  PETG:
+    Granite:
+      hex: '#BBC7D5'
+      source: 3dfilamentprofiles.com
+      link: https://www.villageplastics.com/3d-filament-color-charts
+  PLA Galaxy:
+    Stellar Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    Glow in the Dark Green:
+      hex: '#74D96D'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,145 @@
+Gizmo Dorks:
+  PLA Color Change (Temp):
+    Blue White:
+      hex: '#FFFFFF,#005AFD'
+      source: 3dfilamentprofiles.com
+    Purple to Pink:
+      hex: '#543588,#BB5492'
+      source: 3dfilamentprofiles.com
+      link: https://gizmodorks.com/pla-3d-printer-filament/
+  PETG Translucent:
+    Translucent Red:
+      hex: '#BC2F20'
+      source: 3dfilamentprofiles.com
+    Translucent Green:
+      hex: '#009A44'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Dark Purple:
+      hex: '#59378B'
+      source: 3dfilamentprofiles.com
+      link: https://gizmodorks.com/pla-3d-printer-filament/
+    Orange:
+      hex: '#FB8C0F'
+      source: 3dfilamentprofiles.com
+      link: https://gizmodorks.com/pla-3d-printer-filament/
+    Pink Rose:
+      hex: '#E62D6E'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#212724'
+      source: 3dfilamentprofiles.com
+      link: https://gizmodorks.com/pla-3d-printer-filament/
+    Green:
+      hex: '#008A12'
+      source: 3dfilamentprofiles.com
+      link: https://gizmodorks.com/pla-3d-printer-filament/
+    Blue:
+      hex: '#21378A'
+      source: 3dfilamentprofiles.com
+      link: https://gizmodorks.com/pla-3d-printer-filament/
+    Red:
+      hex: '#CC1C03'
+      source: 3dfilamentprofiles.com
+      link: https://gizmodorks.com/pla-3d-printer-filament/
+  HIPS Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://gizmodorks.com/hips-3d-printer-filament/
+    Blue:
+      hex: '#095CAA'
+      source: 3dfilamentprofiles.com
+      link: https://gizmodorks.com/hips-3d-printer-filament/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://gizmodorks.com/hips-3d-printer-filament/
+  TPU Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#F9FAFB'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FBFC00'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Fluorescent Green:
+      hex: '#79DB00'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#AD6D49'
+      source: 3dfilamentprofiles.com
+      link: https://gizmodorks.com/abs-3d-printer-filament/
+  PLA+/Pro Basic:
+    Red:
+      hex: '#BC2F20'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#0F5A39'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#095CAA'
+      source: 3dfilamentprofiles.com
+    orange:
+      hex: '#DC6D02'
+      source: 3dfilamentprofiles.com
+      link: https://gizmodorks.com/pla-filament-bundle-pack/
+  PLA Fluorescent:
+    Fluorescent Yellow U/V Reactive:
+      hex: '#F8FF00'
+      source: 3dfilamentprofiles.com
+      link: https://gizmodorks.com/pla-3d-printer-filament/
+  PLA Metal:
+    Copper:
+      hex: '#D95C1A'
+      source: 3dfilamentprofiles.com
+    Bronze:
+      hex: '#CD7F32'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Green:
+      hex: '#3FDC4D'
+      source: 3dfilamentprofiles.com
+      link: https://gizmodorks.com/pla-3d-printer-filament/
+  PLA MetalFil:
+    Bronze:
+      hex: '#786E46'
+      source: 3dfilamentprofiles.com
+  PLA Sparkle:
+    Glitter Green:
+      hex: '#3FE468'
+      source: 3dfilamentprofiles.com
+  ABS Fluorescent:
+    FLUORESCENCE GREEN:
+      hex: '#96D35F'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Wood:
+      hex: '#EAC075'
+      source: 3dfilamentprofiles.com
+      link: https://gizmodorks.com/wood-filled-filament-200-g-spool/
+  PLA Marble:
+    Marble:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Color Change (Temp):
+    Heat Color Change Green to Yellow:
+      hex: '#4CA45D,#E4F849'
+      source: 3dfilamentprofiles.com
+  PLA Glitter:
+    Blue Blue:
+      hex: '#7DADC6'
+      source: 3dfilamentprofiles.com
+      link: https://gizmodorks.com/glitter-sparkle-pla-filament/?srsltid=AfmBOoqLs8965U1VO9Qe8WSpOZKpKUqdvNHQYI0PmFHkMyDeZ3hHjb7x
+  PLA+/Pro Glow:
+    Glow in The Dark White:
+      hex: '#FFFFFF,#0FFFAF'
+      source: 3dfilamentprofiles.com
+  ABS Color Change (Temp):
+    Purple to Pink:
+      hex: '#543588,#BB5492'
+      source: 3dfilamentprofiles.com
+      link: https://gizmodorks.com/abs-3d-printer-filament/

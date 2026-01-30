@@ -1,0 +1,100 @@
+D3D Sigma:
+  PLA Basic:
+    Baby Blue:
+      hex: '#9FE7F1'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/d3d-sigma-pla-1-75mm-1kg-various-colors
+    Silver:
+      hex: '#BEBBB6'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/d3d-sigma-pla-1-75mm-1kg-various-colors?variant=37272094736546
+    Bone White:
+      hex: '#E7E2D2'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/d3d-sigma-pla-1-75mm-1kg-various-colors?variant=45173283750118
+    Gold:
+      hex: '#E9A326'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/d3d-sigma-pla-1-75mm-1kg-various-colors?variant=43749457330406
+    Caterpillar Yellow:
+      hex: '#DBBB1F'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/d3d-sigma-pla-1-75mm-1kg-various-colors?variant=45082867499238
+    Lavender Purple:
+      hex: '#A858DC'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/d3d-sigma-pla-1-75mm-1kg-various-colors?variant=43909906202854
+    Cappuccino:
+      hex: '#722B0F'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/d3d-sigma-pla-1-75mm-1kg-various-colors?variant=43905473347814
+    Strawberry Cream:
+      hex: '#FCC7CA'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/d3d-sigma-pla-1-75mm-1kg-various-colors?variant=43928819040486
+    Terracotta:
+      hex: '#E67B5A'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/d3d-sigma-pla-1-75mm-1kg-various-colors?variant=45280545243366
+    Regal Red:
+      hex: '#DB4B4E'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/d3d-sigma-pla-1-75mm-1kg-various-colors?variant=45303766581478
+    Orange:
+      hex: '#FB7310'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/d3d-sigma-pla-1-75mm-1kg-various-colors?variant=11969598292004
+  PETG CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/d3d-sigma-carbon-petg-1-75mm-1kg-black
+  PLA Silk:
+    Copper:
+      hex: '#F9971F'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/d3d-sigma-silk-pla-1-75mm-1kg-various-colors?variant=40224059981986
+    Silver:
+      hex: '#BABABA'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/d3d-sigma-silk-pla-1-75mm-1kg-various-colors?variant=40224060014754
+    Gold:
+      hex: '#CF9B34'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/d3d-sigma-silk-pla-1-75mm-1kg-various-colors?variant=40224059949218
+  PLA Economy:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/economy-pla-1-75mm-1kg?variant=44458126835942
+  PETG Basic:
+    Blue:
+      hex: '#064C7F'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca
+    Transparent:
+      hex: '#F5F2EA'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/d3d-sigma-petg-1kg-1-75-mm-spooled-various-colors?variant=33689742016643
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/d3d-sigma-petg-1kg-1-75-mm-spooled-various-colors
+  PLA Translucent:
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/d3d-pla-transparent-refill-bambu-lab-spool-compatible-1-75mm-1kg-various-colors?variant=45379214344422
+  PLA Metal:
+    Metallic Silver:
+      hex: '#868F98'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/d3d-sigma-pla-1-75mm-1kg-various-colors?variant=45572813750502
+  PETG:
+    Silver:
+      hex: '#747474'
+      source: 3dfilamentprofiles.com
+      link: https://www.digitmakers.ca/products/d3d-sigma-petg-1kg-1-75-mm-spooled-various-colors?variant=43109334122726

@@ -1,0 +1,25 @@
+Filamentworld:
+  ABS:
+    Feuerrot:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+  PLA Magic:
+    red-gold:
+      hex: '#B51A00,#F5EC00'
+      source: 3dfilamentprofiles.com
+    blue-green:
+      hex: '#0042AA,#4F7A28'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Dunkel-Blau:
+      hex: '#000552'
+      source: 3dfilamentprofiles.com
+      link: https://filamentworld.de/shop/pla-filament-3d-drucker/pla-basic-filament/filamentworld-basic-pla-filament-dunkelblau-1-75-mm/
+    Dunkel-Grün:
+      hex: '#003D12'
+      source: 3dfilamentprofiles.com
+      link: https://filamentworld.de/shop/pla-filament-3d-drucker/pla-basic-filament/filamentworld-basic-pla-filament-dunkelgruen-1-75-mm/
+    Gold:
+      hex: '#3E3A23'
+      source: 3dfilamentprofiles.com
+      link: https://filamentworld.de/shop/pla-filament-3d-drucker/pla-basic-filament/filamentworld-basic-pla-filament-gold-1-75-mm/

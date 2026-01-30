@@ -1,0 +1,95 @@
+Jarees:
+  PETG Metal:
+    Red Green:
+      hex: '#59815B,#5E2120'
+      source: 3dfilamentprofiles.com
+    Black Bronze:
+      hex: '#635849,#0C0C0C'
+      source: 3dfilamentprofiles.com
+    Bronze Gold:
+      hex: '#AC763F'
+      source: 3dfilamentprofiles.com
+    Metallic Silver:
+      hex: '#969694'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Brown:
+      hex: '#452928'
+      source: 3dfilamentprofiles.com
+    Army Green:
+      hex: '#123518'
+      source: 3dfilamentprofiles.com
+    Racing Green:
+      hex: '#2B5757'
+      source: 3dfilamentprofiles.com
+    Sun Glare Lime Green:
+      hex: '#32CD32'
+      source: 3dfilamentprofiles.com
+    Blue Lagoon:
+      hex: '#00626F'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Magenta Pink:
+      hex: '#D75C99'
+      source: 3dfilamentprofiles.com
+    Merlot Maroon:
+      hex: '#7F171F'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#E32400'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Cyan:
+      hex: '#5FFFFF'
+      source: 3dfilamentprofiles.com
+    Merlot Maroon:
+      hex: '#7F171F'
+      source: 3dfilamentprofiles.com
+    Magenta Pink:
+      hex: '#E62DE0'
+      source: 3dfilamentprofiles.com
+    Ruby Red:
+      hex: '#B51A00'
+      source: 3dfilamentprofiles.com
+  PETG Matte:
+    Light Brown:
+      hex: '#CABC8E'
+      source: 3dfilamentprofiles.com
+    Army Green:
+      hex: '#5A6029'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000019'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Ruby Red:
+      hex: '#AD0000'
+      source: 3dfilamentprofiles.com
+    Dark Silver:
+      hex: '#646E8B'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#C49C48'
+      source: 3dfilamentprofiles.com
+  PETG Tough:
+    Purple:
+      hex: '#1C298D'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Pro:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Silk:
+    Metallic Bronze Gold:
+      hex: '#C49C48'
+      source: 3dfilamentprofiles.com
+    Metallic Red Copper:
+      hex: '#B87605'
+      source: 3dfilamentprofiles.com
+    Metallic Silver:
+      hex: '#BDBDBF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro High Speed:
+    Magenta:
+      hex: '#D75C99'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,8 @@
+3DPO:
+  PLA Basic:
+    'Jet Black ':
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Polar White:
+      hex: '#D2D5D0'
+      source: 3dfilamentprofiles.com

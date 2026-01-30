@@ -1,0 +1,81 @@
+Gryddle:
+  PLA+/Pro Matte:
+    Terracotta:
+      hex: '#FF6A00'
+      source: 3dfilamentprofiles.com
+    Silk Purple:
+      hex: '#89238B'
+      source: 3dfilamentprofiles.com
+  PLA Gradient:
+    Red Gold:
+      hex: '#FFD877,#E63B7A'
+      source: 3dfilamentprofiles.com
+    Transparent blue-white:
+      hex: '#57B9FF,#8ECDFB'
+      source: 3dfilamentprofiles.com
+      link: https://gryddle3d.com
+    Blue / Silver:
+      hex: '#0395F8,#699AD8'
+      source: 3dfilamentprofiles.com
+    Green White:
+      hex: '#80FF80,#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Meteorite Ash:
+      hex: '#A4A4A4'
+      source: 3dfilamentprofiles.com
+    Off-White:
+      hex: '#FFFFBB'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#FF81BA'
+      source: 3dfilamentprofiles.com
+    Coffee Brown:
+      hex: '#674736'
+      source: 3dfilamentprofiles.com
+    Light Blue:
+      hex: '#61B0FF'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Red Yellow Blue:
+      hex: '#FF0080,#FFFF00,#0000FF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Silk:
+    Silk white:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Pink:
+      hex: '#FF81BA'
+      source: 3dfilamentprofiles.com
+    Red Yellow Green:
+      hex: '#6AFA67'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Crystal Clear Jelly:
+      hex: '#C9BBEE'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Misty Rose:
+      hex: '#FFCCCC'
+      source: 3dfilamentprofiles.com
+    Red/Blue:
+      hex: '#FF0000,#001EFF'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#A600FF'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+  PLA Multicolor:
+    pink yellow blue:
+      hex: '#E600A8,#FBFF00,#1E00FF'
+      source: 3dfilamentprofiles.com
+  PLA Matte Dual:
+    Pink and Gold:
+      hex: '#FFD877,#E392FE'
+      source: 3dfilamentprofiles.com

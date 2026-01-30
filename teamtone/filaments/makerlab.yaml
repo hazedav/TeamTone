@@ -1,0 +1,52 @@
+MakerLab:
+  PLA Silk Triple:
+    Blue Green Orange:
+      hex: '#2D5C98,#446F61,#AD7150'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintworx.com.au/product/makerlab-tri-colour-silk/
+    Gold Copper Purple:
+      hex: '#C8AD9A,#A84131,#8D5D75'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintworx.com.au/product/makerlab-tri-colour-silk/
+  PLA Silk:
+    Pink:
+      hex: '#FA8AEE'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintworx.com.au/product/makerlab-pla/
+    Red Copper:
+      hex: '#C8744E'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintworx.com.au/product/makerlab-pla/
+    Silver:
+      hex: '#939694'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintworx.com.au/product/makerlab-pla/
+  PLA+/Pro Marble:
+    Marble White:
+      hex: '#C3C4BF'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintworx.com.au/product/makerlab-pla/
+  PLA+/Pro Chameleon:
+    Mystery Green:
+      hex: '#4D6B59'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintworx.com.au/product/rainbow-filament/
+  PLA+/Pro Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintworx.com.au/product/makerlab-pla/
+  PLA Glow:
+    Jelly Bean Rainbow:
+      hex: '#CFA98F,#819CA0,#956F79'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintworx.com.au/product/glow-in-the-dark-pla/
+  PLA+/Pro Glow:
+    Luminous Flashpoint:
+      hex: '#ADB1A9'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintworx.com.au/product/glow-in-the-dark-pla/
+    Luminous Orange:
+      hex: '#EF9352'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintworx.com.au/product/glow-in-the-dark-pla/

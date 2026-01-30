@@ -1,0 +1,25 @@
+Longer:
+  PLA Basic:
+    Purplish Red:
+      hex: '#D327C5'
+      source: 3dfilamentprofiles.com
+    Light Gold:
+      hex: '#AB9673'
+      source: 3dfilamentprofiles.com
+      link: https://www.longer3d.com/products/longer-pla-filament?variant=44239603204340
+    Cyan:
+      hex: '#25A8EB'
+      source: 3dfilamentprofiles.com
+      link: https://www.longer3d.com/products/longer-pla-filament?variant=44239603007732
+    Gray:
+      hex: '#566474'
+      source: 3dfilamentprofiles.com
+      link: https://www.longer3d.com/products/longer-pla-filament?variant=41994439000308
+    Yellow:
+      hex: '#EEF76E'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Grey:
+      hex: '#73859A'
+      source: 3dfilamentprofiles.com
+      link: https://www.longer3d.com/products/tpu?variant=43986580832500

@@ -1,0 +1,85 @@
+PRILINE 3D:
+  TPU Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Wood:
+      hex: '#A8917A'
+      source: 3dfilamentprofiles.com
+    Black Walnut:
+      hex: '#4D3C35'
+      source: 3dfilamentprofiles.com
+    Dark Wood:
+      hex: '#5A3A20'
+      source: 3dfilamentprofiles.com
+  TPU 98A:
+    Navy:
+      hex: '#000080'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#ABBED1'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#EA6E22'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Blue:
+      hex: '#000080'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Cool White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Fluorescent Blue:
+      hex: '#38A6F5'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#F8E277'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#ADB4BB'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Purple:
+      hex: '#4738B7'
+      source: 3dfilamentprofiles.com
+    Translucent Blue:
+      hex: '#122DAF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Fluorescent:
+    fluorescent orange:
+      hex: '#F59105'
+      source: 3dfilamentprofiles.com
+    fluorescent red:
+      hex: '#F0260F'
+      source: 3dfilamentprofiles.com
+    fluorescent pink:
+      hex: '#E7A4F9'
+      source: 3dfilamentprofiles.com
+    fluorescent yellow:
+      hex: '#ECF934'
+      source: 3dfilamentprofiles.com
+  PC CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

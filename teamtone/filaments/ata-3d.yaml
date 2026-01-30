@@ -1,0 +1,23 @@
+Ata-3d:
+  PLA 2.0:
+    lichtblauw:
+      hex: '#007CB0'
+      source: 3dfilamentprofiles.com
+      link: http://www.ata-3d.com
+    Zwart:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: http://www.ata-3d.com
+    Coral Pink:
+      hex: '#FF38D4'
+      source: 3dfilamentprofiles.com
+      link: https://www.ata-3d.com/en/collections/pla-filament/products/pla-2-0-coral-pink
+  PETG 2.0:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.ata-3d.com/en/collections/petg-2-0-filament/products/petg-2-0-black
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.ata-3d.com/en/collections/petg-2-0-filament/products/petg-2-0-white

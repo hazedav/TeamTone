@@ -1,0 +1,15 @@
+Porima:
+  PLA Marble:
+    Premium:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Premium:
+    Granit:
+      hex: '#E9E9E9'
+      source: 3dfilamentprofiles.com
+      link: https://porima3d.com/products/porima-pla-premium-filament?variant=49132417909083
+  ABS ECO:
+    Beyaz/RAL9003 (White):
+      hex: '#ECECE7'
+      source: 3dfilamentprofiles.com
+      link: https://porima3d.com/products/porima-eco-abs-filament?variant=51217377132891

@@ -1,0 +1,81 @@
+MKOEM:
+  PLA Silk:
+    White:
+      hex: '#F1F2F3'
+      source: 3dfilamentprofiles.com
+    Lime Green:
+      hex: '#B9EF55'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#EEF256'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#DA1B27'
+      source: 3dfilamentprofiles.com
+    Peacock Blue:
+      hex: '#6DD2E9'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#878A8C'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Black/Gold:
+      hex: '#000000,#FFB43F'
+      source: 3dfilamentprofiles.com
+    Duasilk Blackgold:
+      hex: '#8D8907'
+      source: 3dfilamentprofiles.com
+    Yellow/Pink:
+      hex: '#FFF76B,#F4A4C0'
+      source: 3dfilamentprofiles.com
+    Purple/Blue:
+      hex: '#371A94,#00A3D7'
+      source: 3dfilamentprofiles.com
+    Black/Red:
+      hex: '#000000,#FF2600'
+      source: 3dfilamentprofiles.com
+    Black/White:
+      hex: '#000000,#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black/Purple:
+      hex: '#000000,#5E30EB'
+      source: 3dfilamentprofiles.com
+    Lime Green/Blue:
+      hex: '#77BB41,#0042AA'
+      source: 3dfilamentprofiles.com
+    Red/Gold:
+      hex: '#9A244F,#FFB43F'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF8904'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#1447E6'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#02A24C'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#9035F8'
+      source: 3dfilamentprofiles.com
+    Cyan:
+      hex: '#00FFFF'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FCEB31'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FA0511'
+      source: 3dfilamentprofiles.com
+  PLA Color Change (Temp):
+    White to Sapphire Blue:
+      hex: '#56B9FC,#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    Glow in Dark Blue:
+      hex: '#8D9EA6'
+      source: 3dfilamentprofiles.com

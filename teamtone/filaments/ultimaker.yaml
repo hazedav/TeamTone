@@ -1,0 +1,10 @@
+Ultimaker:
+  PLA Basic:
+    Silver Metallic:
+      hex: '#7A7A7A'
+      source: 3dfilamentprofiles.com
+  PA6 Basic:
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://ultimaker.com/materials/s-series-nylon/

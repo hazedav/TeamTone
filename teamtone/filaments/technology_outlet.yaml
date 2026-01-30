@@ -1,0 +1,31 @@
+Technology Outlet:
+  PETG Translucent:
+    Yellow:
+      hex: '#F3EF3A'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Pink:
+      hex: '#FFC0CB'
+      source: 3dfilamentprofiles.com
+    Fucsia:
+      hex: '#D909DC'
+      source: 3dfilamentprofiles.com
+    Chtistmas Green:
+      hex: '#009051'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#E32400'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#593517'
+      source: 3dfilamentprofiles.com
+    Magic Purple:
+      hex: '#430377'
+      source: 3dfilamentprofiles.com
+  PLA Fluorescent:
+    Fluorescent Green:
+      hex: '#B1DD8C'
+      source: 3dfilamentprofiles.com

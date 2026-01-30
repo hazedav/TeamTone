@@ -1,0 +1,30 @@
+Hellbot:
+  PLA Basic:
+    Agua:
+      hex: '#83ECE0'
+      source: 3dfilamentprofiles.com
+      link: https://hellbot.com.ar
+    Rosa/Pink:
+      hex: '#FE80AB'
+      source: 3dfilamentprofiles.com
+      link: https://hellbot.com.ar/filamentos/141-176-pla-ecofila-recarga-filamento-3d-hellbot-175-x-1kg-7798356787609.html#/15-color-rosa
+    Violeta/Violet:
+      hex: '#807DCC'
+      source: 3dfilamentprofiles.com
+      link: https://hellbot.com.ar
+    Graphite Gray:
+      hex: '#383838'
+      source: 3dfilamentprofiles.com
+      link: https://hellbot.com.ar/filamentos/213-340-filamento-hellbot-ecofila-pla-175mm-1kg-lock.html#/11-color-gris_grafito
+    Gray:
+      hex: '#B0B0B0'
+      source: 3dfilamentprofiles.com
+      link: https://hellbot.com.ar/filamentos/213-328-filamento-hellbot-ecofila-pla-175mm-1kg-lock.html#/5-color-gris
+    Rojo:
+      hex: '#F00000'
+      source: 3dfilamentprofiles.com
+      link: https://hellbot.com.ar
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://hellbot.com.ar/filamentos/213-388-filamento-hellbot-ecofila-pla-175mm-1kg-lock.html#/73-color-blanco_intenso

@@ -1,0 +1,8 @@
+Pioneer:
+  PLA Basic:
+    dark green:
+      hex: '#246B39'
+      source: 3dfilamentprofiles.com
+    glow green:
+      hex: '#A8FFC2,#00FF62'
+      source: 3dfilamentprofiles.com

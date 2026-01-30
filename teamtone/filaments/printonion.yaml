@@ -1,0 +1,179 @@
+PrintOnion:
+  ABS Basic:
+    Red:
+      hex: '#ED0707'
+      source: 3dfilamentprofiles.com
+    Transparent Clear:
+      hex: '#FAFAFA'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Pro:
+    Military Green:
+      hex: '#477632'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/butik/filament/pla/pla-pro-khakigron-1000g-1-75mm/
+    Khaki Gray:
+      hex: '#787664'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/sv/filament/pla/klassisk/khaki-gra-1.75mm-1000g
+    Cream Yellow:
+      hex: '#F5E1A4'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/butik/filament/pla/pla-pro-kramgul-1000g-1-75mm/
+    Imitated Wood:
+      hex: '#9E8470'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/butik/filament/pla/pla-pro-khakigron-1000g-1-75mm/
+    Transparent:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/butik/filament/pla/pla-pro-khakigron-1000g-1-75mm/
+    Khaki Green:
+      hex: '#53664A'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/butik/filament/pla/pla-pro-khakigron-1000g-1-75mm/
+  PLA Basic:
+    Mint Green:
+      hex: '#5EB5AD'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/sv/filament/pla/klassisk/mintgron-1.75mm-1000g
+    Viridis Green:
+      hex: '#88F231'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/sv/filament/pla/klassisk/viridisgron-1.75mm-1000g
+    Rose:
+      hex: '#EC3697'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/
+    Green:
+      hex: '#238B2A'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/sv/filament/pla/klassisk/gron-1.75mm-1000g
+    Military Green:
+      hex: '#355031'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/sv/filament/pla/klassisk/militar-gron-1.75mm-1000g
+    Purple:
+      hex: '#864FFE'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/
+    Beige:
+      hex: '#AFA081'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/sv/filament/pla/klassisk/beige-1.75mm-1000g
+    Red:
+      hex: '#F71818'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/sv/filament/pla/klassisk/rod-1.75mm-1000g
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/
+    Pink:
+      hex: '#F69BFF'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/
+    Cyan:
+      hex: '#1E88EB'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/sv/filament/pla/klassisk/morkbla-1.75mm-1000g
+    Marble:
+      hex: '#E7E9EA'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/butik/filament/pla/pla-marble-1000g-1-75mm/
+    Coffee:
+      hex: '#652E1A'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/en/filament/pla/classic/coffee-1.75mm-1000g
+  PETG Matte:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Metal:
+    Bronze:
+      hex: '#CE8946'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/sv/filament/pla/matt/gra-1.75mm-1000g
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Pro:
+    Gray:
+      hex: '#787882'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/sv/filament/pla/klassisk/gra-1.75mm-1000g
+  PLA Gradient:
+    Rainbow:
+      hex: '#9CFFB0'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Light Gray:
+      hex: '#ADADAD'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Mint Green:
+      hex: '#96FFEF'
+      source: 3dfilamentprofiles.com
+    Military Green:
+      hex: '#263E0F'
+      source: 3dfilamentprofiles.com
+    Taro Purple:
+      hex: '#E891E6'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/en/filament/petg/classic/taro-purple-1.75mm-1000g
+    Black:
+      hex: '#141414'
+      source: 3dfilamentprofiles.com
+    Glitter Black:
+      hex: '#232323'
+      source: 3dfilamentprofiles.com
+    Khaki:
+      hex: '#606060'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#919191'
+      source: 3dfilamentprofiles.com
+  PETG CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Transparent:
+      hex: '#EBEBEB'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Purple:
+      hex: '#8910C1'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/en/filament/pla/pro/purple-1.75mm-1000g
+    Grey:
+      hex: '#ADB3B8'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/en/filament/pla/pro/gray-1.75mm-1000g
+    Green:
+      hex: '#238B2A'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/en/filament/pla/pro/green-1.75mm-1000g
+  TPU Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/sv/filament/tpu/klassisk/vit-1.75mm-1000g
+  ASA Basic:
+    Black:
+      hex: '#212721'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/butik/filament/asa/asa-svart-1000g-1-75mm/
+    White:
+      hex: '#F6F8F6'
+      source: 3dfilamentprofiles.com
+      link: https://printonion.com/butik/filament/asa/asa-vit-1000g-1-75mm/

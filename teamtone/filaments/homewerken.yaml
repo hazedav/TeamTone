@@ -1,0 +1,31 @@
+Homewerken:
+  PLA ReFill:
+    Teal (similar Makita):
+      hex: '#008497'
+      source: 3dfilamentprofiles.com
+      link: https://homewerken.de/produkt/homewerken-pla-tuerkisblau/
+    Orange:
+      hex: '#FF6A13'
+      source: 3dfilamentprofiles.com
+      link: https://homewerken.de/produkt/homewerken-pla-refill-filament-orange/
+    Mikado Yellow (similar DeWalt):
+      hex: '#FEBD16'
+      source: 3dfilamentprofiles.com
+      link: https://homewerken.de/produkt/homewerken-pla-refill-filament-gelb/
+    Yellow Green (similar Festool):
+      hex: '#60993B'
+      source: 3dfilamentprofiles.com
+      link: https://homewerken.de/produkt/homewerken-pla-refill-filament-gruen/
+    Blue (similar Bosch Professional):
+      hex: '#064A6C'
+      source: 3dfilamentprofiles.com
+      link: https://homewerken.de/produkt/homewerken-pla-refill-filament-blau/
+    Red:
+      hex: '#8C2C31'
+      source: 3dfilamentprofiles.com
+      link: https://homewerken.de/produkt/homewerken-pla-refill-filament-rot/
+  PLA Matte:
+    Bosch Blue:
+      hex: '#0E518D'
+      source: 3dfilamentprofiles.com
+      link: https://homewerken.de/produkt/homewerken-pla-refill-filament-blau/

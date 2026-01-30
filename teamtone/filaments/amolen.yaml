@@ -1,0 +1,866 @@
+Amolen:
+  PLA Glow:
+    Starry Sky:
+      hex: '#8A8777'
+      source: 3dfilamentprofiles.com
+    Purple, Red, Orange, Blue change 10m:
+      hex: '#BB00FF,#FF0000,#FF7B00,#08BF00'
+      source: 3dfilamentprofiles.com
+    Starry Sky Green:
+      hex: '#28BB67'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF8040'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFEC1A'
+      source: 3dfilamentprofiles.com
+    Shiny Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+    Starry Blue:
+      hex: '#409BBA'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#8218C9'
+      source: 3dfilamentprofiles.com
+    Firefly Blue:
+      hex: '#3EABF9'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-glow?variant=41429892071447
+    Rainbow 5 Meter Change:
+      hex: '#3195F2,#24F5CB,#F25CF5'
+      source: 3dfilamentprofiles.com
+    Rainbow:
+      hex: '#06ED62,#7104E5,#05B1FC'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-glow
+    Red:
+      hex: '#A22020'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#DBE7F0'
+      source: 3dfilamentprofiles.com
+    Firefly Green:
+      hex: '#23FF01'
+      source: 3dfilamentprofiles.com
+    Blue Purple:
+      hex: '#7009FB'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-glow?variant=41718427287575
+    in the Dark Green:
+      hex: '#69F76B'
+      source: 3dfilamentprofiles.com
+    White (Glows White):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-glow?variant=41718427516951
+  PLA Silk Dual:
+    Red - Black:
+      hex: '#FF0000,#000000'
+      source: 3dfilamentprofiles.com
+    Green/Yellow:
+      hex: '#B4EB6F'
+      source: 3dfilamentprofiles.com
+    Gold Fuchsia:
+      hex: '#FAD000,#E0008E'
+      source: 3dfilamentprofiles.com
+    Gradient Red Gold:
+      hex: '#FF6A00'
+      source: 3dfilamentprofiles.com
+    Peach/Orange:
+      hex: '#F98753'
+      source: 3dfilamentprofiles.com
+    Black/Red:
+      hex: '#FF0000,#000000'
+      source: 3dfilamentprofiles.com
+    Red/Green:
+      hex: '#DF114F,#06B729'
+      source: 3dfilamentprofiles.com
+    Black/Silver:
+      hex: '#C0C0C0,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-dual?variant=41760058146839
+    Black/Green:
+      hex: '#077912,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-dual?variant=41760057950231
+    black pink:
+      hex: '#F76ECB,#000000'
+      source: 3dfilamentprofiles.com
+    Red/Blue:
+      hex: '#D71D68,#3125D4'
+      source: 3dfilamentprofiles.com
+    Blue/Fuchsia:
+      hex: '#D357FE,#0433FF'
+      source: 3dfilamentprofiles.com
+    Red/Gold:
+      hex: '#FF9628,#D71D68'
+      source: 3dfilamentprofiles.com
+    Silk Dual Color Black/Green:
+      hex: '#5FAD47,#000000'
+      source: 3dfilamentprofiles.com
+    S-Series Green Fuchsia:
+      hex: '#00C217,#F207EB'
+      source: 3dfilamentprofiles.com
+    Purple Green:
+      hex: '#15D166,#800080'
+      source: 3dfilamentprofiles.com
+    Black/Orange:
+      hex: '#C36230,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-dual?variant=41795993436183
+    Blue Green/Coral:
+      hex: '#007B94,#DB6E6E'
+      source: 3dfilamentprofiles.com
+    Black/Purple:
+      hex: '#8000FF,#000000'
+      source: 3dfilamentprofiles.com
+    Shiny Gold Purple:
+      hex: '#F7D26E'
+      source: 3dfilamentprofiles.com
+    Black/Blue:
+      hex: '#014474,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-dual?variant=41760017416215
+    Blue/Green:
+      hex: '#064AB7,#14A201'
+      source: 3dfilamentprofiles.com
+    Black/Gold:
+      hex: '#000000,#A96800'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Dark Green:
+      hex: '#005025'
+      source: 3dfilamentprofiles.com
+    Chestnut Brown:
+      hex: '#4B411B'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0011FF'
+      source: 3dfilamentprofiles.com
+    Bronze:
+      hex: '#4C4F27'
+      source: 3dfilamentprofiles.com
+    Paper White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Forest Green:
+      hex: '#0D4D52'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-basic-high-speed?variant=40767918342167
+    Ocean Blue:
+      hex: '#10435E'
+      source: 3dfilamentprofiles.com
+    Lime Green:
+      hex: '#73EE20'
+      source: 3dfilamentprofiles.com
+    Peach Fuzz (Flesh color):
+      hex: '#FFD9C6'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-basic-high-speed
+    Cheese Yellow:
+      hex: '#FED76C'
+      source: 3dfilamentprofiles.com
+    Carrot Orange:
+      hex: '#FF6B20'
+      source: 3dfilamentprofiles.com
+    Koala Grey:
+      hex: '#606060'
+      source: 3dfilamentprofiles.com
+    Lavender:
+      hex: '#7248BD'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-basic-high-speed?variant=41670965592087
+    Sakura Pink:
+      hex: '#E8AFCF'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-basic-high-speed?variant=41670965690391
+    Apple Red:
+      hex: '#B70620'
+      source: 3dfilamentprofiles.com
+    Charcoal Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Peach Fuzz:
+      hex: '#C0AC9B'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-basic-high-speed?variant=41723932442647
+    Ice Blue:
+      hex: '#A7DDF4'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-basic-high-speed?variant=41670965493783
+  PLA Silk Rainbow:
+    Blue / Red / yellow green:
+      hex: '#0000FF,#FF0000,#9ACD32'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-rainbow
+    Bloom Rainbow:
+      hex: '#6ABCF6,#96D35F,#FFB5AF'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-rainbow
+    Yellow, Pink, Blue:
+      hex: '#CCD1B7,#CEBBCB,#A9CFEA'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-rainbow
+    Apple Rainbow:
+      hex: '#B1DD8C,#EBF38F,#FF8C82'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-rainbow
+    S-Series Rainbow Twilight:
+      hex: '#FF40FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-s-series?variant=41755153137687
+    Christmas:
+      hex: '#B92D5D,#0056D6,#669C35'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-rainbow
+    S-Series Blue Pink White:
+      hex: '#F9D3E0,#8AC8F4,#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-rainbow
+    Blue/Pink/White:
+      hex: '#53D5FD,#E392FE,#CAF0FE'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-rainbow
+    Brighter Red/Gold:
+      hex: '#E32400,#FF8647'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-rainbow
+    Metal Rainbow:
+      hex: '#7A4A00,#606060,#FFD877'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-rainbow?variant=31081938354199
+    Gradient Azure (Green/Blue):
+      hex: '#345ABB,#5BDBF5'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-shiny?variant=40532768948247
+    Blue/Red/Yellow/Green:
+      hex: '#0433FF,#FF2600,#FFFB00'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-s-series
+  PLA Silk:
+    Red Blue:
+      hex: '#FE0101,#0D32E7'
+      source: 3dfilamentprofiles.com
+    Baby Blue:
+      hex: '#9FF0F9'
+      source: 3dfilamentprofiles.com
+    Neon Green:
+      hex: '#ACF02D'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-basic
+    Silk Dual Color Red Black:
+      hex: '#DA5B73,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-basic
+    Coffee:
+      hex: '#7A4A00'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-basic?srsltid=AfmBOorGKmuyx63y2Qb-d2if6sFf0sVFpmhXmchy6pCktZQCf4tRKEbo
+    Blue/Silver:
+      hex: '#202B63'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-basic
+    S-Series Blue/Pink/White:
+      hex: '#F9D3E0,#8AC8F4,#FFFFFF'
+      source: 3dfilamentprofiles.com
+    S-series Twilight:
+      hex: '#FF3A30,#0161FD,#B1DD8B'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-basic
+    S-Series Black/Pink/White:
+      hex: '#000000,#DB4F79,#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-s-series?variant=40819068895255
+    Red Copper:
+      hex: '#FF4013'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-s-series
+    S-Series Black/Red/Yellow:
+      hex: '#5C0701,#000000,#DFF769'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-s-series?variant=40767941345303
+    Black/Red:
+      hex: '#AF2E3E,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-dual-pack?variant=41429847080983
+    Black/Blue/Purple:
+      hex: '#000000,#223D79,#4E2573'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-s-series-pack-full?variant=41560668700695
+    Black/Purple:
+      hex: '#B96CBB,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-dual-pack?variant=41429847080983
+    S-Series Red/White:
+      hex: '#E27A7A,#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#87CEEB'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-basic
+    Orange:
+      hex: '#FF6B15'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-basic
+    Gradient Black Shiny Green:
+      hex: '#050505,#033A18'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-basic
+    Aged Brass:
+      hex: '#C88A65'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#BDBDBD'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-basic
+    Shiny Gradient Red Silver:
+      hex: '#7F1F1F'
+      source: 3dfilamentprofiles.com
+    S-Series Blue/Green/Red:
+      hex: '#0000FF,#008000,#FF0000'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#FF7EFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-basic
+    Starry Sky Dark Purple:
+      hex: '#2B2A43'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-basic
+    Shiny Gradient Blue Green:
+      hex: '#568ABD'
+      source: 3dfilamentprofiles.com
+    Shiny Silk Purple:
+      hex: '#874EFE'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-basic?variant=40616904654871
+    Black Red Gold:
+      hex: '#941100'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-basic
+    Bronze Green:
+      hex: '#698500'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-basic?variant=41399883792407
+    Black/Green:
+      hex: '#6CB194,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-dual-pack?variant=41429847080983
+    S-Series Red/Black:
+      hex: '#FF0000,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-s-series?variant=40833693319191
+    Yellow/Pink/Blue:
+      hex: '#F5F769,#F976AA,#6DBEF8'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-basic
+    Shiny Silk White:
+      hex: '#EDF0F2'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-basic
+    Nebula Ribbon:
+      hex: '#0080FF,#FF00FF,#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-basic
+    S-Series Amber Sea:
+      hex: '#AF412C,#F7E84F,#7FCAE3'
+      source: 3dfilamentprofiles.com
+    Shiny Dark Gray:
+      hex: '#5B5757'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-basic
+    Purple:
+      hex: '#6E08D4'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-basic
+    S-series Blue/Pink/Green:
+      hex: '#F9D3E0,#008000,#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-basic
+    Sapphire Blue:
+      hex: '#2A66A7'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-basic
+    Rainbow Quick:
+      hex: '#FF0000,#04FA00,#0095FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-s-series
+    Red/Gold (Dark Gradient):
+      hex: '#751E18,#BB4609,#FFCD74'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-basic
+    Shiny Gradient Blue Silver:
+      hex: '#452D7B'
+      source: 3dfilamentprofiles.com
+    Shiny Gradient Red Gold:
+      hex: '#EF0101'
+      source: 3dfilamentprofiles.com
+    Metal Gold:
+      hex: '#D3AF37'
+      source: 3dfilamentprofiles.com
+    Black/Turquoise/Fuchsia:
+      hex: '#000000,#87B4A6,#8A087B'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-s-series?variant=41647021654039
+    S-Series Berry Pop:
+      hex: '#FFFF80,#0080FF,#FF0080'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-s-series
+    Black/Blue:
+      hex: '#0B2AA6,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-dual-pack?variant=41429847080983
+    Sakura Pink:
+      hex: '#FFBAFF'
+      source: 3dfilamentprofiles.com
+  PLA Matte Rainbow:
+    Red/Yellow/Blue:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+  TPU Glow:
+    Blue:
+      hex: '#0573C2'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#F76E6E'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Rose, Red, Light Blue:
+      hex: '#A679AF,#F76969,#62ABDF'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com
+    Red Yellow Blue:
+      hex: '#FF0000,#FFFF00,#0000A0'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com
+    Red Gold Purple:
+      hex: '#831100,#FFFF00,#8000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com
+    Gold Fuchsia Green:
+      hex: '#FAD000,#E0008E,#027A00'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com
+    Black Turquoise Magenta:
+      hex: '#80638D'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com
+    Blue Red Green:
+      hex: '#0080FF,#FF0000,#008040'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-triple?variant=40585188999191
+    Black / Pink / White:
+      hex: '#000000,#E8AFCF,#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com
+    Coral, Gold, Turquouise:
+      hex: '#B89BC5,#A69D64,#6FB8EC'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com
+    Black/ Red / Green:
+      hex: '#000000,#FF0000,#3ECE38'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com
+    Black / Blue / Purple:
+      hex: '#000000,#0C41DF,#8218C9'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com
+    Blue-Pink-Green:
+      hex: '#60BAFB,#ECC5F7,#255F0C'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com
+    Red Green Blue:
+      hex: '#FD3030,#016F0E,#402CD8'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com
+    Gold Silver Copper:
+      hex: '#E1DA94,#C39765,#94A8BC'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com
+    Blue/Green/Orange:
+      hex: '#0000FF,#008000,#FFA500'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com
+    Gold Fuschia Black:
+      hex: '#000000,#C5167C,#CB9215'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-silk-triple
+  PLA Wood:
+    Light Wood Rainbow - Maple / Chestnut/ Oak / Candelight:
+      hex: '#CC6714'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-wood
+    Tigerwood:
+      hex: '#5D2D28'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-wood
+    Dry Rosewood:
+      hex: '#3A120D'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-wood
+    Yellow Pearwood:
+      hex: '#A24A2D'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-wood
+    Cherry Wood:
+      hex: '#FF885E'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-wood
+    White Oak:
+      hex: '#C8B99C'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-wood
+    Red Wood:
+      hex: '#AA7942'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-wood
+    Red Cedar:
+      hex: '#E43421'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-wood
+    Walnut Wood:
+      hex: '#846648'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-wood?variant=40532831109143
+    Bamboo Wood:
+      hex: '#AC967A'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-wood
+    Rose Wood:
+      hex: '#490D09'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-wood
+    Ebony Black Wood:
+      hex: '#232323'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-wood
+  PLA CF:
+    Burgundy Red:
+      hex: '#874C62'
+      source: 3dfilamentprofiles.com
+    Sapphire Blue:
+      hex: '#120E28'
+      source: 3dfilamentprofiles.com
+    Dark Grey:
+      hex: '#5C5C5C'
+      source: 3dfilamentprofiles.com
+    Light Grey:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+  TPU Basic:
+    Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/tpu-basic?variant=41050753597463
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Precious Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Transparent Blue:
+      hex: '#2B78E2'
+      source: 3dfilamentprofiles.com
+    Transparent Green:
+      hex: '#48BF53'
+      source: 3dfilamentprofiles.com
+    Paper White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/tpu-basic?variant=42005404450839
+    Transparent Yellow:
+      hex: '#FBE802'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/tpu-basic?variant=42005404549143
+  PLA Metal:
+    Iron:
+      hex: '#292929'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Transparent Blue White:
+      hex: '#74C3FB'
+      source: 3dfilamentprofiles.com
+      link: https://www.amazon.com/dp/B0D86MXRV6
+    Transparent Blue Green:
+      hex: '#90E9AA,#00EC50,#00C7FC'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-transparent?variant=42001489494039
+    Crystal Blue:
+      hex: '#A3CBFF'
+      source: 3dfilamentprofiles.com
+    Crystal Green Clear:
+      hex: '#A1E3D8'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-transparent?variant=42328949882903
+    Orange:
+      hex: '#FF9A64'
+      source: 3dfilamentprofiles.com
+    Crystal Orange:
+      hex: '#F75B28'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-transparent
+    Blue/Purple:
+      hex: '#0880F7,#AE13F6'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-transparent?variant=
+  PETG Translucent:
+    Transparent Red:
+      hex: '#DD0808'
+      source: 3dfilamentprofiles.com
+    Transparent Blue:
+      hex: '#1C2DAB'
+      source: 3dfilamentprofiles.com
+    Transparent Green:
+      hex: '#178724'
+      source: 3dfilamentprofiles.com
+    Transparent (Clear):
+      hex: '#BEC3C6'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Transparent Orange:
+      hex: '#FF5448'
+      source: 3dfilamentprofiles.com
+    Transparent Black:
+      hex: '#666666'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#3ECE38'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#01062F'
+      source: 3dfilamentprofiles.com
+    Transparent Purple:
+      hex: '#FF21FC'
+      source: 3dfilamentprofiles.com
+  PLA Marble:
+    Yellow Feldspar Rock:
+      hex: '#D1A97B'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-marble?variant=40779140366359
+    Turquoise:
+      hex: '#89B6D7'
+      source: 3dfilamentprofiles.com
+    Cement Gray:
+      hex: '#6B6D6C'
+      source: 3dfilamentprofiles.com
+    Green Schist:
+      hex: '#A67407,#999999'
+      source: 3dfilamentprofiles.com
+    Rainbow Rock:
+      hex: '#5A1C00'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-marble?variant=40779140169751
+    Brick Red:
+      hex: '#530404'
+      source: 3dfilamentprofiles.com
+    Sedimentary Rock:
+      hex: '#131B20'
+      source: 3dfilamentprofiles.com
+    Fossil Gradient:
+      hex: '#533C23,#856F57,#1E0F00'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-marble?variant=41520364257303
+    Marble:
+      hex: '#D4D4D4'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-marble
+  PLA+/Pro High Speed:
+    Lilac Purple:
+      hex: '#F1CFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-plus-high-speed
+    Sea Blue:
+      hex: '#004492'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-plus-high-speed
+    Peach Fuzz:
+      hex: '#FFE5B4'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-plus-high-speed
+  PLA Glitter:
+    Shiny Silver:
+      hex: '#D6D6D6'
+      source: 3dfilamentprofiles.com
+    Christmas Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Christmas Green:
+      hex: '#366B33'
+      source: 3dfilamentprofiles.com
+    Shiny Gold:
+      hex: '#DFA934'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#59CCD9'
+      source: 3dfilamentprofiles.com
+    Shiny Black Yellow Green:
+      hex: '#221E1F,#F2E553,#52BA5D'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-shiny-glitter?variant=41830183272471
+  PLA Matte:
+    Lilac Purple:
+      hex: '#C8A2C8'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-matte?variant=
+    Moon Grey:
+      hex: '#909090'
+      source: 3dfilamentprofiles.com
+    Lemon Yellow:
+      hex: '#EBF924'
+      source: 3dfilamentprofiles.com
+    Terracotta:
+      hex: '#C27E6B'
+      source: 3dfilamentprofiles.com
+    Quartz White:
+      hex: '#F2F2F2'
+      source: 3dfilamentprofiles.com
+    Sakura Pink:
+      hex: '#DEAAC0'
+      source: 3dfilamentprofiles.com
+    Sand Beige:
+      hex: '#C1AF92'
+      source: 3dfilamentprofiles.com
+  TPU:
+    Pin Blue Green Orange Transparent Rainbow:
+      hex: '#0056D6,#77BB41,#FF6A00'
+      source: 3dfilamentprofiles.com
+  PLA High Speed:
+    Sakura Pink:
+      hex: '#EDB3D3'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-basic-high-speed?variant=41670965690391
+    Blue/Bright Yellow:
+      hex: '#0000D9,#E9EA00'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-basic-high-speed
+  PLA+/Pro Basic:
+    Chameleon Green:
+      hex: '#367D53'
+      source: 3dfilamentprofiles.com
+  PLA:
+    Shiny Silver:
+      hex: '#D4D4D4'
+      source: 3dfilamentprofiles.com
+    Shiny Glitter Gold:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-shiny-glitter?variant=41828384800791
+  PLA Crystal:
+    Blue Purple:
+      hex: '#7B338B,#5C40A8,#6AB3EA'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-transparent?variant=42001489592343
+  TPU 95A:
+    Blue Purple:
+      hex: '#5F33E8'
+      source: 3dfilamentprofiles.com
+    Transparent Rainbow Blue/Green/Orange:
+      hex: '#0056D6,#77BB41,#FF6A00'
+      source: 3dfilamentprofiles.com
+    Red Green Purple Orange Translucent Rainbow Autumnal:
+      hex: '#AC1112,#4F5321,#78362D,#E26F28'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/tpu-flexible?variant=40767901138967
+    Grey:
+      hex: '#4D4F51'
+      source: 3dfilamentprofiles.com
+    Clear:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/tpu-basic?variant=42005404647447
+  PLA Color Change (Temp):
+    Pine Green / Brown / Yellow:
+      hex: '#252C3F,#895129,#FFDE21'
+      source: 3dfilamentprofiles.com
+    Black / Red / Yellow:
+      hex: '#000000,#FF4015,#FECB3E'
+      source: 3dfilamentprofiles.com
+    Change-orange to White:
+      hex: '#FC602B,#FFFFFF'
+      source: 3dfilamentprofiles.com
+  TPU Rainbow:
+    Pink/Blue/Green/Orange:
+      hex: '#FF6EFF,#005AFF,#6EC531,#C7712F'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/tpu-rainbow?variant=42103865573399
+    Blue/Green/Orange:
+      hex: '#005AFF,#6EC531,#C7712F'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/tpu-rainbow?variant=42103865573399
+  PETG Basic:
+    Rainbow:
+      hex: '#FF0000,#0000FF,#00FF00'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/petg-basic?variant=41966359379991
+    Grey:
+      hex: '#D9D9D9'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/petg-basic?variant=41795924492311
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/petg-basic?variant=41795924394007
+    Blue:
+      hex: '#0C41DF'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/petg-basic?variant=41966359478295
+  PLA Matte Dual:
+    Cyan Chartreuse:
+      hex: '#53D5FD,#98BB31'
+      source: 3dfilamentprofiles.com
+    Amolen PLA Matte Dual Green/Purple:
+      hex: '#D507C4,#07F24E'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-matte-dual-filament-1-75mm-1kg-2-2lb?variant=42111989153815
+  PLA Rainbow:
+    Multicolor:
+      hex: '#680077,#006A3F,#BB00B8'
+      source: 3dfilamentprofiles.com
+  TPU Translucent:
+    Purple Pink Orange Green:
+      hex: '#B93DE6,#E06EF7,#F76E6E,#6EF797'
+      source: 3dfilamentprofiles.com
+  PLA Galaxy:
+    Green:
+      hex: '#033008'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-galaxy?variant=41761310801943
+    Galaxy-Shiny Polarized Purple Blue:
+      hex: '#394C70,#3B3A6A'
+      source: 3dfilamentprofiles.com
+      link: https://www.amolen.com/products/pla-galaxy?variant=41999581085719
+  PLA+/Pro Tough:
+    Koala Grey:
+      hex: '#696B6D'
+      source: 3dfilamentprofiles.com
+  PETG Rainbow:
+    Multicolor Rainbow:
+      hex: '#730075,#D74747,#FAD900,#66EA69'
+      source: 3dfilamentprofiles.com
+  PLA Luminous Rainbow:
+    Rainbow:
+      hex: '#00C3F7,#50FF8F,#A55FFF'
+      source: 3dfilamentprofiles.com
+  PLA Gradient:
+    Gradient Red Gold:
+      hex: '#C93131,#D7BB2D'
+      source: 3dfilamentprofiles.com

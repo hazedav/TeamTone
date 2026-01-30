@@ -1,0 +1,42 @@
+Carbon:
+  PETG:
+    Food Grade - White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://comfymaterials.com/product/certified-food-grade-petg-3d-printer-filament-carbon-by-comfy-materials-lab-tested-fda-compliant-food-safe-1-75mm-1kg-accuracy-0-02/
+    Food Safe Green:
+      hex: '#32C759'
+      source: 3dfilamentprofiles.com
+      link: https://comfymaterials.com/product/certified-food-grade-petg-3d-printer-filament-carbon-by-comfy-materials-lab-tested-fda-compliant-food-safe-1-75mm-1kg-accuracy-0-02/
+    Food Grade - Gray:
+      hex: '#616161'
+      source: 3dfilamentprofiles.com
+      link: https://comfymaterials.com/product/certified-food-grade-petg-3d-printer-filament-carbon-by-comfy-materials-lab-tested-fda-compliant-food-safe-1-75mm-1kg-accuracy-0-02/
+    Food Grade - Semi Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://comfymaterials.com/product/certified-food-grade-petg-3d-printer-filament-carbon-by-comfy-materials-lab-tested-fda-compliant-food-safe-1-75mm-1kg-accuracy-0-02/
+    Food Grade - Blue:
+      hex: '#42B0FF'
+      source: 3dfilamentprofiles.com
+      link: https://comfymaterials.com/product/certified-food-grade-petg-3d-printer-filament-carbon-by-comfy-materials-lab-tested-fda-compliant-food-safe-1-75mm-1kg-accuracy-0-02/
+  PETG Basic:
+    Purple:
+      hex: '#761858'
+      source: 3dfilamentprofiles.com
+  PLA:
+    Food Grade Gray:
+      hex: '#999999'
+      source: 3dfilamentprofiles.com
+    Food Grade - White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Translucent:
+    Natural:
+      hex: '#E1E8EF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Special:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://comfymaterials.com/product/high-speed-certified-food-grade-pla-3d-printer-filament-60-600mm-s-carbon-by-comfy-materials-lab-tested-fda-compliant-food-safe-1-75mm-1kg-accuracy-0-02/

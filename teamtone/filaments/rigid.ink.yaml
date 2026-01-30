@@ -1,0 +1,10 @@
+Rigid.ink:
+  PETG Basic:
+    Green:
+      hex: '#30661A'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Blue:
+      hex: '#003F9E'
+      source: 3dfilamentprofiles.com
+      link: https://www.rigid.ink

@@ -1,0 +1,75 @@
+Tronxy:
+  PA (Nylon) Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#27B2FD'
+      source: 3dfilamentprofiles.com
+      link: https://www.tronxy3d.com/products/3d-flexible-blue-tpu-filament-1-75-mm-2-2-lbs-1kg
+  PLA Fluorescent:
+    Fluorescent Green:
+      hex: '#93FF88'
+      source: 3dfilamentprofiles.com
+    Fluo-Orange:
+      hex: '#FF8800'
+      source: 3dfilamentprofiles.com
+  PLA:
+    Golden:
+      hex: '#B49F15'
+      source: 3dfilamentprofiles.com
+      link: https://www.tronxy3d.com/collections/pla-filaments
+    Purple:
+      hex: '#521B92'
+      source: 3dfilamentprofiles.com
+  PETG Metal:
+    Light Grey:
+      hex: '#C2C2C2'
+      source: 3dfilamentprofiles.com
+      link: https://www.tronxy3d.com/collections/petg-filament/products/petg-3d-printer-filament-1-75mm-diameter-tolerance-0-05-mm-1-kg-2-2lbs-spool-1-75-mm-petg-filament-for-3d-printer-transparent-red
+    Metal China Red:
+      hex: '#490627'
+      source: 3dfilamentprofiles.com
+      link: https://www.tronxy3d.com/collections/petg-filament/products/petg-3d-printer-filament-1-75mm-diameter-tolerance-0-05-mm-1-kg-2-2lbs-spool-1-75-mm-petg-filament-for-3d-printer-transparent-red
+  PLA Luminous Rainbow:
+    Glow Rainbow:
+      hex: '#FF0000,#00FF00,#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.tronxy3d.com/products/im-dunkeln-leuchtendes-3d-drucker-filament-leuchtendes-mehrfarbiges-pla-filament-1-75-mm-farbverlauf-1-kg-2-2-lbs-1-spule-regenbogen-pla-mehrfarbige-anderungen?srsltid=AfmBOooEQOTWrsYEdBnGU6aUDFA4evb-I7E6wGW3FcrNRu_rcLwqgdda
+    White:
+      hex: '#E0EDD4'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Purple:
+      hex: '#521FE0'
+      source: 3dfilamentprofiles.com
+    Metal Orchid:
+      hex: '#290B60'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    orange blue green:
+      hex: '#FF8000,#0000FF,#00FF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.tronxy3dprinter.com/products/tronxy-tricolor-silk-pla-3d-printer-filament-1-75mm-silk-triple-color-3d-printing-filament-1-kg-spool-2-2-lbs-easy-print-for-3d-printer
+    Red / Yellow / Blue:
+      hex: '#E80040,#FCC132,#0068D3'
+      source: 3dfilamentprofiles.com
+      link: https://www.tronxy3d.com/collections/tri-color-coextrusion-pla-filament/products/tronxy-3d-printer-filament-tri-color-coextrusion-pla-filament-1-75mm-silk-red-yellow-blue-filament-3d-printing-filament-0-05mm-1kg-2-2lbs
+  PLA Glow:
+    orange:
+      hex: '#FF6820'
+      source: 3dfilamentprofiles.com
+    blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+    green:
+      hex: '#00C400'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    White:
+      hex: '#FAFAFA'
+      source: 3dfilamentprofiles.com

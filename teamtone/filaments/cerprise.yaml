@@ -1,0 +1,27 @@
+Cerprise:
+  PLA Silk:
+    Gold:
+      hex: '#FBD86B'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#E8ECEF'
+      source: 3dfilamentprofiles.com
+    Bronze:
+      hex: '#EAE9B1'
+      source: 3dfilamentprofiles.com
+    Copper:
+      hex: '#E28068'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Dark grey:
+      hex: '#333333'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#669C35'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF6251'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0056D6'
+      source: 3dfilamentprofiles.com

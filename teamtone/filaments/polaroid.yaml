@@ -1,0 +1,59 @@
+Polaroid:
+  PLA Premium:
+    Dark Green:
+      hex: '#054D00'
+      source: 3dfilamentprofiles.com
+      link: https://www.polaroid3d.com/filament
+    Yellow:
+      hex: '#EEFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.polaroid3d.com/filament
+    Light Green:
+      hex: '#B0F7C2'
+      source: 3dfilamentprofiles.com
+      link: https://www.polaroid3d.com/filament
+    Transparent Blue:
+      hex: '#04529F'
+      source: 3dfilamentprofiles.com
+      link: https://www.polaroid3d.com/filament
+    Purple:
+      hex: '#6E27F1'
+      source: 3dfilamentprofiles.com
+      link: https://www.polaroid3d.com/filament
+    Blue:
+      hex: '#001EFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.polaroid3d.com/filament
+    Silver:
+      hex: '#7A7D7F'
+      source: 3dfilamentprofiles.com
+      link: https://www.polaroid3d.com/filament
+    Orange:
+      hex: '#FF6C00'
+      source: 3dfilamentprofiles.com
+      link: https://www.polaroid3d.com/filament
+    Magenta:
+      hex: '#D83163'
+      source: 3dfilamentprofiles.com
+      link: https://www.polaroid3d.com/filament
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.polaroid3d.com/filament
+  PLA Silk:
+    Pink:
+      hex: '#FF73FF'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0AC0F5'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#80FF80'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#84888A'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,40 @@
+Sakata3D:
+  PLA Basic:
+    Yellow:
+      hex: '#FFEF24'
+      source: 3dfilamentprofiles.com
+    Skin Tone 1:
+      hex: '#F9E0CC'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#52B52D'
+      source: 3dfilamentprofiles.com
+      link: https://sakata3d.com/es/content/13-pla-go-and-print
+  PLA Magic:
+    Silver:
+      hex: '#778188'
+      source: 3dfilamentprofiles.com
+      link: https://sakata3d.com/en/pla-850-magic/149-385-pla-magic-850-silver.html#/diameter-175_mm/weight-1000g
+    Magic Purple:
+      hex: '#644C93'
+      source: 3dfilamentprofiles.com
+      link: https://ecommerce.sakata3d.com/en/magic-particulas/181-93-pla-850-magic-purple.html#/1-diameter-175_mm/2-weight-1000g
+  PLA Silk:
+    Wine:
+      hex: '#6D1D29'
+      source: 3dfilamentprofiles.com
+      link: https://ecommerce.sakata3d.com/en/silk-seda/177-91-pla-850-silk-wine.html#/1-diameter-175_mm/2-weight-1000g
+  TPU Flexible:
+    Yellow:
+      hex: '#F6FA00'
+      source: 3dfilamentprofiles.com
+  PLA High Speed:
+    Fluor Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://ecommerce.sakata3d.com/en/pla-high-speed-pro-alta-velocidad/601-pla-high-speed-pro-fluor-red.html#/25-diameter-175_mm/29-weight-1000g
+  PLA Flexible:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://sakata3d.com/es/content/26-flex-920

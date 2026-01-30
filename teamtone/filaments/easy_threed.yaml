@@ -1,0 +1,23 @@
+Easy Threed:
+  PLA Basic:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#F9C806'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0080FF'
+      source: 3dfilamentprofiles.com
+  TPU Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.aliexpress.us/item/3256806984924497.html?gatewayAdapt=glo2usa4itemAdapt
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PETG Marble:
+    Marble:
+      hex: '#A1A1A1,#1A1A1A'
+      source: 3dfilamentprofiles.com

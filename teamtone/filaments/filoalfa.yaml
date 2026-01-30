@@ -1,0 +1,18 @@
+Filoalfa:
+  PLA Silk:
+    Blu Metal:
+      hex: '#3757F6'
+      source: 3dfilamentprofiles.com
+  PP CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.filoalfa3d.com/it/content/46-PPCF
+  PLA Basic:
+    Black (Carbon):
+      hex: '#1B1E23'
+      source: 3dfilamentprofiles.com
+  PLA Blend:
+    Terracotta:
+      hex: '#D1772E'
+      source: 3dfilamentprofiles.com

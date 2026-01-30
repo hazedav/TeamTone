@@ -1,0 +1,9 @@
+Synergy 21:
+  PLA Basic:
+    Rot:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Translucence Purple:
+      hex: '#B000B3'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,268 @@
+Redline Filament:
+  PLA Basic:
+    Blau (Pantone 7691 C):
+      hex: '#3E8CDC'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-filament
+    Schwarz (RAL 7017):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-filament
+    Weiß (RAL 9003):
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-filament
+    Hellrotorange:
+      hex: '#FFAB01'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-filament
+    Neon Grün:
+      hex: '#25EF72'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-filament
+    Honiggelb:
+      hex: '#7A4A00'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-filament
+    Pink:
+      hex: '#F4A4C0'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-filament
+    'Lila (RAL 4005) ':
+      hex: '#8B66E4'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-filament
+    Cream Weiß RAL 9001:
+      hex: '#FEFCF6'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-filament
+    Gelbgold:
+      hex: '#D2A331'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-filament
+    Bronzegold:
+      hex: '#76623F'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-filament
+    Himmelblau:
+      hex: '#3583C3'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-filament
+    Apfelgrün:
+      hex: '#6FB02E'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-filament
+    Kupferbraun:
+      hex: '#B56231'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-filament
+    Rot:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-filament/products/premium-pla-rot
+    Transparent/Natur:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-filament/products/premium-pla-transparent
+    Weinrot:
+      hex: '#650023'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-filament
+    Magenta:
+      hex: '#B52678'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/products/pla-magenta
+    Sulfur Yellow:
+      hex: '#FFF700'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-filament/products/pla-schwefelgelb
+    Beigebraun:
+      hex: '#A66540'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-filament/products/pla-filament-beigebraun
+    Kobaltblau:
+      hex: '#193153'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-filament/products/pla-filament-kobaltblau?variant=39782943981614
+  PLA Silk:
+    Gold:
+      hex: '#C4BC00'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Rot Transparent:
+      hex: '#AD3E00'
+      source: 3dfilamentprofiles.com
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Glitter:
+    Eisengrau:
+      hex: '#555555'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/products/glitzer-pla-eisengrau
+    Signallila:
+      hex: '#971874'
+      source: 3dfilamentprofiles.com
+    Smaragdgrün:
+      hex: '#629858'
+      source: 3dfilamentprofiles.com
+    Olivgelb:
+      hex: '#DABE01'
+      source: 3dfilamentprofiles.com
+    Glitzer Ultramarin-blau:
+      hex: '#2B2C7C'
+      source: 3dfilamentprofiles.com
+    Glitzer PLA:
+      hex: '#0F2C8A'
+      source: 3dfilamentprofiles.com
+    Schwarz (Goldglitzer):
+      hex: '#191A1A'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/products/glitzer-pla-opalgrun?variant=39449491800110
+    Opalgrün:
+      hex: '#285007'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Eisengrau:
+      hex: '#212427'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-matt/products/pla-eisengrau
+    Moosgrau:
+      hex: '#64712F'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-matt
+    Orange:
+      hex: '#FF8040'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-matt/products/pla-matt-orange
+    Verkehrsweiß:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-matt/products/pla-verkehrsweiss
+    Violett:
+      hex: '#B93C8D'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-matt/products/kopie-von-pla-matt-moosgrau
+    Capriblau:
+      hex: '#006480'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-matt/products/pla-matt-capriblau
+    Graphitschwarz:
+      hex: '#020303'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/pla-matt
+  PLA Wood:
+    Wood Schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Hellbraun:
+      hex: '#CAB88E'
+      source: 3dfilamentprofiles.com
+  PLA Silk Mystic:
+    Gelb Lila:
+      hex: '#FFFB00,#942192'
+      source: 3dfilamentprofiles.com
+    Gold Aluminium:
+      hex: '#CAA64B,#BAB9B6'
+      source: 3dfilamentprofiles.com
+    Blau Grün:
+      hex: '#00306B,#0C643B'
+      source: 3dfilamentprofiles.com
+    Grün Gelb:
+      hex: '#02570A,#84BD01'
+      source: 3dfilamentprofiles.com
+    Pink Lila:
+      hex: '#5D43AE,#C379C9'
+      source: 3dfilamentprofiles.com
+    Lila Gold:
+      hex: '#6A00F6,#CAA64B'
+      source: 3dfilamentprofiles.com
+    Lila Weiß:
+      hex: '#664BB4,#E2EAF7'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/mystic-silky-pla/products/sale-mystic-silky-pla-lila-weiss
+  PLA 98A:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  TPU 98A:
+    Schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Eisengrau:
+      hex: '#212427'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#E96205'
+      source: 3dfilamentprofiles.com
+  PLA Recycled:
+    Azurblau:
+      hex: '#308291'
+      source: 3dfilamentprofiles.com
+    Orangebraun:
+      hex: '#BF722A'
+      source: 3dfilamentprofiles.com
+    Perlhellgrau:
+      hex: '#857F74'
+      source: 3dfilamentprofiles.com
+    Graphitgrau:
+      hex: '#57544B'
+      source: 3dfilamentprofiles.com
+  PETG CF:
+    CF10 Dunkelgrau:
+      hex: '#565658'
+      source: 3dfilamentprofiles.com
+  PLA Fluorescent:
+    Glow in the Dark:
+      hex: '#B0ECAC'
+      source: 3dfilamentprofiles.com
+  PLA Neon:
+    Neon Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Neon Orange:
+      hex: '#FB7603'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/neon-filament-pla/products/pla-neon-orange
+  PLA Marble:
+    Stein Hell:
+      hex: '#FAFAF2'
+      source: 3dfilamentprofiles.com
+  PETG Recycled:
+    Dunkelsilber:
+      hex: '#343438'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/ir-pet-g
+    Schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/ir-pet-g
+    Apfelgrün:
+      hex: '#6FB02E'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/ir-pet-g/products/ir-pet-g-apfelgrun
+  ASA+:
+    Verkehrsblau:
+      hex: '#0078A7'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/collections/asa-x/products/asa-x-filament-verkehrsblau-1-75mm
+  PLA:
+    Leichtes Blau:
+      hex: '#6BBBF5'
+      source: 3dfilamentprofiles.com
+  PETG:
+    Eisengrau:
+      hex: '#524F4F'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://redline-filament.com/products/petg-weiss

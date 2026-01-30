@@ -1,0 +1,382 @@
+Filament Unger:
+  PLA Silk:
+    Weiß:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla-silk
+    Lila:
+      hex: '#583F75'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla-silk/products/silk-lila
+    Violett:
+      hex: '#881A6A'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla-silk/products/silk-violett
+    Blau:
+      hex: '#133CA5'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla-silk/products/silk-blau
+    Grün:
+      hex: '#2D8B72'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla-silk/products/silk-grun
+  PLA+/Pro Basic:
+    Glimmer Rot:
+      hex: '#E95445'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-glimmer-rot
+    Leuchtgelb:
+      hex: '#FFF600'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-leuchtgelb
+    Lila:
+      hex: '#76689A'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-lila
+    Leuchtorange:
+      hex: '#FF4324'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-leuchtorange
+    Anthrazitsilber:
+      hex: '#393B3E'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-anthrazitsilber
+    Oliv:
+      hex: '#50533C'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-oliv
+    Pastellpink:
+      hex: '#DCBDC1'
+      source: 3dfilamentprofiles.com
+      link: http://filament-unger.de/collections/pla/products/pla-pastellpink
+    Perlweiß:
+      hex: '#E3D9C5'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-perlweiss
+    Elfenbein:
+      hex: '#E6D3B5'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-elfenbein
+    Braun:
+      hex: '#311611'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-braun
+    Haselnussbraun:
+      hex: '#AC8C6C'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-haselnussbraun
+    Magenta:
+      hex: '#BB3F76'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-magenta
+    Verkehrsrot:
+      hex: '#B81B0E'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-verkehrsrot
+    Metallic Aubergine:
+      hex: '#6B2D5D'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-metallic-aubergine
+    Kupfer:
+      hex: '#593F1C'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-kupfer
+    Grün:
+      hex: '#00694C'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-grun
+    Himmelblau:
+      hex: '#4097DB'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-himmelblau
+    Leuchtgrün:
+      hex: '#00AB32'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-leuchtgrun
+    Marmor:
+      hex: '#BAC1C6'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-marmor
+    Limette:
+      hex: '#A4FF00'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-limette
+    Türkis:
+      hex: '#08C8D4'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-turkis
+    Mintgrün:
+      hex: '#35BDB2'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-mintgrun
+    Orange:
+      hex: '#F67829'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-orange
+    Perlblau:
+      hex: '#005B8A'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-perlblau
+    Orientrot:
+      hex: '#A53035'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-orientrot
+    Pastellblau:
+      hex: '#98BCEA'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-pastellblau
+    Perlrot:
+      hex: '#9B2220'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-perlrot
+    Ultramarineblau:
+      hex: '#314E82'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-ultramarinblau
+    Gelb:
+      hex: '#E1A102'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-gelb
+    Leuchthellrot:
+      hex: '#FF2A1B'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-leuchthellrot
+    Flip Flop Grün Gold:
+      hex: '#13324B'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-flip-flop-grun-gold
+    Flittergrün:
+      hex: '#00694B'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-flittergrun
+    Flitterlila:
+      hex: '#3B3A8F'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-flitterlila
+    Glimmer Blau:
+      hex: '#6097FF'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-glimmer-blau
+    Glimmer Pink:
+      hex: '#FF046A'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-glimmer-pink
+    Glow in the Dark Grün:
+      hex: '#D6DEC5'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-glow-in-the-dark-grun
+    Rapunzelsilber:
+      hex: '#999B9B'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-rapunzelsilber
+    Gold:
+      hex: '#BB9936'
+      source: 3dfilamentprofiles.com
+      link: http://filament-unger.de/collections/pla/products/pla-gold
+    Signalgrau:
+      hex: '#9A9A9B'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-signalgrau
+    Signalweiß:
+      hex: '#ECECE8'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-signalweiss
+    Vanille:
+      hex: '#FFF59B'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-vanille
+    Verkehrsschwarz:
+      hex: '#222020'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-verkehrsschwarz
+    Natur:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-natur
+  PETG Basic:
+    Leuchtblau:
+      hex: '#0095FF'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-leuchtblau
+    Limette:
+      hex: '#A4FF00'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-limette
+    Leuchtgelb:
+      hex: '#FFF600'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-leuchtgelb
+    Himmelblau:
+      hex: '#4097DB'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-himmelblau
+    Leuchthellrot:
+      hex: '#FF3730'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-leuchthellrot
+    Wasserblau:
+      hex: '#007475'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-wasserblau
+    Natur:
+      hex: '#F3F3F3'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-natur
+    Oliv:
+      hex: '#50533C'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-oliv
+    Ultramarinblau:
+      hex: '#314E82'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-ultramarinblau
+    Leuchtgrün:
+      hex: '#00AB32'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-leuchtgrun
+    Magenta:
+      hex: '#BB3F76'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-magenta
+    Perlgold:
+      hex: '#B39013'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-perlgold
+    Rapunzelsilber:
+      hex: '#999B9B'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-rapunzelsilber
+    Signalgrau:
+      hex: '#9A9A9B'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-signalgrau
+    Tiefschwarz:
+      hex: '#0A0C10'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-tiefschwarz
+    Anthrazitsilber:
+      hex: '#393B3E'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-anthrazitsilber
+    Signalweiss:
+      hex: '#ECECE8'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-signalweiss
+    Anthrazitsilber (Old Spooldesign):
+      hex: '#2A2A2A'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/products/petg-anthrazitsilber
+    Edelstahl:
+      hex: '#7D7E7C'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-edelstahl
+    Bronze:
+      hex: '#AF8B5D'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg
+    Orange:
+      hex: '#E65300'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-orange
+    Verkehrsrot:
+      hex: '#B81B0E'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-verkehrsrot
+    Elfenbein:
+      hex: '#E6D3B5'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-elfenbein
+  ABS+ Basic:
+    Gelb:
+      hex: '#F7B500'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/abs/products/abs-gelb
+    Leuchtgelb:
+      hex: '#FFF600'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/abs/products/abs-leuchtgelb
+    Leuchtgrün:
+      hex: '#00AB32'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/abs/products/abs-grun
+    Leuchtorange:
+      hex: '#FF4324'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/abs/products/abs-leuchtorange
+    Oliv:
+      hex: '#50533C'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/abs/products/abs-oliv
+    Hellgrau:
+      hex: '#B0B1A8'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/abs/products/abs-grau
+    Weiß:
+      hex: '#ECECE8'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/abs/products/abs-weiss
+    Dunkelgrau:
+      hex: '#596163'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/abs/products/abs-dunkelgrau
+    Rot:
+      hex: '#B81B0E'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/abs/products/abs-rot
+    Grün:
+      hex: '#00694C'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/abs/products/abs-geun
+    Marmor:
+      hex: '#F7F3F0'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/abs/products/abs-marmor
+    Blau:
+      hex: '#005187'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/abs/products/abs-blau
+    Wasserblau:
+      hex: '#007475'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/abs/products/abs-wasserblau
+    Schwarz:
+      hex: '#0A0C10'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/abs/products/abs-schwarz
+  PETG Marble:
+    Marmor:
+      hex: '#BAC1C6'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-marmor
+  PETG Translucent:
+    Transparent Rot:
+      hex: '#C10024'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-transparent-rot
+    Transparent Blau:
+      hex: '#0758BD'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-transparent-blau
+    Transparent Gelb:
+      hex: '#E0B902'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-transparent-gelb
+    Transparent Grün:
+      hex: '#39E105'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/petg/products/petg-transparent-grun
+  PA12 CF:
+    PA 12 CF:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pa-12-cf/products/pa-12-cf-15
+  PLA+/Pro Galaxy:
+    Galaxy Schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/pla/products/pla-galaxy-schwarz
+  ABS+ Marble:
+    Marmor:
+      hex: '#F7F3F0'
+      source: 3dfilamentprofiles.com
+      link: https://filament-unger.de/collections/abs/products/abs-marmor

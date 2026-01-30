@@ -1,0 +1,177 @@
+Ampertec:
+  ASA Basic:
+    Blau:
+      hex: '#0433FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de
+    Silber:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de
+    Schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de
+    Weiß:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de
+  PLA Silk:
+    Grün (Perlglanz):
+      hex: '#00F900'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de/hersteller-3dspl0500grn1am.html
+    Rot:
+      hex: '#FF2600'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de
+    Silk Gelb:
+      hex: '#E5E811'
+      source: 3dfilamentprofiles.com
+    Silber:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de
+    Gold:
+      hex: '#AA7942'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de/hersteller-3dspl0500gol1am.html
+    Blau  ( Perlglanz ):
+      hex: '#0433FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de/hersteller-3dspl0500blu1am.html
+  PETG Basic:
+    Weiß:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de/hersteller-3dpet0500wht1am.html
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Blau:
+      hex: '#0433FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de
+    schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de
+    Silber:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de
+  PLA Basic:
+    Hautfarben:
+      hex: '#FFC4AB'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de/3dpla1000skn1am.html
+    Braun:
+      hex: '#5A1C00'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de/3dpla1000brw1am.html
+    Orange:
+      hex: '#FF8C00'
+      source: 3dfilamentprofiles.com
+      link: https://filamentpreis.de/shop/
+    Gold:
+      hex: '#D3AF37'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de/hersteller-3dspl0500gol1am.html
+    gelbgold:
+      hex: '#FFBB00'
+      source: 3dfilamentprofiles.com
+      link: https://www.tonermacher.de/p/3d-filament-pla-gelbgold-175mm-1000g-spule-3dpla1000ygo1am.html
+    Lila:
+      hex: '#9300F5'
+      source: 3dfilamentprofiles.com
+      link: https://filamentpreis.de/shop/
+    Weiss:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://filamentpreis.de/shop/
+    Rot:
+      hex: '#FF2600'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de/
+    Neon Yellow:
+      hex: '#B4ECAC'
+      source: 3dfilamentprofiles.com
+      link: https://filamentpreis.de/shop/
+    silber:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de
+    Light Blue:
+      hex: '#68CDEF'
+      source: 3dfilamentprofiles.com
+      link: https://filamentpreis.de/shop/
+    Pink:
+      hex: '#EF00E0'
+      source: 3dfilamentprofiles.com
+      link: https://filamentpreis.de/shop/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://filamentpreis.de/shop/
+    Dark Green:
+      hex: '#04390F'
+      source: 3dfilamentprofiles.com
+      link: https://filamentpreis.de/shop/
+    dunkelblau:
+      hex: '#49457F'
+      source: 3dfilamentprofiles.com
+      link: https://www.tonermacher.de/p/3d-filament-pla-dunkelblau-175mm-1000g-spule-3dpla1000dbl1am.html
+    Schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de/
+    Grau:
+      hex: '#919191'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de
+    Blau:
+      hex: '#0433FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de
+  ABS Basic:
+    Neon Yellow:
+      hex: '#EDE500'
+      source: 3dfilamentprofiles.com
+  PA (Nylon) Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de/hersteller-3dnyl1000wht3am.html?file=3dnyl1000wht3am
+  TPU Basic:
+    Gelb:
+      hex: '#FFFB00'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de/
+    Grau:
+      hex: '#929292'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de/
+    Rot:
+      hex: '#FF2600'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de
+  PLA Color Change (UV):
+    weiß/grün:
+      hex: '#FFFFFF,#00F900'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de/
+  PLA Luminous Rainbow:
+    Rainbow:
+      hex: '#FF2600,#FF9300,#FFFB00,#00F900'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de/hersteller-3dspl0500mco1am.html
+  PLA Glitter:
+    Lila:
+      hex: '#7B219F'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de/hersteller-3dpla0500mvi1am.html
+  TPU 95A:
+    Blau:
+      hex: '#0433FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.filamentpreis.de/hersteller-3dtpn1000blu1am.html?file=3dtpn1000blu1am

@@ -1,0 +1,82 @@
+Recreus:
+  TPU 60A:
+    Filaflex Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  TPU 82A:
+    Schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://filamentworld.de/shop/special-filament/filaflex-filament/filaflex-filament-1-75-mm-schwarz/
+    FilaFlex Orange:
+      hex: '#E68619'
+      source: 3dfilamentprofiles.com
+    Filaflex Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#8DF900'
+      source: 3dfilamentprofiles.com
+      link: https://recreus.com/de/products/filaflex-82a?variant=45921644970243
+  TPU:
+    Yellow 82A:
+      hex: '#FFDD00'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#89E561'
+      source: 3dfilamentprofiles.com
+      link: http://www.recreus.com
+  TPU Basic:
+    Filaflex Foamy Black 78-51A:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#929000'
+      source: 3dfilamentprofiles.com
+      link: https://recreus.com/de/products/filaflex-82a?variant=45921644970243
+  TPU 70A:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://recreus.com/en-en/products/filaflex-70a
+  TPU 95A:
+    Mint:
+      hex: '#69F7B5'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Diamantium Blue:
+      hex: '#515A5E'
+      source: 3dfilamentprofiles.com
+    Metallic Green:
+      hex: '#7B7F3F'
+      source: 3dfilamentprofiles.com
+  TPU Foaming:
+    95 Foamy Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Filaflex 95 Foamy Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Filaflex 95 Foamy Denim:
+      hex: '#001E57'
+      source: 3dfilamentprofiles.com
+    Filaflex 95 Foamy Lavender:
+      hex: '#F1C9FE'
+      source: 3dfilamentprofiles.com
+    Filaflex 95 Foamy Azure:
+      hex: '#CCE8B5'
+      source: 3dfilamentprofiles.com
+    Filaflex 95 Foamy Natural:
+      hex: '#EBEBEB'
+      source: 3dfilamentprofiles.com
+  TPU Mineral:
+    Filaflex Purifier:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+  TPE 40D:
+    Blue:
+      hex: '#1B2D65'
+      source: 3dfilamentprofiles.com

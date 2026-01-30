@@ -1,0 +1,256 @@
+Printbed:
+  PLA Basic:
+    Electric Orange:
+      hex: '#FB790E'
+      source: 3dfilamentprofiles.com
+    Evergreen:
+      hex: '#096D1D'
+      source: 3dfilamentprofiles.com
+    Cosmic Purple:
+      hex: '#930EA4'
+      source: 3dfilamentprofiles.com
+    Midnight Blue:
+      hex: '#26344F'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA%20Ltd/Midnight%20Blue-1.75mm-1kg/
+    Cosmic Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Jungle Green:
+      hex: '#546223'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA%20Ltd/Jungle-1.75mm-1kg/
+    Chocolate V2:
+      hex: '#4E3629'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA/Chocolate%20V2-1.75mm-1kg/
+    Purple:
+      hex: '#9C1E58'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA/Purple-1.75mm-1kg/
+    Frost:
+      hex: '#A9C9D6'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA%20Ltd/Frost-1.75mm-1kg/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA/White-1.75mm-1kg/
+    Pumpkin Pie:
+      hex: '#D2742D'
+      source: 3dfilamentprofiles.com
+    Baja Blue V2:
+      hex: '#017068'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA/Baja%20Blue%20V2-1.75mm-1kg/
+    Red:
+      hex: '#F62A29'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA/Red-1.75mm-1kg/
+    Yellow:
+      hex: '#F7C901'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA/Yellow-1.75mm-1kg/
+    Sour Apple V2:
+      hex: '#99CA20'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA/Sour%20Apple%20V2-1.75mm-1kg/
+    Lavender V2:
+      hex: '#D4C1D5'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA/Lavender%20V2-1.75mm-1kg/
+    Peanut Butter V2:
+      hex: '#DB9A55'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA/Peanut%20Butter%20V2-1.75mm-1kg/
+    Leftovers:
+      hex: '#DADFE2'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FD5307'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA/Orange-1.75mm-1kg/
+    Green:
+      hex: '#019C3E'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA/Green-1.75mm-1kg/
+    Bubble Gum:
+      hex: '#F69FB2'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA%20Ltd/Bubble%20Gum-1.75mm-1kg/
+    Blueberry Pearl:
+      hex: '#283964'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA%20Ltd/Blueberry%20Pearl-1.75mm-1kg/
+    Dragon Egg:
+      hex: '#313C31'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA%20Ltd/Dragon%20Egg-1.75mm-1kg/
+    Pirate's Gold:
+      hex: '#A16C25'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA%20Ltd/Pirates%20Gold-1.75mm-1kg/
+    Blue Steel:
+      hex: '#4E6168'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA%20Ltd/Blue%20Steel-1.75mm-1kg/
+    Mystery:
+      hex: '#FBFF00'
+      source: 3dfilamentprofiles.com
+    Mint:
+      hex: '#7DD3C9'
+      source: 3dfilamentprofiles.com
+    Banana Taffy:
+      hex: '#FFEA00'
+      source: 3dfilamentprofiles.com
+    Pink Glaze:
+      hex: '#FD49EE'
+      source: 3dfilamentprofiles.com
+    Licorice:
+      hex: '#991F1C'
+      source: 3dfilamentprofiles.com
+    Cookies N' Cream:
+      hex: '#FFFFFF,#000000'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#757A74'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA/Grey-1.75mm-1kg/
+    Tennis Ball:
+      hex: '#8DD945'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#015AD1'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA/Blue-1.75mm-1kg/
+    Nacho Cheese:
+      hex: '#FCC543'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA%20Ltd/Nacho%20Cheese-1.75mm-1kg/
+    Royal Purple:
+      hex: '#513655'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA%20Sub/Royal%20Purple-1.75mm-1kg/
+    Latte:
+      hex: '#DDCBA4'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA%20Ltd/Latte-1.75mm-1kg/
+    Black Cherry:
+      hex: '#722822'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA%20Ltd/Black%20Cherry-1.75mm-1kg/
+    French Vanilla:
+      hex: '#F1E7CC'
+      source: 3dfilamentprofiles.com
+      link: https://printbed.com/shop/minis/
+    Hot Pink:
+      hex: '#FF4E9B'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA%20Sub/Hot%20Pink-1.75mm-1kg/
+    Natural:
+      hex: '#E6E0C6'
+      source: 3dfilamentprofiles.com
+      link: https://printbed.com/shop/PLA%20Ltd/Natural-1.75mm-1kg
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA/Black-1.75mm-1kg/
+  PLA Crystal:
+    Sea Crystal:
+      hex: '#00A7A2'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA%20Ltd/Sea%20Crystal-1.75mm-1kg/
+    Green Crystal:
+      hex: '#249D1D'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA%20Sub/Green%20Crystal-1.75mm-1kg/
+  PLA Silk:
+    Glacier:
+      hex: '#41B6B5'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA%20Sub/Glacier-1.75mm-1kg/
+  ABS Basic:
+    Flamingo:
+      hex: '#DB486E'
+      source: 3dfilamentprofiles.com
+    Redwood:
+      hex: '#9B6251'
+      source: 3dfilamentprofiles.com
+    Army Green:
+      hex: '#636452'
+      source: 3dfilamentprofiles.com
+    Meadow:
+      hex: '#2C784A'
+      source: 3dfilamentprofiles.com
+    Pistachio:
+      hex: '#B1D597'
+      source: 3dfilamentprofiles.com
+    Cloud:
+      hex: '#C5C9D4'
+      source: 3dfilamentprofiles.com
+    Tangerine:
+      hex: '#E17625'
+      source: 3dfilamentprofiles.com
+    Charcoal:
+      hex: '#353537'
+      source: 3dfilamentprofiles.com
+    Robin Egg:
+      hex: '#79C5A8'
+      source: 3dfilamentprofiles.com
+    Natural:
+      hex: '#E9E4D0'
+      source: 3dfilamentprofiles.com
+    Baja Blue:
+      hex: '#017068'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro HT:
+    White FORGE:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/FORGE/White%20-1.75mm-1kg/
+    Natural FORGE:
+      hex: '#F3EED9'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/FORGE/Natural-1.75mm-1kg/
+    Black FORGE:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/FORGE/Black%20-1.75mm-1kg/
+  PETG Basic:
+    Flamingo:
+      hex: '#DB486E'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PETG/Flamingo-1.75mm-1kg/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PETG/Black-1.75mm-1kg/
+    Clear:
+      hex: '#CCD4D6'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PETG/Clear-1.75mm-1kg/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PETG/White-1.75mm-1kg/
+  PLA Color Change (Temp):
+    Chameleon:
+      hex: '#D3D302,#24B54E'
+      source: 3dfilamentprofiles.com
+      link: https://www.printbed.com/shop/PLA%20Sub/Chameleon-1.75mm-1kg/
+  PLA Blend:
+    Purple Crystal:
+      hex: '#501F3F'
+      source: 3dfilamentprofiles.com
+      link: https://printbed.com/shop/AcryBlend/Purple%20Crystal-1.75mm-1kg
+  PLA Glow:
+    Glowstick Green:
+      hex: '#E3E1D5'
+      source: 3dfilamentprofiles.com
+      link: https://printbed.com/shop/minis

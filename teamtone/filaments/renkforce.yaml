@@ -1,0 +1,62 @@
+Renkforce:
+  PLA+/Pro Basic:
+    Purple:
+      hex: '#430094'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Blue:
+      hex: '#10069F'
+      source: 3dfilamentprofiles.com
+    Withe:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#DA291C'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#924C2E'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#3F2A6F'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#80724D'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#F7C02C'
+      source: 3dfilamentprofiles.com
+  HIPS Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Green:
+      hex: '#4A8A29'
+      source: 3dfilamentprofiles.com
+  TPU Basic:
+    Natural:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    'Natural ':
+      hex: '#D4DDE4'
+      source: 3dfilamentprofiles.com
+  PA (Nylon) Translucent:
+    Clear:
+      hex: '#F4FAFC'
+      source: 3dfilamentprofiles.com

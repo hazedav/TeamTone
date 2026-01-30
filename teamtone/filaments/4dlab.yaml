@@ -1,0 +1,22 @@
+4DLab:
+  PLA+/Pro Basic:
+    Blue Sky:
+      hex: '#2491FF'
+      source: 3dfilamentprofiles.com
+    Morado:
+      hex: '#7753C3'
+      source: 3dfilamentprofiles.com
+      link: https://4dlab.co/products/pla?variant=42221742358688
+    Blanco:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://4dlab.co/products/pla?variant=41996793872544
+    Negro:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://4dlab.co/products/pla?variant=42221742358688
+  PLA+/Pro Marble:
+    Mármol:
+      hex: '#E0E3E2'
+      source: 3dfilamentprofiles.com
+      link: https://4dlab.co/products/pla?variant=42221742358688

@@ -1,0 +1,96 @@
+Material4Print:
+  PLA Basic:
+    Bright Red (Leuchtrot):
+      hex: '#FF2D21'
+      source: 3dfilamentprofiles.com
+      link: https://www.material4print.de/collections/pla-filament
+    Ivory:
+      hex: '#E6D2B5'
+      source: 3dfilamentprofiles.com
+      link: https://www.material4print.de/collections/pla-filament/products/pla-elfenbein
+    Perl Blue:
+      hex: '#0E88E2'
+      source: 3dfilamentprofiles.com
+      link: https://www.material4print.de/products/pla-perlblau?variant=51910222610781
+    Yellow green:
+      hex: '#FFFB00,#00F900'
+      source: 3dfilamentprofiles.com
+      link: https://www.material4print.de/collections/pla-filament/products/pla-gelbgrun
+    Pure Red (Reinrot):
+      hex: '#CC2C24'
+      source: 3dfilamentprofiles.com
+      link: https://www.material4print.de/collections/pla-filament/products/pla-reinrot
+    Bright Green (Leuchtgrün):
+      hex: '#14AC11'
+      source: 3dfilamentprofiles.com
+      link: https://www.material4print.de/collections/pla-filament/products/pla-signalblau
+    Deep Black (Tiefschwarz):
+      hex: '#0A0A0A'
+      source: 3dfilamentprofiles.com
+      link: https://www.material4print.de/collections/pla-filament/products/pla-tiefschwarz
+    Signal White:
+      hex: '#ECECE7'
+      source: 3dfilamentprofiles.com
+      link: https://www.material4print.de/collections/pla-filament/products/pla-signalweiss
+    Dusty gray:
+      hex: '#7A7B7A'
+      source: 3dfilamentprofiles.com
+      link: https://www.material4print.de/collections/pla-filament/products/pla-staubgrau
+    Gray aluminium:
+      hex: '#8F8F8F'
+      source: 3dfilamentprofiles.com
+      link: https://www.material4print.de/collections/pla-filament/products/pla-graualuminium
+    Anthracite Silver:
+      hex: '#353C40'
+      source: 3dfilamentprofiles.com
+      link: https://www.material4print.de/collections/pla-filament/products/pla-anthrazitsilber
+    Iron gray:
+      hex: '#52595D'
+      source: 3dfilamentprofiles.com
+      link: https://www.material4print.de/collections/pla-filament/products/pla-eisengrau
+    Traffic Yellow:
+      hex: '#F0CA00'
+      source: 3dfilamentprofiles.com
+      link: https://www.material4print.de/collections/pla-filament/products/pla-verkehrsgelb
+    Sky Blue (Himmelblau):
+      hex: '#2874B2'
+      source: 3dfilamentprofiles.com
+      link: https://www.material4print.de/
+    Gipsy Color:
+      hex: '#C0D9F2'
+      source: 3dfilamentprofiles.com
+      link: https://www.material4print.de
+    Signal Blue:
+      hex: '#134A85'
+      source: 3dfilamentprofiles.com
+      link: https://www.material4print.de/collections/pla-filament/products/pla-signalblau
+    Bright Orange (Leuchtorange):
+      hex: '#FF4D06'
+      source: 3dfilamentprofiles.com
+      link: https://www.material4print.de/collections/pla-filament/products/pla-leuchtorange
+    Natural/Clear:
+      hex: '#F0F0F0'
+      source: 3dfilamentprofiles.com
+      link: https://www.material4print.de/collections/pla-filament/products/pla-natur
+    Telemagenta:
+      hex: '#BC4077'
+      source: 3dfilamentprofiles.com
+      link: https://www.material4print.de/collections/pla-filament/products/pla-signalblau
+  PETG Basic:
+    Signalweiß:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.material4print.de/
+    Signal red:
+      hex: '#FF4242'
+      source: 3dfilamentprofiles.com
+      link: https://www.material4print.de/
+  PETG:
+    PETG Tiefschwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.material4print.de/collections/petg-filament/products/petg-tiefschwarz
+    Staub-Grau:
+      hex: '#727374'
+      source: 3dfilamentprofiles.com
+      link: https://filamentworld.de/shop/special-filament/petg-filament/material4print-petg-filament-staubgrau-1-75-mm/

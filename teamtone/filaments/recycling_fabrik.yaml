@@ -1,0 +1,220 @@
+Recycling Fabrik:
+  PETG Recycled:
+    Premium Mint:
+      hex: '#00FFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/collections/rpetg
+    Flauschiges Schaf (Weiß):
+      hex: '#F7FAFD'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/collections/rpetg
+    Blutige Orange (Rotorange):
+      hex: '#E83211'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/blutige-orange-rotorange-petg
+    Gute Nacht (Schwarz):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/gute-nacht-schwarz-petg?variant=45664953401611
+    Volle Möhre:
+      hex: '#FF6D00'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/volle-mohre-orange-petg/
+    Mint:
+      hex: '#23B6B1'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/collections/rpetg
+    Schläfriger Koala (Grau):
+      hex: '#605D5C'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/schlafriger-koala-grau-petg
+    Mystischer Smaragd (Grün-Transluzent):
+      hex: '#298B27'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/mystischer-smaragd-gruen-transparent
+    Saurer Apfel (Hellgrün):
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/saurer-apfel-grun-petg
+    Karibisches Meer (Hellblau):
+      hex: '#00FFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/karibisches-meer-blau-petg
+    Eisiger See (Blau-Transluzent):
+      hex: '#6384AE'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/eisiger-see-blau-transparent
+    Karibisches Meer (Blau):
+      hex: '#0077BF'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/karibisches-meer-blau-petg
+    Poliertes Glas:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/collections/rpetg-recycling-fabrik/products/poliertes-glas-transparent-petg
+  PLA Rainbow:
+    Speziale Rainbow:
+      hex: '#ADA68A'
+      source: 3dfilamentprofiles.com
+  PLA Recycled:
+    Flauschiges Schaf (Weiß):
+      hex: '#E6E5DB'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/flauschiges-schaf-weiss
+    Verborgene Lagune:
+      hex: '#0077BF'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/collections/rpla-1/products/verborgene-lagune-blau
+    Milchiges Weiss:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/
+    Wilder Prototyp:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/wilder-prototyp
+    Zarter Pfirsich (Orange):
+      hex: '#C1B48F,#FBAF64'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/zarter-pfirsich-orange?variant=45458212946187
+    Gute Nacht (Schwarz):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/gute-nacht-schwarz
+    Cremiger Kaffee (Beige):
+      hex: '#D6A979'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/cremiger-kaffee-beige
+    Frische Wiese (Hellgrün):
+      hex: '#A3C79F'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/frische-wiese-hellgrun
+    Beruhigender Lavendel (Violett):
+      hex: '#876F92'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/beruhigender-lavendel-violett
+    Funkelnde Nacht (Schwarz Glitzer):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/
+    Galaktischer Nebel (Blau Glitzer):
+      hex: '#2586CB'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/
+    Funkelnde Tanne (Grün-Glitzer):
+      hex: '#00D2A9'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/funkelnde-tanne-grun-glitzer
+    Kluge Maus (Hellgrau):
+      hex: '#CDCEC9'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/kluge-maus-hellgrau
+    Flüssiger Asphalt:
+      hex: '#706E6C'
+      source: 3dfilamentprofiles.com
+    Dunkler Efeu:
+      hex: '#44583D'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/dunkler-efeu
+    Kühlende Zitrone (Gelb):
+      hex: '#E9D273'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/kuhlende-zitrone-gelb
+    Nasser Elefant (Grau):
+      hex: '#989C9C'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/nasser-elefant-grau
+    Süße Kirsche:
+      hex: '#BE494C'
+      source: 3dfilamentprofiles.com
+    Tiefer Ozean (Dunkelblau):
+      hex: '#486166'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/tiefer-ozean-dunkelblau
+    Schimmernde Pflaume:
+      hex: '#695F70'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/schimmernde-kerze-kopie
+    Sanfte Blüte (Rosa):
+      hex: '#DB828D'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/sanfte-blute-rosa
+    Püriertes Einhorn:
+      hex: '#F5CCE6'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/collections/rpla-1/products/pueriertes-einhorn-multicolor
+    Fallendes Laub (Braun):
+      hex: '#654F44'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/fallendes-laub-braun
+    Flüssiger Asphalt (Dunkelgrau):
+      hex: '#616161'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/flussiger-asphalt-dunkelgrau
+    Gepresste Limette (Hellgrün):
+      hex: '#A6B762'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/gepresste-limette-hellgrun
+    Schimmernde Nacht:
+      hex: '#484F4D'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/schimmernde-nacht
+    Flaches Gewässer (Blau-Grau):
+      hex: '#507C8B'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/flaches-gewasser-blau
+    Milder Sanddorn (Orange):
+      hex: '#CD7B00'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/milder-sanddorn-orange
+    Schimmerndes Schwert:
+      hex: '#838585'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/schimmerndes-schwert
+    Flottes Veilchen (Lila):
+      hex: '#BEB1BC,#BCA3BB'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/flottes-veilchen-lila
+    Funkelnde Kerze (Rot-Glitzer):
+      hex: '#772938'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/funkelnde-tanne-grun-glitzer-kopie
+    Gammlige Avocado (Grün):
+      hex: '#867F4B'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/gammlige-avocado-grun
+    Seichte Brise (Hellblau):
+      hex: '#96C6E8'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/seichte-brise-hellblau?variant=45458234638603
+    Schimmernde Krone:
+      hex: '#66631A'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/schimmernde-krone
+    Reife Beere (Rot):
+      hex: '#FF2841'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/reife-beere-rot
+    Schimmernde Kerze:
+      hex: '#83494A'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/schimmernde-kerze
+  PLA Basic:
+    Schimmernde Perle:
+      hex: '#567672'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/products/schimmernde-perle
+  PETG Translucent:
+    Frostige Rose (Rosa-Transluzent):
+      hex: '#881C47'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/collections/rpetg/products/frostige-rose-rosa-transparent
+  PET Recycled:
+    Natural:
+      hex: '#FCFCFC'
+      source: 3dfilamentprofiles.com
+  PLA Shimmer:
+    Schimmernde Tanne:
+      hex: '#5A7663'
+      source: 3dfilamentprofiles.com
+      link: https://www.recyclingfabrik.com/collections/schimmernde-filamente/products/schimmernde-tanne

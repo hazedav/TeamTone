@@ -1,0 +1,10 @@
+Plastar:
+  PLA Basic:
+    Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://printalot.com.ar/productos/plast-ar/pla-plast-ar/plast-ar-pla-natural/
+    Amarillo:
+      hex: '#FBFF00'
+      source: 3dfilamentprofiles.com
+      link: https://printalot.com.ar/productos/plast-ar/pla-plast-ar/plast-ar-pla-amarillo/

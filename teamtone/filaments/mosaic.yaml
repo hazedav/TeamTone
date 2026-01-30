@@ -1,0 +1,43 @@
+Mosaic:
+  PLA:
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.mosaicmfg.com/products/mosaic-pro-pla
+    Magenta:
+      hex: '#FD3DB5'
+      source: 3dfilamentprofiles.com
+      link: https://www.mosaicmfg.com/products/mosaic-pro-pla
+    Dark Gray:
+      hex: '#323334'
+      source: 3dfilamentprofiles.com
+      link: https://www.mosaicmfg.com/products/mosaic-pro-pla
+    Dark Red:
+      hex: '#850518'
+      source: 3dfilamentprofiles.com
+      link: https://www.mosaicmfg.com/products/mosaic-pro-pla
+    Green:
+      hex: '#03B03F'
+      source: 3dfilamentprofiles.com
+      link: https://www.mosaicmfg.com/products/mosaic-pro-pla
+    Orange:
+      hex: '#E37A02'
+      source: 3dfilamentprofiles.com
+      link: https://www.mosaicmfg.com/products/mosaic-pro-pla
+    Purple:
+      hex: '#6E00F5'
+      source: 3dfilamentprofiles.com
+      link: https://www.mosaicmfg.com/products/mosaic-pro-pla
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.mosaicmfg.com/products/mosaic-pro-pla
+    Yellow:
+      hex: '#E4F500'
+      source: 3dfilamentprofiles.com
+      link: https://www.mosaicmfg.com/products/mosaic-pro-pla
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.mosaicmfg.com/products/mosaic-petg

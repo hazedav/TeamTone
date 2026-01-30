@@ -1,0 +1,674 @@
+Tinmorry:
+  PLA Silk:
+    Magenta:
+      hex: '#EA0A8E'
+      source: 3dfilamentprofiles.com
+    Silk Red:
+      hex: '#F81644'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#008000'
+      source: 3dfilamentprofiles.com
+    Iron Black:
+      hex: '#3E4652'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/pla/pla-silk/
+    Bronze:
+      hex: '#B9C3B2'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/pla/pla-silk/
+    Teal Blue:
+      hex: '#0047AB'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#A7AAB3'
+      source: 3dfilamentprofiles.com
+    Copper:
+      hex: '#D47A64'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/pla/pla-silk/
+    Gold:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/
+  PETG GF:
+    Frosted Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-glass-fibre-gf/
+    Frosted White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us/products/tinmorry-glass-fiber-reinforced-petg-filament-high-impact-resistance-petg-gf-3d-printing-filament-durability-stiffness-perfect-compatible-with-bambu-lab-fdm-3d-printer-1-kg-1-spool-frosted-grey?srsltid=AfmBOopADfz-KGO980lvyu7MgJXpe-2QwVwTYJYH3fX0D5sVBT76dDaE
+    Frosted Grey:
+      hex: '#9697A1'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-glass-fibre-gf/
+    Frosted Green:
+      hex: '#02BB17'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-glass-fibre-gf/
+    Frosted Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-glass-fibre-gf/
+    Frosted Beige:
+      hex: '#FFDB84'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-glass-fibre-gf/
+    Frosted Fluorescent Yellow:
+      hex: '#F5C619'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-glass-fibre-gf/
+    Frosted Lilac Purple:
+      hex: '#B9B2CC'
+      source: 3dfilamentprofiles.com
+    Frosted Navy Blue:
+      hex: '#032944'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us/products/tinmorry-glass-fiber-reinforced-petg-filament-high-impact-resistance-petg-gf-3d-printing-filament-durability-stiffness-perfect-compatible-with-bambu-lab-fdm-3d-printer-1-kg-1-spool-frosted-navy-blue
+    Frosted Ruby Red:
+      hex: '#A8242C'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-gb/products/tinmorry-glass-fiber-reinforced-petg-filament-high-impact-resistance-petg-gf-3d-printing-filament-durability-stiffness-perfect-compatible-with-bambu-lab-fdm-3d-printer-1-kg-1-spool-frosted-warm-light-grey-%E5%89%AF%E6%9C%AC
+    Frosted Carter Yellow:
+      hex: '#EFEF11'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us/products/
+    Frosted Sakura Pink:
+      hex: '#F5B5C2'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-glass-fibre-gf/
+    Frosted Blue:
+      hex: '#1366A0'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-glass-fibre-gf/
+    Frosted Brown:
+      hex: '#A27854'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-gb/products/tinmorry-glass-fiber-reinforced-petg-filament-high-impact-resistance-petg-gf-3d-printing-filament-durability-stiffness-perfect-compatible-with-bambu-lab-fdm-3d-printer-1-kg-1-spool-ruby-red-%E5%89%AF%E6%9C%AC
+    Grey:
+      hex: '#969696'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us/products/tinmorry-glass-fiber-reinforced-petg-filament-high-impact-resistance-petg-gf-3d-printing-filament-durability-stiffness-perfect-compatible-with-bambu-lab-fdm-3d-printer-1-kg-1-spool-frosted-white?variant=45470040883359
+    Frosted Orange:
+      hex: '#E37021'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-glass-fibre-gf/
+    Frosted Water Blue:
+      hex: '#1A8387'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-gb/products/tinmorry-glass-fiber-reinforced-petg-filament-high-impact-resistance-petg-gf-3d-printing-filament-durability-stiffness-perfect-compatible-with-bambu-lab-fdm-3d-printer-1-kg-1-spool-ruby-red-%E5%89%AF%E6%9C%AC-1
+    Frosted Ice Blue:
+      hex: '#90D2D4'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-gb/products/tinmorry-glass-fiber-reinforced-petg-filament-high-impact-resistance-petg-gf-3d-printing-filament-durability-stiffness-perfect-compatible-with-bambu-lab-fdm-3d-printer-1-kg-1-spool-frosted-ice-blue
+  ASA Basic:
+    Orange:
+      hex: '#FF6A00'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-de/products/tinmorry-asa-filament-1-75mm-high-uv-heat-resistant-3d-printer-filament-durable-toughness-dimensional-accuracy-0-03mm-perfect-for-printing-outdoor-functional-parts-1kg-spool-black
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/asa-filaments/asa-3d-printer-filament/?pa_color=blue
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-de/products/tinmorry-asa-filament-1-75mm-high-uv-heat-resistant-3d-printer-filament-durable-toughness-dimensional-accuracy-0-03mm-perfect-for-printing-outdoor-functional-parts-1kg-spool-black
+    Olive Green:
+      hex: '#375D37'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-de/products/tinmorry-asa-filament-1-75mm-high-uv-heat-resistant-3d-printer-filament-durable-toughness-dimensional-accuracy-0-03mm-perfect-for-printing-outdoor-functional-parts-1kg-spool-black
+  PETG Ecofil:
+    Illuminating Yellow:
+      hex: '#FFF824'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-eu/products/petg-filament-1-75mm-tinmorry-improved-petg-eco-3d-printing-materials-compatible-with-bambu-fdm-3d-printer-1-kg-1-spool-olive-green
+    Grey:
+      hex: '#8A8A8A'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-eu/products/petg-filament-1-75mm-tinmorry-improved-petg-eco-3d-printing-materials-compatible-with-bambu-fdm-3d-printer-1-kg-1-spool-olive-green
+    Carter Yellow:
+      hex: '#FFCB24'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-eu/products/petg-filament-1-75mm-tinmorry-improved-petg-eco-3d-printing-materials-compatible-with-bambu-fdm-3d-printer-1-kg-1-spool-olive-green
+    Mint Green:
+      hex: '#00FFFB'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us/products/petg-filament-1-75mm-tinmorry-improved-petg-eco-3d-printing-materials-compatible-with-bambu-fdm-3d-printer-1-kg-1-spool-olive-green?variant=45787905327263
+    Transparent Green:
+      hex: '#01FF00'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-eu/products/petg-filament-1-75mm-tinmorry-improved-petg-eco-3d-printing-materials-compatible-with-bambu-fdm-3d-printer-1-kg-1-spool-olive-green
+    Pink:
+      hex: '#EF9EF5'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-eu/products/petg-filament-1-75mm-tinmorry-improved-petg-eco-3d-printing-materials-compatible-with-bambu-fdm-3d-printer-1-kg-1-spool-olive-green
+    Dark Green:
+      hex: '#1B6407'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-eu/products/petg-filament-1-75mm-tinmorry-improved-petg-eco-3d-printing-materials-compatible-with-bambu-fdm-3d-printer-1-kg-1-spool-olive-green
+    Cold White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-eu/products/petg-filament-1-75mm-tinmorry-improved-petg-eco-3d-printing-materials-compatible-with-bambu-fdm-3d-printer-1-kg-1-spool-olive-green
+    Sparkly Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-de/products/sparkly-petg-filament-1-75-mm-tinmorry-filament-petg-3d-printing-materials-compatible-with-bambu-fdm-3d-printers-1-kg-1-spool-black
+    Light Blue-Sin:
+      hex: '#AAD0CC'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us/collections/petg
+    Blue:
+      hex: '#2E7EE5'
+      source: 3dfilamentprofiles.com
+    Olive Green:
+      hex: '#808000'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-eu/products/petg-filament-1-75mm-tinmorry-improved-petg-eco-3d-printing-materials-compatible-with-bambu-fdm-3d-printer-1-kg-1-spool-olive-green
+    Apricot:
+      hex: '#C9B998'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/
+    Sakura Pink:
+      hex: '#ECADC0'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us/products/tinmorry-petg-filament-1-75mm-rapid-petg-eco-3d-printing-filament-compatible-with-bambu-lab-creality-k1c-flashforge-adventurer-5m-fdm-3d-printer-1-kg-1-spool-fluorescent-purple-red-%E5%A4%8D%E5%88%B6?variant=59468765364383
+    Skin:
+      hex: '#E0D2BC'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us/products/petg-filament-1-75mm-tinmorry-improved-petg-eco-3d-printing-materials-compatible-with-bambu-fdm-3d-printer-1-kg-1-spool-1-kg-1-spule-skin?variant=45787904147615
+    Dark Red:
+      hex: '#D3201F'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-gb/products/petg-filament-1-75mm-tinmorry-improved-petg-eco-3d-printing-materials-compatible-with-bambu-fdm-3d-printer-1-kg-1-spool-1-kg-1-spule-dark-red?variant=45787904966815
+    Orange:
+      hex: '#EA921A'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us/products/petg-filament-1-75mm-tinmorry-improved-petg-eco-3d-printing-materials-compatible-with-bambu-fdm-3d-printer-1-kg-1-spool-orange
+    Vinca Blue:
+      hex: '#402F98'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us/products/petg-filament-1-75mm-tinmorry-improved-petg-eco-3d-printing-materials-compatible-with-bambu-fdm-3d-printer-1-kg-1-spool-1-kg-1-spule-vinca-blue
+    Fluorescent Purple Red:
+      hex: '#F92FB9'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-de/products/tinmorry-petg-filament-1-75mm-rapid-petg-eco-3d-printing-filament-compatible-with-bambu-lab-creality-k1c-flashforge-adventurer-5m-fdm-3d-printer-1-kg-1-spool-fluorescent-yellow-%E5%A4%8D%E5%88%B6?srsltid=AfmBOoochm8a9Gbdx1XRtHh-XF24rj5RW1hru5Qe4nvbc5YCYyk3y1F2
+  PLA Basic:
+    Orange:
+      hex: '#FFA546'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#8A8A8A'
+      source: 3dfilamentprofiles.com
+    Bright Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Cool White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#6EBEF7'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#838586'
+      source: 3dfilamentprofiles.com
+    Magenta:
+      hex: '#AE246D'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-gb/products/tinmorry-pla-filament-1-75mm-rapid-pla-3d-printing-filament-compatible-with-most-fdm-3d-printers-1-kg-1-spool-red-%E5%A4%8D%E5%88%B6
+    Royal Blue:
+      hex: '#134FC6'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/pla/pla-regular/
+    Green:
+      hex: '#00AB62'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/pla/pla-regular/
+  PETG Galaxy:
+    Green Gold:
+      hex: '#605C2F'
+      source: 3dfilamentprofiles.com
+    Fuscia:
+      hex: '#2E073E'
+      source: 3dfilamentprofiles.com
+    Jewel Blue:
+      hex: '#0042AA'
+      source: 3dfilamentprofiles.com
+    Gemstone Green:
+      hex: '#305851'
+      source: 3dfilamentprofiles.com
+    Purple Gold:
+      hex: '#450E59'
+      source: 3dfilamentprofiles.com
+  PETG Marble:
+    Magic Brown:
+      hex: '#DFD0CE'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-eu/products/petg-filament-1-75mm-tinmorry-petg-3d-printer-filament-compatible-with-bambu-fdm-3d-printer-1-kg-1-spool-marble-light-grey-%E5%A4%8D%E5%88%B6
+    Magic Pink:
+      hex: '#E5D4D5'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-marble/#1751536997390-54b5680e-8c29
+    Light Grey:
+      hex: '#A1ACB8'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-marble/
+    Magic Granite:
+      hex: '#EBEBEB'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-marble/
+    Magic Green:
+      hex: '#97B6A3'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-marble/
+    Marble White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PETG ECO:
+    Bright Yellow:
+      hex: '#EFF31B'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-eco/#1751366880445-ba2660e7-b818
+    Rose Red:
+      hex: '#FF507E'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-eco/#1751366880445-ba2660e7-b818
+    Transparent Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-eco/#1751366880445-ba2660e7-b818
+    Orange:
+      hex: '#EB370A'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-eco/#1751366880445-ba2660e7-b818
+    Glow Green in the Dark:
+      hex: '#FFFFFF,#33D17A'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-eco/#1751366880445-ba2660e7-b818
+    Vinca Blue:
+      hex: '#594BA2'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-eco/#1751366880445-ba2660e7-b818
+    Green:
+      hex: '#12A12A'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-eco/#1751366880445-ba2660e7-b818
+    Ivory White:
+      hex: '#FFFFF0'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-de/products/petg-filament-1-75mm-tinmorry-improved-petg-eco-3d-printing-materials-compatible-with-bambu-fdm-3d-printer-1-kg-1-spool-ivorywhite
+    Horizon Green:
+      hex: '#2F9CC1'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-de/products/tinmorry-petg-filament-1-75mm-rapid-petg-eco-3d-printing-filament-compatible-with-bambu-lab-creality-k1c-flashforge-adventurer-5m-fdm-3d-printer-1-kg-1-spool-ice-blue-%E5%89%AF%E6%9C%AC
+    Mint Green:
+      hex: '#69E4D2'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-eco/#1751366880445-ba2660e7-b818
+    Red:
+      hex: '#D3201F'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-eco/#1751366880445-ba2660e7-b818
+    Fluorescent Rose Red:
+      hex: '#FF00EA'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-eco/#1751366880445-ba2660e7-b818
+    Flurescent Green:
+      hex: '#44FF00'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-eco/#1751366880445-ba2660e7-b818
+    Olive Green:
+      hex: '#265615'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-eco/#1751366880445-ba2660e7-b818
+    Transparent Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-de/products/petg-filament-1-75mm-tinmorry-improved-petg-eco-3d-printing-materials-compatible-with-bambu-fdm-3d-printer-1-kg-1-spool-1-kg-1-spule-transparent-blue
+    Cold White:
+      hex: '#E4EAEB'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-eco/#1751366880445-ba2660e7-b818
+    Sparkly Blue:
+      hex: '#2D5889'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-eco/#1751366880445-ba2660e7-b818
+    Carter Yellow:
+      hex: '#E2DE38'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-eco/#1751366880445-ba2660e7-b818
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-eco/#1751366880445-ba2660e7-b818
+    Sparkly Red:
+      hex: '#741A1A'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-eco/#1751366880445-ba2660e7-b818
+    Coffee:
+      hex: '#6F3700'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-eu/products/tinmorry-petg-filament-1-75mm-rapid-petg-eco-3d-printing-filament-compatible-with-bambu-lab-creality-k1c-flashforge-adventurer-5m-fdm-3d-printer-1-kg-1-spool-sakura-pink-%E5%A4%8D%E5%88%B6
+    Sky Blue:
+      hex: '#6EBEF7'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-de/products/petg-filament-1-75mm-tinmorry-improved-petg-eco-3d-printing-materials-compatible-with-bambu-fdm-3d-printer-1-kg-1-spool-sky-blue
+    Light Grey:
+      hex: '#E0E0E0'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-eu/products/tinmorry-petg-filament-1-75mm-rapid-petg-eco-3d-printing-filament-compatible-with-bambu-lab-creality-k1c-flashforge-adventurer-5m-fdm-3d-printer-1-kg-1-spool-coffee-%E5%A4%8D%E5%88%B6
+  PETG Matte:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    matte-army-green:
+      hex: '#43653A'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Matte Skin:
+      hex: '#FFD5A9'
+      source: 3dfilamentprofiles.com
+    Matte Light Blue:
+      hex: '#53D5FD'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#7F1722'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-gb/products/tinmorry-matte-pla-filament-1-75mm-pla-3d-printing-filament-compatible-with-bambu-lab-fdm-3d-printer-1-kg-1-spool-matte-purple-%E5%A4%8D%E5%88%B6
+    Light Green:
+      hex: '#BFD566'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-de/products/tinmorry-matte-pla-filament-1-75mm-pla-3d-printing-filament-compatible-with-bambu-lab-fdm-3d-printer-1-kg-1-spool-matte-red-%E5%A4%8D%E5%88%B6
+    Navy Blue:
+      hex: '#394157'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-gb/products/tinmorry-matte-pla-filament-1-75mm-pla-3d-printing-filament-compatible-with-bambu-lab-fdm-3d-printer-1-kg-1-spool-matte-olive-green-%E5%89%AF%E6%9C%AC
+    Purple:
+      hex: '#8080FF'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/products/tinmorry-matte-pla-filament-1-75mm-pla-3d-printing-filament-compatible-with-bambu-lab-fdm-3d-printer-1-kg-1-spool-matte-skin-%E5%A4%8D%E5%88%B6
+    Matt Grey:
+      hex: '#929292'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/pla/pla-matte/
+    Yellow:
+      hex: '#E7C445'
+      source: 3dfilamentprofiles.com
+    Army Blue:
+      hex: '#13376C'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#432D19'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/pla/pla-matte/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-eu/products/tinmorry-matte-pla-filament-1-75mm-pla-3d-printing-filament-compatible-with-bambu-lab-fdm-3d-printer-1-kg-1-spool-matte-white-%E5%A4%8D%E5%88%B6
+    Spinach Green:
+      hex: '#008040'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-de/products/tinmorry-matte-pla-filament-1-75mm-pla-3d-printing-filament-compatible-with-bambu-lab-fdm-3d-printer-1-kg-1-spool-matte-spinach-green
+  PLA Silk Triple:
+    Blue/Purple/Black:
+      hex: '#0000FF,#FF00FF,#000000'
+      source: 3dfilamentprofiles.com
+    Red/Blue/Green:
+      hex: '#FF0000,#0000FF,#00DE21'
+      source: 3dfilamentprofiles.com
+    Red/Yellow/Blue:
+      hex: '#FF0000,#FFFF00,#0000FF'
+      source: 3dfilamentprofiles.com
+    Orange/Blue/Green:
+      hex: '#FFAA00,#0000FF,#32BA00'
+      source: 3dfilamentprofiles.com
+    Red/Gold/Purple:
+      hex: '#FF0000,#DBD800,#D100C0'
+      source: 3dfilamentprofiles.com
+  PLA Marble:
+    Marble:
+      hex: '#B5B5B5'
+      source: 3dfilamentprofiles.com
+  PETG CF:
+    Reddish Brown:
+      hex: '#692401'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us/collections/petg-cf
+    Coffee:
+      hex: '#401E0F'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us
+    Marble Grey:
+      hex: '#9DA1AA'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us
+    Dark grey:
+      hex: '#262626'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us/collections/petg-cf
+    Carbon Blue:
+      hex: '#004170'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us/collections/petg-cf
+    Brick Red:
+      hex: '#7C2A00'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us/collections/petg-cf
+    Olive Green:
+      hex: '#3E503E'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us
+    Clay-yellow:
+      hex: '#7A4A00'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us/collections/petg-cf
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us/products/carbon-fibre-petg-filament-1-75mm-tinmorry-3d-printing-materials-for-fdm-3d-printers-1-kg-1-spool-black
+    Peacock Green:
+      hex: '#345B6A'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us/collections/petg-cf
+    Violet:
+      hex: '#A144FD'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/collections/petg-cf
+    Frosted Blue:
+      hex: '#186BAD'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/products/tinmorry-glass-fiber-reinforced-petg-filament-high-impact-resistance-petg-gf-3d-printing-filament-durability-stiffness-perfect-compatible-with-bambu-lab-fdm-3d-printer-1-kg-1-spool-frosted-blue
+  TPU 95A:
+    Grey:
+      hex: '#646668'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/tpu95a/tpu95a/
+    'Transparent Blue ':
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/tpu95a/tpu95a/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/products/filament-tpu-1-75-mm-tinmorry-3d-printing-materials-tpu-filament-for-fdm-3d-printer-1-kg-1-spool-white?variant=45788620587167
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/products/filament-tpu-1-75-mm-tinmorry-3d-printing-materials-tpu-filament-for-fdm-3d-printer-1-kg-1-spool-black?variant=42172358623391
+    Purple:
+      hex: '#874EFE'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/tpu95a/tpu95a/
+    orange:
+      hex: '#F8923F'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/tpu95a/tpu95a/
+    Transparent Violet:
+      hex: '#311B92'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/tpu95a/tpu95a/
+    Red:
+      hex: '#DC041A'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/tpu95a/tpu95a/
+    Lake Blue:
+      hex: '#001EFF'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/tpu95a/tpu95a/
+    Transparent Red:
+      hex: '#DD0000'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/products/filament-tpu-1-75-mm-tinmorry-3d-printing-materials-tpu-filament-for-fdm-3d-printer-1-kg-1-spool-transparent-red?variant=45788587229343
+    Transparent Light Green:
+      hex: '#80FF00'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/products/filament-tpu-1-75-mm-tinmorry-3d-printing-materials-tpu-filament-for-fdm-3d-printer-1-kg-1-spool-transparent-light-green?variant=45788231794847
+    Emerald Green:
+      hex: '#046307'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/tpu95a/tpu95a/
+  PETG Metal:
+    Dark Red:
+      hex: '#4D1413'
+      source: 3dfilamentprofiles.com
+    Chrome/Silver:
+      hex: '#D6D6D6'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us/products/metallic-petg-filament-1-75mm-tinmorry-petg-3d-printing-filament-compatible-with-bambu-lab-fdm-3d-printer-1kg-chrome-metal-silver
+    Metallic Blue:
+      hex: '#254E72'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#6FB20A'
+      source: 3dfilamentprofiles.com
+    Midnight Green:
+      hex: '#2E5C44'
+      source: 3dfilamentprofiles.com
+    Metallic Purple:
+      hex: '#641B63'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-de/products/tinmorry-metallic-petg-filament-1-75mm-petg-3d-printing-filament-compatible-with-bambu-lab-fdm-3d-printer-1-kg-1-spool-metallic-champagne-gold-%E5%A4%8D%E5%88%B6
+    Metallic Space Gray:
+      hex: '#636363'
+      source: 3dfilamentprofiles.com
+    Metallic Champagne Gold:
+      hex: '#DAC3A2'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/products/tinmorry-metallic-petg-filament-1-75mm-petg-3d-printing-filament-compatible-with-bambu-lab-fdm-3d-printer-1-kg-1-spool-metallic-space-grey-%E5%A4%8D%E5%88%B6
+    Metallic Bronze:
+      hex: '#624421'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-metallic/
+    RoseGold:
+      hex: '#C98371'
+      source: 3dfilamentprofiles.com
+  ABS Pro:
+    warm gray:
+      hex: '#D8D6D4'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#EDE37D'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-gb/products/tinmorry-abs-filament-1-75-mm-abs-pro-3d-printer-filament-1-kg-good-heat-resistance-strong-durable-dimensional-accuracy-0-03-mm-yellow
+    Red:
+      hex: '#F50F0F'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us/products/tinmorry-abs-filament-1-75-mm-abs-pro-3d-printer-filament-1-kg-good-heat-resistance-strong-durable-dimensional-accuracy-0-03-mm-red
+  PETG:
+    orange:
+      hex: '#D58400'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    yellow red blue:
+      hex: '#FFFB00,#FF2600,#0433FF'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-transparent/
+    blue purple:
+      hex: '#0433FF,#874EFE'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-transparent/
+    red translucent:
+      hex: '#D3201F'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.com/product/petg/petg-transparent/
+  PETG Chameleon:
+    Blue Purple Chameleon:
+      hex: '#033E68,#402F98'
+      source: 3dfilamentprofiles.com
+  PP CF:
+    Matte Black:
+      hex: '#04091C'
+      source: 3dfilamentprofiles.com
+  PLA CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us/products/carbon-fiber-pla-filament-1-75mm-1kg-tinmorry-pla-3d-printing-materials-for-fdm-3d-printer-1-spool-black
+    Brick Red:
+      hex: '#B13E44'
+      source: 3dfilamentprofiles.com
+    Purplish Grey:
+      hex: '#3F3045'
+      source: 3dfilamentprofiles.com
+    light Brown:
+      hex: '#624A28'
+      source: 3dfilamentprofiles.com
+    Carbon Blue:
+      hex: '#133C64'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Matte:
+    Matte Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Army Brown:
+      hex: '#E9CCAD'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+  PETG High Speed:
+    Skin:
+      hex: '#FFDAD8'
+      source: 3dfilamentprofiles.com
+  PET GF:
+    Black (Frosted):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us/products/carbon-fiber-pet-filament-1-75mm-tinmorry-pet-cf-3d-printing-filament-with-exceptional-thermal-resistance-and-mechanical-properties-compatible-with-bambu-fdm-3d-printers-1-kg-1-spool-matt-black-%E5%A4%8D%E5%88%B6
+  PLA Metal:
+    Space Gray:
+      hex: '#343D46'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/
+  TPU Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PET CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://tinmorry.net/en-us/products/carbon-fiber-pet-filament-1-75mm-tinmorry-pet-cf-3d-printer-filament-high-dimensional-stability-exceptional-thermal-resistance-compatible-with-most-fdm-3d-printers-1-kg-1-spool-light-black

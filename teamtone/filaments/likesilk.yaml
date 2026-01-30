@@ -1,0 +1,176 @@
+Likesilk:
+  PLA Silk:
+    Gold:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+    Black-Red:
+      hex: '#A21111,#000000'
+      source: 3dfilamentprofiles.com
+    Silk Blue-Green:
+      hex: '#3481A8'
+      source: 3dfilamentprofiles.com
+    Silk Silver:
+      hex: '#BABABA'
+      source: 3dfilamentprofiles.com
+  PLA F:
+    Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+      link: http://www.by-3df.com
+    Orange:
+      hex: '#FFA500'
+      source: 3dfilamentprofiles.com
+      link: http://www.by-3df.com
+    Wood:
+      hex: '#624E32'
+      source: 3dfilamentprofiles.com
+      link: http://www.by-3df.com
+    Mocha Brown:
+      hex: '#583A1D'
+      source: 3dfilamentprofiles.com
+      link: http://www.by-3df.com
+    Red:
+      hex: '#EE3A3A'
+      source: 3dfilamentprofiles.com
+      link: http://www.by-3df.com
+    Flesh:
+      hex: '#A76852'
+      source: 3dfilamentprofiles.com
+      link: http://www.by-3df.com
+    Purple:
+      hex: '#512DA4'
+      source: 3dfilamentprofiles.com
+      link: http://www.by-3df.com
+    Dark Blue:
+      hex: '#1512AF'
+      source: 3dfilamentprofiles.com
+      link: http://www.by-3df.com
+    Christmas Green:
+      hex: '#0B7539'
+      source: 3dfilamentprofiles.com
+      link: http://www.by-3df.com
+    Gray:
+      hex: '#D3D3D3'
+      source: 3dfilamentprofiles.com
+      link: http://www.by-3df.com
+    Glow Red:
+      hex: '#D44A47'
+      source: 3dfilamentprofiles.com
+      link: http://www.by-3df.com
+    Dream Rainbow:
+      hex: '#EF930F,#8CEF99,#ABD4EF,#DEEF06'
+      source: 3dfilamentprofiles.com
+      link: http://www.by-3df.com
+    Light Purple:
+      hex: '#C9CBFF'
+      source: 3dfilamentprofiles.com
+      link: http://www.by-3df.com
+    Glow Yellow:
+      hex: '#FDE295'
+      source: 3dfilamentprofiles.com
+      link: http://www.by-3df.com
+    Teak:
+      hex: '#724B14'
+      source: 3dfilamentprofiles.com
+      link: http://www.by-3df.com
+    Oak:
+      hex: '#C5902A'
+      source: 3dfilamentprofiles.com
+      link: http://www.by-3df.com
+    Walnut:
+      hex: '#2C200B'
+      source: 3dfilamentprofiles.com
+      link: http://www.by-3df.com
+    Cherry Wood:
+      hex: '#2B0409'
+      source: 3dfilamentprofiles.com
+      link: http://www.by-3df.com
+    Blue:
+      hex: '#0656D5'
+      source: 3dfilamentprofiles.com
+      link: http://www.by-3df.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: http://www.by-3df.com
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: http://www.by-3df.com
+    White:
+      hex: '#F4E1EF'
+      source: 3dfilamentprofiles.com
+      link: http://www.by-3df.com
+    Pink:
+      hex: '#FFA8DF'
+      source: 3dfilamentprofiles.com
+      link: http://www.by-3df.com
+  PLA Color Change (UV):
+    LUMINOUS GREEN:
+      hex: '#00B612'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Green:
+      hex: '#00B315'
+      source: 3dfilamentprofiles.com
+      link: http://www.bing-3d.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    flesh color:
+      hex: '#FE967C'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Orange:
+      hex: '#F54900'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Wood:
+      hex: '#CDB793'
+      source: 3dfilamentprofiles.com
+    Flesh:
+      hex: '#D3AA96'
+      source: 3dfilamentprofiles.com
+    Light Purple:
+      hex: '#E2D7F7'
+      source: 3dfilamentprofiles.com
+  ASA+ Basic:
+    Green:
+      hex: '#0E730C'
+      source: 3dfilamentprofiles.com
+  ASA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#00B315'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#6B1919'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#257BDE'
+      source: 3dfilamentprofiles.com
+    Flesh:
+      hex: '#FEC9A9'
+      source: 3dfilamentprofiles.com
+    Light Purple:
+      hex: '#D9CAF4'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Rose Red + Dark Blue:
+      hex: '#981662,#0D1073'
+      source: 3dfilamentprofiles.com
+    Back + Red:
+      hex: '#000000,#F76969'
+      source: 3dfilamentprofiles.com
+      link: https://www.bing-3d.com
+    Silk Gold Red:
+      hex: '#FB1818,#EAFA05'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,13 @@
+E3D:
+  PVA Basic:
+    Scaffold:
+      hex: '#404040'
+      source: 3dfilamentprofiles.com
+  PMMA Translucent:
+    Green:
+      hex: '#4BBD00'
+      source: 3dfilamentprofiles.com
+  PETG Blend:
+    Lime:
+      hex: '#D8FF14'
+      source: 3dfilamentprofiles.com

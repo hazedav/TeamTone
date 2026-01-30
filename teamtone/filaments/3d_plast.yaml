@@ -1,0 +1,56 @@
+3D Plast:
+  PLA Basic:
+    Asphalt:
+      hex: '#333333'
+      source: 3dfilamentprofiles.com
+      link: https://3dplast.biz/ua/g24253048-filament-pla-pla
+    white:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dplast.biz/ua/p2508145347-filament-pla-175mm.html
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dplast.biz/ua/p2503695505-filament-petg-copet.html
+    Purple:
+      hex: '#5E30EB'
+      source: 3dfilamentprofiles.com
+      link: https://3dplast.biz/ua/g30018621-filament-copet-petg
+    Grass green:
+      hex: '#00F201'
+      source: 3dfilamentprofiles.com
+      link: https://3dplast.biz/ua/g30018621-filament-copet-petg
+    Pink:
+      hex: '#FF56CC'
+      source: 3dfilamentprofiles.com
+      link: https://3dplast.biz/ua/g30018621-filament-copet-petg
+    Sky blue:
+      hex: '#00A9E7'
+      source: 3dfilamentprofiles.com
+      link: https://3dplast.biz/ua/g30018621-filament-copet-petg
+    Yellow:
+      hex: '#FFCC02'
+      source: 3dfilamentprofiles.com
+      link: https://3dplast.biz/ua/g30018621-filament-copet-petg
+    Turquoise:
+      hex: '#0098BB'
+      source: 3dfilamentprofiles.com
+      link: https://3dplast.biz/ua/g30018621-filament-copet-petg
+    Burgundy:
+      hex: '#58002E'
+      source: 3dfilamentprofiles.com
+      link: https://3dplast.biz/ua/p2503764453-filament-petg-copet.html
+  PETG Translucent:
+    Blue Translucent:
+      hex: '#5BB8FB'
+      source: 3dfilamentprofiles.com
+      link: https://3dplast.biz/ua/p2503748779-filament-petg-copet.html
+    Red translucent:
+      hex: '#C60101'
+      source: 3dfilamentprofiles.com
+      link: https://3dplast.biz/ua/p2503710979-filament-petg-copet.html
+    Warm tangerine:
+      hex: '#F36435'
+      source: 3dfilamentprofiles.com
+      link: https://3dplast.biz/ua/p2506234041-filament-petg-copet.html

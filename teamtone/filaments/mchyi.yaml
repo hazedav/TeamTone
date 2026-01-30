@@ -1,0 +1,12 @@
+Mchyi:
+  PLA Silk:
+    Shiny Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Silk Silver:
+      hex: '#888888'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Purple-Green:
+      hex: '#9848F9,#8FF0DC'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,240 @@
+Devil Design:
+  PLA Basic:
+    Super Blue:
+      hex: '#1E367B'
+      source: 3dfilamentprofiles.com
+    Super red:
+      hex: '#FF2D21'
+      source: 3dfilamentprofiles.com
+    Aluminum RAL9022:
+      hex: '#858583'
+      source: 3dfilamentprofiles.com
+      link: https://www.hotend.eu/p/devil-design-pla-aluminium?srsltid=AfmBOorAJoVHQhTfShRqBmNPYpwGXwOMbz7nOoPzK_nGCiPfKjU9Mbvo
+    Light Brown:
+      hex: '#A17754'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF6600'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFDD00'
+      source: 3dfilamentprofiles.com
+    blue:
+      hex: '#0D57A0'
+      source: 3dfilamentprofiles.com
+    Galaxy Red:
+      hex: '#F00000'
+      source: 3dfilamentprofiles.com
+    Mint:
+      hex: '#9DFFCE'
+      source: 3dfilamentprofiles.com
+    Navy Blue:
+      hex: '#0A183C'
+      source: 3dfilamentprofiles.com
+    Copper:
+      hex: '#8D4931'
+      source: 3dfilamentprofiles.com
+      link: https://devildesign.com/
+    Dark violet:
+      hex: '#6F2A62'
+      source: 3dfilamentprofiles.com
+      link: https://devildesign.com/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Light Gray:
+      hex: '#D7D7D7'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#939199'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#6D3B07'
+      source: 3dfilamentprofiles.com
+    Olive Green:
+      hex: '#50533C'
+      source: 3dfilamentprofiles.com
+      link: https://botland.store/pla-filaments/20361-filament-devil-design-pla-175mm-1kg-olive-green-5902280032830.html
+    Beige:
+      hex: '#F5F5DC'
+      source: 3dfilamentprofiles.com
+      link: https://allegro.pl/oferta/devil-design-pla-1-75mm-1kg-beige-bezowy-13636609826
+    Bright Green:
+      hex: '#47D715'
+      source: 3dfilamentprofiles.com
+      link: https://allegro.pl/oferta/devil-design-pla-1-75mm-1kg-bright-green-j-zielony-13636610050?fromVariant=13636609826
+    Dark Gray:
+      hex: '#393C37'
+      source: 3dfilamentprofiles.com
+      link: https://allegro.pl/oferta/filament-devil-design-pla-dark-gray-ciemnoszary-1-75mm-1kg-15514194101
+    White:
+      hex: '#ECECE8'
+      source: 3dfilamentprofiles.com
+      link: https://www.hotend.eu/p/devil-design-pla-white?srsltid=AfmBOoqYhktdcNHbnSm0EqM0IQGhJb-MjHdygwCfJLqtwYv6c8V3g6gt
+  TPU 55D:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PA12 Basic:
+    Natural:
+      hex: '#DCDEE0'
+      source: 3dfilamentprofiles.com
+      link: https://marwiol.pl/pl/p/Filament-Devil-Design-Nylon-PA-12-1%2C75-mm%2C-naturalny%2C-0%2C33-kg/1201
+  PLA Silk:
+    Bronze:
+      hex: '#826648'
+      source: 3dfilamentprofiles.com
+    Pink Pearl:
+      hex: '#F76EEB'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#24C49B'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#EBCE3D'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#878787'
+      source: 3dfilamentprofiles.com
+      link: https://filamentoes.de/collections/devil-design-silk/products/silk-silver-silber-1-kg-devil-design-filament-1-75-mm
+  PETG Basic:
+    Raspberry Red:
+      hex: '#961024'
+      source: 3dfilamentprofiles.com
+      link: https://devildesign.com/
+    Light Steel:
+      hex: '#06323C'
+      source: 3dfilamentprofiles.com
+      link: https://filamentoes.de/collections/petg-1-kg/products/petg-light-steel-heller-stahl-1-kg-devil-design-filament-1-75-mm
+    Silver:
+      hex: '#636363'
+      source: 3dfilamentprofiles.com
+      link: https://devildesign.com/
+    Bloody Red:
+      hex: '#861A22'
+      source: 3dfilamentprofiles.com
+      link: https://devildesign.com/en/do-pobrania/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://devildesign.com/
+    Super Blue:
+      hex: '#081DB9'
+      source: 3dfilamentprofiles.com
+      link: https://devildesign.com/en/do-pobrania/
+    Bright Green:
+      hex: '#26D123'
+      source: 3dfilamentprofiles.com
+      link: https://devildesign.com/en/do-pobrania/
+    Bright Yellow:
+      hex: '#F6B900'
+      source: 3dfilamentprofiles.com
+      link: https://devildesign.com/en/oferta/
+    Dark Grey:
+      hex: '#343637'
+      source: 3dfilamentprofiles.com
+      link: https://devildesign.com/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://devildesign.com/en/
+    Gray:
+      hex: '#939199'
+      source: 3dfilamentprofiles.com
+      link: https://devildesign.com/
+    Brown:
+      hex: '#624226'
+      source: 3dfilamentprofiles.com
+      link: https://filamentoes.de/collections/petg-1-kg/products/petg-brown-braun-1-kg-devil-design-filament-1-75-mm
+    Beige:
+      hex: '#E9E6D1'
+      source: 3dfilamentprofiles.com
+      link: https://filamentoes.de/collections/petg-1-kg/products/petg-beige-beige-1-kg-devil-design-filament-1-75-mm
+    Galaxy Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://filamentoes.de/collections/petg-1-kg/products/petg-galaxy-black-1-kg-devil-design-filament-1-75-mm
+    PC Gray:
+      hex: '#B7B3A8'
+      source: 3dfilamentprofiles.com
+      link: https://botland.com.pl/filamenty-petg/14106-filament-devil-design-petg-175mm-1kg-gray-5902280030393.html
+  ABS Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Ruby Red:
+      hex: '#AD1414'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#44D8FD'
+      source: 3dfilamentprofiles.com
+    Ruby Red Transparent:
+      hex: '#AD0000'
+      source: 3dfilamentprofiles.com
+      link: https://devildesign.com/en/
+    Transparent:
+      hex: '#BAC4C2'
+      source: 3dfilamentprofiles.com
+    Amber:
+      hex: '#FFBF00'
+      source: 3dfilamentprofiles.com
+    Super Blue:
+      hex: '#00B5FF'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#26D123'
+      source: 3dfilamentprofiles.com
+  PLA Blend:
+    Silver:
+      hex: '#8B8B8B'
+      source: 3dfilamentprofiles.com
+      link: https://filamentoes.de/collections/devil-design-silk/products/silk-silver-silber-1-kg-devil-design-filament-1-75-mm
+  PETG Galaxy:
+    Galaxy Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://devildesign.com/en/
+    Galaxy Green:
+      hex: '#2F4538'
+      source: 3dfilamentprofiles.com
+      link: https://devildesign.com/en/
+  PLA Marble:
+    Marble Dark:
+      hex: '#BABABA'
+      source: 3dfilamentprofiles.com
+    Marble Light:
+      hex: '#EBEBEB'
+      source: 3dfilamentprofiles.com
+  ABS+ Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  ASA Basic:
+    Red:
+      hex: '#C6151B'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#3A7F3C'
+      source: 3dfilamentprofiles.com
+    Race Green:
+      hex: '#0C4D09'
+      source: 3dfilamentprofiles.com
+      link: https://filamentoes.de/products/asa-race-green-renn-grun-1-kg-devil-design-filament-1-75-mm
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Galaxy:
+    GALAXY SUPER BLUE:
+      hex: '#0E1358'
+      source: 3dfilamentprofiles.com
+  HIPS Basic:
+    black:
+      hex: '#050505'
+      source: 3dfilamentprofiles.com
+    Blac k:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

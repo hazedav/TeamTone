@@ -1,0 +1,100 @@
+XZN:
+  PETG Basic:
+    Silver:
+      hex: '#878B95'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#A35724'
+      source: 3dfilamentprofiles.com
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Purple:
+      hex: '#6F477E'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#838893'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#CEAF4C'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Dark Green:
+      hex: '#263E0F'
+      source: 3dfilamentprofiles.com
+    Dark Green Bronze:
+      hex: '#14392F'
+      source: 3dfilamentprofiles.com
+    Silky Royal Blue:
+      hex: '#1A0A53'
+      source: 3dfilamentprofiles.com
+    Metallic Shiny Royal Blue:
+      hex: '#002AFF'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#F5F7F9'
+      source: 3dfilamentprofiles.com
+    Copper:
+      hex: '#863D2E'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#59FCFF'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Transparent Brown:
+      hex: '#804040'
+      source: 3dfilamentprofiles.com
+    Clear Green:
+      hex: '#4DDF00'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#C6CAD2'
+      source: 3dfilamentprofiles.com
+    XZN Transparent Red TPU 95A:
+      hex: '#F04747'
+      source: 3dfilamentprofiles.com
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Transparent Orange:
+      hex: '#FF822B'
+      source: 3dfilamentprofiles.com
+    Transparent Silver:
+      hex: '#979BA6'
+      source: 3dfilamentprofiles.com
+    Transparent Purple:
+      hex: '#DB24C3'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Clear Blue:
+      hex: '#1B7ADA'
+      source: 3dfilamentprofiles.com
+  TPU Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA CF:
+    Blue:
+      hex: '#001E57'
+      source: 3dfilamentprofiles.com
+    Brick Red:
+      hex: '#831100'
+      source: 3dfilamentprofiles.com
+    Matcha Green:
+      hex: '#38571A'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Marble:
+    White/Grey:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com

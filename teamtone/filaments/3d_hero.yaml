@@ -1,0 +1,12 @@
+3D Hero:
+  PLA Basic:
+    Light Gold:
+      hex: '#E7A20D'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

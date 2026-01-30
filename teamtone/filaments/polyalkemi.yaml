@@ -1,0 +1,32 @@
+Polyalkemi:
+  ASA CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    BlueRed Bicolor:
+      hex: '#0000FF,#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://polyalkemi.no/polyalkemi/101805/polyalkemi-pla-bicolor-blue-red
+  PLA Silk:
+    Tricolor Gold Blue Red:
+      hex: '#FF0000,#0000FF,#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://polyalkemi.no/polyalkemi/103118/polyalkemi-pla-silk-tricolor-gold-blue-red
+  PLA Multicolor:
+    Blue Red:
+      hex: '#002AFF,#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://polyalkemi.no/produkt/polyalkemi-bicolor-pla-bluered/
+  PLA:
+    Tanga Orange:
+      hex: '#F04E13'
+      source: 3dfilamentprofiles.com
+  PLA Magic:
+    Magic Blue:
+      hex: '#006141'
+      source: 3dfilamentprofiles.com

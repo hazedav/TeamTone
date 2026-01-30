@@ -1,0 +1,34 @@
+WISDREAM:
+  PLA Rainbow:
+    Desert Camouflage/Latte Color/Golden Sunset:
+      hex: '#CCBB9B'
+      source: 3dfilamentprofiles.com
+    Forest/Jungle/Military Rainbow:
+      hex: '#313F1C'
+      source: 3dfilamentprofiles.com
+      link: https://www.minreon.com/content.aspx?id=127
+  PLA Silk Rainbow:
+    Military Rainbow:
+      hex: '#F6DECE,#292D20,#3C3934'
+      source: 3dfilamentprofiles.com
+      link: https://www.minreon.com/content.aspx?id=124
+  TPU:
+    Blue Moisture-Activated Flexible Filament 2.0:
+      hex: '#2795D6'
+      source: 3dfilamentprofiles.com
+    Orange Moisture-Activated Flexible Filament 2.0:
+      hex: '#F67E32'
+      source: 3dfilamentprofiles.com
+    White Moisture-Activated Flexible Filament 2.0:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Red Moisture-Activated Flexible Filament 2.0:
+      hex: '#C0101F'
+      source: 3dfilamentprofiles.com
+    Yellow Moisture-Activated Flexible Filament 2.0:
+      hex: '#F2DC18'
+      source: 3dfilamentprofiles.com
+  TPU Flexible:
+    Royal Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com

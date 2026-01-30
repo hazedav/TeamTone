@@ -1,0 +1,275 @@
+QIDI Tech:
+  PLA Wood:
+    Cedar Brown:
+      hex: '#A67F6B'
+      source: 3dfilamentprofiles.com
+      link: https://us.qidi3d.com/products/pla-wood-filament
+    Yellow:
+      hex: '#B7916C'
+      source: 3dfilamentprofiles.com
+      link: https://us.qidi3d.com/products/pla-wood-filament
+  PLA Matte:
+    Olive Green:
+      hex: '#555B43'
+      source: 3dfilamentprofiles.com
+      link: https://qidi3d.com/products/pla-matte-basic?variant=44486972735628
+    Navy:
+      hex: '#353E47'
+      source: 3dfilamentprofiles.com
+      link: https://qidi3d.com/products/pla-matte-basic?variant=44486972735628
+    Warm Gray:
+      hex: '#B7ADA5'
+      source: 3dfilamentprofiles.com
+      link: https://qidi3d.com/products/pla-matte-basic?variant=44486972735628
+    Black:
+      hex: '#212322'
+      source: 3dfilamentprofiles.com
+      link: https://qidi3d.com/products/pla-matte-basic?variant=44486972735628
+    Malt Clay:
+      hex: '#876E59'
+      source: 3dfilamentprofiles.com
+      link: https://qidi3d.com/products/pla-matte-basic?variant=44486972735628
+    Ash Grey:
+      hex: '#313335'
+      source: 3dfilamentprofiles.com
+      link: https://qidi3d.com/products/qidi-tech-pla-matte-filament
+    Watermelon Red:
+      hex: '#F45D6D'
+      source: 3dfilamentprofiles.com
+      link: https://qidi3d.com/products/pla-matte-basic?variant=44486972735628
+    Latte Brown:
+      hex: '#8C6952'
+      source: 3dfilamentprofiles.com
+      link: https://eu.qidi3d.com/products/pla-matte-basic?variant=43034674462803
+    Milky Green:
+      hex: '#D8E9DB'
+      source: 3dfilamentprofiles.com
+      link: https://qidi3d.com/products/pla-matte-basic?variant=44486972768396
+    Sesame Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://au.qidi3d.com/products/pla-matte-basic
+    Mint Blue:
+      hex: '#9CD4EB'
+      source: 3dfilamentprofiles.com
+      link: https://qidi3d.com/products/pla-matte-basic?variant=44486972735628
+  ABS Rapid:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#E4F312'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#00358E'
+      source: 3dfilamentprofiles.com
+      link: https://qidi3d.com/products/qidi-tech-abs-filament?variant=41890918269068
+  TPU HF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.qidi3d.com/products/qidi-tpu95a-hf-filament?variant=50737707680064
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://us.qidi3d.com/products/qidi-tpu95a-hf-filament?variant=50737707712832
+  PET CF:
+    Black:
+      hex: '#212322'
+      source: 3dfilamentprofiles.com
+      link: https://us.qidi3d.com/products/pet-cf-filament
+  PLA High Speed:
+    Yellow:
+      hex: '#FCE300'
+      source: 3dfilamentprofiles.com
+  ASA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#C51223'
+      source: 3dfilamentprofiles.com
+      link: https://qidi3d.com/products/qidi-asa-filament?variant=41725687398540
+    Gray:
+      hex: '#BEBFC2'
+      source: 3dfilamentprofiles.com
+      link: https://qidi3d.com/products/qidi-asa-filament?variant=41919789006988
+    Blue:
+      hex: '#0F55C6'
+      source: 3dfilamentprofiles.com
+      link: https://qidi3d.com/products/qidi-asa-filament?variant=41725687464076
+    Green:
+      hex: '#7FC61B'
+      source: 3dfilamentprofiles.com
+      link: https://qidi3d.com/products/qidi-asa-filament?variant=41725687496844
+    Yellow:
+      hex: '#F4DB67'
+      source: 3dfilamentprofiles.com
+      link: https://qidi3d.com/products/qidi-asa-filament?variant=41725687529612
+    Brown:
+      hex: '#593729'
+      source: 3dfilamentprofiles.com
+      link: https://qidi3d.com/products/qidi-asa-filament?variant=41725687562380
+  ABS Metal:
+    Champagne Gold:
+      hex: '#C9C6A5'
+      source: 3dfilamentprofiles.com
+      link: https://us.qidi3d.com/products/abs-rapido-metal-filament?variant=50737694146880
+    Silver:
+      hex: '#ADADAD'
+      source: 3dfilamentprofiles.com
+      link: https://us.qidi3d.com/products/abs-rapido-metal-filament?variant=50737694179648
+    Midnight Green:
+      hex: '#40746D'
+      source: 3dfilamentprofiles.com
+      link: https://us.qidi3d.com/products/abs-rapido-metal-filament?variant=50737694212416
+  ABS GF:
+    Red:
+      hex: '#C03023'
+      source: 3dfilamentprofiles.com
+      link: https://qidi3d.com/products/qidi-tech-abs-gf25-filament?variant=42267487436940
+    Green:
+      hex: '#00A247'
+      source: 3dfilamentprofiles.com
+      link: https://qidi3d.com/products/qidi-tech-abs-gf25-filament?variant=42267516174476
+    Purple:
+      hex: '#7F347C'
+      source: 3dfilamentprofiles.com
+      link: https://qidi3d.com/products/qidi-tech-abs-gf25-filament?variant=42267516207244
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://qidi3d.com/products/qidi-tech-abs-gf25-filament
+  PLA Basic:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+  PETG Tough:
+    Orange:
+      hex: '#FFA200'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://us.qidi3d.com/products/qidi-tech-petg-tough-filament?variant=50737662296384
+    Green:
+      hex: '#009639'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://us.qidi3d.com/products/qidi-tech-petg-tough-filament?variant=50737662263616
+    Yellow:
+      hex: '#FCE300'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Green:
+      hex: '#098C3E'
+      source: 3dfilamentprofiles.com
+      link: https://qidi3d.com/products/qidi-tech-abs-filament?variant=41443529392268
+  PAHT GF:
+    Grey:
+      hex: '#A2AAAD'
+      source: 3dfilamentprofiles.com
+      link: https://us.qidi3d.com/products/paht-gf-filament
+  PETG HF:
+    Yellow:
+      hex: '#F6D155'
+      source: 3dfilamentprofiles.com
+      link: https://wiki.qidi3d.com/en/Memo/Filament-Guide
+  PLA High Speed Matte:
+    Navy Blue:
+      hex: '#425E7C'
+      source: 3dfilamentprofiles.com
+      link: https://eu.qidi3d.com/nl/products/qidi-tech-pla-matte-filament?variant=40582927122515
+    Olive Green:
+      hex: '#637B53'
+      source: 3dfilamentprofiles.com
+      link: https://eu.qidi3d.com/nl/products/qidi-tech-pla-matte-filament?variant=40582927089747
+    Ash Gray:
+      hex: '#45494D'
+      source: 3dfilamentprofiles.com
+      link: https://eu.qidi3d.com/nl/products/qidi-tech-pla-matte-filament?variant=40582927024211
+    Warm Gray:
+      hex: '#B5A79E'
+      source: 3dfilamentprofiles.com
+      link: https://eu.qidi3d.com/nl/products/qidi-tech-pla-matte-filament?variant=40582927056979
+    Tech Gray:
+      hex: '#C4C0BD'
+      source: 3dfilamentprofiles.com
+      link: https://eu.qidi3d.com/nl/products/qidi-tech-pla-matte-filament?variant=40582926991443
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://eu.qidi3d.com/nl/products/qidi-tech-pla-matte-filament?variant=40582926958675
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://eu.qidi3d.com/nl/products/qidi-tech-pla-matte-filament?variant=40582926925907
+  PLA Rapid:
+    Orange:
+      hex: '#FF6A13'
+      source: 3dfilamentprofiles.com
+      link: https://us.qidi3d.com/products/qidi-tech-pla-filament?variant=50737664491840
+    Blue:
+      hex: '#030D96'
+      source: 3dfilamentprofiles.com
+      link: https://us.qidi3d.com/products/qidi-tech-pla-filament?variant=50737664393536
+    Pink:
+      hex: '#FF66CC'
+      source: 3dfilamentprofiles.com
+      link: https://eu.qidi3d.com/products/qidi-tech-pla-filament?variant=41428205338707
+    Gray:
+      hex: '#A3A3A0'
+      source: 3dfilamentprofiles.com
+      link: https://au.qidi3d.com/products/qidi-tech-pla-filament?variant=51783463797052
+    Green:
+      hex: '#009F4D'
+      source: 3dfilamentprofiles.com
+      link: https://us.qidi3d.com/products/qidi-tech-pla-filament?variant=50737664557376
+    Purple:
+      hex: '#AD3DA0'
+      source: 3dfilamentprofiles.com
+      link: https://us.qidi3d.com/products/qidi-tech-pla-filament?variant=50737664688448
+  PET GF:
+    Red:
+      hex: '#CD001A'
+      source: 3dfilamentprofiles.com
+      link: https://us.qidi3d.com/products/pet-gf-filament?variant=50737703878976
+    Black:
+      hex: '#212322'
+      source: 3dfilamentprofiles.com
+      link: https://us.qidi3d.com/products/pet-gf-filament?variant=50737703813440
+    Brown:
+      hex: '#946037'
+      source: 3dfilamentprofiles.com
+      link: https://us.qidi3d.com/products/pet-gf-filament?variant=50737703846208
+  PA12 CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG GF:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Skylight Blue:
+      hex: '#C8E0E0'
+      source: 3dfilamentprofiles.com
+    Macchiato Brown:
+      hex: '#AC8266'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG PolyTerra:
+    White:
+      hex: '#F7F7F7'
+      source: 3dfilamentprofiles.com
+  PA (Nylon) Ultra:
+    Natural:
+      hex: '#F5F5F5'
+      source: 3dfilamentprofiles.com
+      link: https://uk.qidi3d.com/products/qidi-nylon-filament-ultrapa

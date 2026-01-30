@@ -1,0 +1,597 @@
+Rosa3D:
+  PLA Basic:
+    LIGHT GREY:
+      hex: '#DEDDDA'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://msfilament3d.com/en/pla/370-pla-red-175mm-1kg-5907753135193.html
+    Green:
+      hex: '#21E839'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-starter-green
+    Neon Orange:
+      hex: '#F05666'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-starter-neon-orange
+    Purple:
+      hex: '#7713F1'
+      source: 3dfilamentprofiles.com
+      link: https://msfilament3d.com/en/pla/229-pla-violet-dynamic-175mm-1kg-refill-5907753133595.html
+    Porcelain Skin:
+      hex: '#FBDAC5'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-starter-porcelain-skin
+    Coral Pastel:
+      hex: '#EC966F'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-starter-coral-pastel
+    Natural:
+      hex: '#FFFFD7'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#F05283'
+      source: 3dfilamentprofiles.com
+      link: https://rosa3d.pl/
+    Yellow:
+      hex: '#F7F96C'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-starter-yellow
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-pla-starter-black-1
+    Cooper:
+      hex: '#CB5A2A'
+      source: 3dfilamentprofiles.com
+      link: https://rosa3d.pl/
+    Starter White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-pla-starter-white-1
+    Dark Blue:
+      hex: '#0F0DAB'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-starter-dark-blue
+    Pearl Gold:
+      hex: '#80643F'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-starter-pearl-gold
+    Capri Blue Satin:
+      hex: '#00BFFF'
+      source: 3dfilamentprofiles.com
+      link: https://rosa3d.pl/
+    Pastel Green:
+      hex: '#92FF8A'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-pastel-green
+    OXY GREEN:
+      hex: '#1F3B02'
+      source: 3dfilamentprofiles.com
+      link: https://rosa3d.pl/
+    Emerald Green Satin:
+      hex: '#006B53'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-starter-emerald-green-satin
+    Rubin Red:
+      hex: '#C61541'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-starter-rubin-red
+    Pastel Yellow:
+      hex: '#F1F38C'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-pla-pastel-yellow
+    Neon Green:
+      hex: '#19FF5A'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-refill-pla-starter-neon-green
+    Tanned Skin:
+      hex: '#F0A078'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-refill-pla-starter-tanned-skin
+    Army Green:
+      hex: '#102E00'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-starter-army-green
+    Orange:
+      hex: '#F09800'
+      source: 3dfilamentprofiles.com
+      link: https://msfilament3d.com/en/pla/223-pla-orange-175mm-1kg-refill.html
+    Red Jasper Satin:
+      hex: '#D73B3E'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-starter-red-jasper-satin
+    Gray:
+      hex: '#414344'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-pla-starter-gray-1kg
+    Mocha Mousse:
+      hex: '#A47864'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-refill-pla-starter-mocha-mousse-175mm-1kg
+    Light Brown:
+      hex: '#C19767'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-refill-pla-starter-light-brown
+    Juicy Green:
+      hex: '#00B141'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-refill-pla-starter-juicy-green
+    Pastel Pink:
+      hex: '#EFAEDB'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-pastel-pink
+    Karmin Red:
+      hex: '#E31717'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-starter-karmin-red
+    Glitter Graphite:
+      hex: '#161718'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-starter-glitter-graphite
+    winter starter:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://rosa3d.pl/
+  PLA Silk:
+    Navy Blue:
+      hex: '#006680'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-refill-pla-silk-navy-blue
+    silver:
+      hex: '#BFBFC0'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-refill-pla-silk-silver
+    Multicolor Ocean:
+      hex: '#52D6FC,#999999,#3A87FE'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#12D91F'
+      source: 3dfilamentprofiles.com
+    Rose Gold:
+      hex: '#B76E79'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-silk-rose-gold
+    Copper:
+      hex: '#CB5A2A'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-silk-copper
+    Cooper:
+      hex: '#CB5A2A'
+      source: 3dfilamentprofiles.com
+    Jungle:
+      hex: '#ACD75B'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0B51F4'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-silk-blue
+    Fuchsia:
+      hex: '#A70288'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#DBC34C'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-pla-silk-gold-175mm-05kg
+    Silk White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-pla-silk-white-2
+    Emerald Green:
+      hex: '#006B53'
+      source: 3dfilamentprofiles.com
+      link: https://www.rohttps://www.rosa3d.pl/en/filament-3d-refill-pla-silk-emerald-green
+    Yellow:
+      hex: '#F5E52E'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-silk-yellow
+    Red:
+      hex: '#E70D23'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-silk-red
+    SAtin Pink:
+      hex: '#CC74D2'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-starter-satin-pink
+  PLA Silk Magic:
+    Lagoon:
+      hex: '#00CEC8,#81B0F9'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-refill-pla-magic-silk-lagoon
+    Carnival:
+      hex: '#FFD700,#0000FF,#C2185B'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-refill-pla-magic-silk-carnival
+    Gold-Copper:
+      hex: '#EDBA1C,#D2683A'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-pla-magic-silk-gold-copper
+    Glamour (4322):
+      hex: '#F2B8A7,#D1D1D1'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament/pla/pla-magic
+    Goblin:
+      hex: '#2AE558,#581CE3'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-magic-silk-goblin
+    Aurora:
+      hex: '#B11F4A,#1FAF7A,#1F4FAF'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/product/pdf/461
+    Midnight City:
+      hex: '#2F72A2,#E06AE2'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament/pla/pla-magic
+    Gold Silver (4069):
+      hex: '#D6D6D6,#E6CC70'
+      source: 3dfilamentprofiles.com
+    Misitic Green:
+      hex: '#2AC043,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-magic-silk-mistic-green
+    Frozen:
+      hex: '#FFFFFF,#5BA8F5'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-magic-silk-frozen
+    Fire:
+      hex: '#E32400,#D29D00'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-pla-magic-silk-fire
+    Pink Dynamic:
+      hex: '#985BA4,#E88DC6'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-pla-magic-silk-pink-dynamic
+    Cameleon:
+      hex: '#FF9500,#5C004B,#005C0B'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament/pla/pla-magic
+    XMAS:
+      hex: '#0F6744,#FF0000,#E2BA00'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-pla-magic-xmas
+    Mistic Purple:
+      hex: '#000000,#A417A6'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-magic-silk-mistic-purple
+  PLA Magic:
+    Cameleon:
+      hex: '#A86200,#510061,#00660C'
+      source: 3dfilamentprofiles.com
+    Treasure:
+      hex: '#E5902E,#3C2A25,#CDBF1D'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-magic-silk-treasure
+    Gold-Silver:
+      hex: '#FFD700,#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-refill-pla-magic-silk-gold-silver
+    Vintage Glass (Transparent):
+      hex: '#015CB7,#D2E00B,#E91CCD'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-magic-vintage-glass
+    NEON:
+      hex: '#FB9902,#FFFF00,#FF5733'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-refill-pla-magic-neon
+  ASA Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Turqouse Green:
+      hex: '#02643A'
+      source: 3dfilamentprofiles.com
+    Natural:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-asa-natural
+  PETG Basic:
+    Transparent:
+      hex: '#EDEDED'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-pet-g-standard-hs-transparent-1
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-pet-g-standard-hs-white-2
+    Transparent Red Wine:
+      hex: '#B40441'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-refill-pet-g-standard-hs-red-wine-transparent
+    Magic Army:
+      hex: '#27471F,#3F3422'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pet-g-magic-army-green-beige-bronze-1kg
+    Lilac:
+      hex: '#D17BB3'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-refill-pet-g-standard-hs-lilac-1kg
+    Pearl Gold:
+      hex: '#80643F'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-pet-g-standard-hs-pearl-gold
+    Carbon Look:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pet-g-carbonlook
+    Juicy Orange:
+      hex: '#FF6A00'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-pet-g-standard-hs-juicy-orange-2
+    Blue Sky Transparent:
+      hex: '#1A5FB4'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pet-g-standard-hs-blue-sky-transparent
+    Transparent Red:
+      hex: '#A41217'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-pet-g-standard-hs-transparent-red
+    Aluminium:
+      hex: '#A1A1A0'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-pet-g-standard-hs-aluminium-1
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-pet-g-standard-hs-black-3
+    Gray:
+      hex: '#7F7F7F'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-pet-g-standard-hs-gray-2
+  PLA Galaxy:
+    Red Wine (4382):
+      hex: '#AF1242'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-pla-galaxy-red-wine
+    Navy Blue:
+      hex: '#0F1624'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-refill-pla-galaxy-navy-blue
+    Navy Blue (4053):
+      hex: '#2A5279'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filaments/pla/pla-galaxy
+    Sapphire:
+      hex: '#2020FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-pla-galaxy-sapphire
+    Violet:
+      hex: '#8000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-pla-galaxy-violet
+  PLA High Speed:
+    Winter White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#FF00FF'
+      source: 3dfilamentprofiles.com
+    Rose Beige Skin:
+      hex: '#D97957'
+      source: 3dfilamentprofiles.com
+    Violet Dynamic:
+      hex: '#7D3BBF'
+      source: 3dfilamentprofiles.com
+    Neon Green:
+      hex: '#19FF5A'
+      source: 3dfilamentprofiles.com
+    Juicy Orange:
+      hex: '#FF6A00'
+      source: 3dfilamentprofiles.com
+    Signal Violet:
+      hex: '#94067F'
+      source: 3dfilamentprofiles.com
+    Dark Blue:
+      hex: '#000473'
+      source: 3dfilamentprofiles.com
+    Blue Sky:
+      hex: '#009FD4'
+      source: 3dfilamentprofiles.com
+    Chocolate Brown:
+      hex: '#402400'
+      source: 3dfilamentprofiles.com
+    Army Green:
+      hex: '#102E00'
+      source: 3dfilamentprofiles.com
+  PETG Galaxy:
+    Navy Blue:
+      hex: '#09424E'
+      source: 3dfilamentprofiles.com
+  PETG High Speed:
+    Aluminum:
+      hex: '#A1A1A0'
+      source: 3dfilamentprofiles.com
+      link: https://sklep.rosa3d.pl/product/pet-g-standard-175mm-aluminium-1kg/
+    Green Grass:
+      hex: '#158938'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pet-g-standard-hs-green-grass-1kg
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filaments/pet-g/pet-g-standard-hs
+    Neon Yellow:
+      hex: '#B4E137'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filaments/pet-g/pet-g-standard-hs
+    Mint:
+      hex: '#07A27B'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pet-g-standard-hs-mint-1kg
+    Bright Yellow:
+      hex: '#E4DF4E'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pet-g-standard-hs-bright-yellow-1kg
+    Burgundy Red:
+      hex: '#810436'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pet-g-standard-hs-burgundy-red-1kg
+    Pure Green Transparent:
+      hex: '#079732'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filaments/pet-g/pet-g-standard-hs
+    Juicy Orange:
+      hex: '#D26914'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pet-g-standard-hs-juicy-orange
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filaments/pet-g/pet-g-standard-hs
+  PETG Translucent:
+    Red:
+      hex: '#A60C0C'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    Glow in the Dark Green:
+      hex: '#92FF8A'
+      source: 3dfilamentprofiles.com
+    Glow in the Dark Blue:
+      hex: '#72BDF3'
+      source: 3dfilamentprofiles.com
+  PLA Pastello:
+    Mint:
+      hex: '#4DEADB'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament/pla/pla-pastel
+    Peach:
+      hex: '#FFC39E'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-refill-pla-pastel-peach.html
+    Rose:
+      hex: '#FF97C0'
+      source: 3dfilamentprofiles.com
+      link: https://rosa3dfrance.fr/products/rosa3d-pla-starter-rose-pastel-pastel-pink-1-75-mm-1-kg-refill
+    Lavender:
+      hex: '#CFADC9'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-refill-pla-pastel-lavender
+    Blue:
+      hex: '#C6E0FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-pastel-blue
+  ABS FR:
+    V0 FR Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-abs-v0-fr-black-07kg
+  PLA CMYK:
+    Lithophane Yellow:
+      hex: '#E2E53E'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-starter-lithophane-yellow
+    Lithophane Cyan:
+      hex: '#3295F1'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-starter-lithophane-cyan
+    Lithophane White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-starter-lithophane-white
+    Lithophane Magenta:
+      hex: '#FF00FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-starter-lithophane-magenta
+  PLA High Speed Matte:
+    Matt White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-refill-pla-speed-matt-white-175mm-1kg
+  PLA Matte:
+    Pastel Mint (3990):
+      hex: '#0FD3D7'
+      source: 3dfilamentprofiles.com
+  PLA:
+    Army Green:
+      hex: '#27352E'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-starter-army-green
+    BIOWOOD:
+      hex: '#AC8B5D'
+      source: 3dfilamentprofiles.com
+    Cyan:
+      hex: '#156BC1'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FBE529'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-pla-starter-yellow-1kg
+  PLA CF:
+    Hibiscus Pink:
+      hex: '#BA7175'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-cf-matt-hibiscus-pink-1kg
+    Olive Green:
+      hex: '#6A7A5E'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-cf-matt-olive-green-175mm-1kg
+    Lava Gray:
+      hex: '#424444'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-cf-matt-lava-gray-175mm-1kg
+    Stone Cold Gray:
+      hex: '#939EA1'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-refill-pla-cf-matt-stone-cold-gray-175mm-1kg
+  PLA Silk Dual:
+    Moon:
+      hex: '#BDBFC2,#2E2E2E,#3169A0,#9E9E9E'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-pla-multicolour-moon-1
+    Magic Silk Mistic Red:
+      hex: '#000000,#FF0000'
+      source: 3dfilamentprofiles.com
+    Mistic Violet:
+      hex: '#261058'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-refill-pla-magic-silk-mistic-violet
+  PLA ReFill:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-starter-white
+    Balck:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-starter-black-1kg
+    Gray:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-starter-gray
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-refill-pla-starter-gray
+  PLA Multicolor:
+    Rainbow:
+      hex: '#B57EB9,#6299D0,#68CFA8,#D9AA68'
+      source: 3dfilamentprofiles.com
+  TPU Glow:
+    Glow in the dark:
+      hex: '#96D35F'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-rosa-flex-96a-green-glow-in-the-dark-green-175mm-05kg
+  PVB:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/filament-3d-pvb-red
+  PLA+/Pro High Speed:
+    Signal violet (purple):
+      hex: '#791A3D'
+      source: 3dfilamentprofiles.com
+      link: https://rosa3dfrance.fr/products/rosa3d-pla-hs-high-speed-signal-violet-1-75-mm-1-kg-refill
+  PCTG:
+    Grey:
+      hex: '#6F7376'
+      source: 3dfilamentprofiles.com
+  TPU Flexible:
+    Green:
+      hex: '#32C33C'
+      source: 3dfilamentprofiles.com
+      link: https://www.rosa3d.pl/en/filament-3d-rosa-flex-96a-green
+  PLA+/Pro Ingeo 3D870:
+    blanc:
+      hex: '#E4F2FB'
+      source: 3dfilamentprofiles.com
+      link: https://rosa3dfrance.fr/products/rosa3d-pla-plus-prospeed-white-1-75-mm-1-kg-3d870-livraison-rapide-pas-cher

@@ -1,0 +1,73 @@
+DOWELL 3D:
+  PETG Basic:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Light Gray:
+      hex: '#C2C2C2'
+      source: 3dfilamentprofiles.com
+    Fluorescent Orange:
+      hex: '#FF7B00'
+      source: 3dfilamentprofiles.com
+    Taro Purple:
+      hex: '#BA6BFF'
+      source: 3dfilamentprofiles.com
+    Florescent Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#6E6E6E'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.dowell3dprinter.com/product/dowell3d-factory-direct-offer-petg-175mm-285mm-pla-tpu-asa-abs-3d-printing-material-1kg-3kg-5kg-petg-filament
+  PLA Basic:
+    Gray:
+      hex: '#ABABAB'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#F4F76E'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#80C4F5'
+      source: 3dfilamentprofiles.com
+    Dark Brown:
+      hex: '#2C160C'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#7E6EF7'
+      source: 3dfilamentprofiles.com
+    Reddish Brown:
+      hex: '#590303'
+      source: 3dfilamentprofiles.com
+    Light coffeee:
+      hex: '#B95A50'
+      source: 3dfilamentprofiles.com
+    Light skin:
+      hex: '#EAC490'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#DF410C'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Milky White:
+      hex: '#E5E9EB'
+      source: 3dfilamentprofiles.com
+  PLA CF:
+    Black:
+      hex: '#081016'
+      source: 3dfilamentprofiles.com
+  PETG Matte:
+    Zinc Yellow:
+      hex: '#F6B10C'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#4F4F51'
+      source: 3dfilamentprofiles.com

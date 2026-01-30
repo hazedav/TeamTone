@@ -1,0 +1,94 @@
+Yuaneang:
+  PLA Basic:
+    'ORANGE ':
+      hex: '#EE823A'
+      source: 3dfilamentprofiles.com
+    'SILVER ':
+      hex: '#C0CBD3'
+      source: 3dfilamentprofiles.com
+    BLUE:
+      hex: '#3000DB'
+      source: 3dfilamentprofiles.com
+    GREEN:
+      hex: '#79F769'
+      source: 3dfilamentprofiles.com
+    'YELLOW ':
+      hex: '#F7F269'
+      source: 3dfilamentprofiles.com
+    PINK:
+      hex: '#F96CB7'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#E633C5'
+      source: 3dfilamentprofiles.com
+    WOOD:
+      hex: '#F5C08E'
+      source: 3dfilamentprofiles.com
+    RED:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#C6FFFF'
+      source: 3dfilamentprofiles.com
+    Mixed Trees:
+      hex: '#A37D60'
+      source: 3dfilamentprofiles.com
+    Skin:
+      hex: '#E3AB9D'
+      source: 3dfilamentprofiles.com
+    Dragon Liver Wood:
+      hex: '#57312C'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Dark Wood:
+      hex: '#9C7727'
+      source: 3dfilamentprofiles.com
+  ASA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PA (Nylon) Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Green / Purple / Copper:
+      hex: '#79F769,#E633C5,#B87333'
+      source: 3dfilamentprofiles.com
+    Red / Yellow / Blue:
+      hex: '#FF0000,#E6F769,#3000DB'
+      source: 3dfilamentprofiles.com
+    Red / Blue / Green:
+      hex: '#FF0000,#3000DB,#79F769'
+      source: 3dfilamentprofiles.com
+    Yellow / Blue / Green:
+      hex: '#E6F769,#3000DB,#79F769'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Mini Color Rainbow:
+      hex: '#39857C'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Military Brown:
+      hex: '#4F361F'
+      source: 3dfilamentprofiles.com
+    Army Green:
+      hex: '#044F00'
+      source: 3dfilamentprofiles.com
+  PLA Marble:
+    Marble:
+      hex: '#C9C9C9'
+      source: 3dfilamentprofiles.com
+  TPU 85A:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

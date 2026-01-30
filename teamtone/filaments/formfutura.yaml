@@ -1,0 +1,362 @@
+FormFutura:
+  PETG Premium:
+    Blinded Pearl Blue:
+      hex: '#487A9D'
+      source: 3dfilamentprofiles.com
+    Blinded Bronze:
+      hex: '#824D1C'
+      source: 3dfilamentprofiles.com
+    Blinded Light Grey:
+      hex: '#CFCFCF'
+      source: 3dfilamentprofiles.com
+    Blinded White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Blinded Pearl Green:
+      hex: '#098137'
+      source: 3dfilamentprofiles.com
+    Blinded Sapphire Grey:
+      hex: '#4A7796'
+      source: 3dfilamentprofiles.com
+    Blinded Light Green:
+      hex: '#B0F769'
+      source: 3dfilamentprofiles.com
+    Blinded Dark Blue:
+      hex: '#001EFF'
+      source: 3dfilamentprofiles.com
+    Blinded Silver:
+      hex: '#616161'
+      source: 3dfilamentprofiles.com
+    Blinded Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Blinded Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Blinded Light Blue:
+      hex: '#29BFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/shop/hdglass-110
+  PLA Wood:
+    Pine:
+      hex: '#B5AA82'
+      source: 3dfilamentprofiles.com
+      link: https://formfutura.com/product/easywood/
+    Black Washed:
+      hex: '#373737'
+      source: 3dfilamentprofiles.com
+      link: https://formfutura.com/product/biofil-wood/
+  PLA ReFill:
+    Light Blue:
+      hex: '#3B689B'
+      source: 3dfilamentprofiles.com
+      link: https://formfutura.com/product/refill-pla/
+    Grey Beige:
+      hex: '#A48F7A'
+      source: 3dfilamentprofiles.com
+      link: https://formfutura.com/product/refill-pla/
+    Basalt Grey:
+      hex: '#5B5F62'
+      source: 3dfilamentprofiles.com
+      link: https://formfutura.com/product/refill-pla/
+    Yellow Green:
+      hex: '#9ACD32'
+      source: 3dfilamentprofiles.com
+      link: https://formfutura.com/product/refill-pla/
+    Signal Purple:
+      hex: '#7F4376'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/shop/refill-pla-136?category=5
+    Pastel Orange:
+      hex: '#F16225'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/shop/refill-pla-136?category=5
+    Traffic White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://formfutura.com/product/refill-pla/
+  PETG ReFill:
+    zinc yellow:
+      hex: '#FFD500'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/filaments/petg/refill-petg
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://formfutura.com/product/refill-petg/
+  PLA EasyFil:
+    Luminous bright orange:
+      hex: '#F68425'
+      source: 3dfilamentprofiles.com
+      link: https://formfutura.com/product/easyfil-epla/
+    Light blue:
+      hex: '#3B689B'
+      source: 3dfilamentprofiles.com
+      link: https://www.labo3d.be/fr/pla/1195-formfutura-easyfil-epla-bleu-claire-light-blue-175mm-1-kg.html
+    Natural:
+      hex: '#BABABA'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/filaments/pla/easyfil-pla
+    Pure Orange:
+      hex: '#E95E01'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/filaments/pla/easyfil-pla
+    Traffic Yellow:
+      hex: '#F7B500'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/easyfil-epla
+    Matt Light Grey:
+      hex: '#BABABA'
+      source: 3dfilamentprofiles.com
+      link: https://formfutura.com/product/easyfil-epla/
+    Snow White:
+      hex: '#D0D7DA'
+      source: 3dfilamentprofiles.com
+      link: https://formfutura.com/product/easyfil-epla/
+    Luminous Yellow:
+      hex: '#FEFD62'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.hu/formfutura/easyfil-epla-luminous-yellow?sai=13669
+    Glow in the Dark:
+      hex: '#9AF9B2'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/easyfil-pla-glow-in-the-dark
+    Turquoise Blue:
+      hex: '#18B8CD'
+      source: 3dfilamentprofiles.com
+      link: https://formfutura.com/product/easyfil-epla/
+  PC CF:
+    Kratos CF10:
+      hex: '#0B0B0B'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/shop/kratos-pc-cf10-15144
+  PETG Fluorescent:
+    Flour Orange:
+      hex: '#F88425'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/shop/hdglass-110
+    Flour Clear Stained:
+      hex: '#D1ECFF'
+      source: 3dfilamentprofiles.com
+    Flour Yellow:
+      hex: '#D9F21C'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Matt Apricot:
+      hex: '#E8C2B5'
+      source: 3dfilamentprofiles.com
+    'Earth Red Camouflage ':
+      hex: '#E3123F'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.ch/fr-CH/formfutura/matt-pla-earth-red-camouflage
+    Autumn Red:
+      hex: '#5C0700'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/filaments/pla/bulk-pla
+  PETG Translucent:
+    See Through Black:
+      hex: '#454545'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/shop/hdglass
+    See Through Yellow:
+      hex: '#FFF824'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/shop/hdglass
+    Pastel Green:
+      hex: '#5BAE5C'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/shop/hdglass
+    See Through Red:
+      hex: '#FF4255'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/shop/hdglass
+    Clear:
+      hex: '#D4D4D4,#F5F5F5'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/shop/hdglass
+    See Through Green:
+      hex: '#33FF41'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/shop/hdglass
+    Pink Stained:
+      hex: '#FF7AA2'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/shop/hdglass
+    See Through Blue:
+      hex: '#3860FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/shop/hdglass
+    Pastel Purple:
+      hex: '#AF6482'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/shop/hdglass
+  PLA High Gloss:
+    Silver:
+      hex: '#8C98A1'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/shop/high-gloss-pla-112
+    Magenta / Silver:
+      hex: '#B769F7'
+      source: 3dfilamentprofiles.com
+      link: https://www.3djake.ch/de-CH/formfutura/high-gloss-pla-colormorph-magenta-silver
+  PLA Tough:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#C9222F'
+      source: 3dfilamentprofiles.com
+  PLA Premium:
+    Flaming Red:
+      hex: '#E54042'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/filaments/pla/premium-pla
+    C.C. Transparent:
+      hex: '#DEDEDE'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/filaments/pla/premium-pla
+    Solar Yellow:
+      hex: '#D1FB52'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/filaments/pla/premium-pla
+    Frosty White:
+      hex: '#FCFCFC'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/filaments/pla/premium-pla
+    Strong Black:
+      hex: '#121212'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/filaments/pla/premium-pla
+    Robotic Grey:
+      hex: '#6E787A'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/filaments/pla/premium-pla
+    Sweet Purple:
+      hex: '#A04F79'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/filaments/pla/premium-pla
+    Ocean Blue:
+      hex: '#4343C8'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/filaments/pla/premium-pla
+    Atomic Green:
+      hex: '#8EFF7D'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/filaments/pla/premium-pla
+    Dutch Orange:
+      hex: '#F4553F'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/filaments/pla/premium-pla
+  PET Recycled:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/filaments/petg/reform-rpet
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/filaments/petg/reform-rpet
+    Light Green:
+      hex: '#80FF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/filaments/petg/reform-rpet
+  PET Pro:
+    Sky Blue (RAL 5015):
+      hex: '#0080C0'
+      source: 3dfilamentprofiles.com
+    Yellow Green (RAL 6018):
+      hex: '#57A639'
+      source: 3dfilamentprofiles.com
+  PLA StoneFil:
+    Granite:
+      hex: '#969696'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/stonefil
+    Terracotta:
+      hex: '#BD634D'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/stonefil
+  PLA MetalFil:
+    Ancient Bronze:
+      hex: '#B5784F'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/shop/metalfil-ancient-bronze-125
+    Copper:
+      hex: '#6A4010'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/metalfil-classic-copper
+  PLA+/Pro Premium:
+    Robotic Grey:
+      hex: '#8A8A8A'
+      source: 3dfilamentprofiles.com
+  TPU Matte:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Galaxy:
+    Space Grey:
+      hex: '#706F74'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/filaments/pla/galaxy-pla
+    Titanium Silver:
+      hex: '#919AA1'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/filaments/pla/galaxy-pla
+    Orion Blue:
+      hex: '#313E7D'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/filaments/pla/galaxy-pla
+    Opal Green:
+      hex: '#316970'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/filaments/pla/galaxy-pla
+    Champagne Gold:
+      hex: '#A99465'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/filaments/pla/galaxy-pla
+    Ruby Red:
+      hex: '#AE5256'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/filaments/pla/galaxy-pla
+  PCTG Crystal:
+    Transparent:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+  ABS Premium:
+    Atomic Green:
+      hex: '#00A550'
+      source: 3dfilamentprofiles.com
+  PETG EasyFil:
+    Traffic White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Everfil:
+    Anthracite Grey:
+      hex: '#353535'
+      source: 3dfilamentprofiles.com
+      link: https://formfutura.com/product/easyfil-epla/
+  PLA+/Pro Wood:
+    Cedar:
+      hex: '#DD760F'
+      source: 3dfilamentprofiles.com
+      link: https://filamentworld.de/shop/special-filament/wood-filament/easy-wood-filament-1-75-mm-cedar-zedernholz/
+  ABS EasyFil:
+    Red:
+      hex: '#C20010'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/shop/easyfil-abs-99
+  ASA:
+    Black ApolloX:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/apollox
+  PLA Basic:
+    Forest Green:
+      hex: '#2B713F'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/filaments/pla/bulk-pla
+  PETG CF:
+    Carbonfil Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.formfutura.com/carbonfil

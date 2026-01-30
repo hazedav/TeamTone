@@ -1,0 +1,161 @@
+Voxelab:
+  PLA+/Pro High Speed Marble:
+    Marble Black:
+      hex: '#444143'
+      source: 3dfilamentprofiles.com
+  PLA Chameleon:
+    Abyssal Red:
+      hex: '#543459'
+      source: 3dfilamentprofiles.com
+    Burnt Titanium/Abyssel Red:
+      hex: '#1B4665'
+      source: 3dfilamentprofiles.com
+  PETG High Speed:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ASA CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Midnight Blue:
+      hex: '#032C49'
+      source: 3dfilamentprofiles.com
+    Marsala:
+      hex: '#550226'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Silver:
+      hex: '#AEAEAE'
+      source: 3dfilamentprofiles.com
+    Silk Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+    Gradient Silver and Blue:
+      hex: '#8BCCFA,#92BED6'
+      source: 3dfilamentprofiles.com
+    Rainbow Candy:
+      hex: '#FFC0CB,#DBCA66,#037C64'
+      source: 3dfilamentprofiles.com
+    Metal Rainbow:
+      hex: '#A1A05F,#A99470,#C9C8A9'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#F0A800'
+      source: 3dfilamentprofiles.com
+  PETG CF:
+    Grass Green:
+      hex: '#698D7A'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Midnight Blue:
+      hex: '#000E1C'
+      source: 3dfilamentprofiles.com
+    Dusty Pink:
+      hex: '#AD8292'
+      source: 3dfilamentprofiles.com
+    Marsala:
+      hex: '#4E3B3D'
+      source: 3dfilamentprofiles.com
+  PLA Galaxy:
+    Galaxy Purple:
+      hex: '#5C5573'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro High Speed:
+    Abyssal Purple:
+      hex: '#5D27A0'
+      source: 3dfilamentprofiles.com
+    Army Green:
+      hex: '#61775F'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpla-pla-plus-pro-army-green-1-75mm-filament-1kg
+    Witch Green:
+      hex: '#11C85A'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpla-pla-plus-pro-witch-green-1-75mm-filament-1kg
+    Ice Clear:
+      hex: '#F7F7F8'
+      source: 3dfilamentprofiles.com
+    Abyssal Red:
+      hex: '#6D233A'
+      source: 3dfilamentprofiles.com
+    Phantom Blue:
+      hex: '#1A3171'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpla-pla-plus-pro-voxel-blue-1-75mm-filament-1kg
+  PLA Basic:
+    Nebula Purple:
+      hex: '#25003D'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#000B5C'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#521B92'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Pro:
+    Purple:
+      hex: '#61187C'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#34424B'
+      source: 3dfilamentprofiles.com
+  PETG Pro:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+  PLA High Speed:
+    Ultramarine Blue:
+      hex: '#152C91'
+      source: 3dfilamentprofiles.com
+    Burnt Titanium:
+      hex: '#000040'
+      source: 3dfilamentprofiles.com
+    Ruby Red:
+      hex: '#831100'
+      source: 3dfilamentprofiles.com
+    Luminous Blue:
+      hex: '#5FAAC9'
+      source: 3dfilamentprofiles.com
+    Aurora Green:
+      hex: '#196318'
+      source: 3dfilamentprofiles.com
+  PLA CF:
+    Midnight Blue:
+      hex: '#000035'
+      source: 3dfilamentprofiles.com
+      link: https://voxelabshop.shop/product/carbon-fiber-pla-filament-for-3d-printing-midnight-blue-1kg-B0C6JQ6GJY84
+    Volcanic Rock Gray:
+      hex: '#56596A'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    Luminous Purple:
+      hex: '#9E73DD'
+      source: 3dfilamentprofiles.com
+  ABS Pro:
+    Gray:
+      hex: '#28333D'
+      source: 3dfilamentprofiles.com
+  TPU Basic:
+    Orange:
+      hex: '#E08634'
+      source: 3dfilamentprofiles.com
+  ASA Basic:
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com

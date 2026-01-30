@@ -1,0 +1,139 @@
+Das Filament:
+  PLA Basic:
+    white:
+      hex: '#EEEEED'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/
+    Feuerrot (Fiery Red/TrafficRed/RAL3020):
+      hex: '#BB1F11'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/pla-1-75-mm/95/pla-filament-1-75-mm-feuerrot?c=5
+    Sonnengelb:
+      hex: '#F7B500'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/pla-1-75-mm/7/pla-filament-1-75-mm-sonnengelb?c=11
+    Grau (Grey):
+      hex: '#989EA1'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/pla-1-75-mm/8/pla-filament-1-75-mm-grau?c=11
+    Tannengrün:
+      hex: '#024442'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/pla-1-75-mm/21/pla-filament-1-75-mm-tannengruen?c=11
+    Kastanienbraun:
+      hex: '#633A34'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-refill/pla-1-75-mm/337/pla-filament-1-75-mm-kastanienbraun-refill-800-g?c=54
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/pla-1-75-mm/444/pla-filament-1-75-mm-anthrazit-v2-800-g?c=11
+    Kirschrot:
+      hex: '#9B2321'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/pla-1-75-mm/132/pla-filament-1-75-mm-kirschrot-800-g?c=11
+    Reinorange:
+      hex: '#E65300'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/pla-1-75-mm/667/pla-filament-1-75-mm-reinorange-1-kg
+    Gold V2:
+      hex: '#8C6B29'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/pla-1-75-mm/635/pla-filament-1-75-mm-gold-v2-1-kg?c=11
+    Grasgrün:
+      hex: '#00AF4B'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spools/pla-1-75-mm/60/pla-filament-1-75-mm-grasgruen
+    Anthrazit V2:
+      hex: '#61676B'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/pla-1-75-mm/444/pla-filament-1-75-mm-anthrazit-v2-800-g?c=11
+    Toms3D infinity Blue:
+      hex: '#45AAE3'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/pla-1-75-mm/253/pla-filament-1-75-mm-toms3d-infinity-blue?c=11
+    Natur:
+      hex: '#FCFAF2'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/pla-1-75-mm/660/pla-filament-1-75-mm-natur-1-kg?c=11
+  PLA Multicolor:
+    Polarlicht:
+      hex: '#0E74AF,#78A626'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/petg-1-75-mm/157/petg-filament-1-75-mm-weiss?c=21
+    Purple:
+      hex: '#E414FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/petg-1-75-mm/190/petg-filament-1-75-mm-lila?c=21
+    Blau:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/petg-1-75-mm/233/petg-filament-1-75-mm-blau?c=21
+    Schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/petg-1-75-mm/158/petg-filament-1-75-mm-schwarz?c=21
+    Maisgelb:
+      hex: '#F7B500'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/petg-1-75-mm/189/petg-filament-1-75-mm-maisgelb?c=21
+    Schiefergrau:
+      hex: '#BCC0C2'
+      source: 3dfilamentprofiles.com
+    Metallic Blue:
+      hex: '#0C69AC'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/petg-1-75-mm/343/petg-filament-1-75-mm-metallic-blau?c=21
+    Melonengelb:
+      hex: '#FF9C00'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/petg-1-75-mm/722/petg-filament-1-75-mm-melonengelb-1-kg?c=21
+    Opalgrün RAL 6026:
+      hex: '#106037'
+      source: 3dfilamentprofiles.com
+      link: https://dasfilament.de
+    Feuerrot (Fiery Red):
+      hex: '#BB1F11'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/petg-1-75-mm/227/petg-filament-1-75-mm-feuerrot?c=21
+    Grasgreen RAL 6037:
+      hex: '#48B64F'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/petg-1-75-mm/232/petg-filament-1-75-mm-grasgruen?c=21
+  PETG:
+    Flammschutz Schwarz:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/petg-1-75-mm/479/petg-filament-1-75-mm-flammschutz-schwarz-800-g?c=21
+  PLA Translucent:
+    Transluzent-Green:
+      hex: '#00A822'
+      source: 3dfilamentprofiles.com
+  PLA Gradient:
+    Polarlicht:
+      hex: '#0025D2,#6AC2F7,#158885'
+      source: 3dfilamentprofiles.com
+  PLA ReFill:
+    Neonorange:
+      hex: '#EF461A'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/pla-1-75-mm/96/pla-filament-1-75-mm-neonorange-800-g?c=11
+  PLA Matte:
+    Schwarz matt:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/pla-1-75-mm/363/pla-filament-1-75-mm-schwarz-matt-800-g?c=11
+  PLA Glitter:
+    GrünGold:
+      hex: '#263E0F'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/pla-1-75-mm/404/pla-filament-1-75-mm-gruengold-800-g?c=11
+  PETG Translucent:
+    Transparent Grün:
+      hex: '#02C50F'
+      source: 3dfilamentprofiles.com
+      link: https://www.dasfilament.de/filament-spulen/petg-1-75-mm/215/petg-filament-1-75-mm-transparent-blau-800-g?c=21

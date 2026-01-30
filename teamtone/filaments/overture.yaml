@@ -1,0 +1,1498 @@
+Overture:
+  PLA:
+    Blue:
+      hex: '#004071'
+      source: FilamentColors.xyz
+      temp_hotend: 205
+      temp_bed: 60
+    Space Grey:
+      hex: '#79777A'
+      source: FilamentColors.xyz
+      temp_hotend: 205
+      temp_bed: 60
+    Olive Green:
+      hex: '#8F843E'
+      source: FilamentColors.xyz
+      temp_hotend: 205
+      temp_bed: 60
+    Royal Gold:
+      hex: '#C58F32'
+      source: FilamentColors.xyz
+      temp_hotend: 205
+      temp_bed: 60
+  PETG:
+    Yellow:
+      hex: '#E6B93D'
+      source: FilamentColors.xyz
+      temp_hotend: 240
+      temp_bed: 80
+    Space Grey:
+      hex: '#80817F'
+      source: FilamentColors.xyz
+      temp_hotend: 240
+      temp_bed: 80
+    Black:
+      hex: '#2F2821'
+      source: FilamentColors.xyz
+      temp_hotend: 240
+      temp_bed: 80
+    Rock White:
+      hex: '#C2C8CB'
+      source: FilamentColors.xyz
+      temp_hotend: 240
+      temp_bed: 80
+  PLA Basic:
+    Green:
+      hex: '#00C26B'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla
+    Cement Gray:
+      hex: '#697272'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla?variant=42105043255550
+    White:
+      hex: '#FFFEFA'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overturepla?variant=42105033359614
+    Cream Yellow:
+      hex: '#D4A216'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla?aff=113
+    Red:
+      hex: '#E9301E'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla
+    Light Gray:
+      hex: '#C7D4D6'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla
+    Blue:
+      hex: '#033877'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla
+    Cream Purple:
+      hex: '#CDC1FF'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla?aff=113
+    Chocolate:
+      hex: '#57361C'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla?aff=113
+    Highlight Yellow:
+      hex: '#E4FF33'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla?variant=42105043124478
+    Orange:
+      hex: '#FF8E24'
+      source: 3dfilamentprofiles.com
+    Fresh Red:
+      hex: '#E31A1F'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overturepla?variant=42105042862334
+    Champagne Frost:
+      hex: '#F9EEB3'
+      source: 3dfilamentprofiles.com
+    Wine:
+      hex: '#722F37'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla?aff=113
+    Lemon Yellow:
+      hex: '#FFED29'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla?variant=46749457711358
+    Caramel:
+      hex: '#FFD59A'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla?aff=113
+    Cream Red:
+      hex: '#EC6170'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla?aff=113
+    Cream Orange:
+      hex: '#FF7B00'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla?aff=113
+    Rock sedimentary:
+      hex: '#C4B199,#765540,#AA876B'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#D7A86A'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla?aff=113
+    Light Green:
+      hex: '#BCD69B'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla?aff=113
+    Gray Blue:
+      hex: '#6D8791'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla?variant=42105043058942
+    Rock:
+      hex: '#AA8F74'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla?aff=113
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla?aff=113
+    Grey Blue:
+      hex: '#81BAC1'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla
+    Light Blue:
+      hex: '#3ABBDE'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla
+    Cold White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overturepla?variant=45544839741694
+    Metallic Gray:
+      hex: '#8B98AC'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla?variant=46749457744126
+    Pink:
+      hex: '#F09BB5'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla?variant=42105042075902
+    Royal Gold:
+      hex: '#FFCB47'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla?variant=42105043321086
+    White Oak:
+      hex: '#976D51'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla
+    Olive Green:
+      hex: '#97A014'
+      source: 3dfilamentprofiles.com
+    Violet:
+      hex: '#6F4AB2'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overturepla?variant=42105041879294
+    Green2:
+      hex: '#00C26B'
+      source: 3dfilamentprofiles.com
+    Black (LRV 1):
+      hex: '#11120F'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla?variant=42105027166462
+    Yellow:
+      hex: '#E6B535'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla?variant=42105041944830
+    Tequila Sunrise:
+      hex: '#D96F33,#DC1818'
+      source: 3dfilamentprofiles.com
+    Space Gray:
+      hex: '#63646B'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overturepla?variant=42105033425150
+  PLA Matte:
+    Green:
+      hex: '#34BC39'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?aff=113
+    Black:
+      hex: '#1D1E1E'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla
+    Chocolate:
+      hex: '#503529'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla
+    Blue:
+      hex: '#2260B4'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?variant=37863451066556
+    Matte Blue:
+      hex: '#005DA4'
+      source: 3dfilamentprofiles.com
+    Army Green:
+      hex: '#6E8451'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/collections/black-friday/products/overture-matte-pla
+    Tan:
+      hex: '#EFE5AE,#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla
+    Pink:
+      hex: '#FFE0E1'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?variant=37152392675516
+    White:
+      hex: '#E6DEDE'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/collections/black-friday/products/overture-matte-pla
+    Yellow:
+      hex: '#EFDC4C'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla
+    Skin:
+      hex: '#F0DDC2'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?variant=42116542398718
+    Light Brown (LRV 35):
+      hex: '#BA9B7B'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?variant=37403333001404
+    Turquoise:
+      hex: '#05E1C7'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?aff=113
+    Light Green:
+      hex: '#AFDEB9'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/colhttps://overture3d.com/products/overture-matte-pla?variant=42116437377278
+    Bamboo Green:
+      hex: '#A1D66B'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?variant=46618064748798
+    Orange-Red:
+      hex: '#FF7300,#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?aff=113
+    Light Blue:
+      hex: '#99FFFA'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?variant=37152258752700
+    Light Gray:
+      hex: '#BAC4C4'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?variant=37152393003196
+    Jeans Red:
+      hex: '#F76E6E'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?aff=113
+    Candy Rainbow:
+      hex: '#047A8D,#AE763D,#8F9A4E'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?aff=113
+    Matte Jeans Blue:
+      hex: '#43729B'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?aff=113
+    Grass Green:
+      hex: '#CEFF5C'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?variant=37152393724092
+    Purple:
+      hex: '#8C69B5'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/collections/black-friday/products/overture-matte-pla
+    Orange:
+      hex: '#FCAB59'
+      source: 3dfilamentprofiles.com
+    Brick Red:
+      hex: '#D22D2F'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?variant=42116542365950
+    Wood:
+      hex: '#CAAC78'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla
+    Brown:
+      hex: '#AA7942'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?aff=113
+    Cement Gray:
+      hex: '#48494B'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?aff=113
+    Lilac:
+      hex: '#ECD1FF'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?variant=46618064781566
+    Light Blue-Yellow:
+      hex: '#CFFFC2'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?aff=113
+    Light Teal:
+      hex: '#C7FFE3'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla
+    Navy Blue:
+      hex: '#072E4E'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?aff=113
+    Rainbow:
+      hex: '#008080'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?variant=44030069276926
+    Light Brown:
+      hex: '#EDD5A6'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?aff=113
+    Red:
+      hex: '#B03F41'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?variant=37861384618172
+    Butter Yellow:
+      hex: '#FCFAA6'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?variant=46618064683262
+    Cream Grass Green:
+      hex: '#CEFF5C'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?variant=37152393724092
+    Beige:
+      hex: '#E0EFD5'
+      source: 3dfilamentprofiles.com
+    Baby Pink:
+      hex: '#FFE0E0'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?variant=46618064716030
+    Repose Gray:
+      hex: '#CCC9C0'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla
+  PLA+/Pro Super:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Super Sakura Pink:
+      hex: '#FFCCCD'
+      source: 3dfilamentprofiles.com
+    Super Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Super Light Gray:
+      hex: '#919599'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Blue:
+      hex: '#0353BA'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-silk-pla-filament-1-75mm?variant=37924999037116
+    Silk Gold:
+      hex: '#F9E352'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-silk-pla-filament-1-75mm
+    Tiger Eye:
+      hex: '#DB8439,#E08D3C'
+      source: 3dfilamentprofiles.com
+    Silk Copper:
+      hex: '#641501'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-silk-pla-filament-1-75mm?variant=37903960441020
+    Silk Chrome Gray:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-silk-pla-filament-1-75mm
+    Rose Red:
+      hex: '#FF033E'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-silk-pla-filament-1-75mm
+    Blue-Silver:
+      hex: '#009DE0,#D1DBEA'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/oerture3d-dual-silk-filament?variant=43834276970750
+    Shimmer Purple:
+      hex: '#79469B'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-silk-pla-filament-1-75mm
+    Red:
+      hex: '#DA445A'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-silk-pla-filament-1-75mm?variant=37925008834748
+    Gold:
+      hex: '#B76701'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-silk-pla-filament-1-75mm?aff=113
+    Silk Red-Gold:
+      hex: '#F04C64,#F5BC00'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/oerture3d-dual-silk-filament?variant=43834277003518
+    Purple:
+      hex: '#7769BC'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#018E63'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-silk-pla-filament-1-75mm?aff=113
+    Fresh Red:
+      hex: '#CC0201'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-silk-pla-filament-1-75mm
+    Silver:
+      hex: '#818FA0'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-silk-pla-filament-1-75mm?variant=42185678717182
+    Neon Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-silk-pla-filament-1-75mm
+    Christmas Red:
+      hex: '#CE5D4C'
+      source: 3dfilamentprofiles.com
+    Silk Gray:
+      hex: '#394658'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-silk-pla-filament-1-75mm?variant=37903986458812
+    Green/Magenta:
+      hex: '#9FFF05,#AD0076'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/oerture3d-dual-silk-filament?variant=43940551098622
+    White:
+      hex: '#DDD4CA'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-silk-pla-filament-1-75mm?variant=37903977971900
+    Copper:
+      hex: '#B87333'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-silk-pla-filament-1-75mm
+    Punch Pink:
+      hex: '#CE5A9E'
+      source: 3dfilamentprofiles.com
+    Blue-Yellow:
+      hex: '#FFFF5C,#3673BA'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/oerture3d-dual-silk-filament?variant=43940551065854
+    Green-Blue:
+      hex: '#005AAD,#00C27B'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-silk-pla-filament-1-75mm
+  TPU 95A:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-tpu?variant=46988794986750
+    Green:
+      hex: '#41F53D'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-tpu?variant=46988794986750
+    Transparent:
+      hex: '#E5E5E5'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-tpu?variant=46988794986750
+    Neon Red:
+      hex: '#FC1723'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-tpu?variant=46988794986750
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-tpu-filament-1-75mm
+    Light Grey:
+      hex: '#B8B8B8'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-tpu?variant=46988794986750
+    Orange:
+      hex: '#FFA11D'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-tpu?variant=39545822576828
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-tpu-filament-1-75mm
+    Brown:
+      hex: '#A47C48'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-tpu?variant=46988794986750
+    Yellow:
+      hex: '#FFDF03'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-tpu?variant=43982533689598
+    Neon Orange:
+      hex: '#FF8652'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-tpu?variant=46988794986750
+    Space Grey:
+      hex: '#90999D'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-tpu-filament-1-75mm?variant=32904854962253
+    Gray:
+      hex: '#ADADAD'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-tpu?variant=46988794986750
+    Blue:
+      hex: '#274E96'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-tpu-filament-1-75mm?variant=39545814155452
+    Digital Blue:
+      hex: '#0378D0'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-tpu?variant=42203844641022
+  ABS Basic:
+    Diamond Orange:
+      hex: '#E66700'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-abs-filament-1-75mm
+    Diamond Grey:
+      hex: '#8C8C8C'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-abs-filament-1-75mm?variant=43982535459070
+    Dark Red:
+      hex: '#FF311F'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#3D9441'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#CACAC9'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-abs-filament-1-75mm?variant=32868940906573
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-abs-filament-1-75mm?variant=32868940709965
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-abs-filament-1-75mm?variant=32868940775501
+    Slate Gray:
+      hex: '#91A086'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-abs-filament-1-75mm?variant=43687543341310
+    Blue:
+      hex: '#0080DB'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-abs-filament-1-75mm
+  PLA Wood:
+    Oak Wood:
+      hex: '#7A4A00'
+      source: 3dfilamentprofiles.com
+  PLA Rock:
+    Mist Gray:
+      hex: '#CACCCB'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-rock-pla-filament-1-75mm?variant=47168657031422
+    Turquoise Blue:
+      hex: '#00A3D7'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-rock-pla-filament-1-75mm
+    Walnut Wood:
+      hex: '#59392B'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-rock-pla-filament-1-75mm
+    Rock Fossil:
+      hex: '#C2C0BA'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-rock-pla-filament-1-75mm?variant=44022162325758
+    Rock Rainbow:
+      hex: '#1AB790,#AF121A'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-rock-pla-filament-1-75mm?aff=113
+    White:
+      hex: '#F1F1F1'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-rock-pla-filament-1-75mm
+    Haze Gray:
+      hex: '#7591A4'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-rock-pla-filament-1-75mm
+    Wetland Green:
+      hex: '#4B8B4A'
+      source: 3dfilamentprofiles.com
+    Glacier Blue:
+      hex: '#FFFFFF,#A3EAFF'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-rock-pla-filament-1-75mm
+    Sedimentary Rock:
+      hex: '#765540,#AA876B,#AE967E'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-rock-pla-filament-1-75mm
+    Mars Red:
+      hex: '#D76D3B'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-rock-pla-filament-1-75mm?variant=46202186399998
+    Painted Hills:
+      hex: '#FFA57D,#FF6251,#ED719E'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-rock-pla-filament-1-75mm
+    Muted Grey:
+      hex: '#929292'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-rock-pla-filament-1-75mm
+    Moonlight Gray:
+      hex: '#BEC3CB'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-rock-pla-filament-1-75mm?variant=47168657064190
+    Rock White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Barrier Reef:
+      hex: '#0042AA,#00C7FC'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-rock-pla-filament-1-75mm
+    Fossil Rock:
+      hex: '#C2C0BA,#503529,#EDD5A6'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-rock-pla-filament-1-75mm?variant=44022162325758
+    Sedona Red:
+      hex: '#E32400,#DDC343,#FFE4A8'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-rock-pla-filament-1-75mm
+    Alpine Forest:
+      hex: '#669C35,#9AA60E,#7A4A00'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-rock-pla-filament-1-75mm
+  TPU High Speed:
+    Translucent Purple:
+      hex: '#262249'
+      source: 3dfilamentprofiles.com
+    Luminous Electric Indigo:
+      hex: '#6869F5'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-high-speed-tpu-3d-printer-filament-1-75mm?variant=46971914813694
+    Red:
+      hex: '#F53D3D'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/collections/high-speed-tpu/products/overture-high-speed-tpu-3d-printer-filament-1-75mm?aff=113
+    Orange:
+      hex: '#FF8B47'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/collections/high-speed-tpu/products/overture-high-speed-tpu-3d-printer-filament-1-75mm?aff=113
+    Clear:
+      hex: '#FFF1FF'
+      source: 3dfilamentprofiles.com
+    Luminous Orange:
+      hex: '#DCDED9,#FDB970'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-high-speed-tpu-3d-printer-filament-1-75mm?variant=46971915010302
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/collections/high-speed-tpu/products/overture-high-speed-tpu-3d-printer-filament-1-75mm?aff=113
+    Luminous Blue:
+      hex: '#48BBFE,#D3D5D2'
+      source: 3dfilamentprofiles.com
+    Grass Green:
+      hex: '#DDF737'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/collections/high-speed-tpu/products/overture-high-speed-tpu-3d-printer-filament-1-75mm?aff=113
+    Pink:
+      hex: '#FFA3C6'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/collections/high-speed-tpu/products/overture-high-speed-tpu-3d-printer-filament-1-75mm?aff=113
+    Pastel Pink:
+      hex: '#E1C9A8'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-tpu-high-speed?variant=46971914617086
+    Neon Yellow:
+      hex: '#FEF71D'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/collections/high-speed-tpu/products/overture-high-speed-tpu-3d-printer-filament-1-75mm?aff=113
+    Gray:
+      hex: '#CDCFD5'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/?srsltid=AfmBOorpII-iQTJuvRdxX3ru6pV4YpFAU6DMjTbaik1lOtg2wNW4jVz2
+    Luminous Green:
+      hex: '#D4D6CF,#42DDA3'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-high-speed-tpu-3d-printer-filament-1-75mm?variant=46971914944766
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-tpu-high-speed-filament-1-75mm
+    Translucent Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/collections/high-speed-tpu/products/overture-high-speed-tpu-3d-printer-filament-1-75mm
+    Neon Magenta:
+      hex: '#E520B7'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-high-speed-tpu-3d-printer-filament-1-75mm?variant=46971914551550
+    Transparent:
+      hex: '#E5E5E5'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-tpu
+  PLA+/Pro Pro:
+    Light Gray:
+      hex: '#BAC8C9'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm?aff=113
+    Light Brown:
+      hex: '#B8AF99'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm?aff=113
+    Metal Silver:
+      hex: '#A9AEB2'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm?aff=113
+    Olive Green:
+      hex: '#B0BE50'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm?variant=42989348454654
+    New-Wine:
+      hex: '#800020'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm?aff=113
+    Pink:
+      hex: '#F092B3'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm?variant=31081794043981
+    Digital Blue:
+      hex: '#0099E6'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#0D110E,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm?aff=113
+    Chocolate:
+      hex: '#50311E'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm?variant=41113591513276
+    Fresh Red:
+      hex: '#F00000'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm?aff=113
+    Purple:
+      hex: '#7659B5'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-filament?variant=31081793945677
+    Light Blue:
+      hex: '#99F1FF'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-filament?variant=41113591546044
+    Highlight Yellow:
+      hex: '#EBFF57'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm?variant=46022418465022
+    Light Green:
+      hex: '#BCD69B'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm?variant=41113557532860
+    Gray:
+      hex: '#74777D'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-filament?variant=31081793847373
+    Orange:
+      hex: '#FF852E'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm?aff=113
+    Red:
+      hex: '#FF0505'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm?aff=113
+    Champagne:
+      hex: '#B8BAAE'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm?variant=46988813467902
+    White:
+      hex: '#E7EBE5'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm
+    Green:
+      hex: '#0CCF81,#0CCF81'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-filament?variant=31081793912909
+    Yellow:
+      hex: '#EEEA44'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-filament?variant=31081793978445
+    Army Green:
+      hex: '#8A8850'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm
+    Copper:
+      hex: '#B87333'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm?variant=46988813402366
+  ABS Glow:
+    Glow Green:
+      hex: '#FCFCFC,#05F521'
+      source: 3dfilamentprofiles.com
+  PLA Easy:
+    Space Grey:
+      hex: '#6C6C6C'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-easy-pla
+    Easy Yellow:
+      hex: '#FCFF66'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-easy-pla-3d-printer-filament?variant=46618282787070
+    Pine Green:
+      hex: '#00A5A8'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-easy-pla?variant=46618282197246
+    red glow:
+      hex: '#FF7D7A'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-glow-pla?variant=44279674667262
+    Glow Blue:
+      hex: '#5EB7D4'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/producthttps://overture3d.com/products/overture-glow-pla?variant=44279674601726
+    Digital Blue:
+      hex: '#03CEF7'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-easy-pla?variant=46019408101630
+    Easy Cement Grey:
+      hex: '#697272'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-easy-pla?variant=46019408134398
+    Shimmer Silver Green:
+      hex: '#9ECB86'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-shimmer-pla-3d-printer-filament-1-75mm?variant=45024263733502
+    Easy Purple:
+      hex: '#6E03B5'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-easy-pla
+    Easy Green:
+      hex: '#4DFF64'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-easy-pla?variant=46019408429310
+    Easy Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-easy-pla?variant=46019408068862
+    Shimmer Purple:
+      hex: '#906482'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-easy-pla?variant=46019408134398
+    Easy Magenta:
+      hex: '#EC0ECF'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-easy-pla
+    Yolk Yellow:
+      hex: '#FFE357'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-easy-pla?variant=46618282098942
+    Easy Orange:
+      hex: '#CE6809'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-easy-pla
+    Rock White:
+      hex: '#EDF0F2'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-easy-pla
+    Easy Caramel:
+      hex: '#A88D5D'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-easy-pla?variant=46019408396542
+    Cobalt Blue:
+      hex: '#173DA2'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-easy-pla-3d-printer-filament?variant=46618282492158
+    Shimmer Bronze:
+      hex: '#5B633B,#4F453B'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-easy-pla
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-easy-pla?aff=113
+    Easy White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-easy-pla?variant=46019408036094
+    Glow Yellow:
+      hex: '#EBFF6B'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-glow-pla?variant=44279674700030
+    Easy Red:
+      hex: '#F00000,#FF2C29'
+      source: 3dfilamentprofiles.com
+    Space Gray:
+      hex: '#525657'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-easy-pla
+    Easy Pink:
+      hex: '#FFC0CB'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-easy-pla?variant=46618282983678
+    Shimmer Dark Green:
+      hex: '#008059'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-shimmer-pla-3d-printer-filament-1-75mm?variant=45024263635198
+    Sky Blue:
+      hex: '#85E0F3'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-easy-pla-3d-printer-filament?variant=46618282590462
+    Easy Beige:
+      hex: '#F7F6ED'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-easy-pla
+    Pumpkin Orange:
+      hex: '#FF8D5C'
+      source: 3dfilamentprofiles.com
+  PLA Pro:
+    Olive Green:
+      hex: '#B0BE50'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-filament?variant=42989348454654
+    Royal Copper:
+      hex: '#B8AF99'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-filament
+    Brown:
+      hex: '#AB713E'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-filament
+    Digital Blue:
+      hex: '#0099E6'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-filament
+    Orange:
+      hex: '#FF852E'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-filament?variant=31081794011213
+    Gray Blue:
+      hex: '#8FBBC1'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-filament
+    Light Green:
+      hex: '#BCD69B'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-filament
+    Bronze:
+      hex: '#8C6239'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-filament
+    Pink:
+      hex: '#F092B3'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm?variant=31081794043981
+    Light Gray:
+      hex: '#8F9695'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-filament
+    Space Gray:
+      hex: '#969BA2'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-filament?variant=31081793880141
+    Army Green:
+      hex: '#8A8850'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-filament?variant=43982531395838
+    Wine:
+      hex: '#AD0028'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-filament?variant=46202221756670
+    Royal Gold:
+      hex: '#E3B145'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-filament?variant=46202221789438
+    White:
+      hex: '#E8E4DF'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-filament
+  PLA Silk Dual:
+    Gold/Silver:
+      hex: '#F7E06E,#B0B0B0'
+      source: 3dfilamentprofiles.com
+    Silver-Pink:
+      hex: '#EFAED1'
+      source: 3dfilamentprofiles.com
+    Purple/Gold:
+      hex: '#702AB2,#FFCB1F'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/oerture3d-dual-silk-filament?variant=43834277036286
+    Blue Silver:
+      hex: '#009DE0,#D1DBEA'
+      source: 3dfilamentprofiles.com
+    Vaporwave:
+      hex: '#9AB8D5,#EFAEED'
+      source: 3dfilamentprofiles.com
+    Green - Silver:
+      hex: '#00C26B,#818FA0'
+      source: 3dfilamentprofiles.com
+    Gold-Silver:
+      hex: '#D5AE52,#CABDBE'
+      source: 3dfilamentprofiles.com
+    Blue-Yellow:
+      hex: '#2E9CC6,#D3D903'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-silk-pla-3d-printer-filament-dual-colors-1-75mm?variant=43940551065854
+    Silk Purple Chrome:
+      hex: '#F37CEF,#5B1D6D'
+      source: 3dfilamentprofiles.com
+    Magenta-Gold:
+      hex: '#F7E06E,#AD0076'
+      source: 3dfilamentprofiles.com
+  TPU Basic:
+    PURPLE:
+      hex: '#020445'
+      source: 3dfilamentprofiles.com
+    Bright Pink:
+      hex: '#FFB7D4'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#9500E6'
+      source: 3dfilamentprofiles.com
+    Digital Blue:
+      hex: '#6ABCF6'
+      source: 3dfilamentprofiles.com
+    Neon Green:
+      hex: '#00C700'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#8B4513'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/copy-of-overture-tpu-filament-1-75mm
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-tpu-filament-1-75mm
+  PLA+/Pro High Speed:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Marble:
+      hex: '#DBDBDB'
+      source: 3dfilamentprofiles.com
+    Super Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Light Brown:
+      hex: '#A89D8F'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/turbo-pla?variant=45382387106046
+  PLA Gradient:
+    Northern Lights:
+      hex: '#58B4BE,#C582F4,#5A75C0,#4FAF93'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-gradient-filament-1-75mm?variant=46991221096702
+    Silk Periwinkle:
+      hex: '#768EC7'
+      source: 3dfilamentprofiles.com
+    Aurora Berry:
+      hex: '#FF4FA3,#7A3CCF'
+      source: 3dfilamentprofiles.com
+    Avocado:
+      hex: '#99C821,#64AD2A,#ECEF3D'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-gradient-filament-1-75mm?variant=46991191081214
+  PLA High Speed:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/turbo-pla
+    Turbo Gray:
+      hex: '#6C7275'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/turbo-pla
+    Turbo Plaster White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/turbo-pla
+    Turbo Blue:
+      hex: '#1157C0'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/turbo-pla
+    Turbo Red:
+      hex: '#F00C00'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/turbo-pla
+    Turbo Brown:
+      hex: '#7E472A'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/turbo-pla
+    Turbo Green:
+      hex: '#00E0B4'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/turbo-pla?variant=45382387204350
+    Plaster White:
+      hex: '#ECECEA'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/turbo-pla
+    Marble Grey:
+      hex: '#969696'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/turbo-pla
+    Red:
+      hex: '#CE3435'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/turbo-pla
+    Blue:
+      hex: '#1157C0'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/turbo-pla?variant=45382387302654
+    Turbo Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/turbo-pla
+  PLA+/Pro Basic:
+    Light Gray:
+      hex: '#919599'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#F27C1C'
+      source: 3dfilamentprofiles.com
+    Morning Blue:
+      hex: '#77DEF8'
+      source: 3dfilamentprofiles.com
+    Digital Blue:
+      hex: '#6ABCF6'
+      source: 3dfilamentprofiles.com
+    Sakura Pink:
+      hex: '#E8AFCF'
+      source: 3dfilamentprofiles.com
+    Gray Blue:
+      hex: '#8FBBC1'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm?variant=44354563703038
+    Brown:
+      hex: '#A07A57'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-filament?variant=41113591611580
+    Fresh Red:
+      hex: '#F00000'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm?variant=44155703918846
+    Sunset Rainbow:
+      hex: '#8EDB86'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-filament
+    Green:
+      hex: '#48A492'
+      source: 3dfilamentprofiles.com
+    Jeans Blue:
+      hex: '#73A1BA'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-filament
+    Purple:
+      hex: '#7B5DB1'
+      source: 3dfilamentprofiles.com
+    Highlight Yellow:
+      hex: '#F9F16B'
+      source: 3dfilamentprofiles.com
+      link: https://a.co/d/5PAUldE
+    Yellow:
+      hex: '#DFB234'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Light Green:
+      hex: '#5EB07A'
+      source: 3dfilamentprofiles.com
+    Dark Blue:
+      hex: '#003B80'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-filament?variant=37652279460028
+    Pink:
+      hex: '#FC8EAC'
+      source: 3dfilamentprofiles.com
+    Space Gray:
+      hex: '#969BA2'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm?variant=31081793880141
+    Black:
+      hex: '#0D110E,#000000'
+      source: 3dfilamentprofiles.com
+  PLA ECO:
+    Midnight Black matte:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Starry Blue:
+      hex: '#142B4B'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/petg-3dprintingfilament?variant=42224803217662
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/petg-3dprintingfilament?aff=113
+    White:
+      hex: '#F5F5F4'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/petg-3dprintingfilament
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/petg-3dprintingfilament?srsltid=AfmBOopWUlv42v8_YvkNKilxJK-tSlnTGe8sTXwF801iUrub5dLMBE__
+    Rock:
+      hex: '#B7BBBD'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-rock-petg-filament-1-75mm
+    Army Green:
+      hex: '#404720'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/petg-3dprintingfilament?variant=42224803152126
+    Magenta:
+      hex: '#C80181'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/petg-3dprintingfilament
+    Blue:
+      hex: '#034E89'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/petg-3dprintingfilament
+    Gold:
+      hex: '#CE8D00'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/petg-3dprintingfilament
+    Grass Green:
+      hex: '#C4D802'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/petg-3dprintingfilament?variant=42224803217662
+    Purple:
+      hex: '#7142A3'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/petg-3dprintingfilament?variant=42224802922750
+    Rock White:
+      hex: '#C2C8CB'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/petg-3dprintingfilament
+    Pink:
+      hex: '#F79DBC'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/petg-3dprintingfilament
+    Sparkle Blue:
+      hex: '#253F56'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/petg-3dprintingfilament?variant=42224803184894
+    Digital Blue:
+      hex: '#0378D0'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/petg-3dprintingfilament?variant=42224802988286
+    Brown:
+      hex: '#A47C48'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/petg-3dprintingfilament
+    Space Gray:
+      hex: '#76797D'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/petg-3dprintingfilament
+    Yellow:
+      hex: '#FFC946'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/petg-3dprintingfilament?variant=42224802955518
+    Orange:
+      hex: '#FF854D'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/petg-3dprintingfilament?variant=42224802824446
+    Green:
+      hex: '#38AF69'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/petg-3dprintingfilament?variant=42224802889982
+    Light Gray:
+      hex: '#D5D8DD'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/petg-3dprintingfilament?variant=42224802758910
+  PLA Matte Dual:
+    Blue/Red:
+      hex: '#0074BD,#F00024'
+      source: 3dfilamentprofiles.com
+    Matte Orange Red:
+      hex: '#FCAB59,#F02800'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?srsltid=AfmBOopLGCIQeJO7JKwdWU9r0qOhBU82VfYpCW0do4TMU6mjKMgVCEhp
+    Black / White:
+      hex: '#1D1E1E,#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black-White:
+      hex: '#000000,#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Rainbow:
+    Aurora Berry:
+      hex: '#ED5AD3'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla-gradient-filament-1-75mm?variant=46991191048446
+  PETG Marble:
+    Rock White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PETG High Speed:
+    Orange:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PC Pro:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pc-professional-filament
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pc-professional-filament
+  ASA Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Diamond Blue:
+      hex: '#324283'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-asa-filament-1-75mm
+    Olivegreen:
+      hex: '#008040'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-asa-filament-1-75mm
+    Brown:
+      hex: '#3A2522'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-asa-filament-1-75mm
+    Blue:
+      hex: '#002979'
+      source: 3dfilamentprofiles.com
+    Daimond red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-asa-filament-1-75mm
+    Gray:
+      hex: '#B5B9BA'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-asa-filament-1-75mm
+    Yellow:
+      hex: '#FBFF00'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-asa-filament-1-75mm
+    natural:
+      hex: '#FDFAE2'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-asa-filament-1-75mm
+    Red:
+      hex: '#AF251E'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#01AA5E'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-asa-filament-1-75mm?variant=43982539653374
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-asa-filament-1-75mm?aff=113
+    Diamond Green:
+      hex: '#3A9856'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-asa-filament-1-75mm?variant=43982539817214
+  PLA+/Pro Super Tough:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-super-pla-3d-printer-filament-1-75mm?variant=43982582284542
+    Yellow:
+      hex: '#FFD342'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-super-pla-3d-printer-filament-1-75mm?variant=43982582284542
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-super-pla-3d-printer-filament-1-75mm?variant=43982582284542
+    Pink:
+      hex: '#FF1FA1'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+    Sakura Pink:
+      hex: '#FFCCCD'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-super-pla-3d-printer-filament-1-75mm?variant=43982582612222
+  PLA Air:
+    Neon Green:
+      hex: '#C0D904'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-air-pla-3d-printer-filament-1-75mm?variant=43982563082494
+    Wood:
+      hex: '#E6C49E'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-air-pla-3d-printer-filament-1-75mm?variant=43982562918654
+    Yellow:
+      hex: '#F5C001'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-air-pla-3d-printer-filament-1-75mm?variant=43982563115262
+    Air Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-air-pla-3d-printer-filament-1-75mm?variant=43982562984190
+    Air Light Gray:
+      hex: '#AFAEAB'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-air-pla-3d-printer-filament-1-75mm?variant=43982563016958
+  PA (Nylon) Easy:
+    Nylon Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/nylon-3d-printing-filament-overture?srsltid=AfmBOoo0PD-BFZ9AORRAcdnzO1ZqMIM8Jj_TSJ0MLxfEz3qzFTX6iSXj
+    Grey:
+      hex: '#545454'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/easy-nylon-filament
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/easy-nylon-filament?srsltid=AfmBOorauZ0CMQwfzVRnjC6nYgi6onh8Yg4DMoxH-IzmOypTEQj1DTWF
+  PLA+/Pro Matte:
+    Black:
+      hex: '#302E2E'
+      source: 3dfilamentprofiles.com
+    Olive Green:
+      hex: '#A1A721'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overturepla?variant=42105042796798
+  PETG Translucent:
+    Transparent Blue:
+      hex: '#09048E'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-3d-filament-clear-petg?variant=32291479617613
+    Transparent Red:
+      hex: '#CE333E'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-3d-filament-clear-petg?variant=32291498819661
+    Transparent:
+      hex: '#BAB6AF'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-3d-filament-clear-petg
+    Transparent Green:
+      hex: '#019A45'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-3d-filament-clear-petg?variant=32291494920269
+  PLA Glow:
+    Glow Orange:
+      hex: '#FF9C66'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-glow-pla?variant=44279674634494
+    Glow Blue:
+      hex: '#4DA2AB'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-glow-pla
+    White (Green):
+      hex: '#FFFEEA,#30CA38'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-glow-pla?variant=44279674732798
+    Glow Red:
+      hex: '#FF7D7A'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-glow-pla?variant=44279674667262
+  TPU:
+    Yellow:
+      hex: '#FFFC41'
+      source: 3dfilamentprofiles.com
+  ASA Easy:
+    Orange:
+      hex: '#FBB741'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-asa-filament-1-75mm
+  PLA Super:
+    Super Light Gray:
+      hex: '#919599'
+      source: 3dfilamentprofiles.com
+    Super Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ABS Sparkle:
+    Diamond Purple:
+      hex: '#8238F0'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-abs-filament-1-75mm
+  TPU Translucent:
+    Translucent Green:
+      hex: '#2EA52C'
+      source: 3dfilamentprofiles.com
+  PLA CF:
+    Carbon Fiber Black:
+      hex: '#1D1E1E'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-matte-pla?variant=46842948092158
+  PLA Color Change (UV):
+    Green Starlight:
+      hex: '#3E5F21'
+      source: 3dfilamentprofiles.com
+  PLA Sparkle:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla?variant=46749457842430
+    Purple:
+      hex: '#7701B2'
+      source: 3dfilamentprofiles.com
+      link: https://overture3d.com/products/overture-pla?variant=46749457875198

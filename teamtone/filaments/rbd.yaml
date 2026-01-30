@@ -1,0 +1,23 @@
+RBD:
+  PLA Neon:
+    Green:
+      hex: '#8D8602'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Copper:
+      hex: '#A86229'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#FDDC5C'
+      source: 3dfilamentprofiles.com
+  PLA Multicolor:
+    Blue-Green:
+      hex: '#0080FF,#02E83C'
+      source: 3dfilamentprofiles.com
+  PLA High Speed:
+    Pink:
+      hex: '#F079FF'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com

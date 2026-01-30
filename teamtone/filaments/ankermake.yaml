@@ -1,0 +1,27 @@
+Ankermake:
+  PLA+/Pro Basic:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#898989'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#F5DF0A'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#0E1110'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0433FF'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#DBE1EB'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Silk:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

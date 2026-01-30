@@ -1,0 +1,45 @@
+Threebees:
+  PLA Premium:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Yellow:
+      hex: '#D8DB0F'
+      source: 3dfilamentprofiles.com
+      link: https://shopee.co.th/threebees.th
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://shopee.co.th/threebees.th
+    Orange:
+      hex: '#EA542E'
+      source: 3dfilamentprofiles.com
+      link: https://shopee.co.th/threebees.th
+    Blue:
+      hex: '#3471EA'
+      source: 3dfilamentprofiles.com
+      link: https://shopee.co.th/threebees.th
+    Leaves:
+      hex: '#398F2D'
+      source: 3dfilamentprofiles.com
+      link: https://shopee.co.th/threebees.th
+    Deep Purple:
+      hex: '#6031E3'
+      source: 3dfilamentprofiles.com
+      link: https://shopee.co.th/threebees.th
+    Gray:
+      hex: '#8C8C8C'
+      source: 3dfilamentprofiles.com
+      link: https://shopee.co.th/threebees.th
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://shopee.co.th/threebees.th

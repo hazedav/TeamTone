@@ -1,0 +1,11 @@
+PF:
+  ABS Basic:
+    Brown:
+      hex: '#432D2B'
+      source: 3dfilamentprofiles.com
+      link: https://allegro.pl/oferta/filament-pf-abs-1-75mm-1kg-brazowy-16247956188
+  PLA Basic:
+    Dark Gray:
+      hex: '#343643'
+      source: 3dfilamentprofiles.com
+      link: https://allegro.pl/oferta/filament-pf-pla-1-75mm-1kg-ciemny-szary-16247741829

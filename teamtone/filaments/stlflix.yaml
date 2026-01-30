@@ -1,0 +1,135 @@
+STLFLIX:
+  PLA Basic:
+    Green:
+      hex: '#34BB52'
+      source: 3dfilamentprofiles.com
+      link: https://stlflix.com/product/pla_green/
+    Orange:
+      hex: '#FF8647'
+      source: 3dfilamentprofiles.com
+      link: https://stlflix.com/product/pla_orange/
+    Light Blue:
+      hex: '#00C7FC'
+      source: 3dfilamentprofiles.com
+      link: https://stlflix.com/product/pla_orange/
+    Yellow:
+      hex: '#FFFC41'
+      source: 3dfilamentprofiles.com
+      link: https://stlflix.com/product/pla_yellow/
+    Light Pink:
+      hex: '#F7BBD5'
+      source: 3dfilamentprofiles.com
+    Beige:
+      hex: '#F2D4C0'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://stlflix.com/product/pla_black/
+    Gray:
+      hex: '#35393B'
+      source: 3dfilamentprofiles.com
+    Dark Brown:
+      hex: '#61483F'
+      source: 3dfilamentprofiles.com
+      link: https://stlflix.com/product/pla_brown/
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://stlflix.com/product/pla_white/
+    Red:
+      hex: '#EA1F29'
+      source: 3dfilamentprofiles.com
+      link: https://stlflix.com/product/pla_red/
+    Purple:
+      hex: '#862B7F'
+      source: 3dfilamentprofiles.com
+      link: https://stlflix.com/product/pla_purple/
+    Blue:
+      hex: '#0115AC'
+      source: 3dfilamentprofiles.com
+      link: https://stlflix.com/product/pla_blue/
+  PLA Silk:
+    DOURADO/GOLDEN:
+      hex: '#CDCF4F'
+      source: 3dfilamentprofiles.com
+      link: https://stlflix.com.br/produto/pla_silk_dourado/?srsltid=AfmBOopH8_r2PqyLSMYQXeOsxXTiFLsUwwO7iUmqtznKmO1B752XBVtS
+    Copper:
+      hex: '#B83900'
+      source: 3dfilamentprofiles.com
+      link: https://stlflix.com/product/pla_yellow/
+    Pink Rose:
+      hex: '#E63B7A'
+      source: 3dfilamentprofiles.com
+      link: https://stlflix.com/product/pla_silk_pink_rose/
+  PLA Matte Rainbow:
+    ROSA:
+      hex: '#FFCBDB,#7F00FF,#68DDBD,#FFCC33'
+      source: 3dfilamentprofiles.com
+      link: https://stlflix.com.br/
+  PLA Matte:
+    PRETO MATTE:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://stlflix.com.br/
+    LILÁS:
+      hex: '#915FF0'
+      source: 3dfilamentprofiles.com
+      link: https://stlflix.com.br/
+    ROSA:
+      hex: '#F2B8C6'
+      source: 3dfilamentprofiles.com
+      link: https://stlflix.com.br/
+    VERDE:
+      hex: '#008000'
+      source: 3dfilamentprofiles.com
+      link: https://stlflix.com.br/
+    CINZA:
+      hex: '#898989'
+      source: 3dfilamentprofiles.com
+      link: https://stlflix.com.br/
+    BRANCO:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://stlflix.com.br/
+    BEGE:
+      hex: '#EDE8D0'
+      source: 3dfilamentprofiles.com
+    VERDE MENTA:
+      hex: '#B3EBF2'
+      source: 3dfilamentprofiles.com
+      link: https://stlflix.com.br/
+    LAVANDA:
+      hex: '#CB94F7'
+      source: 3dfilamentprofiles.com
+      link: https://stlflix.com.br/
+    Azul:
+      hex: '#2171F2'
+      source: 3dfilamentprofiles.com
+      link: https://stlflix.com.br/produto/filamento-stlflix-1kg-pla-cor-azul-matte/
+    Café com Leite:
+      hex: '#7D583B'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Blue/Red:
+      hex: '#0501F4,#C20000'
+      source: 3dfilamentprofiles.com
+    Green/Yellow:
+      hex: '#00D10E,#F5ED0A'
+      source: 3dfilamentprofiles.com
+    Green/Blue:
+      hex: '#15B300,#0445C8'
+      source: 3dfilamentprofiles.com
+    Purple/Gold:
+      hex: '#6500B8,#F5D400'
+      source: 3dfilamentprofiles.com
+    Red/Gold:
+      hex: '#E00000,#E2DB03'
+      source: 3dfilamentprofiles.com
+    Blue/Purple:
+      hex: '#030AD8,#5E01BC'
+      source: 3dfilamentprofiles.com
+    Purple and Gold:
+      hex: '#874EFE'
+      source: 3dfilamentprofiles.com
+      link: https://stlflix.com/product/pla_silk_duo_purple_gold/

@@ -1,0 +1,75 @@
+Hobby Lobby:
+  PLA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.hobbylobby.com/crafts-hobbies/kids-crafts-activities/arts-crafts-supplies/black---3d-printing-filament/p/81250144
+    Summer Reverie:
+      hex: '#FFFF00,#FFA500,#BB00B8'
+      source: 3dfilamentprofiles.com
+      link: https://hobbylobby.com
+    Blue:
+      hex: '#3C39C6'
+      source: 3dfilamentprofiles.com
+      link: https://www.hobbylobby.com/crafts-hobbies/kids-crafts-activities/arts-crafts-supplies/blue---3d-printing-filament/p/81250145
+    Purple:
+      hex: '#4A2775'
+      source: 3dfilamentprofiles.com
+      link: https://hobbylobby.com
+    Marble:
+      hex: '#D6D6D6'
+      source: 3dfilamentprofiles.com
+      link: https://www.hobbylobby.com/crafts-hobbies/kids-crafts-activities/arts-crafts-supplies/marble---3d-printing-filament/p/81250158
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.hobbylobby.com/crafts-hobbies/kids-crafts-activities/arts-crafts-supplies/yellow---3d-printing-filament/p/81250147
+    Red (2589653):
+      hex: '#500013'
+      source: 3dfilamentprofiles.com
+      link: https://www.hobbylobby.com/crafts-hobbies/kids-crafts-activities/arts-crafts-supplies/red---3d-printing-filament/p/81250146
+    Wood:
+      hex: '#887C7C'
+      source: 3dfilamentprofiles.com
+      link: https://www.hobbylobby.com/crafts-hobbies/kids-crafts-activities/arts-crafts-supplies/gray---3d-printing-filament/p/81250152
+    fire truck red:
+      hex: '#AF0303'
+      source: 3dfilamentprofiles.com
+      link: https://hobbylobby.com
+    Pink:
+      hex: '#EAA1B0'
+      source: 3dfilamentprofiles.com
+      link: https://www.hobbylobby.com/crafts-hobbies/kids-crafts-activities/arts-crafts-supplies/pink---3d-printing-filament/p/81250150
+    Orange:
+      hex: '#FF8800'
+      source: 3dfilamentprofiles.com
+      link: https://www.hobbylobby.com/crafts-hobbies/kids-crafts-activities/arts-crafts-supplies/orange---3d-printing-filament/p/81250149
+    Gray:
+      hex: '#7E8081'
+      source: 3dfilamentprofiles.com
+      link: https://www.hobbylobby.com/crafts-hobbies/kids-crafts-activities/arts-crafts-supplies/gray---3d-printing-filament/p/81250152
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.hobbylobby.com/crafts-hobbies/kids-crafts-activities/arts-crafts-supplies/red---3d-printing-filament/p/81250146
+  PLA Silk:
+    Black/Pink:
+      hex: '#DB1F79,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.hobbylobby.com/crafts-hobbies/kids-crafts-activities/arts-crafts-supplies/black-pink-silk-3d-printing-filament/p/81250157
+    Silver:
+      hex: '#D8D8D8'
+      source: 3dfilamentprofiles.com
+      link: https://www.hobbylobby.com/crafts-hobbies/kids-crafts-activities/arts-crafts-supplies/silver-silk-3d-printing-filament/p/81250156
+    Rainbow:
+      hex: '#FF0000,#BB00B8,#006A3F,#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.hobbylobby.com/crafts-hobbies/kids-crafts-activities/arts-crafts-supplies/rainbow-silk-3d-printing-filament/p/81250154
+  PLA Marble:
+    White Marble:
+      hex: '#D6D6D6,#CFCCD6,#F7F3F0'
+      source: 3dfilamentprofiles.com
+      link: https://www.hobbylobby.com/crafts-hobbies/kids-crafts-activities/arts-crafts-supplies/marble---3d-printing-filament/p/81250158

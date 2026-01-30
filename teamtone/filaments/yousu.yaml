@@ -1,0 +1,278 @@
+Yousu:
+  PLA Matte Dual:
+    Lilac Green:
+      hex: '#7700D9,#55FF55'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Gold/Green/Black:
+      hex: '#FEC700,#77BB41,#000000'
+      source: 3dfilamentprofiles.com
+    Red/Blue/Green:
+      hex: '#FF2600,#0056D6,#77BB41'
+      source: 3dfilamentprofiles.com
+    Red/Gold/Blue:
+      hex: '#1E87D2,#E4000D,#C6B300'
+      source: 3dfilamentprofiles.com
+    Silk Pink Blue Green:
+      hex: '#F4A4C0,#00C7FC,#77BB41'
+      source: 3dfilamentprofiles.com
+    Silk Triple Rose Red/Blue/Green:
+      hex: '#6ECEF7,#F76ED2,#6EF777'
+      source: 3dfilamentprofiles.com
+      link: https://www.ysfilament.com/products/yousu3d-triple-color-pla-filament-manufacturer-285mm-175mm-3d-filament-mika3d-filament-supplier-co-extrusion-pla-filament?VariantsId=10949
+    Gold/Copper/Black:
+      hex: '#D29D00,#A96800,#000000'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Pink:
+      hex: '#EB60B8'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#DB8000'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#27DD3C'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#F00A0A'
+      source: 3dfilamentprofiles.com
+    grey:
+      hex: '#9D9D9D'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#030BE2'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#F1046B'
+      source: 3dfilamentprofiles.com
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Green:
+      hex: '#81FE89'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#F0C718'
+      source: 3dfilamentprofiles.com
+    Bronze:
+      hex: '#86794B'
+      source: 3dfilamentprofiles.com
+    Gold silver copper:
+      hex: '#F5DC6E'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#F075DF'
+      source: 3dfilamentprofiles.com
+    Copper:
+      hex: '#583400'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#01C7FC'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    white:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#929496'
+      source: 3dfilamentprofiles.com
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  TPU Silk:
+    Purple:
+      hex: '#BF87F7'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#E2A112'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#D1D1D1'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#62B3FE'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Red Gold:
+      hex: '#FF0000,#868C0A'
+      source: 3dfilamentprofiles.com
+    Rose Red Blue:
+      hex: '#FF0000,#0000FF'
+      source: 3dfilamentprofiles.com
+    Blue Green:
+      hex: '#ADEAAD,#74BEF0'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Blue:
+      hex: '#1D08BA'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    White 3Kg:
+      hex: '#F9F5F5'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#303030'
+      source: 3dfilamentprofiles.com
+  PLA Galaxy:
+    Chameleon Black colorshift:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.ysfilament.com/products/double-layers-pla-3d-filament-supplier-pla-manufacturer-pp-filament-conductive-pla-carbon-fiber-pa12-supplier?VariantsId=11659
+    Black Starry Sky Glow Blue:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Chameleon Purple Glow:
+      hex: '#400080'
+      source: 3dfilamentprofiles.com
+    Black Starry Glow Green:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Galaxy Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Chameleon Blue Glow:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+  PLA Sparkle:
+    Glitter Gold-Black:
+      hex: '#040500'
+      source: 3dfilamentprofiles.com
+    Chameleon Black Colorshift:
+      hex: '#0A1F2E'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    Glow Purple:
+      hex: '#C76EF7'
+      source: 3dfilamentprofiles.com
+    Glow Light Green:
+      hex: '#6EF78A'
+      source: 3dfilamentprofiles.com
+    Glow Rainbow:
+      hex: '#76D3A6'
+      source: 3dfilamentprofiles.com
+    Pearl:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Green Starry (Black):
+      hex: '#051506,#6C7A64'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Galaxy:
+    Laser Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Glitter:
+    Galaxy Black Shiny:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Glitter Gold Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Color Change (Temp):
+    Blue Green to Yellow Green:
+      hex: '#00F5F1,#14F4BD'
+      source: 3dfilamentprofiles.com
+  PP Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.ysfilament.com/products/yousu3d-pp-filament-175mm-285mm-3d-printing-polypropylene-filament-manufactuer-chemical-resistance-makerbot-flashforge-raise3d-ultimaker-fatigue-resistant-lightweight-chinese-filament?VariantsId=11037
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.ysfilament.com/products/yousu3d-pp-filament-175mm-285mm-3d-printing-polypropylene-filament-manufactuer-chemical-resistance-makerbot-flashforge-raise3d-ultimaker-fatigue-resistant-lightweight-chinese-filament?VariantsId=11037
+  PLA High Speed:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  TPU Basic:
+    Red:
+      hex: '#C52600'
+      source: 3dfilamentprofiles.com
+  PETG Chameleon:
+    Galaxy Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Chameleon Blue:
+      hex: '#2E58FF'
+      source: 3dfilamentprofiles.com
+    Glow in the Dark Blue Starry:
+      hex: '#2E58FF'
+      source: 3dfilamentprofiles.com
+    Chameleon Purple Glow Green Starry:
+      hex: '#2EFF31'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Mahogany+Natural:
+      hex: '#9F240F'
+      source: 3dfilamentprofiles.com
+    Mahogany / Natural:
+      hex: '#AA3131,#E0D79F'
+      source: 3dfilamentprofiles.com
+    Mahogany+Walnut:
+      hex: '#AA3131,#7F4C29'
+      source: 3dfilamentprofiles.com
+    Natural:
+      hex: '#DFD2BF'
+      source: 3dfilamentprofiles.com
+      link: https://www.ysfilament.com/products/yousu-dual-color-wood-pla-175mm-3d-printing-filament-for-fdm-3d-printer?VariantsId=11735
+    Walnut + Natural:
+      hex: '#773F1A,#F1E7B6'
+      source: 3dfilamentprofiles.com
+    Dark Mahogony:
+      hex: '#320D0B'
+      source: 3dfilamentprofiles.com
+  PLA Fluorescent:
+    Light green:
+      hex: '#76BB40'
+      source: 3dfilamentprofiles.com
+  PA12 CF:
+    Matte Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Translucent:
+    Translucent:
+      hex: '#EBEBEB'
+      source: 3dfilamentprofiles.com
+  PVB Basic:
+    Red:
+      hex: '#F73B3B'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.ysfilament.com/products/yousu3d-tpu-filament-manufacturer-285mm-175mm-3d-printing-filament-for-insole-3d-filament-manufacturer-95a-tpu-flexible-filament-anti-abrasive-provider-wearable-parts-china-filament?VariantsId=10353
+  PETG CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.ysfilament.com/
+  PLA Color Change (UV):
+    White to Red:
+      hex: '#FFFFFF,#EFAEB7'
+      source: 3dfilamentprofiles.com
+  PLA:
+    Black Carbon Fiber:
+      hex: '#050505'
+      source: 3dfilamentprofiles.com
+      link: https://www.ysfilament.com/products/yousu3d-carbon-fiber-pla-filament-manufacturer-175mm-285mm-3d-printing-functional-3d-filament-anti-abrasive-3d-filament-for-engineering-parts
+  PA (Nylon) Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.ysfilament.com/products/nylon-3d-filament-175mm-285mm-high-strength-to-weight-ratio-low-friction-coefficient-supplier-yousu3d?VariantsId=10461

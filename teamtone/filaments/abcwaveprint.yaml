@@ -1,0 +1,23 @@
+ABCWavePrint:
+  PLA Basic:
+    White:
+      hex: '#FAFAFA'
+      source: 3dfilamentprofiles.com
+    Pearl Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#32CD32'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+    Skin:
+      hex: '#FFC9A9'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#BE93E4'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#77767B'
+      source: 3dfilamentprofiles.com

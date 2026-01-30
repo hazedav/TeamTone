@@ -1,0 +1,64 @@
+TTYT3D:
+  PLA Silk:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Copper:
+      hex: '#CB6D51'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#3E91B6'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FE9228'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#EBD11F'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#DEDDD4'
+      source: 3dfilamentprofiles.com
+    Shiny Fast Color Gradient Change Rainbow:
+      hex: '#FF0000,#FFFF00,#00FF00,#0000FF'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#E22400'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#B950B0'
+      source: 3dfilamentprofiles.com
+    Bronze:
+      hex: '#CD7F32'
+      source: 3dfilamentprofiles.com
+    Rainbow:
+      hex: '#FF4133,#FFD747,#387AFF'
+      source: 3dfilamentprofiles.com
+    Chocolate Gold:
+      hex: '#A78C76'
+      source: 3dfilamentprofiles.com
+    Silk Gold:
+      hex: '#CDAB5C'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#A8A9AD'
+      source: 3dfilamentprofiles.com
+    Rose Gold:
+      hex: '#E0BFB8'
+      source: 3dfilamentprofiles.com
+    Cyan:
+      hex: '#AAFFFF'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#0DC494'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Purple to Blue:
+      hex: '#9F3CE2,#1571B2'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Solid Sky Blue:
+      hex: '#71C5E8'
+      source: 3dfilamentprofiles.com
+    Lime Green:
+      hex: '#6CE30F'
+      source: 3dfilamentprofiles.com

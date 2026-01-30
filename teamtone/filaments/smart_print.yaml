@@ -1,0 +1,37 @@
+Smart Print:
+  PLA Silk:
+    Kupfer:
+      hex: '#862D00'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Wood:
+      hex: '#B69977'
+      source: 3dfilamentprofiles.com
+    Black Walnut:
+      hex: '#8A7575'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Black Blue:
+      hex: '#000000,#1351AE'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Gradient:
+    Gradient Colour:
+      hex: '#CC5993,#00ACC7,#A1DD84,#DC8A49'
+      source: 3dfilamentprofiles.com
+      link: https://b2b.smartprint24.com/products/filaments/pla/pla-standard/fg-s74-e1-fg-s74-e1-pla-gradient-colour-_-smart-print.html
+  ABS+ Premium:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA High Speed:
+    Blue / Niebieski:
+      hex: '#0091F1'
+      source: 3dfilamentprofiles.com

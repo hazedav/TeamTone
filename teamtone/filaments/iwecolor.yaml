@@ -1,0 +1,39 @@
+iWecolor:
+  PLA+/Pro Basic:
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#FFDD00'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#00FF11'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#BB00FF'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Red Green:
+      hex: '#32950F,#E1377B'
+      source: 3dfilamentprofiles.com
+    Red Gold:
+      hex: '#DB2967,#E2C222'
+      source: 3dfilamentprofiles.com
+    Blue Green:
+      hex: '#0D3EAF,#30920C'
+      source: 3dfilamentprofiles.com
+    Red Blue:
+      hex: '#E60A57,#055EB8'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Cherry Tomato:
+      hex: '#A74635,#F7906E'
+      source: 3dfilamentprofiles.com
+      link: https://www.facebook.com/IweColorstore/
+    Baby Blue:
+      hex: '#A8DBFF,#9EDADB'
+      source: 3dfilamentprofiles.com
+    Ocean Cyan:
+      hex: '#5A95BF,#89B6D7'
+      source: 3dfilamentprofiles.com
+      link: https://www.facebook.com/IweColorstore/

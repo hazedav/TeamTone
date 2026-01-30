@@ -1,0 +1,60 @@
+3DO:
+  PLA Tough:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3do.dk/pla/956-1367-3do-pla-20-tough-1kg-sort.html#/19-farve-sort
+    Green:
+      hex: '#1D931B'
+      source: 3dfilamentprofiles.com
+      link: https://3do.dk/pla/961-1376-3do-pla-20-tough-1kg-makita-bla.html#/112-farve-makita_bla
+    Blå:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://3do.dk/pla/961-1376-3do-pla-20-tough-1kg-makita-bla.html#/112-farve-makita_bla
+    Makita Blue:
+      hex: '#07737A'
+      source: 3dfilamentprofiles.com
+      link: https://3do.dk/pla/961-1376-3do-pla-20-tough-1kg-makita-bla.html#/112-farve-makita_bla
+    Pink:
+      hex: '#FFC0CB'
+      source: 3dfilamentprofiles.com
+      link: https://3do.dk/pla/2241-3do-pla-20-tough-1kg-pink.html
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3do.dk/en/filament/1041-1442-3do-petg-20-matt-1kg-black.html#/19-colour-black
+    RatRig Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+  ASA Basic:
+    Grassgreen:
+      hex: '#00F807'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  ASA CF:
+    Carbon Fiber Blue:
+      hex: '#004080'
+      source: 3dfilamentprofiles.com
+      link: https://3do.dk/specialfilamenter/1723-1706-3do-asa-cf-1kg-carbon-fiber-bla.html#/24-farve-bla
+  ASA:
+    Makita Blue:
+      hex: '#07737A'
+      source: 3dfilamentprofiles.com
+      link: https://3do.dk/en/asa/627-3do-asa-1kg-makita-blue.html
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3do.dk/en/asa/502-815-3do-asa-1kg-black.html#/19-colour-black
+    RatRig Green:
+      hex: '#7EC620'
+      source: 3dfilamentprofiles.com
+      link: https://3do.dk/en/asa/599-933-3do-asa-1kg-ratrig-green.html#/123-colour-ratrig_green
+  PETG Glow:
+    Glow in Dark:
+      hex: '#0AF545'
+      source: 3dfilamentprofiles.com

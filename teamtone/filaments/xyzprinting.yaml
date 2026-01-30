@@ -1,0 +1,15 @@
+XYZPrinting:
+  ABS Basic:
+    white:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Bottle Green:
+      hex: '#006A4E'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Nature:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,904 @@
+Anycubic:
+  PLA Silk:
+    Red Copper:
+      hex: '#CB6D51'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/silk-pla-filament?variant=43041661223150
+    Purple:
+      hex: '#D357FE'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/silk-pla-filament?variant=45643506548898
+    Metal Blue:
+      hex: '#3177A3'
+      source: 3dfilamentprofiles.com
+      link: https://anycubicofficial.pl/products/filament-pla-jedwab?variant=45072231891253
+    White:
+      hex: '#FFFFFF,#E9E9E7'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/silk-pla-filament?variant=43041661223150
+    Light Gold:
+      hex: '#FECB3E'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/silk-pla-filament?variant=43041661223150
+    Copper:
+      hex: '#AF5C37'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/silk-pla-filament?variant=43041661223150
+    Green:
+      hex: '#52D2BC'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/silk-pla-filament?variant=43041661223150
+    Grey:
+      hex: '#626262'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/silk-pla-filament?variant=43041661223150
+    Christmas Green:
+      hex: '#008755'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/silk-pla-filament?_sasdk=dMTlhOGMyZmI2NGQxNWIwLTBlMGQ0NjI5YjdmMGQ0OC04NTA1MDI1LTM2ODY0MDAtMTlhOGMyZmI2NGYxMWU4
+    Silver:
+      hex: '#768692'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/silk-pla-filament?variant=42237195059362
+    Shiny Gold:
+      hex: '#F2A900'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/silk-pla-filament?variant=43041661223150
+    Christmas Red:
+      hex: '#D22630'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/silk-pla-filament?variant=43041661223150
+    Gold:
+      hex: '#D19000'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/silk-pla-filament?variant=43041661321454
+    Metal Champagine:
+      hex: '#BEB2A6'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/silk-pla-filament?variant=43041661223150
+    Metal Copper:
+      hex: '#A04637'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/silk-pla-filament?variant=43041661223150
+    PLA Seda Red+Yell+Green:
+      hex: '#AAFF00'
+      source: 3dfilamentprofiles.com
+      link: https://tinyurl.com/4m9vjnd4
+    Pink:
+      hex: '#FCAFC0'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/silk-pla-filament?variant=45643506516130
+    Blue:
+      hex: '#3A88FE'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/silk-pla-filament?variant=45643506352290
+  PLA+/Pro Silk Dual:
+    Black Green:
+      hex: '#000000,#1CB51F'
+      source: 3dfilamentprofiles.com
+    Black Gold:
+      hex: '#000000,#81770E'
+      source: 3dfilamentprofiles.com
+    Black Blue:
+      hex: '#000000,#0054A8'
+      source: 3dfilamentprofiles.com
+    Black/Purple:
+      hex: '#000000,#28037C'
+      source: 3dfilamentprofiles.com
+    Pink / Gold:
+      hex: '#EF60A3,#FF9E1B'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/silk-pla-dual-tri-color-filament?variant=44440649203874
+  PLA Basic:
+    Black:
+      hex: '#212721'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    Pearl Black:
+      hex: '#0D1D08'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    Wooden:
+      hex: '#624422'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    Texture Grey:
+      hex: '#75787B'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    Peach Fuzz (Pantone):
+      hex: '#E4AD82,#FFC196'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-basic-pantone-color-filament?variant=44483185737890
+    Red / Bright Red:
+      hex: '#C8102E'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    grey:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    Purple:
+      hex: '#6A6DCD'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament?variant=41312782483618
+    Pink:
+      hex: '#FF8DA1'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    Grey:
+      hex: '#696C6D'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    Leuchtendes Gelb:
+      hex: '#FDDB27'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    Yellow:
+      hex: '#F3E500'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament?variant=43895979540642
+    White:
+      hex: '#EFF0F1'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament?variant=28613838635068
+    Blue:
+      hex: '#247CDB'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    Red:
+      hex: '#C8102E'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament?variant=32866804432973
+    Classic Green:
+      hex: '#3DB24E'
+      source: 3dfilamentprofiles.com
+      link: https://uk.anycubic.com/collections/filaments/products/pla-filament
+    Dazzling Blue:
+      hex: '#3A40F8'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    Vibrant Orange:
+      hex: '#D16500'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    Interstellar Violet (Pantone):
+      hex: '#744BD2'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-basic-pantone-color-filament?variant=44483185737890
+    Orange / Fluorescent Orange:
+      hex: '#FF7338'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    Cyan:
+      hex: '#23A3C7'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    Gray:
+      hex: '#B1B3B3'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament?variant=45618360156322
+    Green:
+      hex: '#009639'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament?variant=41312782745762
+    Orange:
+      hex: '#FF9438'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament?variant=43895979507874
+    Purple Opulence:
+      hex: '#695FA1'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    Texture Silver:
+      hex: '#8A8D8F'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/pla-filament?variant=39534828716109
+    Tropical Turquoise (Pantone):
+      hex: '#009CBD'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/collections/filaments/products/pla-basic-pantone-color-filament
+    Beige / Light Brown:
+      hex: '#D4B996'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    Flash Green:
+      hex: '#75CB5D'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    Bronze:
+      hex: '#7C4D3A'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    Dark Brown:
+      hex: '#975E3E'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    Peach Pink:
+      hex: '#FFC196'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    Clear:
+      hex: '#F0F2F5'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament?variant=43845685117090
+    Spring Leaf (Pantone):
+      hex: '#89A84F'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-basic-pantone-color-filament?srsltid=AfmBOorv96cRHVb_B1kzgjX5jt3W_ZXvG1st-xmbChoUgWwBzWxL1sht
+    Blue (Navy Blue):
+      hex: '#003594'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament?variant=28613838733372
+    Magenta:
+      hex: '#CF4F80'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    Brown:
+      hex: '#927968'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/pla-filament?variant=45922114306286
+    Bright White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    Erdbeerrosa:
+      hex: '#F88192'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament
+    White (LRV 66):
+      hex: '#CFD6D7'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-filament?variant=28613838635068
+  PLA Silk Dual:
+    Pink Gold:
+      hex: '#F67599,#F2A900'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/silk-pla-dual-tri-color-filament
+    Black Red:
+      hex: '#212721,#D22630'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/silk-pla-dual-tri-color-filament
+    Red Blue:
+      hex: '#E63888,#003594'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/silk-pla-dual-tri-color-filament
+    Black Green:
+      hex: '#212721,#006F44'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/silk-pla-dual-tri-color-filament
+    Black Purple:
+      hex: '#212721,#7249C7'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/silk-pla-dual-tri-color-filament?variant=44440649072802
+    Black Gold:
+      hex: '#212721,#C8B643'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/prodhttps://store.anycubic.com/products/silk-pla-dual-tri-color-filament?variant=44440649105570
+    Blue Green:
+      hex: '#003594,#006F44'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/silk-pla-dual-tri-color-filament
+    Red Gold:
+      hex: '#D22630,#FFC600'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/silk-pla-dual-tri-color-filament
+    Black Blue:
+      hex: '#212721,#003594'
+      source: 3dfilamentprofiles.com
+      link: https://www.amazon.com/dp/B0CSPG88W4?ref=fed_asin_title
+  TPU Basic:
+    Orange:
+      hex: '#FFAE00'
+      source: 3dfilamentprofiles.com
+    Clear Blue:
+      hex: '#005EB8'
+      source: 3dfilamentprofiles.com
+    Milky White:
+      hex: '#E9E9E7'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/tpu-filament?variant=45298499944610
+  ABS Basic:
+    Grey:
+      hex: '#8A8D8F'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/abs-filament?variant=45298282070178
+    Black:
+      hex: '#212721'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/abs-filament
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/abs-filament?variant=45298274893986
+  PLA+/Pro Basic:
+    Dazzling Blue:
+      hex: '#0762C8'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament
+    Yellow:
+      hex: '#F3E500'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament
+    Purple:
+      hex: '#6A6DCD'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament
+    Pink:
+      hex: '#FF8DA1'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament
+    Orange:
+      hex: '#FF7F32'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament
+    Green Flash:
+      hex: '#75CB5D'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament
+    Texture Gray:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament
+    Purple Opulence:
+      hex: '#6424FF'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament
+    Vibrant Yellow:
+      hex: '#F3E500'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament?variant=45096860090530
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament?variant=43690025058466
+    Bright Red:
+      hex: '#E10600'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament
+    Grey:
+      hex: '#53565A'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament?variant=43690025877666
+    Brown:
+      hex: '#927968'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament
+    Peach Pink:
+      hex: '#FF8E6E'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament
+    Interstellar Violet:
+      hex: '#7B69FF'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament
+    Beige:
+      hex: '#D4B996'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament
+    Pearl Black:
+      hex: '#212721'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament
+    Spring Leaf:
+      hex: '#8DFF8D'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament
+    Tropical Turquoise:
+      hex: '#16B2FF'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament
+    Silver:
+      hex: '#8D9093'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/pla-plus-filament?variant=45521662607598
+    white:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament
+    Black:
+      hex: '#212721'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament?variant=43690025681058
+    Texture Grey:
+      hex: '#75787B'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament?variant=43690025975970
+    Texture Silver:
+      hex: '#8A8D8F'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament
+    light blue:
+      hex: '#74D1EA'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#E10600'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament?variant=44465907990690
+    Green:
+      hex: '#009639'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament
+    Blue:
+      hex: '#003594'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament
+  PLA High Speed:
+    Strawberry Pink:
+      hex: '#FE878F'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/high-speed-pla-filament?variant=43650603188386
+    Bright White:
+      hex: '#F3F4F5'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/high-speed-pla-filament?variant=43650603188386
+    Dazzling Blue:
+      hex: '#3E55AB'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/high-speed-pla-filament?variant=43650603778210
+    Pearl Black:
+      hex: '#212721'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/high-speed-pla-filament?variant=43650603778210
+    Red:
+      hex: '#BA0C2F'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/high-speed-pla-filament?variant=43650603188386
+    Texture Grey:
+      hex: '#75787B'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/high-speed-pla-filament?variant=43650603188386
+    Vibrant Orange:
+      hex: '#FF7338'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/high-speed-pla-filament?variant=44465877614754
+    Classic Green:
+      hex: '#3DB24E'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/high-speed-pla-filament?variant=43650603188386
+    Orange:
+      hex: '#FF7338'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/high-speed-pla-filament?variant=43650603188386
+    Vibrant Yellow:
+      hex: '#F3E500'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/high-speed-pla-filament?variant=43650603188386
+    Bright Red:
+      hex: '#E10600'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/high-speed-pla-filament?variant=43650603778210
+    Green:
+      hex: '#2DC84D'
+      source: 3dfilamentprofiles.com
+      link: https://uk.anycubic.com/products/high-speed-pla-filament?variant=48393978216733
+    Blue:
+      hex: '#0762C8'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/high-speed-pla-filament?variant=43650603188386
+    Grey:
+      hex: '#ADADAD'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/high-speed-pla-filament?variant=43650603188386
+    Purple Opulence:
+      hex: '#695FA2'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/high-speed-pla-filament?variant=43650603188386
+  PLA Silk Triple:
+    Blue Green Purple:
+      hex: '#003594,#006F44,#452B6F'
+      source: 3dfilamentprofiles.com
+    Red Yellow Blue:
+      hex: '#C8102E,#F3E500,#003594'
+      source: 3dfilamentprofiles.com
+    Magenta Cyan Yellow:
+      hex: '#FF00FF,#00FFFF,#FFFF00'
+      source: 3dfilamentprofiles.com
+    Red Yellow Green:
+      hex: '#D22630,#F3D03E,#006F44'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Mtte Mint:
+      hex: '#86C8BC'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/matte-pla-filament?variant=45296339976354
+    Matte Yellow:
+      hex: '#FFE17F'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/matte-pla-filament?variant=42237204660386
+    Matte Blue:
+      hex: '#1366A0'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/matte-pla-filament?variant=45296339976354
+    Matte Green:
+      hex: '#61C680'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/matte-pla-filament?variant=45296339845282
+    Orange:
+      hex: '#F59105'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/matte-pla-filament?variant=45296339976354
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/matte-pla-filament?variant=42237204725922
+    Red Blue:
+      hex: '#FF0000,#0006C2'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/matte-pla-filament?variant=45296339976354
+    Matte Red:
+      hex: '#DE4343'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/matte-pla-filament?variant=45296339910818
+    grey:
+      hex: '#C0C0C0,#8E939B'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/matte-pla-filament?variant=45296339976354
+    Sakura Pink:
+      hex: '#F4C1E1'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/matte-pla-filament?variant=45296339976354
+    Ice Blue:
+      hex: '#C6F3F8'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/collections/pla/products/pla-filament
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/matte-pla-filament?variant=45296339976354
+    Matte Purple:
+      hex: '#AE96D4'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/matte-pla-filament?variant=45296339845282
+  PETG Basic:
+    Yellow:
+      hex: '#F5EC00'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/petg-filament
+    Texture Silver:
+      hex: '#8A8D8F'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/petg-filament?variant=46402244804846
+    Cream:
+      hex: '#F9DFB9'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/petg-filament?variant=46402244804846
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/petg-filament
+    Purple:
+      hex: '#6A6DCD'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/petg-filament
+    Orange:
+      hex: '#FF7B00'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/petg-filament?variant=44465884725410
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/petg-filament
+    Green:
+      hex: '#009639'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/petg-filament?variant=46402244804846
+    Forest Green:
+      hex: '#43523B'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/petg-filament?variant=46402244804846
+    Grey:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/petg-filament
+    Beige:
+      hex: '#D4B996'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/petg-filament?variant=46402244804846
+    Pink:
+      hex: '#FB637E'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/petg-filament?variant=46402244804846
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/petg-filament
+    Blue:
+      hex: '#0042A9'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/petg-filament
+    Texture Grey:
+      hex: '#75787B'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/petg-filament?variant=43708919546018
+    Transparent:
+      hex: '#FFFFFF,#EFF0F1'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/petg-filament
+    Ash Grey:
+      hex: '#474747'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/petg-filament
+    Lime Green:
+      hex: '#78D64B'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/petg-filament?variant=46402244804846
+    Brown:
+      hex: '#927968'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/petg-filament?variant=46402244804846
+    Lake Blue:
+      hex: '#0084D4'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/petg-filament?variant=46402244804846
+    Dark Grey:
+      hex: '#7E868A'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/petg-filament?variant=46402244804846
+    Peanut Brown:
+      hex: '#A9754F'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/petg-filament?variant=46402244804846
+  PLA Glow:
+    Green:
+      hex: '#2CC84D'
+      source: 3dfilamentprofiles.com
+    Glow In The Dark Blue:
+      hex: '#ECECE7'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-glow?variant=44028616999074
+    Yellow:
+      hex: '#EDE939'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-glow?variant=45296570794146
+    Blue:
+      hex: '#00AFD7'
+      source: 3dfilamentprofiles.com
+    White (Green Glow):
+      hex: '#D7D9D2,#2CC84D'
+      source: 3dfilamentprofiles.com
+  PLA Matte Dual:
+    Red-Blue:
+      hex: '#BA0C2F,#0047BB'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/matte-pla-filament?variant=45296339878050
+    Green Brown:
+      hex: '#38571A,#563D00'
+      source: 3dfilamentprofiles.com
+      link: https://uk.anycubic.com/products/matte-pla-filament?variant=50164420968733
+  PLA Galaxy:
+    Galaxy Brown:
+      hex: '#5E4241'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-galaxy?_sasdk=fcmFtaWx0b25paUBob3RtYWlsLmNvbQ
+    Galaxy Blue:
+      hex: '#1F2A44'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-galaxy?_sasdk=fcmFtaWx0b25paUBob3RtYWlsLmNvbQ
+    Galaxy Purple:
+      hex: '#491D70'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-galaxy?_sasdk=fcmFtaWx0b25paUBob3RtYWlsLmNvbQ
+    Galaxy Green:
+      hex: '#4E5B31'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-galaxy?_sasdk=fcmFtaWx0b25paUBob3RtYWlsLmNvbQ
+  PETG CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#B90000'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Matte Tri-Color:
+    Regenbogen:
+      hex: '#0061FF,#00F900,#874EFE'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Pro:
+    Blue:
+      hex: '#0762C8'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/pla-plus-filament?variant=45369494372590
+    Vibrant Orange:
+      hex: '#FF7338'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament?variant=44465907925154
+    Orange:
+      hex: '#FF7338'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/pla-plus-filament?variant=45521662509294
+    Green Flash:
+      hex: '#75CB5D'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament?variant=44465907892386
+  ASA Basic:
+    White:
+      hex: '#F1F0ED'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/asa-filament?_sasdk=dMTk4Y2MxNmFkZWIxMjFmLTAwYTcyN2FlODc4Y2QxNDgtMTY1MjU2MzYtMjczMjQyNC0xOThjYzE2YWRlYzIxOWQ
+    Red:
+      hex: '#C70000'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/asa-filament?_sasdk=dMTk4Y2MxNmFkZWIxMjFmLTAwYTcyN2FlODc4Y2QxNDgtMTY1MjU2MzYtMjczMjQyNC0xOThjYzE2YWRlYzIxOWQ
+    Green:
+      hex: '#00BB31'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/asa-filament?variant=45296584458402
+    Grey:
+      hex: '#75787B'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/asa-filament?_sasdk=dMTk4Y2MxNmFkZWIxMjFmLTAwYTcyN2FlODc4Y2QxNDgtMTY1MjU2MzYtMjczMjQyNC0xOThjYzE2YWRlYzIxOWQ
+    Blue:
+      hex: '#0047BB'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/asa-filament?variant=45296584425634
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/asa-filament
+  PLA+/Pro Silk:
+    Silver:
+      hex: '#C0C0C0,#8D9093'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/silk-pla-filament?variant=42237195059362
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/silk-pla-filament?variant=44641393017070
+    Grey:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/silk-pla-filament
+  PETG Translucent:
+    Grey:
+      hex: '#4D4D4D'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/petg-translucent?variant=46763364712686
+    Translucent Blue:
+      hex: '#7DCEFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/petg-filament?variant=45649068097698
+    Orange:
+      hex: '#FF6A00'
+      source: 3dfilamentprofiles.com
+    Transparent Grau:
+      hex: '#6A6C6E'
+      source: 3dfilamentprofiles.com
+    Transparent Rosa:
+      hex: '#F8C1B8'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#7CE0D3'
+      source: 3dfilamentprofiles.com
+    Pink:
+      hex: '#EE719E,#F8C1B8'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/petg-filament-translucent?variant=45760708182178
+    Purple:
+      hex: '#982ABC'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#CDA077'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/petg-filament-translucent?variant=45760708280482
+    Olive:
+      hex: '#78874D'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/petg-filament-translucent?variant=45760708214946
+  TPU 95A:
+    Grey:
+      hex: '#63666A'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/tpu-filament
+    Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Clear Orange:
+      hex: '#FF6A00'
+      source: 3dfilamentprofiles.com
+    Clear Red:
+      hex: '#E32400'
+      source: 3dfilamentprofiles.com
+    Clear Purple:
+      hex: '#A438A8'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/tpu-filament?variant=46208216760558
+    Clear Green:
+      hex: '#79C000'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/tpu-filament?variant=46208216662254
+    Black:
+      hex: '#212721'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/tpu-filament?variant=45298499911842
+  PLA ECO:
+    peach fuzz:
+      hex: '#FF8C82'
+      source: 3dfilamentprofiles.com
+  PLA Special:
+    Spring Leaf:
+      hex: '#89A84F'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-basic-special-color-filament
+    Tropical Turquoise:
+      hex: '#009CBD'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-basic-special-color-filament
+    Interstellar Violet:
+      hex: '#5B618F'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-basic-special-color-filament
+    Peach Pink:
+      hex: '#FFC196'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-basic-special-color-filament?variant=44483185803426
+  PLA Metal:
+    Metal Blue:
+      hex: '#3177A3'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-metal-filament?variant=45405385490594
+    Metal Champagne:
+      hex: '#B59C70'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-metal-filament?variant=45405385457826
+    Metal Copper:
+      hex: '#956C58'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-metal-filament?variant=45405396140194
+    Metal Black:
+      hex: '#43403D'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-metal-filament?variant=45405396140194
+  PLA+/Pro Silk Triple:
+    Orange Blue Green:
+      hex: '#E78D0D,#085EB5,#07883F'
+      source: 3dfilamentprofiles.com
+    Black Gold Purple:
+      hex: '#000000,#738519,#5A1268'
+      source: 3dfilamentprofiles.com
+    Blue / Green / Purple:
+      hex: '#0061FF,#00F900,#874EFE'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/silk-pla-dual-tri-color-filament?variant=44440708087970
+  PC Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://de.anycubic.com/products/pc-filament?variant=47220848263406
+  PLA Marble:
+    Marble White:
+      hex: '#FFFFFF,#000000'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-marble
+    Brick Red:
+      hex: '#BC4536'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-marble
+  PLA+/Pro:
+    Vibrant Orange:
+      hex: '#FF8000'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Tough:
+    Bright White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/pla-plus-filament?variant=43690025058466
+  PLA Pro:
+    Bright Red, RFID:
+      hex: '#D00E16'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Silk Rainbow:
+    Rainbow 01:
+      hex: '#B669FF,#00B74F,#F1C400,#FF41B8'
+      source: 3dfilamentprofiles.com
+      link: https://store.anycubic.com/products/silk-pla-filament

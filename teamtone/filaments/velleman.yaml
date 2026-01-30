@@ -1,0 +1,15 @@
+Velleman:
+  PLA Basic:
+    Purper:
+      hex: '#800080'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Light Blue:
+      hex: '#00C7FC'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Moss Grey:
+      hex: '#4D4D39'
+      source: 3dfilamentprofiles.com

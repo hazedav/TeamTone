@@ -1,0 +1,108 @@
+Push Plastic:
+  PLA Fluorescent:
+    Fluorescent Pink:
+      hex: '#FE8BA2'
+      source: 3dfilamentprofiles.com
+    Fluorescent Yellow:
+      hex: '#EBFE42'
+      source: 3dfilamentprofiles.com
+    Fluorescent Green:
+      hex: '#C7FF35'
+      source: 3dfilamentprofiles.com
+  PLA Rock:
+    Granite:
+      hex: '#DBDBDB'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Mint:
+      hex: '#7DD3C9'
+      source: 3dfilamentprofiles.com
+    Flat Dark Earth (FDE):
+      hex: '#977D6F'
+      source: 3dfilamentprofiles.com
+    Light Teal:
+      hex: '#008CB4'
+      source: 3dfilamentprofiles.com
+    Dark Grey:
+      hex: '#606164'
+      source: 3dfilamentprofiles.com
+    Ocean Blue:
+      hex: '#40AADA'
+      source: 3dfilamentprofiles.com
+      link: https://www.pushplastic.com/products/pla-filament-1-75mm-3kg?variant=44437583691937
+    Bronze Metallic:
+      hex: '#7E5A4E'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#2AA974'
+      source: 3dfilamentprofiles.com
+    Chavant Brown:
+      hex: '#BB8876'
+      source: 3dfilamentprofiles.com
+    Lavender:
+      hex: '#6A7B9D'
+      source: 3dfilamentprofiles.com
+    Gold Metallic:
+      hex: '#957C67'
+      source: 3dfilamentprofiles.com
+    Fatigue Green:
+      hex: '#878D7F'
+      source: 3dfilamentprofiles.com
+    Maroon:
+      hex: '#6E3F42'
+      source: 3dfilamentprofiles.com
+    Blue Pearl:
+      hex: '#0074A5'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#A13936'
+      source: 3dfilamentprofiles.com
+    Army Green:
+      hex: '#6C6853'
+      source: 3dfilamentprofiles.com
+    Terracotta:
+      hex: '#A86C5E'
+      source: 3dfilamentprofiles.com
+    Desert Tan:
+      hex: '#EAD1AF'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.pushplastic.com/products/pla-filament-1-75mm-1kg?variant=44437581168801
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#D90D0D'
+      source: 3dfilamentprofiles.com
+      link: https://www.pushplastic.com/products/petg-filament-1-75mm-1kg?variant=44437570027681
+  PLA Translucent:
+    Translucent Green:
+      hex: '#29786E'
+      source: 3dfilamentprofiles.com
+    Translucent Blue:
+      hex: '#5980AB'
+      source: 3dfilamentprofiles.com
+    Translucent Amber:
+      hex: '#C29448'
+      source: 3dfilamentprofiles.com
+    Translucent Red:
+      hex: '#873126'
+      source: 3dfilamentprofiles.com
+    Translucent Grey:
+      hex: '#828082'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Wood:
+      hex: '#C6AB81'
+      source: 3dfilamentprofiles.com
+  PC Blend:
+    Silver Metallic:
+      hex: '#828282'
+      source: 3dfilamentprofiles.com
+  PC CF:
+    Carbon Fiber - PC+PBT:
+      hex: '#292929'
+      source: 3dfilamentprofiles.com

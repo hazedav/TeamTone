@@ -1,0 +1,12 @@
+Matchbox:
+  PETG Basic:
+    Transparent:
+      hex: '#B5B5B5'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#CB4A2A'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    True Blue:
+      hex: '#0424C3'
+      source: 3dfilamentprofiles.com

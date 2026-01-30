@@ -1,0 +1,201 @@
+VOXELPLA:
+  PLA+/Pro High Speed:
+    Wood:
+      hex: '#E1D3B8'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/
+    Gold:
+      hex: '#E0AC31'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpla-pla-plus-pro-gold-1-75mm-filament-1kg
+    Phantom Blue:
+      hex: '#242C3C'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpla-pla-plus-pro-voxel-blue-1-75mm-filament-1kg
+    Dark Purple:
+      hex: '#593E7F'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpla-pla-plus-pro-royal-purple-1-75mm-filament-1kg-3kg-and-5kg-copy
+    Royal Blue:
+      hex: '#003E8C'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxel-pla-pro-1-75mm-blue-filament
+    Brown:
+      hex: '#6A4A34'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpla-pla-plus-pro-brown-1-75mm-filament-1kg
+    Lavender Purple:
+      hex: '#5F56AC'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpla-pla-plus-pro-lavender-purple-1-75mm-filament-1kg
+    Voxel Grey:
+      hex: '#5C6878'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxel-pla-pro-1-75mm-grey-filament
+    Witch Green:
+      hex: '#7BFF7E'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/collections/all
+    Black:
+      hex: '#252522'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxel-pla-pro-1-75mm-black-filament
+    Gunmetal Blue:
+      hex: '#4C90FF,#4B98FF'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpla-pla-hs-pro-gunmetal-blue-1-75mm-filament-1kg
+    Cool White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxel-pla-pro-1-75mm-white-filament
+    Magenta:
+      hex: '#D11339'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/collections/all
+    Pink:
+      hex: '#F273E7'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpla-pla-plus-pro-pink-1-75mm-filament-1kg
+    Sky Blue:
+      hex: '#009EC1'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpla-pla-plus-pro-sky-blue-1-75mm-filament-1kg-3kg-and-5kg
+    Silver:
+      hex: '#878891'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpla-pla-plus-pro-silver-1-75mm-filament-1kg
+    Fire Engine Red:
+      hex: '#8D0823'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxel-pla-pro-1-75mm-red-filament
+    Yellow:
+      hex: '#E3BE00'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpla-pla-plus-pro-yellow-1-75mm-filament-1kg
+    Forest Green:
+      hex: '#2A4C36'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpla-pla-plus-pro-forest-green-1-75mm-filament-1kg
+    Army Green:
+      hex: '#667B65'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpla-pla-plus-pro-army-green-1-75mm-filament-1kg
+    Ice Clear:
+      hex: '#B6B8BD'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpla-pla-plus-pro-ice-clear-1-75mm-filament-1kg
+    Fire Orange:
+      hex: '#D55A2D'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpla-pla-plus-pro-fire-orange-1-75mm-filament-1kg
+  PETG+ High Speed:
+    Green:
+      hex: '#6DFDE5'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpetg-pro-green-1-75mm-filament-1kg-petg
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpetg-pro-white-1-75mm-filament-1kg-petg
+    Dark Purple:
+      hex: '#593EF7'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpla-pla-plus-pro-royal-purple-1-75mm-filament-1kg-3kg-and-5kg-copy
+    Dark Purple (Corrected):
+      hex: '#9659B2'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpetg-hs-pro-dark-purple-1-75mm-filament-1kg-petg
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpetg-pro-silver-1-75mm-filament-1kg-petg
+    Crystal Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpetg-pro-crystal-clear-1-75mm-filament-1kg-petg
+    Yellow:
+      hex: '#E3BE00'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpetg-hs-pro-yellow
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpetg-pro-black-1-75mm-filament-1kg-petg
+    Red:
+      hex: '#8D0823'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpetg-pro-red-1-75mm-filament-1kg-petg
+    Blue:
+      hex: '#2051ED'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpetg-pro-blue-1-75mm-filament-1kg-petg
+    Grey:
+      hex: '#AFAFAF'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpetg-pro-grey-1-75mm-filament-1kg-petg
+    Orange:
+      hex: '#FF8648'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpetg-hs-pro-orange
+  PLA+/Pro Pro:
+    Phantom Blue:
+      hex: '#242C3C'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpla-pla-plus-pro-voxel-blue-1-75mm-filament-1kg
+    Cool White:
+      hex: '#DEE5E8'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxel-pla-pro-1-75mm-white-filament
+    Brown:
+      hex: '#2C1023'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpla-pla-plus-pro-brown-1-75mm-filament-1kg
+    Sky Blue:
+      hex: '#56D2F5'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxel-pla-pro-1-75mm-black-filament
+    Dark Purple:
+      hex: '#744CBD'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpla-pla-plus-pro-royal-purple-1-75mm-filament-1kg-3kg-and-5kg-copy
+    RED:
+      hex: '#FA0000'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpla-pla-plus-pro-witch-green-1-75mm-filament-1kg
+  PETG:
+    Yellow:
+      hex: '#FBFF00'
+      source: 3dfilamentprofiles.com
+  PETG High Speed:
+    Blue:
+      hex: '#141AE1'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpetg-pro-blue-1-75mm-filament-1kg-petg
+    Black:
+      hex: '#383435'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpetg-pro-black-1-75mm-filament-1kg-petg
+    Crystal Clear:
+      hex: '#F7F8FF'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxelpetg-pro-crystal-clear-1-75mm-filament-1kg-petg
+  PETG+ Galaxy:
+    Gioiello Purple:
+      hex: '#8F5573,#969475'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxel-galaxy-petg-hs-pro-gioiello-purple-1-75mm-filament-1kg
+    Midnight Blue:
+      hex: '#196586,#343053'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxel-galaxy-petg-hs-pro-midnight-blue-1-75mm-filament-1kg
+    Emerald Gold:
+      hex: '#57623E'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxel-galaxy-petg-hs-pro-emerald-gold-1-75mm-filament-1kg
+    Aurora Green:
+      hex: '#094A30,#6D5980'
+      source: 3dfilamentprofiles.com
+      link: https://voxelpla.com/products/voxel-galaxy-petg-hs-pro-aurora-green-1-75mm-filament-1kg

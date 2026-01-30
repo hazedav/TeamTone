@@ -1,0 +1,65 @@
+TECSONAR:
+  PLA Silk Rainbow:
+    Fairy Tale:
+      hex: '#F3D865,#FA85AA,#8778B8,#62ABBD'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Red-Purple-Gold:
+      hex: '#BC2F36,#CC8EF5,#EDC55A'
+      source: 3dfilamentprofiles.com
+    TriColor:
+      hex: '#FF0000,#00FF11,#0095FF'
+      source: 3dfilamentprofiles.com
+    Blue-Orange-Green:
+      hex: '#016EBC,#F7863B,#18DC49'
+      source: 3dfilamentprofiles.com
+    Red-Yellow-Blue:
+      hex: '#B91313,#F5EF3D,#2E84C2'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Silk Blue, Silk Rose Red:
+      hex: '#7DC1F2'
+      source: 3dfilamentprofiles.com
+  PLA Matte Rainbow:
+    Blue White:
+      hex: '#38ACFF,#7EDCFB,#FFFFFF,#E0B3FF'
+      source: 3dfilamentprofiles.com
+    Blue Red:
+      hex: '#6ABCF6,#F08EE8'
+      source: 3dfilamentprofiles.com
+    Lollipop:
+      hex: '#00F5D8,#FFFCAD,#6ABCF6'
+      source: 3dfilamentprofiles.com
+    Rainbow:
+      hex: '#7AFFA2,#FFA8D2,#68B9F3,#BB9EFF'
+      source: 3dfilamentprofiles.com
+    Red Orange:
+      hex: '#F6313B,#FEB958,#FF7024'
+      source: 3dfilamentprofiles.com
+    Green Brown:
+      hex: '#7DA456,#90734C'
+      source: 3dfilamentprofiles.com
+    Yellow/Green:
+      hex: '#D9EB37,#77BB41'
+      source: 3dfilamentprofiles.com
+    Purple Green:
+      hex: '#8FF788,#A690FE'
+      source: 3dfilamentprofiles.com
+    Blue Brown:
+      hex: '#60BAFB,#987452'
+      source: 3dfilamentprofiles.com
+    Red Coral:
+      hex: '#ED66FF,#6CFE62,#9A75FF,#FFA047'
+      source: 3dfilamentprofiles.com
+  PLA Rainbow:
+    Ice Cream Color 1:
+      hex: '#DAC1AC,#57A3AA,#534D8E'
+      source: 3dfilamentprofiles.com
+  PLA Galaxy:
+    Galaxy Purple:
+      hex: '#18001E'
+      source: 3dfilamentprofiles.com
+  PLA Matte Dual:
+    Red Blue:
+      hex: '#C80F0F,#0000A8'
+      source: 3dfilamentprofiles.com

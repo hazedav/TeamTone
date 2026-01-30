@@ -1,0 +1,770 @@
+FlashForge:
+  ASA Sparkle:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Dark green:
+      hex: '#003D0A'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Sparkle Blue:
+      hex: '#010181'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#1295F3'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#0A0A0B'
+      source: 3dfilamentprofiles.com
+  PLA Matte:
+    Matte Yellow:
+      hex: '#FECB3E'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#91C64E'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#090A0B'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://flashforge.com/products/pla-matte
+    Skin:
+      hex: '#F0C8A3'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#040599'
+      source: 3dfilamentprofiles.com
+    Medium Turquoise:
+      hex: '#5EC3CB'
+      source: 3dfilamentprofiles.com
+      link: https://eu.flashforge.com/de/products/pla-matte
+    Gray:
+      hex: '#6E6E6E'
+      source: 3dfilamentprofiles.com
+      link: https://flashforge.com/products/pla-matte
+  PLA High Speed:
+    Magenta:
+      hex: '#FF00FF'
+      source: 3dfilamentprofiles.com
+    Cyan:
+      hex: '#00FFFF'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+    Grey:
+      hex: '#636363'
+      source: 3dfilamentprofiles.com
+    Aurora Green:
+      hex: '#0A330D'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/hs-pla?variant=41599823806542
+    Ice Blue:
+      hex: '#B8D9F9'
+      source: 3dfilamentprofiles.com
+    Macho Pink (Gradient):
+      hex: '#F4A4C0,#ED719E'
+      source: 3dfilamentprofiles.com
+    Pink White Gradient:
+      hex: '#CE78C5'
+      source: 3dfilamentprofiles.com
+    Rainbow Candy:
+      hex: '#A64E93,#48997E,#B7761A,#9854B0'
+      source: 3dfilamentprofiles.com
+    Pearl Gentian Blue:
+      hex: '#004D65'
+      source: 3dfilamentprofiles.com
+    Chocolate Brown:
+      hex: '#281B1B'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#9929BD'
+      source: 3dfilamentprofiles.com
+    Luminous Yellow:
+      hex: '#CCFF00'
+      source: 3dfilamentprofiles.com
+    Light Green:
+      hex: '#6EF790'
+      source: 3dfilamentprofiles.com
+    Luminous Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+    Iron Grey:
+      hex: '#535360'
+      source: 3dfilamentprofiles.com
+    Aurora Purple:
+      hex: '#820DF8'
+      source: 3dfilamentprofiles.com
+    Light Gray:
+      hex: '#787878'
+      source: 3dfilamentprofiles.com
+    Burnt Titanium:
+      hex: '#162132'
+      source: 3dfilamentprofiles.com
+    Rainbow Coral:
+      hex: '#88F66A,#F4F66A,#F6B56A'
+      source: 3dfilamentprofiles.com
+    Abyssal Red:
+      hex: '#6D233A'
+      source: 3dfilamentprofiles.com
+    Aurora Blue:
+      hex: '#0011FF'
+      source: 3dfilamentprofiles.com
+    Ruby Red:
+      hex: '#831100'
+      source: 3dfilamentprofiles.com
+    Summer Reverie:
+      hex: '#FF6251,#B1DD8C,#D357FE'
+      source: 3dfilamentprofiles.com
+    Natural:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Neon Orange:
+      hex: '#FF7300'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/hs-pla
+    Sky Blue:
+      hex: '#0061FF'
+      source: 3dfilamentprofiles.com
+    Aurora Red:
+      hex: '#721F18'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#2EE54D'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/hs-pla
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Marble:
+      hex: '#AAA9C6'
+      source: 3dfilamentprofiles.com
+    Luminous Melody:
+      hex: '#62F3FF,#64FDBC,#FF62F3'
+      source: 3dfilamentprofiles.com
+  PLA Pro:
+    Silver Grey:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF5A00'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFF700'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#00C220'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#7E4C2E'
+      source: 3dfilamentprofiles.com
+    Skin Color:
+      hex: '#E7CDA1'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Red:
+      hex: '#CD1214'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/pla-silk
+    Gold:
+      hex: '#CAA53F'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/pla-silk
+    Yellow:
+      hex: '#E8E23B'
+      source: 3dfilamentprofiles.com
+      link: https://flashforge.com/
+    Coffee:
+      hex: '#655953'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/pla-silk
+    Light Green:
+      hex: '#88E788'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/pla-silk
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/pla-silk
+    Copper:
+      hex: '#EF880F'
+      source: 3dfilamentprofiles.com
+    Skin Color:
+      hex: '#F5B2E7'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/pla-silk
+    Violet:
+      hex: '#606AB4'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/pla-silk
+    Blue:
+      hex: '#423FFD'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/pla-silk
+    Metal Rainbow:
+      hex: '#D4AF37,#BEC2CB,#CD7F32'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/pla-silk-rainbow?variant=41638827065422
+    Tri-Color Red/Blue/Green:
+      hex: '#FF0000,#0000FF,#00FF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/pla-silk-rainbow?variant=41342105911374
+    Bronze:
+      hex: '#6F7608'
+      source: 3dfilamentprofiles.com
+    Metal Grey:
+      hex: '#71797E'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/pla-silk
+    Pink:
+      hex: '#EC6ECB'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/pla-silk
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/pla-silk
+  PETG High Speed:
+    Transparent Orange:
+      hex: '#FF4013'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Natural:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Nebula Purple:
+      hex: '#2C2D74'
+      source: 3dfilamentprofiles.com
+    Transparent Grey:
+      hex: '#444444'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#828282'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Burnt Titanium:
+      hex: '#192E4F'
+      source: 3dfilamentprofiles.com
+    Metallic Purple:
+      hex: '#641B63'
+      source: 3dfilamentprofiles.com
+    Metallic Blue:
+      hex: '#39699E'
+      source: 3dfilamentprofiles.com
+    Metallic Red:
+      hex: '#E32400'
+      source: 3dfilamentprofiles.com
+    Metallic Silver:
+      hex: '#8F8F8F'
+      source: 3dfilamentprofiles.com
+    Metallic Bright Gold:
+      hex: '#FFAA00'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/hs-petg?variant=41658611433550#
+    Metallic Green:
+      hex: '#669D34'
+      source: 3dfilamentprofiles.com
+    HS Black:
+      hex: '#0A0000'
+      source: 3dfilamentprofiles.com
+    Transparent Yellow:
+      hex: '#FEC700'
+      source: 3dfilamentprofiles.com
+      link: https://flashforge.com/products/hs-petg?variant=41658616217678
+    Metallic Gray:
+      hex: '#474747'
+      source: 3dfilamentprofiles.com
+  PLA Special:
+    Flexible Red:
+      hex: '#CD1214'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/hs-pla-multicolor
+    Flexible Green:
+      hex: '#4F9A16'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/hs-pla-multicolor
+    Burnt Titanium:
+      hex: '#002D33'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/hs-pla-multicolor?variant=41658893598798
+    Flexible Purple:
+      hex: '#61187C'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/hs-pla-multicolor
+    Flexible White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/hs-pla-multicolor
+    Flexible Orange:
+      hex: '#FF5A00'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/hs-pla-multicolor
+    Nebula Purple:
+      hex: '#2C2D74'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/hs-pla-multicolor
+    Flexible Gray:
+      hex: '#597497'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/hs-pla-multicolor
+    Flexible Blue:
+      hex: '#121775'
+      source: 3dfilamentprofiles.com
+    Flexible Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/hs-pla-multicolor
+    Chameleon Skydiver Blue (40/36/249):
+      hex: '#2824F9'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/hs-pla-multicolor
+  ASA Basic:
+    Iron Grey:
+      hex: '#1F2428'
+      source: 3dfilamentprofiles.com
+    Traffic Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#4169E1'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#62EB1E'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA Chameleon:
+    Obsidian:
+      hex: '#08010F'
+      source: 3dfilamentprofiles.com
+    Burnt Titanium:
+      hex: '#2F5B60,#192E4F'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/hs-pla-multicolor?variant=41658893598798
+    Nebula Purple:
+      hex: '#2C2D74'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro High Speed:
+    Rainbow Candy:
+      hex: '#FF80FF,#FF8040,#8000FF'
+      source: 3dfilamentprofiles.com
+    Luminous Purple:
+      hex: '#B026FF'
+      source: 3dfilamentprofiles.com
+    Oliver Green:
+      hex: '#6D712E'
+      source: 3dfilamentprofiles.com
+  PLA Galaxy:
+    Nebula Purple:
+      hex: '#0B0F84'
+      source: 3dfilamentprofiles.com
+    Matte Black:
+      hex: '#2A292B'
+      source: 3dfilamentprofiles.com
+    Galaxy Purple:
+      hex: '#0B0061'
+      source: 3dfilamentprofiles.com
+  ABS Basic:
+    Natural:
+      hex: '#DEE0D4'
+      source: 3dfilamentprofiles.com
+  PLA Silk Rainbow:
+    Rainbow Candy:
+      hex: '#DB904C,#4EB9A9,#B0638F'
+      source: 3dfilamentprofiles.com
+    Rainbow:
+      hex: '#A1E27E,#6AA0C0,#6E4930'
+      source: 3dfilamentprofiles.com
+    metal rainbow:
+      hex: '#808000'
+      source: 3dfilamentprofiles.com
+  PLA Silk Triple:
+    Black/Gold/Purple:
+      hex: '#000000,#CAA53F,#6E3FA3'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/pla-silk
+    Orange/Green/Blue:
+      hex: '#FFA500,#4BC322,#0000FF'
+      source: 3dfilamentprofiles.com
+    Red/Yellow/Blue:
+      hex: '#B31921,#F9DB15,#0B82F9'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Transparent Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+  PLA CF:
+    Iris Purple:
+      hex: '#6120A2'
+      source: 3dfilamentprofiles.com
+    Sailor Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/pla-cf?variant=41647737208910
+    Dusty Pink:
+      hex: '#80406D'
+      source: 3dfilamentprofiles.com
+    Marsala:
+      hex: '#2E073E'
+      source: 3dfilamentprofiles.com
+    Volcanic Rock Gray:
+      hex: '#222F4A'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG CF:
+    Grass Green:
+      hex: '#669C35'
+      source: 3dfilamentprofiles.com
+    Volcanic Rock Gray:
+      hex: '#444444'
+      source: 3dfilamentprofiles.com
+    Black (802101):
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Dusty Pink:
+      hex: '#9F5A75'
+      source: 3dfilamentprofiles.com
+    Midnight Blue (802102):
+      hex: '#001A4B'
+      source: 3dfilamentprofiles.com
+    Marsala:
+      hex: '#2E073E'
+      source: 3dfilamentprofiles.com
+    Iris Purple:
+      hex: '#9929BD'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Red-Black:
+      hex: '#CD1214,#000000'
+      source: 3dfilamentprofiles.com
+    Fusion Yellow-Pink:
+      hex: '#FBFF00,#F769E4'
+      source: 3dfilamentprofiles.com
+    Blue and Rose:
+      hex: '#7A219E'
+      source: 3dfilamentprofiles.com
+      link: https://enterprise.flashforge.com/products/flashforge-silk-dual-color
+    Blue-Green:
+      hex: '#617772'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Pro:
+    Cool White:
+      hex: '#F2F7FC'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#C29005'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FE7A1D'
+      source: 3dfilamentprofiles.com
+    Tangerine:
+      hex: '#F56332'
+      source: 3dfilamentprofiles.com
+  PLA High Speed Marble:
+    Marble Black:
+      hex: '#040819'
+      source: 3dfilamentprofiles.com
+    Marble Brown:
+      hex: '#E2DADA'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Gray:
+      hex: '#8F8F8F'
+      source: 3dfilamentprofiles.com
+      link: https://flashforge.com/collections/filament
+    Skin Color (100121):
+      hex: '#A38564'
+      source: 3dfilamentprofiles.com
+      link: https://flashforge.com/collections/filament
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://flashforge.com/collections/filament
+    Natural:
+      hex: '#EAEEF1'
+      source: 3dfilamentprofiles.com
+      link: https://flashforge.com/collections/filament
+    Purple:
+      hex: '#61187C'
+      source: 3dfilamentprofiles.com
+      link: https://flashforge.com/collections/filament
+    Pink (100112):
+      hex: '#C68795'
+      source: 3dfilamentprofiles.com
+      link: https://flashforge.com/collections/filament
+    Silver:
+      hex: '#AAAAAA'
+      source: 3dfilamentprofiles.com
+      link: https://flashforge.com/collections/filament
+    Gold:
+      hex: '#8D8600'
+      source: 3dfilamentprofiles.com
+      link: https://flashforge.com/collections/filament
+    Red:
+      hex: '#CD1214'
+      source: 3dfilamentprofiles.com
+      link: https://flashforge.com/products/pla?variant=41329181753422
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://flashforge.com/collections/filament
+    Green:
+      hex: '#4F9A16'
+      source: 3dfilamentprofiles.com
+      link: https://flashforge.com/collections/filament
+    Blue:
+      hex: '#121775'
+      source: 3dfilamentprofiles.com
+      link: https://flashforge.com/collections/filament
+    Yellow:
+      hex: '#F4F76E'
+      source: 3dfilamentprofiles.com
+      link: https://flashforge.com/collections/filament
+    Transperent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.clasohlson.com/no/p/38-7986-7
+    Brown (100116):
+      hex: '#774632'
+      source: 3dfilamentprofiles.com
+      link: https://flashforge.com/collections/filament
+    Red Ruby 150121:
+      hex: '#910808'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF5A00'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/pla-basic?variant=41333021048910
+  ABS Multicolor:
+    Burnt Titanium:
+      hex: '#2F5B60'
+      source: 3dfilamentprofiles.com
+      link: https://www.amazon.com/dp/B0CQR5H672
+  PLA Glow:
+    Luminous Blue:
+      hex: '#5CE6BC'
+      source: 3dfilamentprofiles.com
+    Luminous Purple:
+      hex: '#9E73DD'
+      source: 3dfilamentprofiles.com
+    Luminous Melody:
+      hex: '#5CE6BC,#9E73DD,#FF3036'
+      source: 3dfilamentprofiles.com
+    Luminous Red:
+      hex: '#FF3036'
+      source: 3dfilamentprofiles.com
+      link: https://eu.flashforge.com/products/pla-luminous?variant=50006226010417
+  PLA Flexible:
+    Natural:
+      hex: '#FFDCFF'
+      source: 3dfilamentprofiles.com
+  PLA Sparkle:
+    Sparkle Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Galaxy Blue:
+      hex: '#0042AA'
+      source: 3dfilamentprofiles.com
+    Sparkle Clear:
+      hex: '#858585'
+      source: 3dfilamentprofiles.com
+      link: https://eu.flashforge.com/de-eu/products/pla-sparkle?variant=50006227517745
+  PLA Color Change (Temp):
+    Purple to Rose:
+      hex: '#7915F4,#CC40E7'
+      source: 3dfilamentprofiles.com
+  PETG Chameleon:
+    Burnt Titanium:
+      hex: '#2F5B60'
+      source: 3dfilamentprofiles.com
+  ABS Pro:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    ORANGE:
+      hex: '#FFAE00'
+      source: 3dfilamentprofiles.com
+    Burnt Titanium:
+      hex: '#00538F'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFBD2C'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#3A3D40'
+      source: 3dfilamentprofiles.com
+    Natural:
+      hex: '#DEE0D4'
+      source: 3dfilamentprofiles.com
+      link: https://flashforge.com/products/abs-pro?variant=41342363566158
+    Ruby Red:
+      hex: '#831100'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Natural:
+      hex: '#B5B5B5'
+      source: 3dfilamentprofiles.com
+    Rose:
+      hex: '#CF00A5'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF3900'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#1B209E'
+      source: 3dfilamentprofiles.com
+  PETG Pro:
+    Grey:
+      hex: '#737373'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#A45EBE'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Traffic Red:
+      hex: '#B81B0E'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#000078'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FFA500'
+      source: 3dfilamentprofiles.com
+    Burnt Titanium:
+      hex: '#11064C'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Gradient:
+    Rainbow Summer Reverie:
+      hex: '#FF6251,#B1DD8C,#D357FE'
+      source: 3dfilamentprofiles.com
+    Pink and Blue:
+      hex: '#9A244F,#006D8F'
+      source: 3dfilamentprofiles.com
+  PETG+ Chameleon:
+    Burnt Titanium:
+      hex: '#006EBD,#24165A'
+      source: 3dfilamentprofiles.com
+  PLA Multicolor:
+    Abyssal Purple:
+      hex: '#583D73'
+      source: 3dfilamentprofiles.com
+    Burnt Titanium:
+      hex: '#3E5D58,#244C5A,#115E67'
+      source: 3dfilamentprofiles.com
+    Marsala:
+      hex: '#8900A2'
+      source: 3dfilamentprofiles.com
+    Skydiver:
+      hex: '#0F38AE'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/hs-pla-multicolor?variant=41658893664334
+    Rose Quartz:
+      hex: '#FFA3FC'
+      source: 3dfilamentprofiles.com
+      link: https://flashforge.com/collections/filament
+  PLA Rainbow:
+    Rainbow:
+      hex: '#052E26,#913B0D,#2A4903'
+      source: 3dfilamentprofiles.com
+    Summer Reverie:
+      hex: '#FD7016,#84C0AE,#D09AAC'
+      source: 3dfilamentprofiles.com
+  PLA High Speed Matte:
+    Yellow:
+      hex: '#D79703'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.flashforge.com/products/pla-pro
+  TPU 95A:
+    Burnt Titanium:
+      hex: '#2F4E6A'
+      source: 3dfilamentprofiles.com
+  PLA Rapid:
+    Luminous Blue:
+      hex: '#00FDFF'
+      source: 3dfilamentprofiles.com
+      link: https://eu.flashforge.com/products/pla-luminous?variant=50006225486129
+    Rainbow Candy:
+      hex: '#8149E9,#68F3C9,#F7E34A,#F0B40F'
+      source: 3dfilamentprofiles.com
+      link: https://eu.flashforge.com/products/pla-luminous?variant=50006225486129
+    Purple:
+      hex: '#401A7D'
+      source: 3dfilamentprofiles.com
+      link: https://eu.flashforge.com/products/pla-luminous?variant=50006225486129
+    Ruby Red:
+      hex: '#7F0F12'
+      source: 3dfilamentprofiles.com
+  PLA Crystal:
+    Mermaid Tears:
+      hex: '#7DE9FF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Glow:
+    Luminous Green:
+      hex: '#73FB04'
+      source: 3dfilamentprofiles.com
+      link: https://eu.flashforge.com/products/pla-luminous?srsltid=AfmBOopBdMExNLZCxHF5VIff3eN4iFpyH3eRYYJfGAKAFFZm7lA5yxMX
+  ASA Chameleon:
+    Burnt Titanium:
+      hex: '#2F5B60,#192E4F'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Dark:
+      hex: '#2E2216'
+      source: 3dfilamentprofiles.com
+      link: https://flashforge-usa.com/collections/guider-2-filaments/products/wood-filament-1-kg
+  PETG Metal:
+    Metallic Silver:
+      hex: '#AAECFF'
+      source: 3dfilamentprofiles.com
+  PLA HF:
+    Light Brown:
+      hex: '#B37953'
+      source: 3dfilamentprofiles.com
+      link: https://uk.flashforge.com/products/hs-pla

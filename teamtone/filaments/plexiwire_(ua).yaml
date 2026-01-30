@@ -1,0 +1,15 @@
+Plexiwire (UA):
+  PLA Basic:
+    Green:
+      hex: '#008000'
+      source: 3dfilamentprofiles.com
+      link: https://shop.plexiwire.com.ua/pla-filament/pla-green-100/
+  PETG Basic:
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://shop.plexiwire.com.ua/petg-filament/petg-silver-100/
+    Khaki:
+      hex: '#2F4000'
+      source: 3dfilamentprofiles.com
+      link: https://shop.plexiwire.com.ua/petg-filament/petg-khaki-400/

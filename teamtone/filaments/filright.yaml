@@ -1,0 +1,15 @@
+FilRight:
+  PLA Basic:
+    Blue:
+      hex: '#05158F'
+      source: 3dfilamentprofiles.com
+      link: https://www.filright.com/nl/filright-maker-pla-1-kg-blauw.html
+  PLA+/Pro Pro:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.filright.com/us/filright-pro-pla-25kg-white.html
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.filright.com/us/filright-pro-pla-25kg-black.html

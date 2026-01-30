@@ -1,0 +1,69 @@
+CoLiDo:
+  PLA Basic:
+    Green:
+      hex: '#61FFC2'
+      source: 3dfilamentprofiles.com
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FCF916'
+      source: 3dfilamentprofiles.com
+    Wood:
+      hex: '#DECAB0'
+      source: 3dfilamentprofiles.com
+      link: https://www.colido.com
+    Gray:
+      hex: '#8B928E'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#9FA2B1'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#005FAF'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#EA7C32'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Silver:
+      hex: '#A6E8E6'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#FFBF96'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#05201B'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#38FF8E'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#14B1FD'
+      source: 3dfilamentprofiles.com
+    Brass:
+      hex: '#FFBAAD'
+      source: 3dfilamentprofiles.com
+    Red Copper:
+      hex: '#D47D88'
+      source: 3dfilamentprofiles.com
+  TPU Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Purple:
+      hex: '#9C90C2'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#2452AB'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#CF2626'
+      source: 3dfilamentprofiles.com

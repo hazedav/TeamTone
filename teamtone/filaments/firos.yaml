@@ -1,0 +1,27 @@
+FIROS:
+  PETG Basic:
+    black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#AAAEB1'
+      source: 3dfilamentprofiles.com
+    Whiter:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Metallic Grey:
+      hex: '#313C44'
+      source: 3dfilamentprofiles.com
+    Dark Silver Gray:
+      hex: '#9F9F9D'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Yellow:
+      hex: '#F7F26E'
+      source: 3dfilamentprofiles.com

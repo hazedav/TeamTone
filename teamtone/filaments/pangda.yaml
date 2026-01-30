@@ -1,0 +1,62 @@
+Pangda:
+  PLA Matte:
+    Pastel Peach:
+      hex: '#F2B67A'
+      source: 3dfilamentprofiles.com
+    Light Pink:
+      hex: '#FCB2CB'
+      source: 3dfilamentprofiles.com
+    Pastel Blue:
+      hex: '#A7C7E7'
+      source: 3dfilamentprofiles.com
+    Pastel Yellow:
+      hex: '#FDFD96'
+      source: 3dfilamentprofiles.com
+    Pastel Cyan:
+      hex: '#A4D8D8'
+      source: 3dfilamentprofiles.com
+    Pastel Lilac:
+      hex: '#A08DFA'
+      source: 3dfilamentprofiles.com
+    Pastel Pink:
+      hex: '#FFD6F2'
+      source: 3dfilamentprofiles.com
+    Coral:
+      hex: '#FF9690'
+      source: 3dfilamentprofiles.com
+    Pastel Green:
+      hex: '#DFEEF0'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#2D6D9B'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Pale Orange:
+      hex: '#AC7C6C'
+      source: 3dfilamentprofiles.com
+    Pastel Pink:
+      hex: '#E8AFBB'
+      source: 3dfilamentprofiles.com
+    Light Beige:
+      hex: '#E9D1AE'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#EBEBE9'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#0A0A0A'
+      source: 3dfilamentprofiles.com
+    Light Gray:
+      hex: '#A2A3A0'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Pastel Green:
+      hex: '#DFEEEC'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    Purple:
+      hex: '#A12756'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FFFF33'
+      source: 3dfilamentprofiles.com

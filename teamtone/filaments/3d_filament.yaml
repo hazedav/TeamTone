@@ -1,0 +1,33 @@
+3D Filament:
+  PETG Glow:
+    Glowing Natural:
+      hex: '#EBEBEB'
+      source: 3dfilamentprofiles.com
+  PLA Silk Rainbow:
+    Dragon Rainbow:
+      hex: '#032945,#F76EEB,#5A3FC6'
+      source: 3dfilamentprofiles.com
+  PLA Multicolor:
+    Red Yellow Green:
+      hex: '#F55183,#F0CF8A,#23E198'
+      source: 3dfilamentprofiles.com
+  PLA Color Change (Temp):
+    Temp. 33-45 C Black Red Yellow:
+      hex: '#302D0D,#6B2424,#B9CF17'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Luminous Starry Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+    Dark Green:
+      hex: '#795038'
+      source: 3dfilamentprofiles.com
+      link: https://3deksperten.dk/products/3de-basic-pla-brown-1-75-1kg
+  PLA CF:
+    Carbon:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Tran Orange:
+      hex: '#BCD453'
+      source: 3dfilamentprofiles.com

@@ -1,0 +1,37 @@
+DUDV2:
+  TPU Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Pro:
+    Green:
+      hex: '#008000'
+      source: 3dfilamentprofiles.com
+  TPU:
+    Brown AMS STTPU:
+      hex: '#302025'
+      source: 3dfilamentprofiles.com
+    Pink AMS STTPU:
+      hex: '#F01950'
+      source: 3dfilamentprofiles.com
+    Purple AMS STTPU:
+      hex: '#740067'
+      source: 3dfilamentprofiles.com
+  PLA Pro:
+    Fast Rainbow:
+      hex: '#027DF7,#60ED02,#722FEE'
+      source: 3dfilamentprofiles.com
+    Military Camoflauge:
+      hex: '#EFE7AE,#8C6103,#3E5903'
+      source: 3dfilamentprofiles.com
+    Desert Bone:
+      hex: '#D1D283,#DDE7EE,#B59973'
+      source: 3dfilamentprofiles.com
+    Swamp Rainbow:
+      hex: '#D5EE59,#DFEFFB,#ECEE58,#BDEA1A'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Orange:
+      hex: '#EE7E4F'
+      source: 3dfilamentprofiles.com
+      link: https://dudv2.com/products/pla-solid-colors?variant=45297510514986

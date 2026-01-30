@@ -1,0 +1,260 @@
+MLS:
+  Atlanta United FC:
+    colors:
+    - Red
+    - Black
+    - Gold
+    hex:
+    - '#A29061'
+    - '#80000B'
+    - '#000000'
+  Austin FC:
+    colors:
+    - Verde
+    - Black
+    hex:
+    - '#00B140'
+    - '#000000'
+  Charlotte FC:
+    colors:
+    - Blue
+    - Black
+    - White
+    hex:
+    - '#00B2E3'
+    - '#000000'
+    - '#FFFFFF'
+  Chicago Fire FC:
+    colors:
+    - Red
+    - Blue
+    - White
+    hex:
+    - '#C8102E'
+    - '#102141'
+    - '#FFFFFF'
+  FC Cincinnati:
+    colors:
+    - Orange
+    - Blue
+    - White
+    hex:
+    - '#FE5000'
+    - '#003087'
+    - '#FFFFFF'
+  Colorado Rapids:
+    colors:
+    - Burgundy
+    - Sky Blue
+    - White
+    hex:
+    - '#862633'
+    - '#8BB8E8'
+    - '#FFFFFF'
+  Columbus Crew:
+    colors:
+    - Black
+    - Gold
+    - White
+    hex:
+    - '#000000'
+    - '#FFDD00'
+    - '#FFFFFF'
+  DC United:
+    colors:
+    - Black
+    - Red
+    - White
+    hex:
+    - '#000000'
+    - '#EF3E42'
+    - '#FFFFFF'
+  FC Dallas:
+    colors:
+    - Red
+    - Blue
+    - White
+    hex:
+    - '#BF0D3E'
+    - '#0F2957'
+    - '#FFFFFF'
+  Houston Dynamo FC:
+    colors:
+    - Orange
+    - Black
+    - White
+    hex:
+    - '#F68712'
+    - '#000000'
+    - '#FFFFFF'
+  Inter Miami CF:
+    colors:
+    - Pink
+    - Black
+    - White
+    hex:
+    - '#F7B5CD'
+    - '#000000'
+    - '#FFFFFF'
+  LA Galaxy:
+    colors:
+    - Navy Blue
+    - Gold
+    - White
+    hex:
+    - '#00245D'
+    - '#FFC80C'
+    - '#FFFFFF'
+  Los Angeles FC:
+    colors:
+    - Black
+    - Gold
+    - Red
+    hex:
+    - '#000000'
+    - '#C39E6D'
+    - '#ED2129'
+  Minnesota United FC:
+    colors:
+    - Loon Grey
+    - Blue
+    - Black
+    hex:
+    - '#8CD2F4'
+    - '#231F20'
+    - '#000000'
+  CF Montreal:
+    colors:
+    - Blue
+    - Black
+    - White
+    hex:
+    - '#00B5E2'
+    - '#000000'
+    - '#FFFFFF'
+  Nashville SC:
+    colors:
+    - Gold
+    - Blue
+    - White
+    hex:
+    - '#ECE83A'
+    - '#001C58'
+    - '#FFFFFF'
+  New England Revolution:
+    colors:
+    - Blue
+    - Red
+    - White
+    hex:
+    - '#0A2240'
+    - '#C8102E'
+    - '#FFFFFF'
+  New York City FC:
+    colors:
+    - Blue
+    - Orange
+    - White
+    hex:
+    - '#6CACE4'
+    - '#F15524'
+    - '#FFFFFF'
+  New York Red Bulls:
+    colors:
+    - Red
+    - Blue
+    - Yellow
+    - White
+    hex:
+    - '#ED1E36'
+    - '#1D3B6B'
+    - '#FDB913'
+    - '#FFFFFF'
+  Orlando City SC:
+    colors:
+    - Purple
+    - Gold
+    - White
+    hex:
+    - '#633492'
+    - '#FDE192'
+    - '#FFFFFF'
+  Philadelphia Union:
+    colors:
+    - Navy Blue
+    - Gold
+    - White
+    hex:
+    - '#071B2C'
+    - '#B1872D'
+    - '#FFFFFF'
+  Portland Timbers:
+    colors:
+    - Green
+    - Gold
+    - White
+    hex:
+    - '#004812'
+    - '#D69A00'
+    - '#FFFFFF'
+  Real Salt Lake:
+    colors:
+    - Red
+    - Cobalt Blue
+    - Gold
+    hex:
+    - '#B30838'
+    - '#013A81'
+    - '#F2CA30'
+  San Jose Earthquakes:
+    colors:
+    - Blue
+    - Black
+    - White
+    hex:
+    - '#0051BA'
+    - '#000000'
+    - '#FFFFFF'
+  Seattle Sounders FC:
+    colors:
+    - Rave Green
+    - Blue
+    - White
+    hex:
+    - '#5D9741'
+    - '#1D252D'
+    - '#FFFFFF'
+  Sporting Kansas City:
+    colors:
+    - Blue
+    - Indigo
+    - White
+    hex:
+    - '#93B1D7'
+    - '#002B5C'
+    - '#FFFFFF'
+  St. Louis City SC:
+    colors:
+    - Red
+    - Blue
+    - Yellow
+    hex:
+    - '#C4122F'
+    - '#00245D'
+    - '#FDD20E'
+  Toronto FC:
+    colors:
+    - Red
+    - Grey
+    - White
+    hex:
+    - '#B81137'
+    - '#5A6770'
+    - '#FFFFFF'
+  Vancouver Whitecaps FC:
+    colors:
+    - Blue
+    - White
+    hex:
+    - '#00245E'
+    - '#FFFFFF'

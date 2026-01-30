@@ -1,0 +1,216 @@
+3D Printing Canada:
+  PLA+/Pro Basic:
+    Gun Metal Grey:
+      hex: '#3F3E41'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/gun-metal-grey-1-75mm-pla-filament-1-kg?variant=40433796087877
+    Orange:
+      hex: '#FB7632'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/orange-canadian-made-pla-filament-1-75mm-1-kg?variant=40510324834373
+    Teal:
+      hex: '#A1FFE6'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/collections/pla-1
+  PLA+/Pro Matte:
+    Teal:
+      hex: '#7BEAE2'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Orange:
+      hex: '#FF4015'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/collections/pla-filament
+    Blue:
+      hex: '#0056D6'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/collections/pla-filament
+    Pearl Orange:
+      hex: '#A95437'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/pearl-orange-1-75mm-pla-filament-1-kg?variant=11923805929515
+    Orange - Budget:
+      hex: '#FF6600'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/orange-budget-pla-filament-1-75mm-1kg?variant=41448656830533
+    Olive Green:
+      hex: '#336633'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/olive-green-budget-pla-filament-1-75mm-1kg
+    Mint:
+      hex: '#66FFCC'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/mint-budget-pla-filament-1-75mm-1kg
+    Red:
+      hex: '#CC0033'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/collections/pla-filament
+    Grey:
+      hex: '#999999'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/collections/pla-filament
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/white-budget-pla-filament-1-75mm-1kg
+    Dark BLUE:
+      hex: '#0033CC'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/collections/pla-filament
+    Yellow:
+      hex: '#FFFF33'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/yellow-budget-pla-filament-1-75mm-1kg
+    Brown:
+      hex: '#7A4A00'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/collections/pla-filament
+    Baby Pink:
+      hex: '#F1C9FE'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/collections/pla-filament
+    Purple:
+      hex: '#6633CC'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/collections/pla-filament
+    Light Blue:
+      hex: '#66CFFC'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/light-blue-budget-pla-filament-1-75mm-1kg
+    Latte:
+      hex: '#E1C69E'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/latte-budget-pla-filament-1-75mm-1kg
+    Green:
+      hex: '#336633'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/green-budget-pla-filament-1-75mm-1kg
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/black-budget-pla-filament-1-75mm-1kg
+    Coffee:
+      hex: '#370501'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/coffee-1-75mm-pla-filament-1-kg
+  PLA:
+    Black:
+      hex: '#0E1626'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    R3D Dual Silk Purple/Blue:
+      hex: '#FD9BFF,#0080FF'
+      source: 3dfilamentprofiles.com
+    UnveilForm Red/Black:
+      hex: '#FF0000,#000000'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Transparent Orange:
+      hex: '#FF8000'
+      source: 3dfilamentprofiles.com
+    Red - Budget PETG Filament - 1.75mm:
+      hex: '#A50D0D'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/red-budget-petg-filament-1-75mm-1kg
+    Dark Yellow - Standard PETG Filament - 1.75mm:
+      hex: '#E0D900'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/dark-yellow-1-75mm-petg-filament-1-kg
+    White - Budget PETG Filament - 1.75mm:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/white-budget-petg-filament-1-75mm-1kg
+    Transparent - Budget PETG Filament - 1.75mm:
+      hex: '#F9FAFB'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/transparent-budget-petg-filament-1-75mm-1kg
+    Dark Green - Budget PETG Filament - 1.75mm:
+      hex: '#006400'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/dark-green-budget-petg-filament-1-75mm-1kg
+    Orange - Budget PETG Filament - 1.75mm:
+      hex: '#FFA500'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/orange-budget-petg-filament-1-75mm-1kg
+    Grey - Budget PETG Filament - 1.75mm:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/grey-budget-petg-filament-1-75mm-1kg
+    Blue - Budget PETG Filament - 1.75mm:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/blue-budget-petg-filament-1-75mm-1kg
+    Black - Budget?:
+      hex: '#040201'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/black-budget-petg-filament-1-75mm-1kg
+    Purple - Standard PETG Filament - 1.75mm:
+      hex: '#22004D'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/purple-1-75mm-petg-filament-1-kg
+  PLA Silk Triple:
+    Red/Green/Purple - Tri-Color Standard PLA Silk Filament:
+      hex: '#FF0000,#00FF00,#800080'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/red-green-purple-tri-color-standard-pla-silk-filament-1-75mm-1kg
+    Red/Blue/Gold - Tri-Color Standard PLA Silk Filament:
+      hex: '#FF0000,#0000FF,#FFD700'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/red-blue-gold-tri-color-standard-pla-silk-filament-1-75mm-1kg?variant=43945459253317
+  PLA Premium:
+    Dark Blue - Standard PLA Filament - 1.75mm:
+      hex: '#003B6F'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/dark-blue-1-75mm-pla-filament-1-kg
+  PLA Gradient:
+    PLA Gradient:
+      hex: '#F7A324,#FFFA9B,#A7F5A5,#80FF80'
+      source: 3dfilamentprofiles.com
+  PETG Premium:
+    Grey - Standard PETG Filament - 1.75mm:
+      hex: '#808080'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/grey-1-75mm-petg-filament-1-kg
+    Black - Standard PETG Filament - 1.75mm, 1kg:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/black-1-75mm-petg-filament-1-kg?variant=10064455893035
+    Silver - Standard PETG Filament - 1.75mm, 1kg:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+    White - Standard PETG Filament - 1.75mm:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/white-1-75mm-petg-filament-1-kg
+    Blue - Standard PETG Filament - 1.75mm:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/blue-1-75mm-petg-filament-1-kg
+  PETG ReFill:
+    White - Standard PETG Filament (Refill) - 1.75mm, 1kg:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/white-standard-petg-filament-refill-1-75mm-1kg?variant=44408014733381
+  PETG+ Basic:
+    Orange:
+      hex: '#FF8000'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/orange-canadian-made-petg-filament-1-75mm-1-kg
+  PETG Economy:
+    Blue - Budget PETG Filament - 1.75mm:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/blue-budget-petg-filament-1-75mm-1kg
+    Black - Budget PETG Filament - 1.75mm:
+      hex: '#040201'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/black-budget-petg-filament-1-75mm-1kg
+  TPU Basic:
+    TPU Black 1.75:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Matte Rainbow:
+    Macarons:
+      hex: '#B0D1F3,#FFB3FC'
+      source: 3dfilamentprofiles.com
+      link: https://3dprintingcanada.com/products/matte-rainbow-macarons-standard-pla-filament-1-75mm-1kg

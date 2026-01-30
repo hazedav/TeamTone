@@ -1,0 +1,516 @@
+iSanmate:
+  TPU 95A:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/tpu-fexible-3d-printer-filament-1-75mm-1kg-roll/
+  PLA Wood:
+    Pine Wood:
+      hex: '#D2B48C'
+      source: 3dfilamentprofiles.com
+    Yellow Pear Wood:
+      hex: '#CF895F'
+      source: 3dfilamentprofiles.com
+    Ebony:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White Pine:
+      hex: '#DBBF8B'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/white-pine-wood-3d-filament-1-75mm-1kg-roll
+    Sandal:
+      hex: '#482805'
+      source: 3dfilamentprofiles.com
+  PETG Glow:
+    Green:
+      hex: '#80FF80'
+      source: 3dfilamentprofiles.com
+    Green Luminous:
+      hex: '#B1D396'
+      source: 3dfilamentprofiles.com
+  ASA Basic:
+    Orange:
+      hex: '#FF6A1A'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#7D4529'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/brown-asa-filament/
+    Army Green:
+      hex: '#59702D'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/asa-filament-army-green/
+    Purple:
+      hex: '#8433AF'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/asa-filament-purple/
+    Pink:
+      hex: '#E9A1CD'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/isanamte-asa-pink-filament-1-75mm-1kg-roll/
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+    Blueish-Grey:
+      hex: '#57778C'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/isanamte-asa-pink-filament-1-75mm-1kg-roll/
+    Blue:
+      hex: '#0056D6'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Skin:
+      hex: '#E0CEBF'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/isanamte-asa-skin-filament-1-75mm-1kg-roll/
+    Terracotta:
+      hex: '#D47216'
+      source: 3dfilamentprofiles.com
+    Marine Blue:
+      hex: '#81A3CF'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#EAF60F'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/red-asa-filament/
+    Navy Blue:
+      hex: '#32405B'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Silk Rainbow:
+    Black / Purple / Blue:
+      hex: '#0C1725,#3A344C,#527DC4'
+      source: 3dfilamentprofiles.com
+    Red / Purple / Blue:
+      hex: '#5F2847,#7267C5,#243F83'
+      source: 3dfilamentprofiles.com
+    Copper Purple Blue Orange:
+      hex: '#A148EA,#1670B1,#EC9822'
+      source: 3dfilamentprofiles.com
+    Black / Yellow / Blue:
+      hex: '#29322C,#9EB462,#317C51'
+      source: 3dfilamentprofiles.com
+    Black / Purple / Red:
+      hex: '#221E2D,#46396F,#6E5595'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Wood:
+    Sandal:
+      hex: '#593D32'
+      source: 3dfilamentprofiles.com
+    Yellow Pear:
+      hex: '#CD9060'
+      source: 3dfilamentprofiles.com
+    Ebony Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White Pine:
+      hex: '#C4A484'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/white-pine-wood-3d-filament-1-75mm-1kg-roll
+  PLA Translucent:
+    Light Pink:
+      hex: '#FD81F3'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FF9200'
+      source: 3dfilamentprofiles.com
+    Glitter Sky Blue:
+      hex: '#48A5C0'
+      source: 3dfilamentprofiles.com
+    Glitter Light Purple:
+      hex: '#BB9AA6'
+      source: 3dfilamentprofiles.com
+    Purple Blue Glitter:
+      hex: '#874EFE'
+      source: 3dfilamentprofiles.com
+    Glitter Yellow:
+      hex: '#F0F096'
+      source: 3dfilamentprofiles.com
+    Glitter Orange Pink:
+      hex: '#EF8E74'
+      source: 3dfilamentprofiles.com
+    Light Multicolour Glitter:
+      hex: '#B7BEC2'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/
+    Glitter Rainbow:
+      hex: '#FF0000,#FFFF00,#00FF00,#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/isanmate-new-design-pla-transparent-twinkling-rainbow-filament/
+    Glitter Blue:
+      hex: '#2C2593'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#2894E2'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Gold Purple:
+      hex: '#C7AD4B,#7C559E'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product-category/3d_filaments/pla-filament/silk_filament/silk_dual_color_filament
+    Red-Silver:
+      hex: '#FF2600,#A9A9A9'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product-category/3d_filaments/pla-filament/silk_filament/silk_dual_color_filament
+    Gold-Silver:
+      hex: '#EAEAEA,#FFCC00'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product-category/3d_filaments/pla-filament/silk_filament/silk_dual_color_filament
+    Black-Red:
+      hex: '#000000,#E92200'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product-category/3d_filaments/pla-filament/silk_filament/silk_dual_color_filament
+    Blue / Green:
+      hex: '#0061FF,#00E98A'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product-category/3d_filaments/pla-filament/silk_filament/silk_dual_color_filament
+    Silver Purple:
+      hex: '#C0C0C0,#DF07F8'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/isanmate-silk-bicolor-pla-filament-purple-silver
+    Purple / Pink:
+      hex: '#800080,#FFC0CB'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product-category/3d_filaments/pla-filament/silk_filament/silk_dual_color_filament
+    Gold+Red:
+      hex: '#D93030,#C0AB7C'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product-category/3d_filaments/pla-filament/silk_filament/silk_dual_color_filament
+    Lake Green/Silver:
+      hex: '#D5D5D5,#77EECF'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/silk-bicolor-pla-filament-silver-lake-green/
+    Blue/Silver:
+      hex: '#2A74C7,#95A9BD'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product-category/3d_filaments/pla-filament/silk_filament/silk_dual_color_filament
+    Yellow/Blue:
+      hex: '#3584E4,#F6D32D'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product-category/3d_filaments/pla-filament/silk_filament/silk_dual_color_filament
+    Black/Purple:
+      hex: '#232323,#450E59'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product-category/3d_filaments/pla-filament/silk_filament/silk_dual_color_filament
+    Rose Blue:
+      hex: '#FF0000,#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product-category/3d_filaments/pla-filament/silk_filament/silk_dual_color_filament
+    Red Purple:
+      hex: '#EC0F46,#FF0DFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/isanmate-silk-bicolor-pla-filament-purple-red
+  PLA Matte:
+    Grey:
+      hex: '#616161'
+      source: 3dfilamentprofiles.com
+    Charcoal:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Skin:
+      hex: '#F0D7C9'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/isanmate-pla-i6-matte-skin-filament/
+    Tri Color Malachite:
+      hex: '#3FAE8F,#1E86A8,#C77743'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/pla-matte-tri-color-malachite/
+    Brown:
+      hex: '#583300'
+      source: 3dfilamentprofiles.com
+    charcoal black:
+      hex: '#414141'
+      source: 3dfilamentprofiles.com
+    Iris Saphire:
+      hex: '#4F66D9,#7B4E9E,#5FA6A0'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/pla-matte-tri-color-iris-sapphire/
+    Rainbow:
+      hex: '#756EA6,#F79158,#84D46F'
+      source: 3dfilamentprofiles.com
+    Chocolate:
+      hex: '#2E1709'
+      source: 3dfilamentprofiles.com
+    Red Violet:
+      hex: '#B21F55'
+      source: 3dfilamentprofiles.com
+    Latte Brown:
+      hex: '#C19967'
+      source: 3dfilamentprofiles.com
+    Army Green:
+      hex: '#456803'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/isanmate-pla-i6-matte-army-green-filament
+    Sky Blue:
+      hex: '#7EE3F7'
+      source: 3dfilamentprofiles.com
+    Clown Red:
+      hex: '#BA232C'
+      source: 3dfilamentprofiles.com
+    Lemon Yellow:
+      hex: '#FBCB4F'
+      source: 3dfilamentprofiles.com
+    Tri Color Rose Blue Green:
+      hex: '#008AF4,#DC3CFF,#BEFF77'
+      source: 3dfilamentprofiles.com
+    Navy Blue:
+      hex: '#28375A'
+      source: 3dfilamentprofiles.com
+    Tri Color Fluorite:
+      hex: '#8FFCFF,#F5FFB2,#FDD4FF'
+      source: 3dfilamentprofiles.com
+    Matte Pink:
+      hex: '#EB8BB9'
+      source: 3dfilamentprofiles.com
+    Beige:
+      hex: '#E6DBA3'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/isanmate-pla-i6-matte-beige-filament
+    Tri Color 204-matte-moonstone:
+      hex: '#4CE1DE,#72F893,#FDBFE3'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/pla-matte-tri-color-moonstone/
+    Marine Blue:
+      hex: '#0981D1'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/isanmate-pla-i6-matte-marine-blue-filament/
+  PLA+/Pro Matte Rainbow:
+    Bluish Green+Purple:
+      hex: '#CBA4F1,#B2DFF9'
+      source: 3dfilamentprofiles.com
+    Gradient Pink-Green-Blue:
+      hex: '#6EA6DD,#F29CDF,#6BD699'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro High Speed:
+    Grey:
+      hex: '#A8A5A3'
+      source: 3dfilamentprofiles.com
+    White Matte:
+      hex: '#E1E4DF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/high-speed-pla-3d-filament
+    Blue:
+      hex: '#2C71E5'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#CE0000'
+      source: 3dfilamentprofiles.com
+    Fairy Floss (Gradient):
+      hex: '#F8E1DD'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/high-speed-pla-rainbow-3d-printer-filament-03
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product-category/3d_filaments
+    Matte Lemon Yellow:
+      hex: '#EDF57F'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/isanmate-new-arrival-high-speed-matte-pla-matte-lemon-yellow
+    Green:
+      hex: '#08A108'
+      source: 3dfilamentprofiles.com
+    Skin:
+      hex: '#F6F4F0'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#DE711E'
+      source: 3dfilamentprofiles.com
+    Yellow Green Gradient (Matte):
+      hex: '#B2CC5B'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/isanmate-pla-plus-gradient-filament-yellow-green
+  PLA Glow:
+    Blue/Green:
+      hex: '#CED0CD'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#71FE8D'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#CED0CD'
+      source: 3dfilamentprofiles.com
+    Multi-color:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/pla-luminous-rainbow-filament-1-75mm-1kg-roll
+  PLA+/Pro Gradient:
+    Pink Candy Green:
+      hex: '#7BBD97,#FFC0CB'
+      source: 3dfilamentprofiles.com
+    Matte Rainbow Frosting Cake:
+      hex: '#EFB1F5,#89C7DF,#F3E7CD'
+      source: 3dfilamentprofiles.com
+    Gradient Pink-Purple:
+      hex: '#FBCDFE,#9935FD'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/isanmate-pla-plus-gradient-filament-pink-purple/
+    Red / Orange:
+      hex: '#C84731,#F2BD61'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/isanmate-pla-plus-gradient-filament-red-orange/
+    Gradient Red Blue:
+      hex: '#37273F'
+      source: 3dfilamentprofiles.com
+    Rainbow:
+      hex: '#AD57DB,#3AE9C6,#F50A93'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/pla-plus-matte-rainbow-color-3d-filament
+    Gradient Blue-Green:
+      hex: '#94C9FF,#9AFEE5'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/isanmate-pla-plus-gradient-filament-blue-green/
+  PLA Silk Triple:
+    Purple Green Gold:
+      hex: '#C726D9,#0DDA07,#F9DC77'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/isanmate-triple-color-silk-pla-filament-purple-green-glod
+    Gold Silver Copper:
+      hex: '#FFD700,#C0C0C0,#B87333'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/triple-color-silk-pla-filament-redbronze-silver-glod/
+    Blue/Green/Purple:
+      hex: '#0000FF,#0DDA07,#800080'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/isanmate-triple-color-silk-pla-filament-purple-green-glod
+  PLA Silk:
+    Yellow-Blue:
+      hex: '#FFFB00,#0433FF'
+      source: 3dfilamentprofiles.com
+    Orange-Green-Blue:
+      hex: '#FF9300,#00F900,#0433FF'
+      source: 3dfilamentprofiles.com
+    Gold-Sliver:
+      hex: '#C0C0C0,#808000'
+      source: 3dfilamentprofiles.com
+  PLA High Speed Matte:
+    Army Green:
+      hex: '#38571A'
+      source: 3dfilamentprofiles.com
+    Coffee:
+      hex: '#EBD4B3'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/isanmate-new-product-high-speed-matte-pla-filament-1kg-1-75mm-matte-coffee
+    Grey:
+      hex: '#C3C7C8'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/high-speed-matte-pla-filament-matte-grey
+    Green:
+      hex: '#6CA274'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/high-speed-matte-pla-filament-matte-green
+  PLA Matte Dual:
+    Rose Quartz:
+      hex: '#E392FE,#B18CFE'
+      source: 3dfilamentprofiles.com
+    Topaz:
+      hex: '#E392FE,#FFE4A8,#9929BD'
+      source: 3dfilamentprofiles.com
+    Gold Purple:
+      hex: '#C7AD4B,#7C559E'
+      source: 3dfilamentprofiles.com
+    Malachite:
+      hex: '#0056D6,#FECB3E,#D95000'
+      source: 3dfilamentprofiles.com
+    Moonstone:
+      hex: '#94E3FE,#E392FE,#CCE8B5'
+      source: 3dfilamentprofiles.com
+  PLA High Speed:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro High Speed Matte:
+    Navy Blue:
+      hex: '#000A54'
+      source: 3dfilamentprofiles.com
+  ASA Marble:
+    Marble:
+      hex: '#D9D9D9'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Glow:
+    Green Glow:
+      hex: '#39FF14'
+      source: 3dfilamentprofiles.com
+  ASA GF:
+    Grey:
+      hex: '#919191'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/isanmate-asa-glass-fiber-filament-grey/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/isanmate-asa-glass-fiber-filament-black
+  PLA CF:
+    Brown:
+      hex: '#5C4033'
+      source: 3dfilamentprofiles.com
+    Coffee:
+      hex: '#6F4E37'
+      source: 3dfilamentprofiles.com
+    Golden:
+      hex: '#A05E13'
+      source: 3dfilamentprofiles.com
+    Army Green:
+      hex: '#4B5320'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#1B12A1'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Skin:
+      hex: '#F0D7C9'
+      source: 3dfilamentprofiles.com
+    Navy Blue:
+      hex: '#000080'
+      source: 3dfilamentprofiles.com
+    Green:
+      hex: '#008040'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/green-petg-3d-printer-filament
+  PLA+/Pro Color Change (UV):
+    White to Rose Red:
+      hex: '#B43B96,#E4D1CA'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Translucent:
+    Clear Orange:
+      hex: '#FFAA00'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/isanmate-transparent-orange-pla-3d-printer-filament/
+  PETG CF:
+    Brown:
+      hex: '#5A3F41'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/isanmate-colorful-carbon-fiber-petg-brown-filament/
+    Black:
+      hex: '#3A3A3C'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/petg-carbon-fiber-3d-printer-filament/
+    Blue:
+      hex: '#374664'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/isanmate-colorful-carbon-fiber-petg-blue-filament/
+    Red:
+      hex: '#6D3646'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/isanmate-colorful-carbon-fiber-petg-red-filament/
+  PLA Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.isanmate.com/product/white-pla-i7-3d-filament

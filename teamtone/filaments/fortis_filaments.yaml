@@ -1,0 +1,141 @@
+Fortis Filaments:
+  PLA Pastello:
+    Matte Pink:
+      hex: '#DCA8A8'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/pla-pastel/products/pla-pastel-matte-pink
+    Matte Green:
+      hex: '#B2D7C0'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/pla-pastel/products/pla-pastel-matte-green
+    Matte Blue:
+      hex: '#A7CCDC'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/pla-pastel/products/pla-pastel-matte-blue
+    Matte Yellow:
+      hex: '#D9DFAA'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/pla-pastel/products/pla-pastel-matte-yellow
+    Matte Purple:
+      hex: '#DCBAE9'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/pla-pastel/products/pla-pastel-matte-purple
+  PLA Wood:
+    Walnut:
+      hex: '#7E5C51'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/pla-wooden/products/pla-wooden-walnut
+    Wooden Red:
+      hex: '#734543'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/pla-wooden/products/pla-wooden-walnut
+    Wooden Natural:
+      hex: '#A88C7E'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/pla-wooden/products/pla-wooden-natural
+  PLA+/Pro Pro:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/pla-regular/products/pla-pro-red
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/pla-regular/products/pla-pro-white
+  PLA Pro:
+    Fuchsia:
+      hex: '#FF00FF'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/pla-regular/products/pla-pro-purple
+    Skin:
+      hex: '#DFB368'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/pla-regular/products/pla-pro-skin
+    Dark Military Green:
+      hex: '#556B2F'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/pla-regular/products/pla-pro-dark-military-green
+    Blue:
+      hex: '#1E90FF'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/products/pla-pro-blue
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/products/pla-pro-yellow
+    Slate Grey:
+      hex: '#778899'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/pla-regular/products/pla-pro-slate-grey
+  PC Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/pc/products/pc-white
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/pc/products/pc-black
+  PETG Basic:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/petg-1/products/petg-white
+    Silver:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/petg-1/products/petg-silver
+    Dark Blue:
+      hex: '#2D377E'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/petg-1/products/petg-dark-blue
+    Lake Blue:
+      hex: '#86C6EB'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/petg-1/products/petg-lake-blue
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/petg-1/products/petg-black
+  ABS Pro:
+    White:
+      hex: '#F0F0F0'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/abs-pro/products/abs-pro-white
+  PLA Marble:
+    Marble Brick Red:
+      hex: '#814F44'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/pla-marble/products/pla-marble-brick-red
+    Marble Light Grey:
+      hex: '#757879'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/pla-marble/products/pla-marble-light-grey
+    Marble Natural:
+      hex: '#B6B5B7'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/pla-marble/products/pla-marble-natural
+  PA (Nylon) Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/pa/products/pa-black-1
+  ASA Pro:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/asa/products/asa-black
+  PLA+/Pro Matte:
+    Yellow:
+      hex: '#F0D314'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/pla-matte/products/pla-matte-yellow
+  TPU 95A:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/tpu/products/tpu-95a-black
+    Slate Grey:
+      hex: '#778899'
+      source: 3dfilamentprofiles.com
+      link: https://fortisfilaments.com.au/collections/tpu/products/tpu-95a-slate-grey

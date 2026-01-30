@@ -1,0 +1,83 @@
+Xingtongzhilian:
+  PLA Silk:
+    Golden:
+      hex: '#F5E532'
+      source: 3dfilamentprofiles.com
+      link: https://www.amazon.com/dp/B0DJX1WZQP
+    Silk Blue:
+      hex: '#0095FF'
+      source: 3dfilamentprofiles.com
+    Bronze:
+      hex: '#CD7F32'
+      source: 3dfilamentprofiles.com
+  PETG Basic:
+    Pink:
+      hex: '#E66BCF'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FBFF24'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Pink:
+      hex: '#F4A3F5'
+      source: 3dfilamentprofiles.com
+      link: https://xtzl3d.com/collections/3d-printing-filaments
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://xtzl3d.com/collections/3d-printing-filaments
+    'Transparent ':
+      hex: '#BFBFBF'
+      source: 3dfilamentprofiles.com
+      link: https://xtzl3d.com/collections/3d-printing-filaments
+    Blue:
+      hex: '#4474E4'
+      source: 3dfilamentprofiles.com
+      link: https://xtzl3d.com/products/xtzl-pla-3d-printing-filament-1?variant=42541928153261
+    yellow:
+      hex: '#EDE60C'
+      source: 3dfilamentprofiles.com
+      link: https://xtzl3d.com/collections/3d-printing-filaments
+  PLA+/Pro Basic:
+    Green:
+      hex: '#00F900'
+      source: 3dfilamentprofiles.com
+    white:
+      hex: '#FAFAFA'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Clear:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Silk Triple:
+    Blue-Red-Green:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+  PETG Silk Dual:
+    Red/Gold:
+      hex: '#CC0033,#C1A90B'
+      source: 3dfilamentprofiles.com
+  PLA:
+    Red:
+      hex: '#FF3533'
+      source: 3dfilamentprofiles.com
+  PETG+:
+    white:
+      hex: '#FAFAFA'
+      source: 3dfilamentprofiles.com
+      link: https://xtzl3d.com/
+    red:
+      hex: '#BD0000'
+      source: 3dfilamentprofiles.com
+      link: https://xtzl3d.com/
+  PETG+ Translucent:
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PETG+ Basic:
+    Green:
+      hex: '#00FC00'
+      source: 3dfilamentprofiles.com

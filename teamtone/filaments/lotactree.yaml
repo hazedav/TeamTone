@@ -1,0 +1,72 @@
+Lotactree:
+  PLA+/Pro Blend:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.lotactree.com/wp-content/uploads/2024/10/Lotactree-Data-Sheet-PLA-F-2024.pdf
+  PLA Silk Dual:
+    Green Blue:
+      hex: '#1A16E3,#2E9B2C'
+      source: 3dfilamentprofiles.com
+  PLA F:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Luminous Green:
+      hex: '#B1DD8B'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.lotactree.com/products/3d-filament-black
+  PLA Silk:
+    RAINBOW (candy):
+      hex: '#F66BA2,#38DEC2,#FFF942'
+      source: 3dfilamentprofiles.com
+      link: https://shop.lotactree.de/Lotactree-Pro-Filament-PLA-SILK-RAINBOW-candy/209026
+    Pink:
+      hex: '#FF92C1'
+      source: 3dfilamentprofiles.com
+      link: https://shop.lotactree.de/
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://shop.lotactree.de/
+    Gold:
+      hex: '#D3AB25'
+      source: 3dfilamentprofiles.com
+      link: https://www.lotactree.com
+  PLA Blend:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.lotactree.com/products/3d-filament-black
+  TPU 95A:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Basic:
+    Orange:
+      hex: '#EA7D33'
+      source: 3dfilamentprofiles.com
+      link: https://shop.lotactree.de/Lotactree-Pro-Filament-PLA-orange/LTPLA-ORNG
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Silk:
+    Red Copper:
+      hex: '#974C2D'
+      source: 3dfilamentprofiles.com
+      link: https://shop.lotactree.de/Lotactree-Pro-Filament-PLA-SILK-red-copper/LTPLASLK-RCOP
+    Greenish Gold:
+      hex: '#AFC63C'
+      source: 3dfilamentprofiles.com
+      link: https://shop.lotactree.de/Lotactree-Pro-Filament-PLA-SILK-green-goblin/LTPLASLK-GGOBLI
+  PLA+/Pro Silk Triple:
+    Unicorn:
+      hex: '#F66BA2,#56A5E2,#38DEC2'
+      source: 3dfilamentprofiles.com
+      link: https://shop.lotactree.de/Lotactree-Pro-Filament-PLA-SILK-tricolor-unicorn/LTPLASLKMC-UNIC

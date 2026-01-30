@@ -1,0 +1,47 @@
+22 Network:
+  PLA Silk Dual:
+    Dark Violet/Teal:
+      hex: '#6F1CDF,#2DECFF'
+      source: 3dfilamentprofiles.com
+      link: https://22-network.com/pla-silk-double
+    Blue/Silver:
+      hex: '#0037EB,#B5C2DA'
+      source: 3dfilamentprofiles.com
+      link: https://22-network.com
+    Red/Green:
+      hex: '#EB0D0E,#0FC41E'
+      source: 3dfilamentprofiles.com
+      link: https://22-network.com
+    Blue/Purple:
+      hex: '#0E3DF9,#871CEB'
+      source: 3dfilamentprofiles.com
+      link: https://22-network.com
+    Coral/Purple:
+      hex: '#B33651,#8E0080'
+      source: 3dfilamentprofiles.com
+      link: https://22-network.com
+    Blue/Green:
+      hex: '#006EFF,#1BFF52'
+      source: 3dfilamentprofiles.com
+      link: https://22-network.com
+  PLA+/Pro Basic:
+    Red:
+      hex: '#A21111'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Gold:
+      hex: '#FFBB00'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://22-network.com/22network
+  PETG Basic:
+    Magenta:
+      hex: '#FF00FF'
+      source: 3dfilamentprofiles.com
+      link: https://22-network.com/22network
+    Transparent Blue:
+      hex: '#62A0EA'
+      source: 3dfilamentprofiles.com
+      link: https://22-network.com/22network

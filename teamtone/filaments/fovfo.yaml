@@ -1,0 +1,22 @@
+FOVFO:
+  PLA Silk Triple:
+    Red/Blue/Green:
+      hex: '#ED719E'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    Oak:
+      hex: '#FFF4D8'
+      source: 3dfilamentprofiles.com
+    Teak:
+      hex: '#E8976C'
+      source: 3dfilamentprofiles.com
+    Cherry:
+      hex: '#8C493D'
+      source: 3dfilamentprofiles.com
+    Walnut:
+      hex: '#976155'
+      source: 3dfilamentprofiles.com
+  PLA Rainbow:
+    Rainbow:
+      hex: '#B380BB,#DFCA92,#78A6BA'
+      source: 3dfilamentprofiles.com

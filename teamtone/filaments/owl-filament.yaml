@@ -1,0 +1,100 @@
+OWL-Filament:
+  PETG Metal:
+    Violett Metallic (RAL4007):
+      hex: '#47243C'
+      source: 3dfilamentprofiles.com
+    Gold Metallic:
+      hex: '#582D04'
+      source: 3dfilamentprofiles.com
+      link: https://owl-filament.de/petg-1-75mm-gold-metallic-229.html
+  PLA Basic:
+    Beige (RAL 1014 Elfenbein):
+      hex: '#E1CC4F'
+      source: 3dfilamentprofiles.com
+      link: https://owl-filament.de/pla-1-75mm-Elfenbein-RAL-1014.html
+    Neon Gruen:
+      hex: '#00F700'
+      source: 3dfilamentprofiles.com
+      link: https://owl-filament.de/pla-1-75mm-gelb-neon-44-74-553.html
+    Gruen (RAL 6029 Minzgruen):
+      hex: '#20603D'
+      source: 3dfilamentprofiles.com
+      link: https://owl-filament.de/pla-1-75mm-Minzgruen-RAL-6029.html
+    Pink (RAL 4003 Erikaviolett):
+      hex: '#DE4C8A'
+      source: 3dfilamentprofiles.com
+      link: https://owl-filament.de/pla-1-75mm-pink-Erikaviolett-ral-4003.html
+    Bordeaux (RAL 3005):
+      hex: '#5E2028'
+      source: 3dfilamentprofiles.com
+      link: https://owl-filament.de/pla-filament-bordeaux-ral3005-1kg-175mm.html
+    Rot (RAL 3001 Signalrot):
+      hex: '#A52019'
+      source: 3dfilamentprofiles.com
+      link: https://owl-filament.de/pla-1-75mm-red-rot.html
+    Schwarz (RAL 9005 Tiefschwarz):
+      hex: '#0A0A0A'
+      source: 3dfilamentprofiles.com
+      link: https://owl-filament.de/pla-1-75mm-Schwarz-RAL-9005-337.html
+    red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://owl-filament.de/pla-filament-rot-3d-drucker.html
+    Violett:
+      hex: '#7F00FF'
+      source: 3dfilamentprofiles.com
+      link: https://owl-filament.de/abs-filament-violett2-3d-drucker.html
+    orange:
+      hex: '#FFA600'
+      source: 3dfilamentprofiles.com
+      link: https://owl-filament.de/pla-filament-gelb-orange-3d-drucker.html
+    Blue (RAL 5005):
+      hex: '#154889'
+      source: 3dfilamentprofiles.com
+    White (RAL 9016):
+      hex: '#F1F1EA'
+      source: 3dfilamentprofiles.com
+    Neon Orange (RAL 2005):
+      hex: '#FF4D08'
+      source: 3dfilamentprofiles.com
+    Azurblau (RAL 5009):
+      hex: '#245878'
+      source: 3dfilamentprofiles.com
+    Verkehrsgrau A (RAL 7042):
+      hex: '#949898'
+      source: 3dfilamentprofiles.com
+    Green (RAL 6029 Mintgreen):
+      hex: '#007243'
+      source: 3dfilamentprofiles.com
+      link: https://owl-filament.de/pla-1-75mm-Minzgruen-RAL-6029.html
+    Tuerkis (RAL 5018 Tuerkis):
+      hex: '#21888F'
+      source: 3dfilamentprofiles.com
+      link: https://filamentwerk.de/pla-filament-tuerkis-3d-drucker.html?language=de
+    Schokoladen-braun (RAL 8017):
+      hex: '#46322D'
+      source: 3dfilamentprofiles.com
+    Beige brown (RAL 8024):
+      hex: '#79553C'
+      source: 3dfilamentprofiles.com
+      link: https://owl-filament.de/pla-1-75mm-Beigebraun-RAL-8024-de.html
+    Elfenbein (RAL 1014):
+      hex: '#ECE0A4'
+      source: 3dfilamentprofiles.com
+      link: https://owl-filament.de/pla-1-75mm-Elfenbein-RAL-1014.html
+    Gelb (RAL 1003 Signalgelb):
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+      link: https://owl-filament.de/pla-1-75mm-Signalgelb-RAL-1003.html
+  PLA Metal:
+    Grün Metallic(RAL 6036):
+      hex: '#4F7A28'
+      source: 3dfilamentprofiles.com
+    Blau Metallic (Ray 5026):
+      hex: '#0433FF'
+      source: 3dfilamentprofiles.com
+  PLA Translucent:
+    Transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://owl-filament.de/pla-1-75mm-transparent-8-15-19-20.html

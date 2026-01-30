@@ -1,0 +1,46 @@
+3DEA:
+  PLA Basic:
+    Military Olive:
+      hex: '#404000'
+      source: 3dfilamentprofiles.com
+    Walnut Wood:
+      hex: '#98633B'
+      source: 3dfilamentprofiles.com
+  PETG CF:
+    Black:
+      hex: '#202020'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dea.co.nz/shop/product/petg-cf-carbon-fibre-enhanced-petg-filament/
+  PETG+ Blend:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ASA Basic:
+    Red:
+      hex: '#FF4F4F'
+      source: 3dfilamentprofiles.com
+  PLA Galaxy:
+    Luminous Blue:
+      hex: '#D2D2FF'
+      source: 3dfilamentprofiles.com
+  PA6 Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dea.co.nz/shop/product/nylon-pa6-black-1-75mm/
+  PLA+/Pro Basic:
+    Graphite:
+      hex: '#53565B'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dea.co.nz/shop/product/light-grey-pla-pro-1-75mm-premium-filament/
+    Black:
+      hex: '#101010'
+      source: 3dfilamentprofiles.com
+      link: https://www.3dea.co.nz/shop/product/black-pla-pro-1-75mm-premium-filament/

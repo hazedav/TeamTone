@@ -1,0 +1,189 @@
+RepRapper:
+  PETG Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.reprappertech.com/products/reprapper-easy-to-print-petg-filament-for-3d-printer-175mm-003mm-22lb-1kg,-stronger-toughness,-fit-most-fdm-printers?VariantsId=10795
+    Gray:
+      hex: '#ACB0BA'
+      source: 3dfilamentprofiles.com
+      link: https://www.reprappertech.com/products/reprapper-easy-to-print-petg-filament-for-3d-printer-175mm-003mm-22lb-1kg,-stronger-toughness,-fit-most-fdm-printers?VariantsId=10795
+  PLA Basic:
+    Red:
+      hex: '#B84342'
+      source: 3dfilamentprofiles.com
+      link: https://www.reprappertech.com/products/reprapper-pla-3d-printer-filament-175mm-%C2%B1-003mm-22lb-1kg,-fit-most-fdm-printer-3d-pen
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Chocolate:
+      hex: '#542C2C'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#FECB3E'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#305CDE'
+      source: 3dfilamentprofiles.com
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Gray:
+      hex: '#9C9898'
+      source: 3dfilamentprofiles.com
+      link: https://www.reprappertech.com/products/reprapper-pla-3d-printer-filament-175mm
+    Orange:
+      hex: '#F7A269'
+      source: 3dfilamentprofiles.com
+      link: https://www.reprappertech.com/products/reprapper-pla-3d-printer-filament-175mm-%C2%B1-003mm-22lb-1kg,-fit-most-fdm-printer-3d-pen
+  TPU Conductive:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.reprappertech.com/products/conductive?VariantsId=11164
+  PLA Silk Triple:
+    Blue/Green/Gold:
+      hex: '#055FA8,#208E50,#D3943D'
+      source: 3dfilamentprofiles.com
+    Rose Red, Blue, Green:
+      hex: '#CE0F69,#055FA8,#208E50'
+      source: 3dfilamentprofiles.com
+    Gold/Copper/Black:
+      hex: '#D3943D,#9D6348,#0B0B0B'
+      source: 3dfilamentprofiles.com
+    Red/Gold/Blue:
+      hex: '#B82D44,#055FA8,#D3943D'
+      source: 3dfilamentprofiles.com
+    Blue/Purple/Yellow:
+      hex: '#055FA8,#6A50A3,#F6DF47'
+      source: 3dfilamentprofiles.com
+  PLA Glitter:
+    Glitter Gold/Black:
+      hex: '#1D2329'
+      source: 3dfilamentprofiles.com
+    Glow Green Starry:
+      hex: '#2D3C54'
+      source: 3dfilamentprofiles.com
+    Glow Purple:
+      hex: '#3300CC'
+      source: 3dfilamentprofiles.com
+  PLA Chameleon:
+    Black Colorshift:
+      hex: '#084948'
+      source: 3dfilamentprofiles.com
+  PLA Galaxy:
+    Galaxy Black:
+      hex: '#1B283D'
+      source: 3dfilamentprofiles.com
+  PLA CF:
+    GREEN:
+      hex: '#5B876B'
+      source: 3dfilamentprofiles.com
+    RED:
+      hex: '#6C4349'
+      source: 3dfilamentprofiles.com
+    BLUE:
+      hex: '#1E4177'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    White to Rainbow:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#B18CFE'
+      source: 3dfilamentprofiles.com
+    Light Green:
+      hex: '#65F834'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#F5EC00'
+      source: 3dfilamentprofiles.com
+  PLA Silk:
+    Silver:
+      hex: '#B7B7BA'
+      source: 3dfilamentprofiles.com
+      link: https://www.reprappertech.com/products/reprapper-silk-pla-filament-for-3d-printer-3d-pen-175-mm-%C2%B1-003-mm-22-lbs-1-kg,-silky-shiny-shine-3d-printing-materials
+    Gold:
+      hex: '#EC923A'
+      source: 3dfilamentprofiles.com
+      link: https://www.reprappertech.com/products/reprapper-silk-pla-filament-for-3d-printer-3d-pen-175-mm-%C2%B1-003-mm-22-lbs-1-kg,-silky-shiny-shine-3d-printing-materials
+    Green:
+      hex: '#00FF2A'
+      source: 3dfilamentprofiles.com
+      link: https://www.reprappertech.com/products/reprapper-silk-pla-filament-for-3d-printer-3d-pen-175-mm-%C2%B1-003-mm-22-lbs-1-kg,-silky-shiny-shine-3d-printing-materials
+    Blue:
+      hex: '#58B7E4'
+      source: 3dfilamentprofiles.com
+      link: https://www.reprappertech.com/products/reprapper-silk-pla-filament-for-3d-printer-3d-pen-175-mm-%C2%B1-003-mm-22-lbs-1-kg,-silky-shiny-shine-3d-printing-materials
+    Red:
+      hex: '#B8303A'
+      source: 3dfilamentprofiles.com
+      link: https://www.reprappertech.com/products/reprapper-silk-pla-filament-for-3d-printer-3d-pen-175-mm-%C2%B1-003-mm-22-lbs-1-kg,-silky-shiny-shine-3d-printing-materials
+    White Silk:
+      hex: '#FBFCFB'
+      source: 3dfilamentprofiles.com
+      link: https://www.reprappertech.com/products/reprapper-silk-pla-filament-for-3d-printer-3d-pen-175-mm-%C2%B1-003-mm-22-lbs-1-kg,-silky-shiny-shine-3d-printing-materials
+  TPU 95A:
+    Grey:
+      hex: '#949494'
+      source: 3dfilamentprofiles.com
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PETG Translucent:
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+      link: https://www.reprappertech.com/products/reprapper-easy-to-print-petg-filament-for-3d-printer-175mm-003mm-22lb-1kg,-stronger-toughness,-fit-most-fdm-printers?VariantsId=10716
+  PLA Wood:
+    Dark Mahogany / Walnut:
+      hex: '#76352F'
+      source: 3dfilamentprofiles.com
+      link: https://www.reprapwarehouse.com/products/reprapper-tech-dual-colour-wood-infused-pla-1-kg?variant=45993884811507
+    Walnut / Natural:
+      hex: '#997A69'
+      source: 3dfilamentprofiles.com
+      link: https://www.reprapwarehouse.com/products/reprapper-tech-dual-colour-wood-infused-pla-1-kg?variant=45993884844275
+    Natural:
+      hex: '#E6D6B9'
+      source: 3dfilamentprofiles.com
+    Mahogany / Natural:
+      hex: '#B05D57'
+      source: 3dfilamentprofiles.com
+      link: https://www.reprapwarehouse.com/products/reprapper-tech-dual-colour-wood-infused-pla-1-kg?variant=45993884778739
+  ABS Basic:
+    NATURAL:
+      hex: '#F4F6EE'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Pink/Blue:
+      hex: '#B18CFE'
+      source: 3dfilamentprofiles.com
+  PLA Matte Dual:
+    Red and Blue:
+      hex: '#0040FF,#FF0505'
+      source: 3dfilamentprofiles.com
+  PLA Matte Rainbow:
+    Rainbow:
+      hex: '#8BB3DA,#92E8B3,#ECACB0'
+      source: 3dfilamentprofiles.com
+  PVB PolySmooth:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.reprappertech.com/products/reprapper-tangle-free-white-pvb-filament-for-3d-printer-3d-pen-print-like-pla-filament-175-easy-smoothable-post-polishing-with-ipa-alcohol-smooth-finish-work-white-1-kg-22-lbs?VariantsId=10282
+  PETG CF:
+    PETG-CF:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  PP:
+    PP white:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PVB:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com

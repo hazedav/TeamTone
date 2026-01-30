@@ -1,0 +1,205 @@
+California Filament:
+  PETG Translucent:
+    Translucent Orange:
+      hex: '#FF911A'
+      source: 3dfilamentprofiles.com
+    Translucent Green:
+      hex: '#009A44'
+      source: 3dfilamentprofiles.com
+    Translucent Blue:
+      hex: '#0502C5'
+      source: 3dfilamentprofiles.com
+    Translucent Teal:
+      hex: '#2FBAA9'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/translucent-teal-petg-filament-1-75mm
+    Translucent Clear:
+      hex: '#C4C4C4'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/collections/petg/products/clear-petg-filament-1-75mm
+    Translucent Yellow:
+      hex: '#FFEEAA'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/
+    Translucent Red:
+      hex: '#FF6A74'
+      source: 3dfilamentprofiles.com
+  PETG Glow:
+    Green Glow:
+      hex: '#459D00'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/green-glow-petg-filament-1-75mm
+  PETG Basic:
+    Yellow:
+      hex: '#C3D117'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/sage-limited-edition-petg-filament-1-75mm
+    Fluorescent Green:
+      hex: '#01FF07'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/sage-limited-edition-petg-filament-1-75mm
+    Light Gray:
+      hex: '#C4C3C5'
+      source: 3dfilamentprofiles.com
+      link: https://community.californiafilament.com/
+    Solid White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/solid-white-petg-filament-1-75mm-1kg
+    Forest Green:
+      hex: '#093122'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/sage-limited-edition-petg-filament-1-75mm
+    Pink - Purple:
+      hex: '#C58EAB'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/pink-purple-limited-edition-petg-filament-1-75mm
+    Pistachio:
+      hex: '#BCD9AD'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/pistachio-limited-edition-petg-filament-1-75mm-copy
+    Sage:
+      hex: '#91946E'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/sage-limited-edition-petg-filament-1-75mm
+    Pink:
+      hex: '#E873A6'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/sage-limited-edition-petg-filament-1-75mm
+    Lime Green:
+      hex: '#C4D600'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/sage-limited-edition-petg-filament-1-75mm
+    Cloudy White:
+      hex: '#F2F2ED'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/cloudy-white-petg-filament-1-75mm
+    Plum:
+      hex: '#1F0E25'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/plum-limited-edition-petg-filament-1-75mm-1kg
+    Wheat:
+      hex: '#F5DEB3'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com
+    Orange:
+      hex: '#FFA500'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/
+    Burgundy (limited edition):
+      hex: '#800020'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/collections/petg
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/sage-limited-edition-petg-filament-1-75mm
+    Rust:
+      hex: '#C25A3C'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/rust-limited-edition-petg-filament-1-75mm
+    Peach:
+      hex: '#F9D3E0'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/sage-limited-edition-petg-filament-1-75mm
+    Light Blue:
+      hex: '#53D5FD'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/sage-limited-edition-petg-filament-1-75mm
+    Candy Red:
+      hex: '#B82D44'
+      source: 3dfilamentprofiles.com
+    Paper White:
+      hex: '#F9FBFF'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/paper-white-petg-filament-1-75mm
+    Off White:
+      hex: '#FAF9F6'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/off-white-petg-filament-1-75mm
+    Outer Space Blue (limited edition):
+      hex: '#1F4277'
+      source: 3dfilamentprofiles.com
+    Golden Yellow:
+      hex: '#FFC000'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com
+    Garnet Red (limited edition):
+      hex: '#82261C'
+      source: 3dfilamentprofiles.com
+    Lemon:
+      hex: '#EBDC87'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/lemon-limited-edition-petg-filament-1-75mm
+    Pastel Blue:
+      hex: '#BFF3F7'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/sage-limited-edition-petg-filament-1-75mm
+    Grass Green:
+      hex: '#7CFC00'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/collections/petg
+    Caribbean Blue:
+      hex: '#19B1A8'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/caribbean-blue-limited-edition-petg-filament-1-75mm
+    Translucent teal:
+      hex: '#008080'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/translucent-yellow-petg-filament-1-75mm
+    Aqua Blue:
+      hex: '#65D8EC'
+      source: 3dfilamentprofiles.com
+    Sky Blue:
+      hex: '#87CEFA'
+      source: 3dfilamentprofiles.com
+    Beige:
+      hex: '#F5F5DC'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com
+    Ochre:
+      hex: '#CC7722'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com
+    Zinc:
+      hex: '#92898A'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/zinc-limited-edition-petg-filament-1-75mm
+    Chocolate Brown:
+      hex: '#623412'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/
+    Driftwood:
+      hex: '#8B6A4F'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/driftwood-limited-edition-petg-filament-1-75mm
+    Gray:
+      hex: '#656577'
+      source: 3dfilamentprofiles.com
+  PETG Fluorescent:
+    Fluorescent Orange:
+      hex: '#FFAB01'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/fluorescent-orange-filament-1-75mm
+    Fluorescent Green:
+      hex: '#01FF07'
+      source: 3dfilamentprofiles.com
+    Fluorescent Rose:
+      hex: '#FF5750'
+      source: 3dfilamentprofiles.com
+    Fluorescent Yellow:
+      hex: '#FFFC02'
+      source: 3dfilamentprofiles.com
+  PETG Matte:
+    Matte Red:
+      hex: '#97392C'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/collections/petg?filter.p.m.custom.type=Matte
+    Matte Blue:
+      hex: '#8FB0CE'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://californiafilament.com/products/matte-black-petg-filament-1-75mm

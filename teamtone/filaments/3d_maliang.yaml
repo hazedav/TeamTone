@@ -1,0 +1,34 @@
+3D Maliang:
+  PLA Silk:
+    Silk gold:
+      hex: '#FFD700'
+      source: 3dfilamentprofiles.com
+    Copper:
+      hex: '#B87333'
+      source: 3dfilamentprofiles.com
+    Gold:
+      hex: '#FFF76B'
+      source: 3dfilamentprofiles.com
+    Silver:
+      hex: '#929292'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    Glow Glitter transparent:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  TPU Translucent:
+    Transparent Blue:
+      hex: '#2457C7'
+      source: 3dfilamentprofiles.com
+  PLA Color Change (Temp):
+    green to yellow:
+      hex: '#358500,#EEFF00'
+      source: 3dfilamentprofiles.com
+  PLA Wood:
+    light wood:
+      hex: '#B89782'
+      source: 3dfilamentprofiles.com
+  PLA Silk Dual:
+    Black Gold:
+      hex: '#000000,#FEC700'
+      source: 3dfilamentprofiles.com

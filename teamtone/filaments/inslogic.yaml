@@ -1,0 +1,319 @@
+Inslogic:
+  PLA High Speed:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/high-speed-pla-filament?variant=45894557565186
+    Red:
+      hex: '#CD001A'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/high-speed-pla-filament?variant=45894557761794
+    Black:
+      hex: '#101820'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/high-speed-pla-filament?variant=45894557466882
+    Blue:
+      hex: '#0032A0'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/high-speed-pla-filament?variant=45894557860098
+    Grey:
+      hex: '#A7A8A9'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/high-speed-pla-filament?variant=45894557663490
+    Yellow:
+      hex: '#F8E600'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/high-speed-pla-filament?variant=45894557958402
+  PETG Pro:
+    Blue:
+      hex: '#0032A0'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/petg-pro-filament?variant=46141956522242
+    Grey:
+      hex: '#A7A8A9'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/petg-pro-filament?variant=46141956456706
+    Yellow:
+      hex: '#F8E600'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/petg-pro-filament?variant=46141956555010
+    Orange:
+      hex: '#FF6A14'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/products/petg-pro-filament
+    Sky Blue:
+      hex: '#3AB1DB'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/products/petg-pro-filament
+    Pink:
+      hex: '#D67098'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/products/petg-pro-filament
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/petg-pro-filament?variant=46141956423938
+    Green:
+      hex: '#00AA13'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/products/petg-pro-filament
+    Red:
+      hex: '#CD001A'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/petg-pro-filament?variant=46141956489474
+    Black:
+      hex: '#101820'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/petg-pro-filament?variant=46141956391170
+  ASA Basic:
+    White:
+      hex: '#F6F5F2'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/asa-filament
+    Black:
+      hex: '#1B1D1E'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/de/products/asa-filament
+  PLA Marble:
+    Brick:
+      hex: '#761E1C'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/high-speed-marble-pla-filament?variant=46135136911618
+    Granite:
+      hex: '#C0C0C0'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/high-speed-marble-pla-filament?variant=46135136878850
+  PLA Matte:
+    Blue:
+      hex: '#0032A0'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/matte-pla-filament?variant=45894569459970
+    Light Blue:
+      hex: '#ADD8E6'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/products/matte-pla
+    Olive Green:
+      hex: '#67823A'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/products/matte-pla
+    Yellow:
+      hex: '#F8E600,#B4F407'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/matte-pla-filament?variant=45958636372226
+    Grey:
+      hex: '#A7A8A9'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/products/matte-pla
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/products/matte-pla
+    Black:
+      hex: '#101820'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/products/matte-pla
+    Purple:
+      hex: '#5F4ECC'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/products/matte-pla
+    Wood:
+      hex: '#CDB091'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/products/matte-pla
+    Orange:
+      hex: '#F4711A'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/products/matte-pla
+    Bone White:
+      hex: '#EDE7D1'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/products/matte-pla
+    Clay:
+      hex: '#A59F8C'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/products/matte-pla
+    Red:
+      hex: '#CD001A'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/products/matte-pla
+    Green:
+      hex: '#00AA13'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/matte-pla-filament?variant=46132967211266
+  PLA Silk Triple:
+    Fantasy Cyber:
+      hex: '#45D0EF,#BC69AC,#F3CE12'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/multicolor-silk-pla-filament?variant=45894556320002
+    California Sunset:
+      hex: '#BE68AC,#F3CE11,#355ECD'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/multicolor-silk-pla-filament?variant=45894556418306
+    Blue Green Purple:
+      hex: '#355ECD,#45E888,#BC69AC'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/multicolor-silk-pla-filament?variant=45894556221698
+    Iceland Aurora:
+      hex: '#355ECD,#45E888,#BC69AC'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/multicolor-silk-pla-filament?variant=45894556221698
+  PLA Wood:
+    Natural:
+      hex: '#B99C8D'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/woodfill-pla-filament?variant=46243835805954
+    Maple:
+      hex: '#E0C8B4'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/woodfill-pla-filament?variant=46243835838722
+  PA6 CF:
+    Black:
+      hex: '#101820'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/pa6-cf-filament
+  PLA Pro:
+    Red:
+      hex: '#FF2600'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/matte-pla-filament?variant=45972956610818
+    Blue:
+      hex: '#0000FF'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/matte-pla-filament?variant=45972956610818
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/matte-pla-filament?variant=45972956741890
+    Black:
+      hex: '#0A0C0A'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/matte-pla-filament?variant=45972956610818
+  PLA+/Pro High Speed:
+    Yellow:
+      hex: '#F8E600'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/high-speed-pla-pro-filament?variant=46145288896770
+    Red:
+      hex: '#CD001A'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/high-speed-pla-pro-filament?variant=46145288831234
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/high-speed-pla-pro-filament?variant=46145288765698
+    Blue:
+      hex: '#0032A0'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/high-speed-pla-pro-filament?variant=46145288864002
+    Green:
+      hex: '#00AA13'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/high-speed-pla-pro-filament?variant=46145295974658
+    Olive Green:
+      hex: '#67823A'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/products/inslogic-high-speed-pla-pro-filament?variant=50519496130859
+    Black:
+      hex: '#101820'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/high-speed-pla-pro-filament?variant=46145288732930
+    Grey:
+      hex: '#A7A8A9'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/high-speed-pla-pro-filament?variant=46145288798466
+  ABS FR:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/products/inslogic-abs-fr-v0-filament?variant=50539860394283
+    Natural:
+      hex: '#EDE8DB'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/products/inslogic-abs-fr-v0-filament?variant=50518938288427
+  PA12 CF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/it/products/inslogic-pa12-cf-filament
+  PLA Silk Dual:
+    Fuchsia Blue:
+      hex: '#BC69AC,#355ECD'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/products/inslogic-pla-multicolor-silk-filament?variant=49672662548779
+    Pink Gold:
+      hex: '#FEA2C1,#F6D105'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/multicolor-silk-pla-filament?variant=45894556123394
+  PC-ABS Basic:
+    Black:
+      hex: '#101820'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/products/inslogic-pc-abs-filament?variant=50519236280619
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/products/inslogic-pc-abs-filament?variant=50525175775531
+  PETG Matte:
+    Matte White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/petg-pro-filament?variant=46141956423938
+  PA6 Basic:
+    Natural:
+      hex: '#F7F1E6'
+      source: 3dfilamentprofiles.com
+  PLA Glow:
+    White (Blue Glow):
+      hex: '#00FFFF,#FFFFFF'
+      source: 3dfilamentprofiles.com
+  PLA+/Pro Pro:
+    Yellow:
+      hex: '#FFFF00'
+      source: 3dfilamentprofiles.com
+  TPU 95A:
+    Black:
+      hex: '#262626'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/tpu-95a-filament
+    White:
+      hex: '#F0F0EE'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/tpu-95a-filament?variant=45894561693954
+  PA (Nylon) Basic:
+    Natural:
+      hex: '#F7F1E6'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/products/nylon-pa6-66-filament
+  PA6 GF:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/products/inslogic-pa6-gf25-filament?variant=50519221993771
+  PLA+/Pro Silk:
+    Green:
+      hex: '#45E888'
+      source: 3dfilamentprofiles.com
+    Blue:
+      hex: '#355ECD'
+      source: 3dfilamentprofiles.com
+    Yellow:
+      hex: '#F3CE12'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#CD001A'
+      source: 3dfilamentprofiles.com
+  PEEK Basic:
+    Natural:
+      hex: '#E5D4C5'
+      source: 3dfilamentprofiles.com
+      link: https://www.inslogic3d.com/products/inslogic-peek-filament
+  PLA CF:
+    Black:
+      hex: '#101820'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/pla-cf15-filament
+  PETG CF:
+    Black:
+      hex: '#101820'
+      source: 3dfilamentprofiles.com
+      link: https://store.inslogic3d.com/products/petg-cf10-filament

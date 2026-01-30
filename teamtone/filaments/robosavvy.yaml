@@ -1,0 +1,18 @@
+RoboSavvy:
+  ABS Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+    Orange:
+      hex: '#FFA500'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Green:
+      hex: '#00FF00'
+      source: 3dfilamentprofiles.com
+    Red:
+      hex: '#FF0000'
+      source: 3dfilamentprofiles.com
+    Brown:
+      hex: '#964B00'
+      source: 3dfilamentprofiles.com

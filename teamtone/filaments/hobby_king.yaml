@@ -1,0 +1,41 @@
+Hobby King:
+  TPU Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://hobbyking.com/flexible-3d-printer-filament-black.html
+  PETG Basic:
+    Black-02:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+  ABS Color Change (Temp):
+    Purple-Pink-041:
+      hex: '#2E2947'
+      source: 3dfilamentprofiles.com
+  PLA Basic:
+    Light Green:
+      hex: '#54E75B'
+      source: 3dfilamentprofiles.com
+    Metallic Silver:
+      hex: '#B7B7C0'
+      source: 3dfilamentprofiles.com
+    Metallic Gold:
+      hex: '#B49741'
+      source: 3dfilamentprofiles.com
+    Dark Purple:
+      hex: '#471DA7'
+      source: 3dfilamentprofiles.com
+    Purple:
+      hex: '#B61192'
+      source: 3dfilamentprofiles.com
+    Solid Red:
+      hex: '#FB2F24'
+      source: 3dfilamentprofiles.com
+  PLA Premium:
+    Brown:
+      hex: '#372015'
+      source: 3dfilamentprofiles.com
+  PLA Color Change (Temp):
+    Purple to Pink:
+      hex: '#2E2947'
+      source: 3dfilamentprofiles.com

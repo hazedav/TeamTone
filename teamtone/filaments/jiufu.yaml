@@ -1,0 +1,14 @@
+JIUFU:
+  PLA+/Pro Basic:
+    Beige:
+      hex: '#C0C09C'
+      source: 3dfilamentprofiles.com
+      link: https://www.jiufu3d.com/product-category/pla/
+    Translucent White:
+      hex: '#E4EAEC'
+      source: 3dfilamentprofiles.com
+      link: https://www.jiufu3d.com/shop/jiufu-3d-printer-filament-1-75mm-high-speed-pla-plus-filament1000-g/
+  PLA+/Pro High Speed:
+    Turquoise Green:
+      hex: '#7EC9E2'
+      source: 3dfilamentprofiles.com

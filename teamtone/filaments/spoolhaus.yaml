@@ -1,0 +1,10 @@
+SpoolHaus:
+  PEBA:
+    Orange:
+      hex: '#EF7224'
+      source: 3dfilamentprofiles.com
+      link: https://spoolhaus3d.com/peba-sb-settings-and-info
+    Blue:
+      hex: '#001DC8'
+      source: 3dfilamentprofiles.com
+      link: https://spoolhaus3d.com/shop

@@ -1,0 +1,9 @@
+S SIENOC:
+  HIPS Support:
+    White:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+  HIPS Basic:
+    Orange:
+      hex: '#FF8040'
+      source: 3dfilamentprofiles.com

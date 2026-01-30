@@ -1,0 +1,15 @@
+LIDER-3D:
+  PLA+/Pro Silk:
+    Violet:
+      hex: '#5C1476'
+      source: 3dfilamentprofiles.com
+  ABS+ Basic:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com
+      link: https://lider-3d.ru/catalog/materialy/plastik_dlya_3d_printerov/abs_plastik_lider_3d_dlya_3d_printera/
+  ABS+:
+    Natural:
+      hex: '#FFFFFF'
+      source: 3dfilamentprofiles.com
+      link: https://lider-3d.ru/catalog/materialy/plastik_dlya_3d_printerov/abs_pc_plastik_lider_3d_premium_dlya_3d_printera/

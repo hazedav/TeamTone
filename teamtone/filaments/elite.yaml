@@ -1,0 +1,9 @@
+Elite:
+  PLA+/Pro Silk:
+    Light Gold:
+      hex: '#EBEFAE'
+      source: 3dfilamentprofiles.com
+  PETG:
+    Black:
+      hex: '#000000'
+      source: 3dfilamentprofiles.com

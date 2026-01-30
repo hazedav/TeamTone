@@ -1,0 +1,18 @@
+Plasticz:
+  PETG Basic:
+    Traffic Blue:
+      hex: '#005B8A'
+      source: 3dfilamentprofiles.com
+      link: https://www.plasticz.nl/en/petg-traffic-blue-ral-5017-1kg-3d-filament.html
+    Traffic White:
+      hex: '#F0EFE9'
+      source: 3dfilamentprofiles.com
+      link: https://www.plasticz.nl/en/petg-1kg-3d-filament-traffic-white-ral-9016.html
+    Traffic Yellow:
+      hex: '#F7CD4A'
+      source: 3dfilamentprofiles.com
+      link: https://www.plasticz.nl/en/petg-traffic-yellow-ral-1023-1kg-3d-filament.html
+    Blazing Orange:
+      hex: '#E87B45'
+      source: 3dfilamentprofiles.com
+      link: https://www.plasticz.nl/en/petg-eco-blazing-orange-ral2005-1kg-3d-filament.html
