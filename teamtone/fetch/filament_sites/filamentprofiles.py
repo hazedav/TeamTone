@@ -95,7 +95,7 @@ class FilamentProfilesScraper(FilamentScraper):
             except requests.exceptions.HTTPError as e:
                 if response and response.status_code == 429:
                     if attempt < self.MAX_RETRIES - 1:
-                        print(f"Rate limited (429). Retrying...")
+                        print("Rate limited (429). Retrying...")
                         continue
                     else:
                         print(f"Rate limited after {self.MAX_RETRIES} attempts.")
@@ -121,7 +121,7 @@ class FilamentProfilesScraper(FilamentScraper):
             detected_encoding = response.encoding or "utf-8"
             content_type = response.headers.get("Content-Type", "unknown")
 
-            print(f"\nResponse Information:")
+            print("\nResponse Information:")
             print(f"  Status: {response.status_code}")
             print(f"  Content-Type: {content_type}")
             print(f"  Detected Encoding: {detected_encoding}")

@@ -313,7 +313,7 @@ if __name__ == "__main__":
     print("=" * 60)
 
     # Example 1: Compare Lakers colors
-    print(f"\nExample 1: Lakers Purple vs Lakers Gold")
+    print("\nExample 1: Lakers Purple vs Lakers Gold")
     print(f"Purple: {lakers_purple}, Gold: {lakers_gold}")
     result = compare_colors(lakers_purple, lakers_gold)
     print(f"RGB Distance: {result['rgb_distance']:.2f}")
@@ -323,7 +323,7 @@ if __name__ == "__main__":
     print("\n" + "=" * 60)
 
     # Example 2: Compare Lakers Purple vs Celtics Green
-    print(f"\nExample 2: Lakers Purple vs Celtics Green")
+    print("\nExample 2: Lakers Purple vs Celtics Green")
     print(f"Purple: {lakers_purple}, Green: {celtics_green}")
     result = compare_colors(lakers_purple, celtics_green)
     print(f"RGB Distance: {result['rgb_distance']:.2f}")
@@ -333,7 +333,7 @@ if __name__ == "__main__":
     print("\n" + "=" * 60)
 
     # Example 3: Find closest color
-    print(f"\nExample 3: Find closest color to Lakers Purple")
+    print("\nExample 3: Find closest color to Lakers Purple")
     colors = [
         ("Lakers Gold", lakers_gold),
         ("Celtics Green", celtics_green),
@@ -346,7 +346,7 @@ if __name__ == "__main__":
     print("\n" + "=" * 60)
 
     # Example 4: Demonstrating Delta E interpretation
-    print(f"\nExample 4: Delta E Interpretation Guide")
+    print("\nExample 4: Delta E Interpretation Guide")
     print("0-1: Not perceptible to human eye")
     print("1-2: Perceptible through close observation")
     print("2-10: Perceptible at a glance")

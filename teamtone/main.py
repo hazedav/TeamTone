@@ -131,7 +131,7 @@ def display_team_colors(team_name, league):
         print(f"{team_name} has no color data available")
         return
 
-    print(f"\nTeam Colors:")
+    print("\nTeam Colors:")
     for color, hex_code in zip(colors, hex_codes):
         print(f"  - {color}: {hex_code}")
 
@@ -190,7 +190,7 @@ def display_team_colors(team_name, league):
                         if match.get("temp_hotend") and match.get("temp_bed"):
                             temps = f" (Hotend: {match['temp_hotend']}C, Bed: {match['temp_bed']}C)"
 
-                        print(f"\n  First exact match with purchase link:")
+                        print("\n  First exact match with purchase link:")
                         print(
                             f"    - {manufacturer} - {material} - {color_name}{temps} [{match['link']}]"
                         )
@@ -218,7 +218,7 @@ def display_team_colors(team_name, league):
                         if match.get("link"):
                             link = f" [{match['link']}]"
 
-                        print(f"\n  Nearest exact match from top manufacturer:")
+                        print("\n  Nearest exact match from top manufacturer:")
                         print(
                             f"    - {manufacturer} - {material} - {color_name}{temps}{link}"
                         )
@@ -278,7 +278,7 @@ def display_team_colors(team_name, league):
                                 ):
                                     temps = f" (Hotend: {filament['temp_hotend']}C, Bed: {filament['temp_bed']}C)"
 
-                                print(f"\n  Nearest match with purchase link:")
+                                print("\n  Nearest match with purchase link:")
                                 print(
                                     f"    - {manufacturer} - {material} - {color_name} - {filament['hex']} ({similarity:.1f}% similar){temps} [{filament['link']}]"
                                 )
@@ -313,7 +313,7 @@ def display_team_colors(team_name, league):
                                 if filament.get("link"):
                                     link = f" [{filament['link']}]"
 
-                                print(f"\n  Nearest match from top manufacturer:")
+                                print("\n  Nearest match from top manufacturer:")
                                 print(
                                     f"    - {manufacturer} - {material} - {color_name} - {filament['hex']} ({similarity:.1f}% similar){temps}{link}"
                                 )

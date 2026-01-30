@@ -4,7 +4,6 @@ Returns team color names and hex codes for major sports leagues.
 """
 
 import yaml
-import os
 from pathlib import Path
 
 # Load team data from teams folder (one file per league)

@@ -225,7 +225,7 @@ def main():
         preview = raw_html[:200].replace("\n", " ").strip()
         has_null_bytes = "\x00" in raw_html[:1000]
 
-        print(f"\nContent Analysis:")
+        print("\nContent Analysis:")
         print(f"  Encoding: {raw_data.get('encoding', 'unknown')}")
         print(f"  Content-Type: {raw_data.get('content_type', 'unknown')}")
         print(f"  Has null bytes: {has_null_bytes}")
@@ -297,9 +297,9 @@ def main():
         f"  Total entries: {sum(len(colors) for mfr in merged_data.values() for mat in mfr.values() for colors in [mat])}"
     )
     print("\nNext steps:")
-    print(f"  git status teamtone/filaments/     # See changed files")
-    print(f"  git diff teamtone/filaments/       # Review changes")
-    print(f"  git add teamtone/filaments/        # Stage if looks good")
+    print("  git status teamtone/filaments/     # See changed files")
+    print("  git diff teamtone/filaments/       # Review changes")
+    print("  git add teamtone/filaments/        # Stage if looks good")
 
 
 if __name__ == "__main__":
