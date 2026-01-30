@@ -15,14 +15,14 @@ MIN_SUGGESTIONS = 3
 
 # Load top 10 manufacturers list
 _current_dir = os.path.dirname(os.path.abspath(__file__))
-_top10_file = os.path.join(_current_dir, 'filaments', '_top10.yaml')
+_top10_file = os.path.join(_current_dir, "filaments", "_top10.yaml")
 try:
-    with open(_top10_file, 'r', encoding='utf-8') as f:
+    with open(_top10_file, "r", encoding="utf-8") as f:
         _top10_data = yaml.safe_load(f)
         # Extract manufacturer names from filenames (remove .yaml extension)
         TOP_MANUFACTURERS = [
-            filename.replace('.yaml', '').replace('_', ' ').title()
-            for filename in _top10_data.get('top_manufacturers', [])
+            filename.replace(".yaml", "").replace("_", " ").title()
+            for filename in _top10_data.get("top_manufacturers", [])
         ]
 except FileNotFoundError:
     TOP_MANUFACTURERS = []
@@ -33,8 +33,10 @@ def is_top_manufacturer(manufacturer):
     if not TOP_MANUFACTURERS:
         return False
     manufacturer_lower = manufacturer.lower()
-    return any(top_mfr.lower() in manufacturer_lower or manufacturer_lower in top_mfr.lower()
-               for top_mfr in TOP_MANUFACTURERS)
+    return any(
+        top_mfr.lower() in manufacturer_lower or manufacturer_lower in top_mfr.lower()
+        for top_mfr in TOP_MANUFACTURERS
+    )
 
 
 def print_header(text):
@@ -62,7 +64,7 @@ def select_league():
     while True:
         try:
             choice = input("\nEnter league number (or 'q' to quit): ").strip()
-            if choice.lower() == 'q':
+            if choice.lower() == "q":
                 return None
 
             choice_num = int(choice)
@@ -94,11 +96,13 @@ def select_team(league):
     # Get user selection
     while True:
         try:
-            choice = input("\nEnter team number (or 'b' to go back, 'q' to quit): ").strip()
-            if choice.lower() == 'q':
+            choice = input(
+                "\nEnter team number (or 'b' to go back, 'q' to quit): "
+            ).strip()
+            if choice.lower() == "q":
                 return None
-            if choice.lower() == 'b':
-                return 'back'
+            if choice.lower() == "b":
+                return "back"
 
             choice_num = int(choice)
             if 1 <= choice_num <= len(team_names):
@@ -120,14 +124,14 @@ def display_team_colors(team_name, league):
         print(f"Could not find color data for {team_name}")
         return
 
-    colors = team_data.get('colors', [])
-    hex_codes = team_data.get('hex', [])
+    colors = team_data.get("colors", [])
+    hex_codes = team_data.get("hex", [])
 
     if not colors or not hex_codes:
         print(f"{team_name} has no color data available")
         return
 
-    print(f"\nTeam Colors:")
+    print("\nTeam Colors:")
     for color, hex_code in zip(colors, hex_codes):
         print(f"  - {color}: {hex_code}")
 
@@ -147,26 +151,30 @@ def display_team_colors(team_name, league):
             display_matches = matches[:MAX_SUGGESTIONS]
 
             if total_matches > MAX_SUGGESTIONS:
-                print(f"  Found {total_matches} exact match(es), showing top {MAX_SUGGESTIONS}:")
+                print(
+                    f"  Found {total_matches} exact match(es), showing top {MAX_SUGGESTIONS}:"
+                )
             else:
                 print(f"  Found {total_matches} exact match(es):")
 
             # Check if any of the top matches have links
-            has_link = any(match.get('link') for match in display_matches)
+            has_link = any(match.get("link") for match in display_matches)
 
             # Track displayed matches for top manufacturer check
             displayed_matches = list(display_matches)
 
             for match in display_matches:
-                manufacturer = match['manufacturer']
-                material = match['material']
-                color_name = match['color']
+                manufacturer = match["manufacturer"]
+                material = match["material"]
+                color_name = match["color"]
                 temps = ""
-                if match.get('temp_hotend') and match.get('temp_bed'):
-                    temps = f" (Hotend: {match['temp_hotend']}C, Bed: {match['temp_bed']}C)"
+                if match.get("temp_hotend") and match.get("temp_bed"):
+                    temps = (
+                        f" (Hotend: {match['temp_hotend']}C, Bed: {match['temp_bed']}C)"
+                    )
 
                 link = ""
-                if match.get('link'):
+                if match.get("link"):
                     link = f" [{match['link']}]"
 
                 print(f"    - {manufacturer} - {material} - {color_name}{temps}{link}")
@@ -174,105 +182,141 @@ def display_team_colors(team_name, league):
             # If none of the top matches have links, find the first one with a link
             if not has_link:
                 for match in matches[MAX_SUGGESTIONS:]:
-                    if match.get('link'):
-                        manufacturer = match['manufacturer']
-                        material = match['material']
-                        color_name = match['color']
+                    if match.get("link"):
+                        manufacturer = match["manufacturer"]
+                        material = match["material"]
+                        color_name = match["color"]
                         temps = ""
-                        if match.get('temp_hotend') and match.get('temp_bed'):
+                        if match.get("temp_hotend") and match.get("temp_bed"):
                             temps = f" (Hotend: {match['temp_hotend']}C, Bed: {match['temp_bed']}C)"
 
-                        print(f"\n  First exact match with purchase link:")
-                        print(f"    - {manufacturer} - {material} - {color_name}{temps} [{match['link']}]")
+                        print("\n  First exact match with purchase link:")
+                        print(
+                            f"    - {manufacturer} - {material} - {color_name}{temps} [{match['link']}]"
+                        )
                         displayed_matches.append(match)
                         break
 
             # If none of the displayed matches are from top 10, find nearest from top 10
-            has_top_manufacturer = any(is_top_manufacturer(match['manufacturer']) for match in displayed_matches)
+            has_top_manufacturer = any(
+                is_top_manufacturer(match["manufacturer"])
+                for match in displayed_matches
+            )
             if not has_top_manufacturer:
                 for match in matches:
-                    if match not in displayed_matches and is_top_manufacturer(match['manufacturer']):
-                        manufacturer = match['manufacturer']
-                        material = match['material']
-                        color_name = match['color']
+                    if match not in displayed_matches and is_top_manufacturer(
+                        match["manufacturer"]
+                    ):
+                        manufacturer = match["manufacturer"]
+                        material = match["material"]
+                        color_name = match["color"]
                         temps = ""
-                        if match.get('temp_hotend') and match.get('temp_bed'):
+                        if match.get("temp_hotend") and match.get("temp_bed"):
                             temps = f" (Hotend: {match['temp_hotend']}C, Bed: {match['temp_bed']}C)"
 
                         link = ""
-                        if match.get('link'):
+                        if match.get("link"):
                             link = f" [{match['link']}]"
 
-                        print(f"\n  Nearest exact match from top manufacturer:")
-                        print(f"    - {manufacturer} - {material} - {color_name}{temps}{link}")
+                        print("\n  Nearest exact match from top manufacturer:")
+                        print(
+                            f"    - {manufacturer} - {material} - {color_name}{temps}{link}"
+                        )
                         break
         else:
             print("  No exact matches found")
 
             # Try to find similar colors
             try:
-                similar_matches = filament_colors.find_similar_filament_colors(hex_code, limit=MIN_SUGGESTIONS)
+                similar_matches = filament_colors.find_similar_filament_colors(
+                    hex_code, limit=MIN_SUGGESTIONS
+                )
                 if similar_matches:
                     print(f"  Closest {len(similar_matches)} match(es):")
 
                     # Check if any of the top matches have links
-                    has_link = any(filament.get('link') for filament, _ in similar_matches)
+                    has_link = any(
+                        filament.get("link") for filament, _ in similar_matches
+                    )
 
                     # Track displayed matches for top manufacturer check
                     displayed_filaments = [filament for filament, _ in similar_matches]
 
                     for filament, similarity in similar_matches:
-                        manufacturer = filament['manufacturer']
-                        material = filament['material']
-                        color_name = filament['color']
+                        manufacturer = filament["manufacturer"]
+                        material = filament["material"]
+                        color_name = filament["color"]
                         temps = ""
-                        if filament.get('temp_hotend') and filament.get('temp_bed'):
+                        if filament.get("temp_hotend") and filament.get("temp_bed"):
                             temps = f" (Hotend: {filament['temp_hotend']}C, Bed: {filament['temp_bed']}C)"
 
                         link = ""
-                        if filament.get('link'):
+                        if filament.get("link"):
                             link = f" [{filament['link']}]"
 
-                        print(f"    - {manufacturer} - {material} - {color_name} - {filament['hex']} ({similarity:.1f}% similar){temps}{link}")
+                        print(
+                            f"    - {manufacturer} - {material} - {color_name} - {filament['hex']} ({similarity:.1f}% similar){temps}{link}"
+                        )
 
                     # If none of the top matches have links, find the nearest one with a link
                     if not has_link:
                         # Get more matches to search for one with a link
-                        all_matches = filament_colors.find_similar_filament_colors(hex_code, limit=50)
+                        all_matches = filament_colors.find_similar_filament_colors(
+                            hex_code, limit=50
+                        )
                         for filament, similarity in all_matches:
-                            if filament.get('link') and filament not in displayed_filaments:
-                                manufacturer = filament['manufacturer']
-                                material = filament['material']
-                                color_name = filament['color']
+                            if (
+                                filament.get("link")
+                                and filament not in displayed_filaments
+                            ):
+                                manufacturer = filament["manufacturer"]
+                                material = filament["material"]
+                                color_name = filament["color"]
                                 temps = ""
-                                if filament.get('temp_hotend') and filament.get('temp_bed'):
+                                if filament.get("temp_hotend") and filament.get(
+                                    "temp_bed"
+                                ):
                                     temps = f" (Hotend: {filament['temp_hotend']}C, Bed: {filament['temp_bed']}C)"
 
-                                print(f"\n  Nearest match with purchase link:")
-                                print(f"    - {manufacturer} - {material} - {color_name} - {filament['hex']} ({similarity:.1f}% similar){temps} [{filament['link']}]")
+                                print("\n  Nearest match with purchase link:")
+                                print(
+                                    f"    - {manufacturer} - {material} - {color_name} - {filament['hex']} ({similarity:.1f}% similar){temps} [{filament['link']}]"
+                                )
                                 displayed_filaments.append(filament)
                                 break
 
                     # If none of the displayed matches are from top 10, find nearest from top 10
-                    has_top_manufacturer = any(is_top_manufacturer(filament['manufacturer']) for filament in displayed_filaments)
+                    has_top_manufacturer = any(
+                        is_top_manufacturer(filament["manufacturer"])
+                        for filament in displayed_filaments
+                    )
                     if not has_top_manufacturer:
                         # Get more matches to search for one from top 10
-                        all_matches = filament_colors.find_similar_filament_colors(hex_code, limit=50)
+                        all_matches = filament_colors.find_similar_filament_colors(
+                            hex_code, limit=50
+                        )
                         for filament, similarity in all_matches:
-                            if filament not in displayed_filaments and is_top_manufacturer(filament['manufacturer']):
-                                manufacturer = filament['manufacturer']
-                                material = filament['material']
-                                color_name = filament['color']
+                            if (
+                                filament not in displayed_filaments
+                                and is_top_manufacturer(filament["manufacturer"])
+                            ):
+                                manufacturer = filament["manufacturer"]
+                                material = filament["material"]
+                                color_name = filament["color"]
                                 temps = ""
-                                if filament.get('temp_hotend') and filament.get('temp_bed'):
+                                if filament.get("temp_hotend") and filament.get(
+                                    "temp_bed"
+                                ):
                                     temps = f" (Hotend: {filament['temp_hotend']}C, Bed: {filament['temp_bed']}C)"
 
                                 link = ""
-                                if filament.get('link'):
+                                if filament.get("link"):
                                     link = f" [{filament['link']}]"
 
-                                print(f"\n  Nearest match from top manufacturer:")
-                                print(f"    - {manufacturer} - {material} - {color_name} - {filament['hex']} ({similarity:.1f}% similar){temps}{link}")
+                                print("\n  Nearest match from top manufacturer:")
+                                print(
+                                    f"    - {manufacturer} - {material} - {color_name} - {filament['hex']} ({similarity:.1f}% similar){temps}{link}"
+                                )
                                 break
             except ImportError:
                 # compare_colors module not available
@@ -284,7 +328,11 @@ def main():
     print("\n")
     print("*" * 70)
     print("*" + " " * 68 + "*")
-    print("*" + "  TeamTone - Match Sports Team Colors to 3D Printing Filaments".center(68) + "*")
+    print(
+        "*"
+        + "  TeamTone - Match Sports Team Colors to 3D Printing Filaments".center(68)
+        + "*"
+    )
     print("*" + " " * 68 + "*")
     print("*" * 70)
 
@@ -301,7 +349,7 @@ def main():
             if team_name is None:
                 print("\nGoodbye!")
                 return
-            if team_name == 'back':
+            if team_name == "back":
                 break
 
             # Display colors and matches
@@ -310,10 +358,10 @@ def main():
             # Ask if user wants to see another team
             print("\n" + "=" * 70)
             choice = input("\nSee another team? (y/n/b to go back): ").strip().lower()
-            if choice == 'n':
+            if choice == "n":
                 print("\nGoodbye!")
                 return
-            elif choice == 'b':
+            elif choice == "b":
                 break
             # Otherwise continue to select another team from same league
 

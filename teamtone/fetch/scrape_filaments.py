@@ -24,22 +24,22 @@ from filament_sites import FilamentProfilesScraper
 
 # Available scrapers
 SCRAPERS = {
-    'filamentprofiles': FilamentProfilesScraper,
-    '3dfilamentprofiles': FilamentProfilesScraper,  # Alias
+    "filamentprofiles": FilamentProfilesScraper,
+    "3dfilamentprofiles": FilamentProfilesScraper,  # Alias
 }
 
 
 def sanitize_filename(name: str) -> str:
     """Convert manufacturer name to valid filename"""
     # Replace invalid characters with underscore
-    name = re.sub(r'[<>:"/\\|?*]', '_', name)
+    name = re.sub(r'[<>:"/\\|?*]', "_", name)
     # Replace spaces and other whitespace with underscore
-    name = re.sub(r'\s+', '_', name)
+    name = re.sub(r"\s+", "_", name)
     # Remove leading/trailing underscores and dots
-    name = name.strip('._')
+    name = name.strip("._")
     # Convert to lowercase for consistency
     name = name.lower()
-    return name or 'unknown'
+    return name or "unknown"
 
 
 def load_yaml(path: Path) -> dict:
@@ -47,7 +47,7 @@ def load_yaml(path: Path) -> dict:
     if not path.exists():
         return {}
 
-    with open(path, 'r', encoding='utf-8') as f:
+    with open(path, "r", encoding="utf-8") as f:
         return yaml.safe_load(f) or {}
 
 
@@ -55,8 +55,10 @@ def save_yaml(data: dict, path: Path) -> None:
     """Save data to YAML file"""
     path.parent.mkdir(parents=True, exist_ok=True)
 
-    with open(path, 'w', encoding='utf-8') as f:
-        yaml.dump(data, f, default_flow_style=False, allow_unicode=True, sort_keys=False)
+    with open(path, "w", encoding="utf-8") as f:
+        yaml.dump(
+            data, f, default_flow_style=False, allow_unicode=True, sort_keys=False
+        )
 
 
 def load_filaments_from_folder(folder: Path) -> dict:
@@ -71,7 +73,7 @@ def load_filaments_from_folder(folder: Path) -> dict:
 
     all_data = {}
 
-    for yaml_file in folder.glob('*.yaml'):
+    for yaml_file in folder.glob("*.yaml"):
         manufacturer_data = load_yaml(yaml_file)
         if manufacturer_data:
             # The file name (without .yaml) is the manufacturer key
@@ -98,7 +100,7 @@ def save_filaments_to_folder(data: dict, folder: Path) -> list[Path]:
 
     for manufacturer, materials in data.items():
         # Create safe filename from manufacturer name
-        filename = sanitize_filename(manufacturer) + '.yaml'
+        filename = sanitize_filename(manufacturer) + ".yaml"
         file_path = folder / filename
 
         # Save this manufacturer's data
@@ -135,46 +137,46 @@ def merge_filament_data(existing: dict, new: dict) -> dict:
 def main():
     """Main execution function"""
     parser = argparse.ArgumentParser(
-        description='Scrape filament data and update filaments/ folder'
+        description="Scrape filament data and update filaments/ folder"
     )
     parser.add_argument(
-        '--site',
+        "--site",
         choices=list(SCRAPERS.keys()),
-        default='filamentprofiles',
-        help='Source site to scrape (default: filamentprofiles)'
+        default="filamentprofiles",
+        help="Source site to scrape (default: filamentprofiles)",
     )
     parser.add_argument(
-        '--per-page',
+        "--per-page",
         type=int,
         default=100,
-        help='Number of results per page (default: 100)'
+        help="Number of results per page (default: 100)",
     )
     parser.add_argument(
-        '--delay',
+        "--delay",
         type=float,
         default=1.0,
-        help='Delay in seconds between requests to prevent rate limiting (default: 1.0)'
+        help="Delay in seconds between requests to prevent rate limiting (default: 1.0)",
     )
     parser.add_argument(
-        '--dry-run',
-        action='store_true',
-        help='Preview changes without writing to filaments/ folder'
+        "--dry-run",
+        action="store_true",
+        help="Preview changes without writing to filaments/ folder",
     )
     parser.add_argument(
-        '--list-sites',
-        action='store_true',
-        help='List available scraper sites and exit'
+        "--list-sites",
+        action="store_true",
+        help="List available scraper sites and exit",
     )
     parser.add_argument(
-        '--fetch-only',
-        action='store_true',
-        help='Fetch raw HTML only without parsing (for debugging)'
+        "--fetch-only",
+        action="store_true",
+        help="Fetch raw HTML only without parsing (for debugging)",
     )
     parser.add_argument(
-        '--output',
+        "--output",
         type=str,
-        default='raw_fetch.html',
-        help='Output file for --fetch-only mode (default: raw_fetch.html)'
+        default="raw_fetch.html",
+        help="Output file for --fetch-only mode (default: raw_fetch.html)",
     )
 
     args = parser.parse_args()
@@ -192,7 +194,7 @@ def main():
     # Get paths
     script_dir = Path(__file__).parent
     project_root = script_dir.parent
-    filaments_folder = project_root / 'filaments'
+    filaments_folder = project_root / "filaments"
 
     # Initialize the scraper
     scraper_class = SCRAPERS[args.site]
@@ -203,7 +205,9 @@ def main():
 
     # Fetch the data
     try:
-        raw_data = scraper.fetch(per_page=args.per_page, delay=args.delay, fetch_only=args.fetch_only)
+        raw_data = scraper.fetch(
+            per_page=args.per_page, delay=args.delay, fetch_only=args.fetch_only
+        )
     except Exception as e:
         print(f"Error during scraping: {e}")
         sys.exit(1)
@@ -211,17 +215,17 @@ def main():
     # If fetch-only mode, dump raw HTML and exit
     if args.fetch_only:
         output_path = Path(args.output)
-        raw_html = raw_data.get('raw_html', '')
+        raw_html = raw_data.get("raw_html", "")
 
         if not raw_html:
             print("Error: No raw HTML data returned from scraper")
             sys.exit(1)
 
         # Check if content looks like text
-        preview = raw_html[:200].replace('\n', ' ').strip()
-        has_null_bytes = '\x00' in raw_html[:1000]
+        preview = raw_html[:200].replace("\n", " ").strip()
+        has_null_bytes = "\x00" in raw_html[:1000]
 
-        print(f"\nContent Analysis:")
+        print("\nContent Analysis:")
         print(f"  Encoding: {raw_data.get('encoding', 'unknown')}")
         print(f"  Content-Type: {raw_data.get('content_type', 'unknown')}")
         print(f"  Has null bytes: {has_null_bytes}")
@@ -231,7 +235,7 @@ def main():
             print("\n⚠ Warning: Content appears to be binary, not text!")
             print("  The site may be returning compressed or binary data.")
 
-        output_path.write_text(raw_html, encoding='utf-8')
+        output_path.write_text(raw_html, encoding="utf-8")
         print(f"\n✓ Raw HTML saved to {output_path}")
         print(f"  Size: {len(raw_html):,} characters")
         print(f"  Source: {raw_data.get('source_url', 'Unknown')}")
@@ -250,7 +254,9 @@ def main():
         for material in manufacturer.values()
         for colors in [material]
     )
-    print(f"Converted to {total_colors} color entries across {len(new_data)} manufacturers")
+    print(
+        f"Converted to {total_colors} color entries across {len(new_data)} manufacturers"
+    )
 
     # Load existing data from folder
     existing_data = load_filaments_from_folder(filaments_folder)
@@ -261,8 +267,12 @@ def main():
     if args.dry_run:
         print("\n=== DRY RUN - No files modified ===")
         print(f"\nWould update: {filaments_folder}")
-        print(f"Existing entries: {sum(len(colors) for mfr in existing_data.values() for mat in mfr.values() for colors in [mat])}")
-        print(f"After merge: {sum(len(colors) for mfr in merged_data.values() for mat in mfr.values() for colors in [mat])}")
+        print(
+            f"Existing entries: {sum(len(colors) for mfr in existing_data.values() for mat in mfr.values() for colors in [mat])}"
+        )
+        print(
+            f"After merge: {sum(len(colors) for mfr in merged_data.values() for mat in mfr.values() for colors in [mat])}"
+        )
 
         # Show what would be added
         new_manufacturers = set(new_data.keys()) - set(existing_data.keys())
@@ -283,11 +293,13 @@ def main():
 
     print(f"\n[OK] Updated {filaments_folder}")
     print(f"  Files written: {len(written_files)}")
-    print(f"  Total entries: {sum(len(colors) for mfr in merged_data.values() for mat in mfr.values() for colors in [mat])}")
+    print(
+        f"  Total entries: {sum(len(colors) for mfr in merged_data.values() for mat in mfr.values() for colors in [mat])}"
+    )
     print("\nNext steps:")
-    print(f"  git status teamtone/filaments/     # See changed files")
-    print(f"  git diff teamtone/filaments/       # Review changes")
-    print(f"  git add teamtone/filaments/        # Stage if looks good")
+    print("  git status teamtone/filaments/     # See changed files")
+    print("  git diff teamtone/filaments/       # Review changes")
+    print("  git add teamtone/filaments/        # Stage if looks good")
 
 
 if __name__ == "__main__":

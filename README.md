@@ -1,6 +1,8 @@
 # TeamTone
 
-**TeamTone** is a tool that helps makers match their favorite sports teams’ official colors with real-world 3D printer filaments.
+![CI](https://github.com/your-username/teamtone/actions/workflows/ci.yml/badge.svg)
+
+**TeamTone** is a tool that helps makers match their favorite sports teams' official colors with real-world 3D printer filaments.
 
 Instead of guessing which filament is “close enough,” TeamTone analyzes team color palettes and compares them against filament color catalogs to identify the closest matches using objective color-distance calculations.
 
@@ -158,11 +160,26 @@ The database is organized by manufacturer, making it easy to filter or search by
 
 Contributions are welcome!
 
-* Fork the repository
-* Create a feature branch
-* Submit a pull request with a clear description
+### Development Workflow
 
-If you’re adding filament data or improving color matching, please include sample data and tests where possible.
+1. Fork the repository
+2. Create a feature branch
+3. Install dependencies: `make install`
+4. Make your changes
+5. Run the test suite: `make test`
+6. Run the linter: `make lint`
+7. Format your code: `make format`
+8. Submit a pull request with a clear description
+
+### Continuous Integration
+
+All pull requests automatically run:
+- Code linting with ruff
+- Test suite with pytest
+
+Make sure your changes pass both checks before submitting.
+
+If you're adding filament data or improving color matching, please include sample data and tests where possible.
 
 ---
 

@@ -11,7 +11,8 @@ from typing import Optional, Dict, List, Tuple
 
 # Load filament data from filaments folder (one file per manufacturer)
 _current_dir = os.path.dirname(os.path.abspath(__file__))
-_filaments_folder = os.path.join(_current_dir, 'filaments')
+_filaments_folder = os.path.join(_current_dir, "filaments")
+
 
 def _load_filaments_from_folder(folder: str) -> dict:
     """Load all filament data from manufacturer YAML files in the filaments folder"""
@@ -22,22 +23,25 @@ def _load_filaments_from_folder(folder: str) -> dict:
 
     all_filaments = {}
 
-    for yaml_file in glob.glob(os.path.join(folder, '*.yaml')):
+    for yaml_file in glob.glob(os.path.join(folder, "*.yaml")):
         # Skip config files (files starting with underscore)
-        if os.path.basename(yaml_file).startswith('_'):
+        if os.path.basename(yaml_file).startswith("_"):
             continue
 
-        with open(yaml_file, 'r', encoding='utf-8') as f:
+        with open(yaml_file, "r", encoding="utf-8") as f:
             manufacturer_data = yaml.safe_load(f)
             if manufacturer_data:
                 all_filaments.update(manufacturer_data)
 
     return all_filaments
 
+
 ALL_FILAMENTS = _load_filaments_from_folder(_filaments_folder)
 
 
-def get_filament_color(manufacturer: str, material: str, color_name: str) -> Optional[Dict]:
+def get_filament_color(
+    manufacturer: str, material: str, color_name: str
+) -> Optional[Dict]:
     """
     Get color information for a specific filament.
 
@@ -67,21 +71,22 @@ def get_filament_color(manufacturer: str, material: str, color_name: str) -> Opt
                                 "manufacturer": mfr_key,
                                 "material": mat_key,
                                 "color": color_key,
-                                "hex": color_data.get('hex'),
-                                "source": color_data.get('source'),
+                                "hex": color_data.get("hex"),
+                                "source": color_data.get("source"),
                             }
                             # Add temperature data if available
-                            if 'temp_hotend' in color_data:
-                                result['temp_hotend'] = color_data['temp_hotend']
-                            if 'temp_bed' in color_data:
-                                result['temp_bed'] = color_data['temp_bed']
+                            if "temp_hotend" in color_data:
+                                result["temp_hotend"] = color_data["temp_hotend"]
+                            if "temp_bed" in color_data:
+                                result["temp_bed"] = color_data["temp_bed"]
                             return result
 
     return None
 
 
-def search_filaments(search_term: str, manufacturer: Optional[str] = None,
-                     material: Optional[str] = None) -> List[Dict]:
+def search_filaments(
+    search_term: str, manufacturer: Optional[str] = None, material: Optional[str] = None
+) -> List[Dict]:
     """
     Search for filaments by color name, optionally filtered by manufacturer and/or material.
 
@@ -114,15 +119,15 @@ def search_filaments(search_term: str, manufacturer: Optional[str] = None,
                         "manufacturer": mfr_key,
                         "material": mat_key,
                         "color": color_key,
-                        "hex": color_data.get('hex'),
-                        "source": color_data.get('source'),
+                        "hex": color_data.get("hex"),
+                        "source": color_data.get("source"),
                     }
-                    if 'temp_hotend' in color_data:
-                        result['temp_hotend'] = color_data['temp_hotend']
-                    if 'temp_bed' in color_data:
-                        result['temp_bed'] = color_data['temp_bed']
-                    if 'link' in color_data:
-                        result['link'] = color_data['link']
+                    if "temp_hotend" in color_data:
+                        result["temp_hotend"] = color_data["temp_hotend"]
+                    if "temp_bed" in color_data:
+                        result["temp_bed"] = color_data["temp_bed"]
+                    if "link" in color_data:
+                        result["link"] = color_data["link"]
                     results.append(result)
 
     return results
@@ -203,20 +208,20 @@ def get_filaments_with_hex() -> List[Dict]:
     for mfr_key, materials in ALL_FILAMENTS.items():
         for mat_key, colors in materials.items():
             for color_key, color_data in colors.items():
-                if color_data.get('hex') is not None:
+                if color_data.get("hex") is not None:
                     result = {
                         "manufacturer": mfr_key,
                         "material": mat_key,
                         "color": color_key,
-                        "hex": color_data['hex'],
-                        "source": color_data.get('source'),
+                        "hex": color_data["hex"],
+                        "source": color_data.get("source"),
                     }
-                    if 'temp_hotend' in color_data:
-                        result['temp_hotend'] = color_data['temp_hotend']
-                    if 'temp_bed' in color_data:
-                        result['temp_bed'] = color_data['temp_bed']
-                    if 'link' in color_data:
-                        result['link'] = color_data['link']
+                    if "temp_hotend" in color_data:
+                        result["temp_hotend"] = color_data["temp_hotend"]
+                    if "temp_bed" in color_data:
+                        result["temp_bed"] = color_data["temp_bed"]
+                    if "link" in color_data:
+                        result["link"] = color_data["link"]
                     results.append(result)
 
     return results
@@ -233,7 +238,7 @@ def get_filaments_by_hex(hex_code: str) -> List[Dict]:
         List[Dict]: List of matching filaments with their information
     """
     # Normalize hex code (remove # if present, convert to uppercase)
-    hex_normalized = hex_code.strip('#').upper()
+    hex_normalized = hex_code.strip("#").upper()
 
     matches = []
 
@@ -241,7 +246,7 @@ def get_filaments_by_hex(hex_code: str) -> List[Dict]:
         for mat_key, colors in materials.items():
             for color_key, color_data in colors.items():
                 # Normalize the stored hex code
-                stored_hex = color_data.get('hex', '').strip('#').upper()
+                stored_hex = color_data.get("hex", "").strip("#").upper()
 
                 if stored_hex == hex_normalized:
                     result = {
@@ -251,18 +256,20 @@ def get_filaments_by_hex(hex_code: str) -> List[Dict]:
                         "hex": f"#{stored_hex}",
                         "source": color_data.get("source"),
                     }
-                    if 'temp_hotend' in color_data:
-                        result['temp_hotend'] = color_data['temp_hotend']
-                    if 'temp_bed' in color_data:
-                        result['temp_bed'] = color_data['temp_bed']
-                    if 'link' in color_data:
-                        result['link'] = color_data['link']
+                    if "temp_hotend" in color_data:
+                        result["temp_hotend"] = color_data["temp_hotend"]
+                    if "temp_bed" in color_data:
+                        result["temp_bed"] = color_data["temp_bed"]
+                    if "link" in color_data:
+                        result["link"] = color_data["link"]
                     matches.append(result)
 
     return matches
 
 
-def find_similar_filament_color(target_hex: str, manufacturer: Optional[str] = None) -> Optional[Tuple[Dict, float]]:
+def find_similar_filament_color(
+    target_hex: str, manufacturer: Optional[str] = None
+) -> Optional[Tuple[Dict, float]]:
     """
     Find the closest matching filament color to a target hex code.
     Requires the compare_colors module.
@@ -286,7 +293,9 @@ def find_similar_filament_color(target_hex: str, manufacturer: Optional[str] = N
 
     if manufacturer:
         manufacturer_lower = manufacturer.lower()
-        filaments = [f for f in filaments if f['manufacturer'].lower() == manufacturer_lower]
+        filaments = [
+            f for f in filaments if f["manufacturer"].lower() == manufacturer_lower
+        ]
 
     if not filaments:
         return None
@@ -295,7 +304,9 @@ def find_similar_filament_color(target_hex: str, manufacturer: Optional[str] = N
     best_similarity = -1
 
     for filament in filaments:
-        similarity = compare_colors.color_similarity_percentage(target_hex, filament['hex'])
+        similarity = compare_colors.color_similarity_percentage(
+            target_hex, filament["hex"]
+        )
         if similarity > best_similarity:
             best_similarity = similarity
             best_match = filament
@@ -303,7 +314,9 @@ def find_similar_filament_color(target_hex: str, manufacturer: Optional[str] = N
     return (best_match, best_similarity) if best_match else None
 
 
-def find_similar_filament_colors(target_hex: str, limit: int = 3, manufacturer: Optional[str] = None) -> List[Tuple[Dict, float]]:
+def find_similar_filament_colors(
+    target_hex: str, limit: int = 3, manufacturer: Optional[str] = None
+) -> List[Tuple[Dict, float]]:
     """
     Find multiple similar filament colors to a target hex code, sorted by similarity.
     Requires the compare_colors module.
@@ -328,7 +341,9 @@ def find_similar_filament_colors(target_hex: str, limit: int = 3, manufacturer: 
 
     if manufacturer:
         manufacturer_lower = manufacturer.lower()
-        filaments = [f for f in filaments if f['manufacturer'].lower() == manufacturer_lower]
+        filaments = [
+            f for f in filaments if f["manufacturer"].lower() == manufacturer_lower
+        ]
 
     if not filaments:
         return []
@@ -336,7 +351,9 @@ def find_similar_filament_colors(target_hex: str, limit: int = 3, manufacturer: 
     # Calculate similarity for all filaments
     matches = []
     for filament in filaments:
-        similarity = compare_colors.color_similarity_percentage(target_hex, filament['hex'])
+        similarity = compare_colors.color_similarity_percentage(
+            target_hex, filament["hex"]
+        )
         matches.append((filament, similarity))
 
     # Sort by similarity (descending) and return top N
@@ -358,9 +375,9 @@ if __name__ == "__main__":
         print(f"Color: {blue_pla['color']}")
         print(f"Hex Code: {blue_pla['hex']}")
         print(f"Source: {blue_pla['source']}")
-        if 'temp_hotend' in blue_pla:
+        if "temp_hotend" in blue_pla:
             print(f"Hotend Temp: {blue_pla['temp_hotend']}°C")
-        if 'temp_bed' in blue_pla:
+        if "temp_bed" in blue_pla:
             print(f"Bed Temp: {blue_pla['temp_bed']}°C")
 
     print("\n" + "=" * 70)
@@ -370,8 +387,10 @@ if __name__ == "__main__":
     blue_filaments = search_filaments("Blue")
     print(f"Found {len(blue_filaments)} blue filaments:")
     for filament in blue_filaments[:5]:  # Show first 5
-        hex_str = filament['hex'] if filament['hex'] else 'Not measured'
-        print(f"  - {filament['manufacturer']} {filament['material']} {filament['color']}: {hex_str}")
+        hex_str = filament["hex"] if filament["hex"] else "Not measured"
+        print(
+            f"  - {filament['manufacturer']} {filament['material']} {filament['color']}: {hex_str}"
+        )
 
     print("\n" + "=" * 70)
 
@@ -382,7 +401,9 @@ if __name__ == "__main__":
         for material, colors in overture_petg.items():
             print(f"\n{material}:")
             for color_name, color_data in colors.items():
-                hex_str = color_data.get('hex') if color_data.get('hex') else 'Not measured'
+                hex_str = (
+                    color_data.get("hex") if color_data.get("hex") else "Not measured"
+                )
                 print(f"  - {color_name}: {hex_str}")
 
     print("\n" + "=" * 70)
@@ -399,7 +420,9 @@ if __name__ == "__main__":
     filaments_with_hex = get_filaments_with_hex()
     print(f"Found {len(filaments_with_hex)} filaments with hex codes:")
     for filament in filaments_with_hex:
-        print(f"  - {filament['manufacturer']} {filament['material']} {filament['color']}: {filament['hex']}")
+        print(
+            f"  - {filament['manufacturer']} {filament['material']} {filament['color']}: {filament['hex']}"
+        )
 
     print("\n" + "=" * 70)
 
@@ -409,7 +432,9 @@ if __name__ == "__main__":
         match = find_similar_filament_color("#004080")
         if match:
             filament, similarity = match
-            print(f"Best match: {filament['manufacturer']} {filament['material']} {filament['color']}")
+            print(
+                f"Best match: {filament['manufacturer']} {filament['material']} {filament['color']}"
+            )
             print(f"Hex: {filament['hex']}")
             print(f"Similarity: {similarity:.2f}%")
     except ImportError as e:

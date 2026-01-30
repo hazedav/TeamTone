@@ -1,7 +1,7 @@
 """
 Test suite for FilamentProfilesScraper parser
 
-Run with: pytest teamtone/fetch/test_parser.py -v
+Run with: pytest teamtone/fetch/test_scrape_filaments.py -v
 """
 
 import pytest

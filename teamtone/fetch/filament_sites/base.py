@@ -52,10 +52,10 @@ class FilamentScraper(ABC):
         """
         yaml_data = {}
 
-        for filament in data.get('filaments', []):
-            manufacturer = filament.get('manufacturer', 'Unknown')
-            material = filament.get('material', 'PLA')
-            color = filament.get('color', 'Unknown')
+        for filament in data.get("filaments", []):
+            manufacturer = filament.get("manufacturer", "Unknown")
+            material = filament.get("material", "PLA")
+            color = filament.get("color", "Unknown")
 
             # Initialize nested structure
             if manufacturer not in yaml_data:
@@ -65,16 +65,16 @@ class FilamentScraper(ABC):
 
             # Add color data
             color_data = {
-                'hex': filament.get('hex', '#000000'),
-                'source': data.get('source_name', self.site_name)
+                "hex": filament.get("hex", "#000000"),
+                "source": data.get("source_name", self.site_name),
             }
 
-            if 'temp_hotend' in filament:
-                color_data['temp_hotend'] = filament['temp_hotend']
-            if 'temp_bed' in filament:
-                color_data['temp_bed'] = filament['temp_bed']
-            if 'link' in filament:
-                color_data['link'] = filament['link']
+            if "temp_hotend" in filament:
+                color_data["temp_hotend"] = filament["temp_hotend"]
+            if "temp_bed" in filament:
+                color_data["temp_bed"] = filament["temp_bed"]
+            if "link" in filament:
+                color_data["link"] = filament["link"]
 
             yaml_data[manufacturer][material][color] = color_data
 

@@ -18,10 +18,10 @@ def hex_to_rgb(hex_color: str) -> Tuple[int, int, int]:
         Tuple[int, int, int]: RGB values (0-255)
     """
     # Remove # if present
-    hex_color = hex_color.lstrip('#')
+    hex_color = hex_color.lstrip("#")
 
     # Convert to RGB
-    return tuple(int(hex_color[i:i+2], 16) for i in (0, 2, 4))
+    return tuple(int(hex_color[i : i + 2], 16) for i in (0, 2, 4))
 
 
 def rgb_to_hex(r: int, g: int, b: int) -> str:
@@ -78,11 +78,11 @@ def rgb_to_lab(r: int, g: int, b: int) -> Tuple[float, float, float]:
 
     # Convert XYZ to LAB
     def f(t):
-        delta = 6/29
-        if t > delta ** 3:
-            return t ** (1/3)
+        delta = 6 / 29
+        if t > delta**3:
+            return t ** (1 / 3)
         else:
-            return t / (3 * delta ** 2) + 4/29
+            return t / (3 * delta**2) + 4 / 29
 
     L = 116 * f(y) - 16
     a = 500 * (f(x) - f(y))
@@ -105,7 +105,7 @@ def euclidean_distance_rgb(hex1: str, hex2: str) -> float:
     r1, g1, b1 = hex_to_rgb(hex1)
     r2, g2, b2 = hex_to_rgb(hex2)
 
-    return math.sqrt((r2 - r1)**2 + (g2 - g1)**2 + (b2 - b1)**2)
+    return math.sqrt((r2 - r1) ** 2 + (g2 - g1) ** 2 + (b2 - b1) ** 2)
 
 
 def weighted_rgb_distance(hex1: str, hex2: str) -> float:
@@ -135,7 +135,9 @@ def weighted_rgb_distance(hex1: str, hex2: str) -> float:
     weight_g = 4.0
     weight_b = 2 + (255 - r_mean) / 256
 
-    return math.sqrt(weight_r * delta_r**2 + weight_g * delta_g**2 + weight_b * delta_b**2)
+    return math.sqrt(
+        weight_r * delta_r**2 + weight_g * delta_g**2 + weight_b * delta_b**2
+    )
 
 
 def delta_e_cie76(hex1: str, hex2: str) -> float:
@@ -208,15 +210,17 @@ def delta_e_cie94(hex1: str, hex2: str) -> float:
     SH = 1.0 + K2 * C1
 
     delta_e = math.sqrt(
-        (delta_L / (kL * SL))**2 +
-        (delta_C / (kC * SC))**2 +
-        (delta_H / (kH * SH))**2
+        (delta_L / (kL * SL)) ** 2
+        + (delta_C / (kC * SC)) ** 2
+        + (delta_H / (kH * SH)) ** 2
     )
 
     return delta_e
 
 
-def color_similarity_percentage(hex1: str, hex2: str, method: str = 'delta_e_cie76') -> float:
+def color_similarity_percentage(
+    hex1: str, hex2: str, method: str = "delta_e_cie76"
+) -> float:
     """
     Calculate color similarity as a percentage (0-100%).
     100% means identical colors, 0% means very different.
@@ -229,18 +233,18 @@ def color_similarity_percentage(hex1: str, hex2: str, method: str = 'delta_e_cie
     Returns:
         float: Similarity percentage (0-100)
     """
-    if method == 'delta_e_cie76':
+    if method == "delta_e_cie76":
         distance = delta_e_cie76(hex1, hex2)
         # Delta E of 100 is very different, 0 is identical
         max_distance = 100.0
-    elif method == 'delta_e_cie94':
+    elif method == "delta_e_cie94":
         distance = delta_e_cie94(hex1, hex2)
         max_distance = 100.0
-    elif method == 'rgb':
+    elif method == "rgb":
         distance = euclidean_distance_rgb(hex1, hex2)
         # Max RGB distance is sqrt(255^2 + 255^2 + 255^2) ≈ 441.67
         max_distance = 441.67
-    elif method == 'weighted_rgb':
+    elif method == "weighted_rgb":
         distance = weighted_rgb_distance(hex1, hex2)
         max_distance = 765.0  # Approximate max for weighted distance
     else:
@@ -263,15 +267,19 @@ def compare_colors(hex1: str, hex2: str) -> Dict[str, float]:
         Dict[str, float]: Dictionary with various distance metrics and similarity
     """
     return {
-        'rgb_distance': euclidean_distance_rgb(hex1, hex2),
-        'weighted_rgb_distance': weighted_rgb_distance(hex1, hex2),
-        'delta_e_cie76': delta_e_cie76(hex1, hex2),
-        'delta_e_cie94': delta_e_cie94(hex1, hex2),
-        'similarity_percentage': color_similarity_percentage(hex1, hex2, 'delta_e_cie76'),
+        "rgb_distance": euclidean_distance_rgb(hex1, hex2),
+        "weighted_rgb_distance": weighted_rgb_distance(hex1, hex2),
+        "delta_e_cie76": delta_e_cie76(hex1, hex2),
+        "delta_e_cie94": delta_e_cie94(hex1, hex2),
+        "similarity_percentage": color_similarity_percentage(
+            hex1, hex2, "delta_e_cie76"
+        ),
     }
 
 
-def find_closest_color(target_hex: str, color_list: list[Tuple[str, str]]) -> Tuple[str, str, float]:
+def find_closest_color(
+    target_hex: str, color_list: list[Tuple[str, str]]
+) -> Tuple[str, str, float]:
     """
     Find the closest color from a list of colors.
 
@@ -305,7 +313,7 @@ if __name__ == "__main__":
     print("=" * 60)
 
     # Example 1: Compare Lakers colors
-    print(f"\nExample 1: Lakers Purple vs Lakers Gold")
+    print("\nExample 1: Lakers Purple vs Lakers Gold")
     print(f"Purple: {lakers_purple}, Gold: {lakers_gold}")
     result = compare_colors(lakers_purple, lakers_gold)
     print(f"RGB Distance: {result['rgb_distance']:.2f}")
@@ -315,7 +323,7 @@ if __name__ == "__main__":
     print("\n" + "=" * 60)
 
     # Example 2: Compare Lakers Purple vs Celtics Green
-    print(f"\nExample 2: Lakers Purple vs Celtics Green")
+    print("\nExample 2: Lakers Purple vs Celtics Green")
     print(f"Purple: {lakers_purple}, Green: {celtics_green}")
     result = compare_colors(lakers_purple, celtics_green)
     print(f"RGB Distance: {result['rgb_distance']:.2f}")
@@ -325,7 +333,7 @@ if __name__ == "__main__":
     print("\n" + "=" * 60)
 
     # Example 3: Find closest color
-    print(f"\nExample 3: Find closest color to Lakers Purple")
+    print("\nExample 3: Find closest color to Lakers Purple")
     colors = [
         ("Lakers Gold", lakers_gold),
         ("Celtics Green", celtics_green),
@@ -338,7 +346,7 @@ if __name__ == "__main__":
     print("\n" + "=" * 60)
 
     # Example 4: Demonstrating Delta E interpretation
-    print(f"\nExample 4: Delta E Interpretation Guide")
+    print("\nExample 4: Delta E Interpretation Guide")
     print("0-1: Not perceptible to human eye")
     print("1-2: Perceptible through close observation")
     print("2-10: Perceptible at a glance")
