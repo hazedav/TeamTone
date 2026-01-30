@@ -1,10 +1,19 @@
 # TeamTone Makefile
 
-.PHONY: help lint format test run scrape clean
+# Project directory
+TEAMTONE_DIR := teamtone
+
+# Helper to run commands in the teamtone directory
+define run_in_teamtone
+	cd $(TEAMTONE_DIR) && $(1)
+endef
+
+.PHONY: help install lint format test run scrape clean
 
 help:
 	@echo "TeamTone - Available Commands:"
 	@echo ""
+	@echo "  make install     Install dependencies and tools"
 	@echo "  make lint        Run code linting with ruff"
 	@echo "  make format      Auto-format code with ruff"
 	@echo "  make test        Run test suite with pytest"
@@ -13,18 +22,23 @@ help:
 	@echo "  make clean       Remove Python cache files"
 	@echo ""
 
+install:
+	@echo "Installing dependencies..."
+	$(call run_in_teamtone,uv sync)
+	@echo "Installation complete!"
+
 lint:
 	@echo "Running ruff linter..."
-	uv run ruff check teamtone/
+	$(call run_in_teamtone,uv run ruff check .)
 
 format:
 	@echo "Formatting code with ruff..."
-	uv run ruff format teamtone/
-	uv run ruff check --fix teamtone/
+	$(call run_in_teamtone,uv run ruff format .)
+	$(call run_in_teamtone,uv run ruff check --fix .)
 
 test:
 	@echo "Running test suite with pytest..."
-	uv run pytest teamtone/fetch/test_scrape_filaments.py -v
+	$(call run_in_teamtone,uv run pytest fetch/test_scrape_filaments.py -v)
 
 run:
 	@echo "Starting TeamTone CLI..."

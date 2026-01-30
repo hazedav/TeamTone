@@ -164,7 +164,7 @@ Contributions are welcome!
 
 1. Fork the repository
 2. Create a feature branch
-3. Install dependencies: `uv sync`
+3. Install dependencies: `make install`
 4. Make your changes
 5. Run the test suite: `make test`
 6. Run the linter: `make lint`
