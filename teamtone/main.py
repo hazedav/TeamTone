@@ -3,40 +3,14 @@ TeamTone - Main CLI
 Interactive script to match team colors with 3D printing filaments
 """
 
-import os
-import yaml
 from . import team_colors
 from . import filament_colors
+from .filament_manufacturers import is_top_manufacturer
 
 # Maximum number of filament suggestions to display per color
 MAX_SUGGESTIONS = 3
 # Minimum number of similar matches to show when no exact matches found
 MIN_SUGGESTIONS = 3
-
-# Load top 10 manufacturers list
-_current_dir = os.path.dirname(os.path.abspath(__file__))
-_top10_file = os.path.join(_current_dir, "filaments", "_top10.yaml")
-try:
-    with open(_top10_file, "r", encoding="utf-8") as f:
-        _top10_data = yaml.safe_load(f)
-        # Extract manufacturer names from filenames (remove .yaml extension)
-        TOP_MANUFACTURERS = [
-            filename.replace(".yaml", "").replace("_", " ").title()
-            for filename in _top10_data.get("top_manufacturers", [])
-        ]
-except FileNotFoundError:
-    TOP_MANUFACTURERS = []
-
-
-def is_top_manufacturer(manufacturer):
-    """Check if a manufacturer is in the top 10 list"""
-    if not TOP_MANUFACTURERS:
-        return False
-    manufacturer_lower = manufacturer.lower()
-    return any(
-        top_mfr.lower() in manufacturer_lower or manufacturer_lower in top_mfr.lower()
-        for top_mfr in TOP_MANUFACTURERS
-    )
 
 
 def print_header(text):

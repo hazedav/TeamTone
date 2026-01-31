@@ -24,10 +24,6 @@ def _load_filaments_from_folder(folder: str) -> dict:
     all_filaments = {}
 
     for yaml_file in glob.glob(os.path.join(folder, "*.yaml")):
-        # Skip config files (files starting with underscore)
-        if os.path.basename(yaml_file).startswith("_"):
-            continue
-
         with open(yaml_file, "r", encoding="utf-8") as f:
             manufacturer_data = yaml.safe_load(f)
             if manufacturer_data:
