@@ -44,6 +44,10 @@ class PolymakerScraper(FilamentScraper):
     def site_url(self) -> str:
         return "https://us.polymaker.com"
 
+    @property
+    def manufacturer(self) -> str:
+        return "Polymaker"
+
     def _get_session(self) -> requests.Session:
         """Create a requests session with appropriate headers"""
         session = requests.Session()

@@ -320,6 +320,42 @@ class TestManufacturerFiltering:
         assert filaments[0]["manufacturer"] == "Hatchbox"
 
 
+class TestDynamicManufacturerFiltering:
+    """Test that manufacturer filtering is dynamic based on dedicated scrapers"""
+
+    def test_get_dedicated_manufacturers_returns_set(self):
+        """get_dedicated_manufacturers should return a set of lowercase names"""
+        from . import get_dedicated_manufacturers
+
+        manufacturers = get_dedicated_manufacturers()
+
+        assert isinstance(manufacturers, set)
+        # All values should be lowercase strings
+        for mfr in manufacturers:
+            assert isinstance(mfr, str)
+            assert mfr == mfr.lower()
+
+    def test_dedicated_manufacturers_include_known_scrapers(self):
+        """Should include manufacturers from Polymaker, SUNLU, and Overture scrapers"""
+        from . import get_dedicated_manufacturers
+
+        manufacturers = get_dedicated_manufacturers()
+
+        assert "polymaker" in manufacturers
+        assert "sunlu" in manufacturers
+        assert "overture" in manufacturers
+
+    def test_aggregate_scraper_not_in_dedicated(self):
+        """FilamentProfilesScraper should not be in dedicated manufacturers"""
+        from . import get_dedicated_manufacturers
+
+        manufacturers = get_dedicated_manufacturers()
+
+        # FilamentProfilesScraper has manufacturer=None, so shouldn't add anything
+        assert "3dfilamentprofiles" not in manufacturers
+        assert "filamentprofiles" not in manufacturers
+
+
 class TestScraperProperties:
     """Test scraper property methods"""
 

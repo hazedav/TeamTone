@@ -57,6 +57,10 @@ class OvertureScraper(FilamentScraper):
     def site_url(self) -> str:
         return "https://overture3d.com"
 
+    @property
+    def manufacturer(self) -> str:
+        return "Overture"
+
     def _get_session(self) -> requests.Session:
         """Create a requests session with appropriate headers"""
         session = requests.Session()
