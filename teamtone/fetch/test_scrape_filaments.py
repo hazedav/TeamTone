@@ -14,9 +14,9 @@ from filament_sites.filamentprofiles import FilamentProfilesScraper
 @pytest.fixture
 def html_content():
     """Load the saved HTML file for testing"""
-    html_file = Path(__file__).parent / "filaments.html"
+    html_file = Path(__file__).parent / "filament_dumps" / "filamentprofiles.html"
     if not html_file.exists():
-        pytest.skip(f"HTML file not found: {html_file}")
+        pytest.fail(f"HTML file not found: {html_file}")
 
     with open(html_file, "r", encoding="utf-8") as f:
         return f.read()
