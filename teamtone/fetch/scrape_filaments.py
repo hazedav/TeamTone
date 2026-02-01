@@ -19,7 +19,7 @@ except ImportError:
     print("Install with: uv sync")
     sys.exit(1)
 
-from filament_sites import FilamentProfilesScraper, PolymakerScraper
+from filament_sites import FilamentProfilesScraper, PolymakerScraper, SunluScraper
 
 
 # Available scrapers
@@ -27,6 +27,7 @@ SCRAPERS = {
     "filamentprofiles": FilamentProfilesScraper,
     "3dfilamentprofiles": FilamentProfilesScraper,  # Alias
     "polymaker": PolymakerScraper,
+    "sunlu": SunluScraper,
 }
 
 
