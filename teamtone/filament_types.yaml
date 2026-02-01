@@ -1,0 +1,20 @@
+# Base filament types - variants are detected via prefix matching
+# e.g., "PLA Silk", "PLA Matte", "PLA CF" all classify as "PLA"
+
+base_types:
+  - PLA
+  - PETG
+  - ABS
+  - ASA
+  - TPU
+  - PC
+  - PA
+  - PET
+  - HIPS
+  - PVA
+  - PP
+  - CPE
+  - PCTG
+
+# Materials that don't match any prefix go here
+default_type: OTHER

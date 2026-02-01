@@ -139,7 +139,7 @@ python -m teamtone.main
 
 ```text
 ======================================================================
-  Los Angeles Lakers (NBA)
+  Los Angeles Lakers (NBA) [PLA]
 ======================================================================
 
 Team Colors:
@@ -148,28 +148,28 @@ Team Colors:
   - Black: #000000
 
 ----------------------------------------------------------------------
-Matching Filaments:
+Matching Filaments (PLA only):
 ----------------------------------------------------------------------
 
 Purple (#552583):
   No exact matches found
   Closest 3 match(es) (weighted by manufacturer rank):
-    - eSUN - PLA+ - Purple - #5A2F8D (96.2% similar + 4.5 rank bonus) [https://www.amazon.com/dp/B01EKEMFQS]
     - add:north - PLA Economy - Glitz Purple - #57257F (97.5% similar)
-    - Eryone - PLA Silk Triple - Blue / Purple / Black - #57217D,#1450A1,#292D34 (97.3% similar + 1.1 rank bonus)
+    - ELEGOO - PLA Silk Triple - Blue / Purple / Black - #57217D,#1450A1,#292D34 (97.3% similar)
+    - Hatchbox - PLA Max - Midnight Purple - #420A70 (91.1% similar + 5.0 rank bonus)
 
 Gold (#FDB927):
   No exact matches found
   Closest 3 match(es) (weighted by manufacturer rank):
-    - Hatchbox - PLA - True Gold - #FFB521 (98.9% similar + 5.0 rank bonus) [https://www.amazon.com/dp/B00UEYJZ4O]
-    - eSUN - PLA Glitter - eTwinkling Gold - #FFBB29 (99.3% similar + 4.5 rank bonus) [https://www.esun3d.com/...]
+    - eSUN - PLA Glitter - eTwinkling Gold - #FFBB29 (99.3% similar + 4.5 rank bonus)
     - SUNLU - PLA Basic - Transparent Orange - #F8B525 (98.2% similar + 3.4 rank bonus)
+    - eSUN - PLA+/Pro Silk - Gold - #F1B731 (93.6% similar + 4.5 rank bonus)
 
 Black (#000000):
-  Found 1449 exact match(es), showing top 3:
-    - Hatchbox - PLA - Black (Hotend: 210C, Bed: 50C) [https://www.amazon.com/dp/B00J0ECR5I]
-    - eSUN - PLA+ - Black (Hotend: 205C, Bed: 60C) [https://www.esun3d.com/pla-pro-product/]
-    - Polymaker - PolyLite PLA - Black (Hotend: 215C, Bed: 60C) [https://us.polymaker.com/...]
+  Found 571 exact match(es), showing top 3:
+    - 123-3D - PLA Basic - Jupiter Black
+    - 123-3D - PLA Basic - Zwart
+    - 123-3D - PLA Tough - Black
 ```
 
 ---
@@ -192,6 +192,7 @@ The database is organized by manufacturer, making it easy to filter or search by
 * [x] Purchase links and temperature data
 * [x] Top manufacturer prioritization
 * [x] Interactive CLI with league/team navigation
+* [x] Filter by filament type (PLA, PETG, ABS, etc.)
 * [ ] Add CLI flags for filtering by material or brand
 * [ ] Export results as CSV / JSON
 * [ ] Web-based UI

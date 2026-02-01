@@ -11,6 +11,7 @@ from .filament_scoring import (
     calculate_manufacturer_bonus,
     calculate_weighted_score,
 )
+from .filament_types import get_base_types
 
 # Maximum number of filament suggestions to display per color
 MAX_SUGGESTIONS = 3
@@ -92,9 +93,41 @@ def select_team(league):
             print("Please enter a valid number, 'b' to go back, or 'q' to quit")
 
 
-def display_team_colors(team_name, league):
+def select_filament_type():
+    """Prompt user to select a filament type filter"""
+    print_header("Select Filament Type")
+
+    types = get_base_types()
+
+    print("  0. All types (no filter)")
+    for i, ftype in enumerate(types, 1):
+        print(f"  {i}. {ftype}")
+
+    while True:
+        try:
+            choice = input(
+                "\nEnter type number (or 'b' to go back, 'q' to quit): "
+            ).strip()
+            if choice.lower() == "q":
+                return None
+            if choice.lower() == "b":
+                return "back"
+
+            choice_num = int(choice)
+            if choice_num == 0:
+                return ""  # Empty string means no filter
+            if 1 <= choice_num <= len(types):
+                return types[choice_num - 1]
+            else:
+                print(f"Please enter a number between 0 and {len(types)}")
+        except ValueError:
+            print("Please enter a valid number, 'b' to go back, or 'q' to quit")
+
+
+def display_team_colors(team_name, league, filament_type=None):
     """Display team colors and find matching filaments"""
-    print_header(f"{team_name} ({league})")
+    type_label = f" [{filament_type}]" if filament_type else ""
+    print_header(f"{team_name} ({league}){type_label}")
 
     # Get team color data
     team_data = team_colors.get_team_colors(team_name, league)
@@ -116,14 +149,17 @@ def display_team_colors(team_name, league):
 
     # Find matching filaments for each color
     print("\n" + "-" * 70)
-    print("Matching Filaments:")
+    if filament_type:
+        print(f"Matching Filaments ({filament_type} only):")
+    else:
+        print("Matching Filaments:")
     print("-" * 70)
 
     for color, hex_code in zip(colors, hex_codes):
         print(f"\n{color} ({hex_code}):")
 
-        # Find exact matches
-        matches = filament_colors.get_filaments_by_hex(hex_code)
+        # Find exact matches (filtered by type if specified)
+        matches = filament_colors.get_filaments_by_hex_and_type(hex_code, filament_type)
 
         if matches:
             total_matches = len(matches)
@@ -211,8 +247,8 @@ def display_team_colors(team_name, league):
             # Try to find similar colors
             try:
                 # Fetch more matches and re-sort by weighted score (similarity + manufacturer rank)
-                all_matches = filament_colors.find_similar_filament_colors(
-                    hex_code, limit=50
+                all_matches = filament_colors.find_similar_filament_colors_by_type(
+                    hex_code, limit=50, filament_type=filament_type
                 )
                 # Sort by weighted score (similarity + manufacturer bonus)
                 all_matches.sort(
@@ -339,8 +375,18 @@ def main():
             if team_name == "back":
                 break
 
-            # Display colors and matches
-            display_team_colors(team_name, league)
+            # Select filament type
+            filament_type = select_filament_type()
+            if filament_type is None:
+                print("\nGoodbye!")
+                return
+            if filament_type == "back":
+                continue  # Go back to team selection
+
+            # Display colors and matches (empty string means no filter)
+            display_team_colors(
+                team_name, league, filament_type if filament_type else None
+            )
 
             # Ask if user wants to see another team
             print("\n" + "=" * 70)
