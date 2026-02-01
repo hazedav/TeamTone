@@ -204,6 +204,10 @@ class FilamentProfilesScraper(FilamentScraper):
                         color = match.group(4)
                         rgb = match.group(5)
 
+                        # Skip manufacturers that have dedicated scrapers
+                        if brand_name.lower() == "polymaker":
+                            continue
+
                         filament = {
                             "manufacturer": brand_name,
                             "material": material,

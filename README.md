@@ -13,7 +13,7 @@ Print your team. Perfectly matched.
 ## 🏟️ What TeamTone Does
 
 * Takes a sports team's official colors (RGB / HEX)
-* Compares them against 18,470+ available 3D printer filament colors
+* Compares them against 18,038+ available 3D printer filament colors
 * Calculates the closest visual match using LAB color space (perceptual accuracy)
 * Returns ranked filament recommendations with similarity percentages
 * Provides direct purchase links and printing temperature recommendations
@@ -33,7 +33,7 @@ Perfect for:
 
 * 🎨 Accurate color matching using color-distance calculations (LAB color space with ΔE metric)
 * 🏟️ Supports teams with multi-color palettes
-* 🧵 18,470+ filament colors from 716 manufacturers
+* 🧵 18,038+ filament colors from 716 manufacturers
 * 🔍 Ranks filament matches by closeness (similarity percentage)
 * 🛒 Purchase links included for easy ordering (62% of filaments)
 * ⭐ Prioritizes top 10 manufacturers for better availability
@@ -132,9 +132,10 @@ Black (#000000):
 
 ## 🧵 Supported Filaments
 
-TeamTone currently includes **18,470+ filament colors** from **716 manufacturers**, sourced from:
+TeamTone currently includes **18,038+ filament colors** from **716 manufacturers**, sourced from:
 
 * **3dfilamentprofiles.com** - Community-maintained database
+* **us.polymaker.com** - Official Polymaker store with hex codes from product pages
 * **FilamentColors.xyz** - Colorimeter-measured samples with temperature data
 * Support for all material types: PLA, PETG, ABS, TPU, Nylon, and more
 

@@ -72,3 +72,6 @@ Thumbs.db
 
 # Project specific
 raw_fetch.html
+
+# Claude Code
+.claude/

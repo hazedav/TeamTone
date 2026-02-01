@@ -1,2995 +1,1244 @@
 Polymaker:
-  PolyLite_PLA:
-    Purple:
-      hex: '#7A4F9F'
-      source: FilamentColors.xyz
-      temp_hotend: 215
-      temp_bed: 60
-    Galaxy Black:
-      hex: '#383B35'
-      source: FilamentColors.xyz
-      temp_hotend: 215
-      temp_bed: 60
-    Light Red:
-      hex: '#C9565C'
-      source: FilamentColors.xyz
-      temp_hotend: 215
-      temp_bed: 60
-  PLA PolyTerra:
-    Earth Brown:
-      hex: '#623E2A'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458222137
-    Army Beige:
-      hex: '#D3B6A3'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Muted Green (PA04003):
-      hex: '#8D9886'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Dual Colour RedShadow:
-      hex: '#8A0526'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/panchroma-dual-matte?variant=51676368241010
-    Army Purple:
-      hex: '#433C4D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Grey:
-      hex: '#797E89'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Fossil Grey:
-      hex: '#868D96'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/product/polyterra-pla/
-    Savannah Yellow:
-      hex: '#F4C35D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    White Marble (PM7094):
-      hex: '#DDDBE1'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Shadow Red:
-      hex: '#D51515,#000000'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Ash Grey:
-      hex: '#2C3F4C'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631459205177
-    Marble Sandstone:
-      hex: '#F2DEA6'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Sunrise Orange Matte:
-      hex: '#F78E0E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Sapphire Blue Matte:
-      hex: '#005AA2'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Muted Purple:
-      hex: '#7A5F8A'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43594422353977
-    Wood Brown (PM70976):
-      hex: '#AC8161'
-      source: 3dfilamentprofiles.com
-    Peach:
-      hex: '#F2B67A'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Sunrise Orange:
-      hex: '#FF9500'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Ice Blue:
-      hex: '#95C5D3'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Sakura Pink:
-      hex: '#E0A8BB'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43594422091833
-    Matte Army Brown:
-      hex: '#724E3D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43594420912185
-    Muted White:
-      hex: '#BBADA4'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Marble Slate Grey:
-      hex: '#A2DDBE,#1B1C1D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Mixed Berries (Red-Dark Blue):
-      hex: '#CB3028,#112A49'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Rose (70905):
-      hex: '#FF5C74'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Gradient Winter (PA04038):
-      hex: '#B9D9F9,#E3C9FD'
-      source: 3dfilamentprofiles.com
-    Gradient Pastel rainbow (PA04029):
-      hex: '#FFF4BD,#FFD6EC,#FFD5B3,#D6EDFF'
-      source: 3dfilamentprofiles.com
-      link: https://www.3djake.com/polymaker/polyterra-gradient-pla-pastel-rainbow
-    Pastel Peach:
-      hex: '#F6BF8B'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458353209
-    Mixed Berries Red - Dark Blue Dual:
-      hex: '#ED719E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Cotton White:
-      hex: '#F7F7F7'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Army Red:
-      hex: '#B44344'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Shadow Orange (Orange-Black):
-      hex: '#FFA500,#000000'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/product/polyterra-pla/
-    Lime Green (PA04027):
-      hex: '#56ED2C'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Spring:
-      hex: '#F3D4E0'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Periwinkle (PA04040):
-      hex: '#CDCCFF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Matte Indigo:
-      hex: '#764C99'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Matte Sunrise:
-      hex: '#BF0808,#F7CB6E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Charcoal Black:
-      hex: '#1C1C1C'
-      source: 3dfilamentprofiles.com
-    Ghastly Purple:
-      hex: '#9593B9'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/introducing-the-captivating-2023-polymaker-halloween-pack/
-    Arctic Teal:
-      hex: '#61BCC3'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Peanut:
-      hex: '#AA7942'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Wood Brown:
-      hex: '#C29572'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458287673
-    Mint (PM70869):
-      hex: '#D2DEBB'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Army Blue:
-      hex: '#062B4D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Muted Red (PA04006):
-      hex: '#F06E42'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Pastel Periwinkle:
-      hex: '#CDCCFF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631459270713
-    CAMOUFLAGE(DUAL DARK GREEN-BROWN):
-      hex: '#9A8145,#689E5F'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Forest Green:
-      hex: '#519F61'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458680889
-    Glacier Blue:
-      hex: '#A4D0DF,#0163A6'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-dual-matte?variant=43613087957049
-    Banana (PM70865):
-      hex: '#FFE999'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Dual Color Flamingo:
-      hex: '#F4A4C0'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Cappuccino:
-      hex: '#D5AF5D'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/product/polyterra-pla/
-    Yellow:
-      hex: '#EDFB28'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Lava Red:
-      hex: '#DE1619,#ED2F2E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Muted Blue:
-      hex: '#4E6A84'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458844729
-    Lavender Purple (PM70852):
-      hex: '#AE96D4'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    arctic teal:
-      hex: '#73CEC8'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/product/polyterra-pla/
-    Sapphire Blue:
-      hex: '#1375A5'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Summer (Green Gradient):
-      hex: '#93D775'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-gradient-matte?variant=43594430316601
-    Matte Army Dark Green:
-      hex: '#5F6244'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Pastel Mint:
-      hex: '#BEC9A5'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458582585
-    Candy PM70867:
-      hex: '#FFE5EB'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458975801
-  PLA PolySonic:
-    Red:
-      hex: '#FB0404'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polysonic-pla-pro
-    White:
-      hex: '#FFFFFF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polysonic-pla-pro
-    Blue:
-      hex: '#003776'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polysonic-pla?variant=41550074150969
-    Black:
-      hex: '#080A0D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polysonic-pla?variant=41550073331769
-    Grey:
-      hex: '#8C9099'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polysonic-pla?variant=41550073430073
-  PLA Panchroma Starlight:
-    Pulsar:
-      hex: '#4B64B1'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-starlight?variant=44835174842425
-    Celestial Purple:
-      hex: '#9678C8'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-starlight?variant=43631529328697
-    Mercury:
-      hex: '#33322D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-starlight?variant=43631529328697
-    Celestial Light Pink:
-      hex: '#C3ADB8'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-celestial?variant=44835193094201
-    Jupiter:
-      hex: '#774718'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-starlight?variant=43631529328697
-    Gradient Purple-Red:
-      hex: '#62426F,#C22F28'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-gradient-starlight?variant=45185879932985
-    Twilight:
-      hex: '#1E3445'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-starlight?variant=43631529295929
-    Aurora:
-      hex: '#314530'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-starlight?variant=43595094327353
-    Meteor:
-      hex: '#2F3117'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-starlight?variant=43631529197625
-    Comet:
-      hex: '#1F312A'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-starlight?variant=43631529328697
-    Celestial Yellow:
-      hex: '#FFF618'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-celestial?variant=44835197976633
-    Celestial White:
-      hex: '#DCDAD0'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-celestial?variant=44835191193657
-    Celestial Blue:
-      hex: '#5BC0C9'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-celestial?aff=101
-    Gradient Blue-Green:
-      hex: '#556C6B,#1A839D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-gradient-starlight?variant=45185879900217
-    Galaxy Black:
-      hex: '#161617'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-starlight?variant=43631529328697
-    Nebula:
-      hex: '#462F32'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-starlight?variant=43631529328697
-    Celestial Green:
-      hex: '#87D1BA'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-celestial?variant=43595098718265
-    Neptune:
-      hex: '#113148'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-starlight?variant=43631529132089
-    Mars:
-      hex: '#962E31'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-starlight?variant=43631529328697
-    Celestial Light Yellow:
-      hex: '#E3DF85'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-celestial?variant=44835191423033
-    Midnight:
-      hex: '#475A64'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-starlight?variant=44835150364729
-    Aurora (LRV 6-22):
-      hex: '#6D876D,#3F473F'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-starlight
-  PLA Basic:
-    Pink:
-      hex: '#FFA3C0'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-metallic?variant=44228511727673
-    Green:
-      hex: '#06924D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-pla?variant=44863271698489
-    Blue:
-      hex: '#003776'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-pla?variant=44863271764025
-    Grey:
-      hex: '#2DA1A6'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-metallic?variant=44228511727673
-    Brown:
-      hex: '#7C594A'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-metallic?variant=44228511727673
-    Beige:
-      hex: '#C6AD74'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla?variant=43818026270777
-    Cotton White:
-      hex: '#FFFBF6'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-metallic?variant=44228511727673
-    Dark Green:
-      hex: '#263E0F'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-metallic?variant=44228511727673
-    Jungle Green:
-      hex: '#4E742D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-metallic?variant=44228511727673
-    Metallic Blue:
-      hex: '#2C3549'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-metallic?variant=44228511727673
-    Peach Fuzz:
-      hex: '#FFA57D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-metallic?variant=44228511727673
-    Teal:
-      hex: '#4CC0C7'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267996729
-    White:
-      hex: '#EBF7FF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267701817
-    Cream:
-      hex: '#EED1A8'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-pla?variant=44863271239737
-    Marble White:
-      hex: '#D7D4DA'
-      source: 3dfilamentprofiles.com
-    Magenta:
-      hex: '#F24574'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-pla?variant=44863271174201
-    Panchroma Jungle Green:
-      hex: '#4E742D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-metallic?variant=44228511727673
-    Red:
-      hex: '#D90102'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-metallic?variant=44228511727673
-    Candy:
-      hex: '#DABCC8'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/product/polyterra-pla/#SKU-PM70867
-    Marble:
-      hex: '#D7D4DA'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-marble
-    Lime Green:
-      hex: '#D5D701'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-pla?variant=44863271206969
-    Pastel Peanut:
-      hex: '#C29572'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458287673
-  PETG Basic:
-    White:
-      hex: '#EEEBEA'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221174329
-    Grey:
-      hex: '#A7AEB2'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221174329
-    Silver:
-      hex: '#75787B'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221174329
-  PLA Silk Dual:
-    Silk Crown (Gold-Silver):
-      hex: '#D29D00,#AAAAAA'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-dual-silk
-    Aubergine (Lime-Magenta):
-      hex: '#990050,#91C500'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-dual-silk?variant=43613143466041
-    Lime-Magenta:
-      hex: '#CCFF00,#FF00FF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-dual-silk?variant=43613143466041
-    Silk Sunset (Gold-Red):
-      hex: '#D58400,#B51A00'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-dual-silk
-    Chameleon (Yellow-Blue):
-      hex: '#E9C200,#0151BA'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/panchroma-dual-silk?variant=51676370207090
-    Banquet (Gold-Magenta):
-      hex: '#B8813C,#D85786'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-dual-silk
-    Beluga (Silver-Blue):
-      hex: '#66BFFF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-dual-silk?variant=43613143498809
-    Jadeite (Green-Chrome):
-      hex: '#20A181,#384657'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-dual-silk
-    Silk Caribbean Sea (Blue-Green) CA03025:
-      hex: '#109EFD,#1ED479'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-dual-silk
-    Sovereign (Gold-Purple):
-      hex: '#D29D00,#7A00CC'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-dual-silk?variant=43613143629881
-    Sunset (Silk Gold / Silk Red):
-      hex: '#C12E1F,#CC8A00'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-dual-silk?variant=43613143728185
-  PLA High Speed:
-    White:
-      hex: '#FFFFFF'
-      source: 3dfilamentprofiles.com
-  PLA Galaxy:
-    Galaxy Black:
-      hex: '#161617'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-galaxy
-    Galaxy Dark Green:
-      hex: '#13484D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-galaxy
-    Hedgehog Makes Galaxy Red:
-      hex: '#760007'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/creator-special-edition-hedgehog-makes-red
-    Galaxy Dark Blue:
-      hex: '#18192D'
-      source: 3dfilamentprofiles.com
-      link: https://www.3djake.ie/polymaker/polylite-pla-galaxy-dark-blue
-    Galaxy Dark Grey:
-      hex: '#4E5658'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-galaxy
-    Galaxy Dark Red:
-      hex: '#451E14'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-galaxy
-  PLA PolyLite:
-    Periwinkle:
-      hex: '#3A87FE'
-      source: 3dfilamentprofiles.com
-      link: https://us-wholesale.polymaker.com/products/polylite-silk-pla?variant=40556808437862
-    Silk Orange:
-      hex: '#F14700'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Light Blue:
-      hex: '#5FA5FA'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Jadeite Silk Green-Chrome:
-      hex: '#4BE2A8,#6DBEF8'
-      source: 3dfilamentprofiles.com
-      link: https://www.3djake.de/polymaker/polylite-dual-silk-pla-jadeite-green-chrome
-    Ash Grey:
-      hex: '#3C464E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Luminous Pink:
-      hex: '#FE9176'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Brown:
-      hex: '#4B2A17'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla?variant=43818026172473
-    Galaxy:
-      hex: '#383B35'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-galaxy
-    Metallic Silver:
-      hex: '#7A838E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-metallic?variant=43595097374777
-    Galaxy Black:
-      hex: '#1F1F1B'
-      source: 3dfilamentprofiles.com
-      link: https://www.3djake.at/polymaker/polylite-pla-galaxy-black?sai=13868
-    Glow Green:
-      hex: '#F2EADB,#29C14C'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Green:
-      hex: '#30A45F'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla?variant=43818026500153
-    Orange:
-      hex: '#F36201'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla?variant=43818026205241
-    Blue:
-      hex: '#003776'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla?variant=43818026663993
-    Lemon Yellow:
-      hex: '#EED230'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla?variant=43818026336313
-    Lime Green:
-      hex: '#A1B302'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Azure Blue:
-      hex: '#0066D9'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Pumpkin Patch Orange:
-      hex: '#E08057'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Red:
-      hex: '#D90102'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla?variant=43818026139705
-    Starlight Nebula:
-      hex: '#450E59'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-starlight?variant=43631529295929
-    Black:
-      hex: '#030305'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla?variant=43818025812025
-    Starlight Jupiter:
-      hex: '#774718'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Celestial Green:
-      hex: '#6FE2D2'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/panchroma-celestial?variant=51676379152754
-    Neon Yellow:
-      hex: '#FEDB01'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Slime Glow Green:
-      hex: '#80B94D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Magenta (PA02054):
-      hex: '#FF3D6E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Wine Red:
-      hex: '#E0191E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla?variant=43818026106937
-    Grey:
-      hex: '#8C9099'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Metallic Green:
-      hex: '#434D43'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    CosPLA Type B (Extra Durable):
-      hex: '#8A8A8A'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-cospla?variant=41068178964537
-    Dark Grey:
-      hex: '#6E8393'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla?variant=44327067451449
-    Dark Blue:
-      hex: '#041B3D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Neon Orange:
-      hex: '#FF7800'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    White:
-      hex: '#DDD7D3'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla?variant=43818025877561
-    Celestial Blue:
-      hex: '#6ADCF7'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-celestial?srsltid=AfmBOopDjD-LZkIncZDcvtiCBji0h9Wtg-5rap8TeaO2_WvITpkmumqS
-    Gold:
-      hex: '#F6D03A'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Silk Blue:
-      hex: '#1A72BD'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Aqua Blue:
-      hex: '#39B9DB'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Metallic Red:
-      hex: '#B7130D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Cream (PA02056):
-      hex: '#F5E8D1'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Starlight Mars:
-      hex: '#962E31'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-starlight?variant=43631529328697
-    Beige:
-      hex: '#C2AB72'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Silk Teal:
-      hex: '#009FA8'
-      source: 3dfilamentprofiles.com
-      link: https://us-wholesale.polymaker.com/products/panchroma-silk?variant=42996780040294
-    Beluga Silk Silver-Blue:
-      hex: '#979FAF,#1A72BD'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Silk Dark Blue:
-      hex: '#23599A'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Olive Brown:
-      hex: '#A99465'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Jungle Green:
-      hex: '#4E742D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla?variant=44327067451449
-    Celestial White:
-      hex: '#DCDAD0'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/panchroma-celestial?variant=60677363171698
-    Steel Grey:
-      hex: '#5D5E63'
-      source: 3dfilamentprofiles.com
-    Cold White:
-      hex: '#EAECF5'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla?variant=43818025910329
-    Magenta:
-      hex: '#E42363'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla?variant=44327067451449
-    Stone Blue:
-      hex: '#487BA2'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla?variant=43818026598457
-    Yellow:
-      hex: '#F3AA01'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla?variant=43818026303545
-    Luminous Orange:
-      hex: '#FEBE5F'
-      source: 3dfilamentprofiles.com
-      link: https://www.3djake.at/polymaker/polylite-luminous-pla-orange?sai=16030
-    Celestial Light Yellow:
-      hex: '#D7CE89'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/panchroma-celestial?variant=60677368512882
-    Starlight Neptune:
-      hex: '#1F5079'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Neon Magenta:
-      hex: '#D8015E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Starlight Mercury:
-      hex: '#575D86'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Olive Green:
-      hex: '#948902'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/product/polylite-pla/
-    Dark Grey Green:
-      hex: '#4C5E46'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla?variant=44327067451449
-    Luminous Green:
-      hex: '#BFEB8C'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-luminous?variant=43631365587001
-    Starlight Aurora:
-      hex: '#0061FE,#00900E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-starlight
-    Pink (PA02053):
-      hex: '#FFA3C0'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Silk Chrome:
-      hex: '#62717F'
-      source: 3dfilamentprofiles.com
-      link: https://www.3djake.at/polymaker/polylite-silk-pla-chrome?sai=14684
-    Starlight Twilight:
-      hex: '#0061FE,#5B0085'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-starlight
-    Neon Green:
-      hex: '#90EE74'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Starlight Neptune (PolyChroma):
-      hex: '#113148'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Natural:
-      hex: '#E8E6D0,#FFFFFF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla?variant=43818026369081
-    Silk Bronze:
-      hex: '#641501'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk
-    UV shift natural orange:
-      hex: '#F7CB6E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Purple:
-      hex: '#6C47B2'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    Teal (PA02010):
-      hex: '#3EC9D0'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla?variant=43818026532921
-    Metallic Bronze:
-      hex: '#926043'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-metallic?variant=43595097407545
-    Metallic Gold:
-      hex: '#DA9F1D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-metallic?variant=43595097342009
-    Silk Rose Gold:
-      hex: '#A56F6B'
-      source: 3dfilamentprofiles.com
-    White 1:
-      hex: '#E2DEDB'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/polylite-pla?variant=45514358128958
-    Silk Rose:
-      hex: '#780A0A'
-      source: 3dfilamentprofiles.com
-      link: https://us-wholesale.polymaker.com/products/panchroma-silk?variant=42996779679846
-    Silk Gold:
-      hex: '#B56600'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561196601
-    Celestial Purple:
-      hex: '#9678C8'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-celestial?variant=43595098751033
-    Silk Pink:
-      hex: '#FFA7C4'
-      source: 3dfilamentprofiles.com
-    Ghastly Purple:
-      hex: '#797BA6'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla
-    CosPLA Type A (Extra Sandable):
-      hex: '#949494'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-cospla?variant=41068178931769
-    Celestial Yellow:
-      hex: '#F4C76A'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/panchroma-celestial?variant=60677378605426
-    Silk White:
-      hex: '#DBD1C7'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/product/polylite-pla/
-    Celestial Light Pink:
-      hex: '#C3ADB8'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/panchroma-celestial?variant=60677373264242
-  PLA Panchroma Satin:
-    Red:
-      hex: '#DA1521'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/panchroma-satin
-    Rainbow:
-      hex: '#BE38F3,#FFAB01,#76BB40'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-satin?variant=43689639477305
-    Blue:
-      hex: '#0162A6'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-satin?variant=43689639477305
-    Grey:
-      hex: '#797E89'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-satin?variant=43689639510073
-    Purple:
-      hex: '#9272C1'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-satin?variant=43689639477305
-    Green:
-      hex: '#5EAB71'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-satin?variant=43689639477305
-    Orange:
-      hex: '#FE9217'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-satin?variant=43689639477305
-    Yellow:
-      hex: '#F4C131'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/panchroma-satin
-    Black:
-      hex: '#302E30'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/panchroma-satin
-    White:
-      hex: '#F5F0EC'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-satin?variant=43689639477305
-    Polymaker Teal:
-      hex: '#61BBC1'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-satin?variant=43689639477305
-  ABS PolyLite:
-    Blue:
-      hex: '#002677'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-abs?variant=39574342565945
-    Neon Green:
-      hex: '#22E55F'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-abs
-    Red:
-      hex: '#F3442B'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-abs
-    White:
-      hex: '#FFFFFF'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/product/polylite-abs/
-    Pink:
-      hex: '#FFA7C4'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-abs?variant=40626872123449
-    Grey:
-      hex: '#8C8D93'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-abs?variant=39574342697017
-    Galaxy Teal:
-      hex: '#2DCCD3'
-      source: 3dfilamentprofiles.com
-    Dark Grey:
-      hex: '#6C6D71'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-abs
-    Metallic Blue:
-      hex: '#0D2441'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-abs-metallic
-    Teal:
-      hex: '#01ACBA'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-abs?variant=39574342434873
-    Galaxy Black:
-      hex: '#121D1F'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-galaxy-abs
-    Neon Yellow:
-      hex: '#CFFF04'
-      source: 3dfilamentprofiles.com
-    Yellow:
-      hex: '#FFC845'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-abshttps://ca.polymaker.com/products/polylite-abs?variant=44585311666494
-    Galaxy Dark Grey:
-      hex: '#1F2322'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/polylite-galaxy-abs?variant=45514216833342
-    Lime:
-      hex: '#C4D100'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-abs?variant=40626872156217
-    Neon Orange:
-      hex: '#FE602B'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-neon-abs?variant=41404997271609
-    Galaxy Purple:
-      hex: '#6545A5'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-galaxy-abs?variant=41212532162617
-    Orange:
-      hex: '#F57517'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-abs
-    Dark Purple:
-      hex: '#46394E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-abs
-    Gold:
-      hex: '#BD6200'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/product/polylite-abs/
-    Green:
-      hex: '#479161'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-abs
-    Purple:
-      hex: '#6545A5'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-abs?variant=39574342500409
-    Galaxy Orange:
-      hex: '#F57517'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-galaxy-abs?variant=41212532228153
-    Metallic Green:
-      hex: '#3D441E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-abs
-    Neon Magenta:
-      hex: '#F6162E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-neon-abs?variant=41404997304377
-    Light Blue:
-      hex: '#8EDBEB'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-abs
-    Black:
-      hex: '#101820'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-abs
-  PETG PolyLite:
-    Translucent Dark Grey:
-      hex: '#767B7F'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg
-    Purple:
-      hex: '#6447A5'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg
-    Black:
-      hex: '#000000'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/product/polylite-petg/
-    Translucent Red:
-      hex: '#BE0017'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg
-    Translucent Green:
-      hex: '#297354'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg
-    Gold:
-      hex: '#CC8A00'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg?variant=39597379354681
-    Dark Green:
-      hex: '#304330'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/product/polylite-petg/
-    Dark Blue:
-      hex: '#013178'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg
-    Pink:
-      hex: '#EE94A5'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg
-    Lime:
-      hex: '#C4D600'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg
-    Yellow:
-      hex: '#EEA800'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/product/polylite-petg/
-    Dark Purple:
-      hex: '#2E1A47'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg
-    sort:
-      hex: '#000000'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg
-    Teal:
-      hex: '#2DCCD3'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg
-    Electric Blue:
-      hex: '#0076CF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg?variant=40620608651321
-    Blue:
-      hex: '#004B87'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg
-    White:
-      hex: '#FFFFFF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg?variant=39574344925241
-    Red:
-      hex: '#DE4343'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg?variant=39574344990777
-    Green:
-      hex: '#37AD68'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg?variant=39574344859705
-    Shiny Gold:
-      hex: '#A85D00'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg
-    Clear:
-      hex: '#DBD5D6'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg?variant=41266031099961
-    Dark Gray:
-      hex: '#6C6D71'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg
-    Magenta:
-      hex: '#C6007E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg
-    Gray:
-      hex: '#91999F'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg?variant=39574344958009
-    Transparent:
-      hex: '#DBD5D6'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg?variant=41266031099961
-    Translucent Blue:
-      hex: '#203265'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg
-    Silver:
-      hex: '#5F5E5F'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg
-    Orange:
-      hex: '#FF671F'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg?variant=39574344728633
-  ASA PolyLite:
-    Pop Blue:
-      hex: '#008DC3'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-asa?variant=41159525826617
-    Jet Black:
-      hex: '#161618'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-asa?variant=41297658314809
-    Dark Purple:
-      hex: '#292036'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-asa?srsltid=AfmBOopx2ZepkFkEmb1X8xFOTtbO7TsqVt7D4rKJX5oCHMDW6pYkSdya
-    Army Brown:
-      hex: '#613C26'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-asa?variant=40627010109497
-    Army Green:
-      hex: '#68724D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-asa?srsltid=AfmBOopx2ZepkFkEmb1X8xFOTtbO7TsqVt7D4rKJX5oCHMDW6pYkSdya
-    Purple:
-      hex: '#6C61A8'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-asa?variant=39597310148665
-    Grey:
-      hex: '#8D8E92'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-asa?variant=39574343188537
-    Olive Brown:
-      hex: '#A89E87'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-asa?srsltid=AfmBOopx2ZepkFkEmb1X8xFOTtbO7TsqVt7D4rKJX5oCHMDW6pYkSdya
+  PLA:
     Natural:
       hex: '#DFD3C3'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-asa?srsltid=AfmBOopx2ZepkFkEmb1X8xFOTtbO7TsqVt7D4rKJX5oCHMDW6pYkSdya
-    Green:
-      hex: '#2E784D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-asa?variant=40294530875449
-    Black:
-      hex: '#17161A'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-asa?variant=39574343254073
-    Teal:
-      hex: '#00B4BC'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-asa?variant=40294530940985
-    Galaxy Black:
-      hex: '#474648'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-galaxy-asa?variant=41590533488697
-    Blue:
-      hex: '#003576'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-asa?srsltid=AfmBOopx2ZepkFkEmb1X8xFOTtbO7TsqVt7D4rKJX5oCHMDW6pYkSdya
-    Dark Gray:
-      hex: '#6C6D71'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-asa?variant=41170857918521
-    Red:
-      hex: '#CB0100'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-asa?srsltid=AfmBOopx2ZepkFkEmb1X8xFOTtbO7TsqVt7D4rKJX5oCHMDW6pYkSdya
-    White:
-      hex: '#DBD7D6'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-asa?variant=39574343221305
-    Yellow:
-      hex: '#FFE800'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-asa?variant=40294530908217
-    Galaxy Green:
-      hex: '#2E764C'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-galaxy-asa?variant=41212531146809
-    Galaxy Blue:
-      hex: '#012C61'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-galaxy-asa?variant=41212531081273
-    Pop Green:
-      hex: '#77D730'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-asa
-    Polymaker Teal:
-      hex: '#0094A4'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-asa?srsltid=AfmBOopx2ZepkFkEmb1X8xFOTtbO7TsqVt7D4rKJX5oCHMDW6pYkSdya
-    Orange:
-      hex: '#F37716'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-asa?srsltid=AfmBOopx2ZepkFkEmb1X8xFOTtbO7TsqVt7D4rKJX5oCHMDW6pYkSdya
-    Dark Green Gray:
-      hex: '#4C5F46'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-asa?variant=41590536634425
-    Pop Pink:
-      hex: '#D83076'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-asa?variant=41159525859385
-    Galaxy Red:
-      hex: '#BF1A11'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-asa?srsltid=AfmBOopx2ZepkFkEmb1X8xFOTtbO7TsqVt7D4rKJX5oCHMDW6pYkSdya
-  PLA Silk:
-    Black:
-      hex: '#050505'
-      source: 3dfilamentprofiles.com
-      link: https://us-wholesale.polymaker.com/products/panchroma-silk?srsltid=AfmBOorCwcqGS4Y8qUPBO1f4CQROJtlccmpAuEb2mrXuyX2Z-kcJsTud
-    Shiny Orange:
-      hex: '#EB6232'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk?variant=51676375875954#productinfo
-    Silk Purple:
-      hex: '#C968FD'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk?variant=51676375875954#productinfo
-    Silver:
-      hex: '#7D7D7D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk?variant=51676375875954#productinfo
-    Red:
-      hex: '#FF0000'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk?variant=51676375875954#productinfo
-    Bronze:
-      hex: '#641501'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk?variant=43595091279929
-    Champagne Gold:
-      hex: '#E2DBB1'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/introducing-the-enchanting-2023-polymaker-christmas-bundle/
-    Green:
-      hex: '#20A181'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561294905
-    Periwinkle:
-      hex: '#607EF2'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk?variant=51676375875954#productinfo
-    Magenta:
-      hex: '#D329F5'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk?variant=51676375875954#productinfo
-    Santa's Velvet Red:
-      hex: '#A80B0B'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/introducing-the-enchanting-2023-polymaker-christmas-bundle/
-    Pink:
-      hex: '#E8A498'
-      source: 3dfilamentprofiles.com
-    Comet's Extravagance Green:
-      hex: '#27865D'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/introducing-the-enchanting-2023-polymaker-christmas-bundle/
-  PLA+/Pro:
-    Red:
-      hex: '#FF2600'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/product/polyterra-pla-plus/
-  CPE Panchroma CoPE:
-    Red:
-      hex: '#E72F1D'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/product/panchroma-cope/
-    Yellow:
-      hex: '#FFE800'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-cope?variant=43631571632185
-    Dark Grey:
-      hex: '#474648'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-cope?variant=44214783213625
-    Stone Blue:
-      hex: '#487BA2'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-cope?variant=44152641617977
-    Steel Grey:
-      hex: '#616469'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/product/panchroma-cope/
-    Blue:
-      hex: '#003776'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/product/panchroma-cope/
-    Cold White:
-      hex: '#D9DFE5'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-cope?variant=44154310197305
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-pla?variant=43818026369081
     Black:
       hex: '#080A0D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-cope-regular?variant=43631571370041
-    Jungle Green:
-      hex: '#4E742D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-cope?variant=44154291519545
-    Polymaker Teal:
-      hex: '#4CC0C7'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-cope
-    Tan:
-      hex: '#A79E82'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-cope?variant=44154303610937
-    Magenta:
-      hex: '#F24574'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-cope?variant=44154775404601
-    Cream:
-      hex: '#EED1A8'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-cope
-    Wine Red:
-      hex: '#D60212'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-cope?variant=44154125484089
-    Pink:
-      hex: '#F1A1AF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-cope?variant=44154234994745
-    Brown:
-      hex: '#55331A'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-cope
-    Orange:
-      hex: '#F67405'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-cope
-    Grey:
-      hex: '#8C9099'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-cope
-    Purple:
-      hex: '#6C47B2'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-cope?variant=43631571501113
-    Lime Green:
-      hex: '#D5D701'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-cope?variant=44152643289145
-    Aqua Blue:
-      hex: '#5EBDDB'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-cope?variant=44152650039353
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267669049
     White:
       hex: '#EBF7FF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-cope?variant=43631571402809
-    Green:
-      hex: '#06924D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-cope?variant=43631571664953
-  PLA Tough:
-    Grat:
-      hex: '#B0B0B0'
-      source: 3dfilamentprofiles.com
-    Yellow:
-      hex: '#FFE800'
-      source: 3dfilamentprofiles.com
-      link: https://us-wholesale.polymaker.com/products/polymax-pla
-  PLA+/Pro PolyLite:
-    Dark Grey:
-      hex: '#4C732C'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro
-    Purple:
-      hex: '#6843B1'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro?variant=39574346694713
-    Teal:
-      hex: '#2FA5AE'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro
-    White:
-      hex: '#E6E1DE'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro?variant=39574346367033
-    Metallic Green:
-      hex: '#263E0F'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro
-    Red:
-      hex: '#E62216'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro?variant=39574346432569
-    Light Green:
-      hex: '#BBD39B'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro?variant=40294510329913
-    Silver:
-      hex: '#8A8D95'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-metallic-pla-pro?variant=41019989852217
-    Pink:
-      hex: '#ED92B0'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro
-    Light Yellow:
-      hex: '#F0E991'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro
-    Black:
-      hex: '#000000'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro?variant=39574346334265
-    Dark Purple (PA0703):
-      hex: '#3E2749'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro?variant=40603693285433
-    Metallic Black:
-      hex: '#1F2021'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro
-    Light Blue:
-      hex: '#72AECB'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro
-    Metallic Bronze:
-      hex: '#926043'
-      source: 3dfilamentprofiles.com
-    Army Green:
-      hex: '#665A28'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro
-    Yellow:
-      hex: '#F7B300'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro?variant=39574346629177
-    Dark Gray:
-      hex: '#545859'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro
-    Green:
-      hex: '#178D4A'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro?variant=39574346596409
-    Orange:
-      hex: '#EC6A01'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro?variant=39574346661945
-    Metallic Blue:
-      hex: '#0D2441'
-      source: 3dfilamentprofiles.com
-    Gray:
-      hex: '#73767D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro?variant=39574346399801
-    Light Red:
-      hex: '#CC4C4B'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro
-    White (PA07002):
-      hex: '#EBECED'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro?variant=39574346367033
-    Gold:
-      hex: '#A66301'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro
-    Magenta:
-      hex: '#E42363'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro?variant=40603693219897
-    Cold White:
-      hex: '#EAECF5'
-      source: 3dfilamentprofiles.com
-    Purple PA07011:
-      hex: '#6547A5'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro
-    Blue:
-      hex: '#00307E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro?variant=39574346465337
-    Metallic Magenta:
-      hex: '#743063'
-      source: 3dfilamentprofiles.com
-    Brown:
-      hex: '#4F2E1E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro?variant=40603693252665
-    Blue-Green:
-      hex: '#022B23'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro
-    Metallic Red:
-      hex: '#8D352C'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-metallic-pla-pro?variant=41159685832761
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267701817
     Grey:
-      hex: '#73767D'
-      source: 3dfilamentprofiles.com
-    Army Beige:
-      hex: '#AA6F3E'
-      source: 3dfilamentprofiles.com
-  PLA Matte:
-    Muted Blue:
-      hex: '#5F778E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/matte-pla-for-production
-    Wood Brown:
-      hex: '#AD7441'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Earth Brown:
-      hex: '#7C594A'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/matte-pla-for-production
-    Army Blue:
-      hex: '#081C2B'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/matte-pla-for-production
-    Sunrise Orange:
-      hex: '#F78E0E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/matte-pla-for-production
-    Muted Green:
-      hex: '#777E71'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/matte-pla-for-production
-    Pastel Mint:
-      hex: '#D2DEBB'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/matte-pla-for-production
-    Pastel Pink:
-      hex: '#F0D6D9'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/matte-pla-for-production
-    Army Red:
-      hex: '#BF312E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/matte-pla-for-production
-    White (For Production):
-      hex: '#F3EFEB'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/matte-pla-for-production
-    Pastel Periwinkle:
-      hex: '#ADB4E6'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/matte-pla-for-production
-    Pastel Peanut:
-      hex: '#BF9573'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458287673
-    Black:
-      hex: '#1C1C1C'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/matte-pla-for-production?variant=44187024457785
-    Lava Red:
-      hex: '#ED2F2E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631459074105
-    Forest Green:
-      hex: '#60AD70'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458680889
-    Cotton White:
-      hex: '#E6DDDB'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/matte-pla-for-production?variant=41268449542201
-    Army Beige:
-      hex: '#C5B491'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/matte-pla-for-production
-    Ice:
-      hex: '#A4D0DF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Fossil Grey:
-      hex: '#6F727E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458877497
-    Savannah Yellow:
-      hex: '#F4C35D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/matte-pla-for-production
-    Marble Sandstone:
-      hex: '#C1BE97'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-marble
-    Matte Earth Brown:
-      hex: '#7C594A'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/matte-pla-for-production
-    Army Purple:
-      hex: '#292036'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/matte-pla-for-production
-    White:
-      hex: '#E6DDDB'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/matte-pla-for-production?variant=41268449542201
-    Charcoal Black:
-      hex: '#2F2E30'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458091065
-  TPU 95A:
-    Blue:
-      hex: '#003276'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polyflex-tpu95?variant=39574341484601
-    Black:
-      hex: '#16161A'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/product/polyflex-tpu95/
-    Red:
-      hex: '#F3442B'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polyflex-tpu95?variant=39574341615673
-    White:
-      hex: '#FFFFFF'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/polyflex-tpu95?variant=44585309634878
-    Yellow:
-      hex: '#EDA900'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/polyflex-tpu95?variant=44585309733182
-    Orange:
-      hex: '#FF9E1B'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/product/polyflex-tpu95/
-  PA612 CF:
-    Black:
-      hex: '#302E2F'
-      source: 3dfilamentprofiles.com
-  PLA Glow:
-    Blue:
-      hex: '#F3EADB,#007AD1'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-glow?variant=43613187866681
-    Luminous Blue:
-      hex: '#5FA8C2'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/panchroma-luminous
-    Glow Orange:
-      hex: '#CBD0B4,#FEBE5F'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-glow?variant=43595083415609
-    Luminous Pink:
-      hex: '#FE9176'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/panchroma-luminous
-    Luminous Yellow:
-      hex: '#EEDC48'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/panchroma-luminous?variant=51676372730226
-    Green:
-      hex: '#F2EADB,#0DC910'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/panchroma-luminous
-    Luminous Orange:
-      hex: '#FEBE5F'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-luminous?variant=43631365554233
-    Luminous Rainbow:
-      hex: '#FF0000,#1EFF00,#0033FF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-luminous?variant=43631365488697
-    Luminous Green:
-      hex: '#BFEB8C'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-luminous?variant=43631365587001
-  HT-PLA HT:
-    White:
-      hex: '#E1E4E4'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla?variant=44457611690041
-    Yellow:
-      hex: '#E9B622'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla
-    Brown:
-      hex: '#65493C'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla?variant=44457611919417
-    Black:
-      hex: '#000000'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla?variant=44457611657273
-    Gradient Tropical:
-      hex: '#F7A269,#EEF769,#6BF769'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla?variant=44457612017721
-    Teal:
-      hex: '#5FCCB7'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/polymaker-ht-pla?variant=51950260355442
-    Red:
-      hex: '#CA3A3B'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla?variant=44457611788345
-    Green:
-      hex: '#279354'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla?variant=44457611821113
-    Orange:
-      hex: '#EF7A3E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla?variant=44457611886649
-    Blue:
-      hex: '#19557B'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla?variant=44457611755577
-    Grey:
-      hex: '#8B9094'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla?variant=44457611722809
-    Gradient Ice:
-      hex: '#C3F4ED,#29B6D5'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/polymaker-ht-pla?variant=51950260453746
-  PLA Panchroma Marble:
-    Marble Brick:
-      hex: '#CD7456'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-marble?variant=43631398944825
-    White:
-      hex: '#D7D4DA'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-marble?variant=43631398879289
-    Marble Limestone:
-      hex: '#BCBEBE'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/panchroma-marble?variant=51676379742578
-    Sandstone:
-      hex: '#C1BE97'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/panchroma-marble?variant=51676379775346
-    Marble Slate Grey:
-      hex: '#94B9C2'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/panchroma-marble?variant=51676379742578
-  PLA Matte Dual:
-    Flamingo (Pink-Red):
-      hex: '#EAADBD,#ED2F2E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-dual-matte?variant=43613087989817
-    Black/Red:
-      hex: '#131D2A'
-      source: 3dfilamentprofiles.com
-    Foggy Purple (Grey-Purple):
-      hex: '#9572BF,#8A8C94'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-dual-matte?variant=43613087924281
-    Chameleon (PA04018):
-      hex: '#6FCEAE,#FDDD8B'
-      source: 3dfilamentprofiles.com
-    Shadow Orange (Orange-Black):
-      hex: '#020203,#FD9608'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-dual-matte?variant=43613087858745
-    Foggy Orange (Grey-Orange):
-      hex: '#F78E0E,#CFCCD6'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/panchroma-dual-matte?variant=51676368666994
-    Mixed Berries (Red-Dark Blue):
-      hex: '#AC1A17,#062B4D'
-      source: 3dfilamentprofiles.com
-    Shadow Black (White-Black):
-      hex: '#020203,#CFCCD6'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-dual-matte?variant=43613087793209
-    Shadow Red (Black-Red):
-      hex: '#AC1A17,#1C1C1C'
-      source: 3dfilamentprofiles.com
-    Yin-Yang:
-      hex: '#020203,#CFCCD6'
-      source: 3dfilamentprofiles.com
-    Sunrise (Red-Yellow):
-      hex: '#F3C432,#ED2F2E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-dual-matte?variant=43613088055353
-    Camouflage (Dark Green-Brown):
-      hex: '#724E3D,#515234'
-      source: 3dfilamentprofiles.com
-    Fall:
-      hex: '#EF5A5E,#FABA82'
-      source: 3dfilamentprofiles.com
-  PLA Panchroma Matte:
-    Matte Army Dark Green:
-      hex: '#5F6244'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Forest Green:
-      hex: '#60AD70'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Brown:
-      hex: '#64412D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Muted Green:
-      hex: '#656D60'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Fossil Grey:
-      hex: '#8A8C94'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458877497
-    Army Dark Green:
-      hex: '#5F6244,#2F2E30'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43594421305401
-    Army Purple:
-      hex: '#36364A'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Army Red:
-      hex: '#BF312E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631459106873
-    Sapphire Blue:
-      hex: '#0163A6'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Pastel Peach:
-      hex: '#F6BF8B'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458353209
-    Muted Red:
-      hex: '#D84B2E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Electric Indigo:
-      hex: '#470061'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Charcoal Black:
-      hex: '#2F2E30'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Neon Green:
-      hex: '#00F263'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-neon?variant=43595095244857
-    Muted Blue:
-      hex: '#5F778E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Pastel Periwinkle:
-      hex: '#ADB4E6'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Metallic Silver:
-      hex: '#A5C8FF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-metallic?variant=43595097374777
-    Army Light Green:
-      hex: '#AB8C02'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Pastel Mint:
-      hex: '#D2DEBB'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458582585
-    Lotus Pink:
-      hex: '#DD76C0'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631459303481
-    Pastel Banana:
-      hex: '#F7D475'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458418745
-    wine red:
-      hex: '#D60212'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Pastel Ice:
-      hex: '#A4D0DF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458746425
-    Camouflage Matte Dual (Dark Green-Brown):
-      hex: '#45523D,#945200'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-dual-matte?variant=43594428481593
-    Pastel Peanut:
-      hex: '#BF9573'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458287673
-    Pastel Candy:
-      hex: '#F0D6D9'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Lava Red:
-      hex: '#ED2F2E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Glacier Blue (Ice-Blue):
-      hex: '#A4D0DF,#0163A6'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Army Brown:
-      hex: '#795A4D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Sky Blue:
-      hex: '#1AC5FC'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631459336249
-    Savannah Yellow:
-      hex: '#F3C432'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Lime Green:
-      hex: '#D0E740'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Army Blue:
-      hex: '#2E4462'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458811961
-    Earth Brown:
-      hex: '#7C594A'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458222137
-    Dual Color Matte Wood:
-      hex: '#9E6E51,#C69F86,#B48A71'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Muted White:
-      hex: '#BBADA4'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Ash Grey:
-      hex: '#485155'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631459205177
-    Army Beige:
-      hex: '#DBBAA5'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43594420879417
-    Pastel Watermelon:
-      hex: '#EE474B'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Sunrise Orange:
-      hex: '#F88B17'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-    Sakura Pink:
-      hex: '#EAADBD'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631459008569
-    Lavender Purple:
-      hex: '#9572BF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458910265
-    Cotton White:
-      hex: '#F4EFEB'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43594420846649
-    Arctic Teal:
-      hex: '#61BCC3'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458713657
-    Muted Purple:
-      hex: '#7C5577'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458943033
-    Wood Brown:
-      hex: '#AB7449'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-matte
-  PLA Gradient:
-    Gradient Celestial Blue-Purple:
-      hex: '#6ADCF7,#9678C8'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-gradient-celestial?variant=45185846804537
-    Luminous Rainbow:
-      hex: '#F46EF7'
-      source: 3dfilamentprofiles.com
-    Silk Fire Gradient:
-      hex: '#E63946,#F77F00'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-gradient-silk?variant=44843904041017
-  PLA+/Pro PolyTerra:
-    Red:
-      hex: '#C00000'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/product/polyterra-pla-plus/
-    Light Yellow:
-      hex: '#F3D561'
-      source: 3dfilamentprofiles.com
-    Grey:
-      hex: '#797E88'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-satin?variant=43689639510073
-    Orange:
-      hex: '#FF9812'
-      source: 3dfilamentprofiles.com
-      link: https://eu-wholesale.polymaker.com/products/polyterra-pla-plus?variant=41966479278169
-    Green:
-      hex: '#6CCB72'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-satin?variant=43689639608377
-    Yellow:
-      hex: '#FFFF00'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/
-    Blue:
-      hex: '#0064B9'
-      source: 3dfilamentprofiles.com
-      link: https://eu-wholesale.polymaker.com/products/polyterra-pla-plus?variant=41966479409241
-    Black:
-      hex: '#151515'
-      source: 3dfilamentprofiles.com
-      link: https://us-wholesale.polymaker.com/products/polyterra-pla-plus
-    White:
-      hex: '#F5F0EC'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-satin?variant=43594425663545
-  PC Tough:
-    white:
-      hex: '#FFFFFF'
-      source: 3dfilamentprofiles.com
-    Black:
-      hex: '#000000'
-      source: 3dfilamentprofiles.com
-  ASA CF:
-    Dark Red (ASA-CF08):
-      hex: '#855261'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/fiberon-asa-cf08?variant=44810371792953
-    Dark Grey ASA-CF08:
-      hex: '#4D5E70'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/fiberon-asa-cf08?variant=44810332471353
-    Light Grey ASA-CF08:
-      hex: '#ADC4D6'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/fiberon-asa-cf08?variant=44810316611641
-    Navy Blue ASA-CF08:
-      hex: '#30548E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/fiberon-asa-cf08?variant=44810312155193
-    Black ASA-CF08:
-      hex: '#000000'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/fiberon-asa-cf08?variant=44810310484025
-    Desert Sand ASA-CF08:
-      hex: '#CEB69C'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/fiberon-asa-cf08?variant=44810336206905
-  HT-PLA Gradient:
-    Gradient Rainbow:
-      hex: '#2B7E4A,#FEFA7B,#F1842F,#A01B13'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/polymaker-ht-pla?variant=51950260388210
-    Gradient Fire:
-      hex: '#E13951'
-      source: 3dfilamentprofiles.com
-    Gradient Ice:
-      hex: '#44A5FF'
-      source: 3dfilamentprofiles.com
-  PETG High Speed:
-    Teal:
-      hex: '#74CABF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-petg
-    Magenta:
-      hex: '#DC5D8C'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221633081
-    Blue:
-      hex: '#1B3B99'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221272633
-    Black:
-      hex: '#070908'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-petg
-    Electric Blue:
-      hex: '#3E8CE4'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221469241
-    Silver:
-      hex: '#707478'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221403705
-    White:
-      hex: '#F8FAF8'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221141561
-    Yellow:
-      hex: '#FBE95C'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221305401
-    Purple:
-      hex: '#6947B8'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221502009
-    Dark Blue:
-      hex: '#081B36'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221534777
-    Grey:
-      hex: '#A7AEB2'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221174329
-    Dark Green:
-      hex: '#223622'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221600313
-    Green:
-      hex: '#38B837'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221436473
-    Dark Gray:
-      hex: '#363D40'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-petg
-    red:
-      hex: '#C23320'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-petg
-    Pink:
-      hex: '#F5BEE9'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221665849
-  PA6 GF:
-    Grey:
-      hex: '#75787B'
-      source: 3dfilamentprofiles.com
-  HT-PLA Basic:
-    Black:
-      hex: '#070707'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla?variant=44457611657273
-    White:
-      hex: '#E1E4E4'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla?variant=44457611690041
-    Orange:
-      hex: '#EF7A3E'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla?variant=44457611886649
-    Red:
-      hex: '#D6001C'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla
-    Yellow:
-      hex: '#E9B622'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla?variant=44457611853881
-    Grey:
-      hex: '#8B9094'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla?variant=44457611722809
-  HT-PLA GF:
-    Power Tool Green:
-      hex: '#C9BD46'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla-gf?variant=44469752922169
-    Blue:
-      hex: '#015D85'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla-gf?variant=44469752791097
-    Power Tool Yellow:
-      hex: '#FFA420'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla-gf?variant=44469752856633
-    Black:
-      hex: '#18191B'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla-gf?variant=44469752692793
-    White:
-      hex: '#E1E4E4'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla-gf
-    Power Tool Red:
-      hex: '#B2484D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla-gf
-    Army Green:
-      hex: '#726747'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla-gf?variant=44469752823865
-    Grey:
-      hex: '#8B9094'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla-gf?variant=44469752758329
-    Power Tool Teal:
-      hex: '#416D76'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla-gf?variant=44469752954937
-  PET CF:
-    Fiberon (Black):
-      hex: '#000000'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/fiberon-pet-cf17
-  PVB Basic:
-    Red:
-      hex: '#EC2727'
-      source: 3dfilamentprofiles.com
-  PVB PolySmooth:
-    Red:
-      hex: '#D54439'
-      source: 3dfilamentprofiles.com
-    Pink:
-      hex: '#F4A4C0'
-      source: 3dfilamentprofiles.com
-    Black:
-      hex: '#000000'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polysmooth
-    Yellow:
-      hex: '#F7F269'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/polysmooth?variant=44585343680830
-    Green:
-      hex: '#4CA743'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polysmooth?variant=39597627342905
-    Beige:
-      hex: '#FFE372'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polysmooth?variant=39597627670585
-    Orange:
-      hex: '#FF6A00'
-      source: 3dfilamentprofiles.com
-    Electric Blue:
-      hex: '#3A88FE'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/polysmooth?variant=44585343582526
-    Slate Grey:
-      hex: '#7DA1AA'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polysmooth?variant=39597627146297
-    Teal:
-      hex: '#3CCBDA'
-      source: 3dfilamentprofiles.com
-    White:
-      hex: '#FFFFFF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polysmooth?variant=39597627080761
-    Transparent:
-      hex: '#C7C7C7'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polysmooth?variant=39597627736121
-  PLA Panchroma Silk:
-    Gradient Silk Rainbow:
-      hex: '#DE716E,#CADA6C,#61C898,#9B64CB'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-gradient-silk?variant=44843904041017
-    Creatrix Silk Red:
-      hex: '#CB0100'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk?variant=43595091148857
-    Blue:
-      hex: '#4999C9'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/panchroma-silk?variant=51676376400242
-    Silver:
-      hex: '#BCC2C8'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561458745
-    White:
-      hex: '#DFE4E4'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk
-    Quartz Pink:
-      hex: '#DBBBBB'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561065529
-    Dark Blue:
-      hex: '#23599A'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561589817
-    Peridot Green:
-      hex: '#7F865B'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561524281
-    Bronze:
-      hex: '#AF6B4C'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk
-    Silk Silver:
-      hex: '#818C9F'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk?variant=43595091640377
-    Rose:
-      hex: '#CF6076'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk
-    Brass:
-      hex: '#968162'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561491513
-    Silk Red (2025):
-      hex: '#C1443F'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk
-    Gunmetal Grey:
-      hex: '#3E5152'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk
-    Silk Rose Gold:
-      hex: '#BC9697'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561032761
-    Teal:
-      hex: '#66C2B6'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk
-    Rose Gold:
-      hex: '#CBB0B1'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561032761
-    Yellow:
-      hex: '#EEC810'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561229369
-    Gold:
-      hex: '#B56600'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561196601
-    Black:
-      hex: '#363538'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk?variant=43637560868921
-    Chrome:
-      hex: '#85898B'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk
-    Light Blue:
-      hex: '#4CC1CB'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk
-    Magenta:
-      hex: '#AA538E'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/panchroma-silk?variant=51676375941490
-    Green:
-      hex: '#55B687'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-silk
-  PLA Silk Rainbow:
-    Silk Rainbow:
-      hex: '#ED719E'
-      source: 3dfilamentprofiles.com
-  CoPA PolyMide:
-    Black:
-      hex: '#000000'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymide-copa
-    Natural:
-      hex: '#EFEED7'
-      source: 3dfilamentprofiles.com
-  TPU Basic:
-    PolyFlex TPU90 White:
-      hex: '#FFFFFF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polyflex-tpu90?variant=39574341287993
-    PolyFlex TPU95 Yellow:
-      hex: '#FEDD00'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/polyflex-tpu95?variant=44585309733182
-    Polyflex TPU90 Black:
-      hex: '#000000'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/product/polyflex-tpu90/
-  PLA+/Pro PolySonic:
-    Orange:
-      hex: '#F07009'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polysonic-pla-pro
-    Red:
-      hex: '#E20010'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polysonic-pla-pro
-    Black:
-      hex: '#000000'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polysonic-pla-pro
-    Teal:
-      hex: '#50DAE4'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polysonic-pla-pro
-    Blue:
-      hex: '#1E2876'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polysonic-pla-pro
-    White:
-      hex: '#E2DEDB'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polysonic-pla-pro?variant=41550910685241
-    Yellow:
-      hex: '#F4C032'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polysonic-pla-pro
-  PLA+/Pro Sparkle:
-    Sorcerer's Red:
-      hex: '#A23A3C'
-      source: 3dfilamentprofiles.com
-    LM Sparkle Green Creator:
-      hex: '#434D43'
-      source: 3dfilamentprofiles.com
-    LM Sparkle Green:
-      hex: '#434D43'
-      source: 3dfilamentprofiles.com
-    Loyal Sparkle Green:
-      hex: '#2F452B'
-      source: 3dfilamentprofiles.com
-  PLA+/Pro Matte:
-    Matte Blue:
-      hex: '#0064B9'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro
-  PLA LW:
-    Bright Yellow:
-      hex: '#E6C937'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/polylite-lw-pla
-    Bright Red:
-      hex: '#E63521'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/polylite-lw-pla?variant=51676524970354
+      hex: '#8C9099'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267734585
     Wood:
-      hex: '#D2A273'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-lw-pla?variant=39574342795321
-    Grey:
-      hex: '#94918D'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/polylite-lw-pla
-    Black:
-      hex: '#000000'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-lw-pla
-    White:
-      hex: '#EDD7BF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-lw-pla?variant=39574342860857
-    Bright Green:
-      hex: '#BDD901'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-lw-pla?variant=40620593905721
+      hex: '#A8754B'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-wood-pla?variant=39574352560185
     Bright Orange:
       hex: '#F07806'
-      source: 3dfilamentprofiles.com
+      source: us.polymaker.com
       link: https://us.polymaker.com/products/polylite-lw-pla?variant=40603758526521
-  PLA+/Pro Metal:
-    Metallic Black:
-      hex: '#0C0E0C'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-metallic-pla-pro?variant=41829654724665
-    Metallic Chrome:
-      hex: '#505A5D'
-      source: 3dfilamentprofiles.com
-  PLA Marble:
-    Marble Brick:
-      hex: '#CA6641'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-marble?variant=43631398944825
-    White:
-      hex: '#D7D4DA'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-marble
-    Limestone:
-      hex: '#C6C6C3'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-marble
-    Sandstone:
-      hex: '#E2D7BC'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-marble
-    Slate Grey:
-      hex: '#91C2CC'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-marble?variant=43612877881401
-  PLA:
-    Dual Matte Shadow Red (Black-Red):
-      hex: '#ED2F2E,#2F2E30'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/prod ucts/panchroma-dual-matte
-    Black:
-      hex: '#18191B'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-pla?variant=44863271764025
-    Aqua Blue:
-      hex: '#5EBDDB'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-pla?variant=44863271403577
-    White:
-      hex: '#EFF0EB'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-pla?variant=44863271764025
-    Power Tool Yellow:
-      hex: '#FFA420'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla-gf?variant=44469752856633
-  TPU 90A:
-    Clear:
-      hex: '#DBD5D6'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polyflex-tpu90?variant=39574341222457
-    Teal:
-      hex: '#2DCCD3'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polyflex-tpu90
-    Grey (wrong SKU):
-      hex: '#80837C'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polyflex-tpu90
-    Black:
-      hex: '#101820'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polyflex-tpu90?variant=39574341320761
-    White:
-      hex: '#F0EBE8'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/polyflex-tpu90?variant=44585309307198
-    Grey:
-      hex: '#80837C'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/polyflex-tpu90?variant=44585309339966
-  PLA PolyMax:
+    Bright Yellow:
+      hex: '#F6BD01'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-lw-pla?variant=40603758559289
+    Bright Green:
+      hex: '#BDD901'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-lw-pla?variant=40620593905721
+    Bright Red:
+      hex: '#D6001C'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-lw-pla?variant=41590536994873
+    Dark Grey:
+      hex: '#485259'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla?variant=44863271010361
+    Steel Grey:
+      hex: '#616469'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267931193
+    Brown:
+      hex: '#55331A'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267963961
+    Tan:
+      hex: '#A79E82'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla?variant=44863271108665
+    Beige:
+      hex: '#C2AB72'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla?variant=44863271436345
+    Cream:
+      hex: '#EED1A8'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla?variant=44863271239737
+    Cold White:
+      hex: '#D9DFE5'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157268029497
+    Pink:
+      hex: '#F1A1AF'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla?variant=44863271632953
+    Magenta:
+      hex: '#F24574'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla?variant=44863271174201
+    Red:
+      hex: '#E72F1D'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267767353
+    Wine Red:
+      hex: '#D60212'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla?variant=44863271534649
+    Orange:
+      hex: '#F67405'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267865657
     Yellow:
       hex: '#FFE800'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymax-pla
-    Teal:
-      hex: '#4ABAC2'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymax-pla?variant=39574348300345
-    Blue:
-      hex: '#013178'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymax-pla
-    Grey:
-      hex: '#8D8E93'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymax-pla?variant=39574348529721
-    Black:
-      hex: '#101820'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymax-pla?srsltid=AfmBOooH7xLQcsMI7hP7pEhs-oogfB6qOTa_rwwnkFyx9Rb3lsVLIsKq#productinfo
-    Pink:
-      hex: '#FF40FF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymax-pla
-    FDE Beige:
-      hex: '#90755D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymax-pla?variant=40558463680569
-    True Grey:
-      hex: '#C7C7C7'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymax-pla
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267898425
+    Lemon Yellow:
+      hex: '#EED230'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla?variant=44863271305273
+    Lime Green:
+      hex: '#D5D701'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla?variant=44863271206969
+    Olive Green:
+      hex: '#948902'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla?variant=44863271469113
     Green:
-      hex: '#53C37F'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymax-pla
-    Orange:
-      hex: '#FF5900'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymax-pla
-    Purple:
-      hex: '#7758B4'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymax-pla
-    White:
-      hex: '#FFFFFF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymax-pla?variant=39574348562489
-  PLA Color Change (Temp):
-    Panchroma Temp Shift PLA Green-Lime:
-      hex: '#80FF80,#FFFF00'
-      source: 3dfilamentprofiles.com
-      link: https://www.3djake.de/polymaker/polylite-pla-temperature-color-change-green-lime?sai=17321
-  PLA+/Pro Panchroma Satin:
-    Blue:
-      hex: '#0064B9'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-satin?variant=43689639673913
-    Orange:
-      hex: '#FF9812'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-satin?variant=43689639542841
-    Red:
-      hex: '#DD1116'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-satin?variant=43689639739449
-    Black:
-      hex: '#151515'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-satin
-  PLA+/Pro Pro:
-    Flat Dark Earth 3D Print General:
-      hex: '#90785E'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/creator-spool?variant=51676499018098
-    White:
-      hex: '#E6E1DE'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro?variant=39574346367033
-  PLA Panchroma Gradient Matte:
-    Cappuccino:
-      hex: '#DDCEB5'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-gradient-matte?variant=43616479150137
-    Pastel rainbow (PA04029):
-      hex: '#E0EBFF,#F2F1CA,#FFDEB8,#FFDBEB'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-gradient-matte
-    Winter (PA04038):
-      hex: '#BFB2E6,#8BD5EE'
-      source: 3dfilamentprofiles.com
-    Dual Wood:
-      hex: '#BFA282'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-gradient-matte
-    Sandstorm:
-      hex: '#F4D4B3,#A67E65,#624134'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-gradient-matte?variant=45186228944953
-    Summer (PA04036):
-      hex: '#D0E740,#519F61'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-gradient-matte?variant=43616479215673
-    Spring:
-      hex: '#F2B67A,#C96A9F'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-gradient-matte?variant=43616479182905
-    Fall:
-      hex: '#DF9900,#AE2D00'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-gradient-matte?variant=43594430349369
-    Pastel Rainbow:
-      hex: '#BBA0DC'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-gradient-matte?variant=43594430218297
-  PLA Panchroma Gradient:
-    Silk Air:
-      hex: '#FFFFFF,#919191'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-gradient-silk?variant=44843904139321
-    Gradient Crystal Aquamarine:
-      hex: '#228CDF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-gradient-crystal?variant=45185871315001
-    Translucent Rainbow:
-      hex: '#BE38F3'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-gradient-matte?variant=43616479150137
-  PC Blend:
-    PC-PBT Natural:
-      hex: '#FFFFFF'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/polymaker-pc-pbt?variant=44585314648382
-    PC-PBT Black:
-      hex: '#101820'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/polymaker-pc-pbt?variant=44585314615614
-  PLA Panchroma Neon:
-    Magenta:
-      hex: '#F21185'
-      source: 3dfilamentprofiles.com
-    Orange:
-      hex: '#FF7800'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/panchroma-neon?variant=51676378726770
-    Green:
-      hex: '#00F263'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-neon?variant=43595095244857
-    Yellow:
-      hex: '#E5DB2E'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/panchroma-neon?variant=51676378694002
-    Neon Green:
-      hex: '#00F263'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-neon?variant=43595095244857
-  PC PolyLite:
-    Transparent:
-      hex: '#FFFFFF'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/product/polylite-pc/
-  PETG CF:
-    Black:
-      hex: '#000000'
-      source: 3dfilamentprofiles.com
-      link: https://fiberon.polymaker.com/product/petg-rcf08/
-  PLA HT:
-    Orange:
-      hex: '#DC6E38'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla
-    Green:
-      hex: '#05AF47'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla?variant=44457611821113
-    Red:
-      hex: '#AC0200'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla?variant=44457611788345
-    Black:
-      hex: '#070707'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla
-    White:
-      hex: '#F3F3F1'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla?variant=44457611690041
-    Yellow:
-      hex: '#F0C940'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-ht-pla?variant=44457611853881
-  TPU:
-    Yellow:
-      hex: '#FEDD00'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/polyflex-tpu95?variant=44585309733182
-  PLA Support:
-    Pearl White:
-      hex: '#CBF0FF'
-      source: 3dfilamentprofiles.com
-    White:
-      hex: '#FFFFFF'
-      source: 3dfilamentprofiles.com
-  PLA CF:
-    Black:
-      hex: '#000000'
-      source: 3dfilamentprofiles.com
-  PC PolyMax:
-    White:
-      hex: '#F0F0F0'
-      source: 3dfilamentprofiles.com
-    Grey:
-      hex: '#A5A5AB'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymax-pc?variant=40314298269753
-    Blue:
-      hex: '#0076CF'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/polymax-pc?variant=44585317695806
-    Black:
-      hex: '#000000'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymax-pc?variant=39574347776057
-    Red:
-      hex: '#DA2A1E'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/polymax-pc?variant=44585317761342
-  PLA+/Pro Basic:
-    Gold:
-      hex: '#AA6500'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro
-    Silver:
-      hex: '#75787B'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro
-    Bronze:
-      hex: '#9D5229'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-pla-pro
-    Blue Green:
-      hex: '#022B33'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/product/polylite-pla-pro/
-  PLA Translucent:
-    Translucent Grey:
-      hex: '#9199A4'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-translucent
-    Cyan:
-      hex: '#08ABFB'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-translucent
-    Translucent Yellow:
-      hex: '#F9ED3D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-translucent?variant=43595097866297
-    Translucent Natural:
-      hex: '#E8E6D0'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-translucent?variant=44215532060729
-    Translucent Magenta:
-      hex: '#D93B90'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-translucent?variant=43595097833529
-  PETG PolyMax:
-    Black:
-      hex: '#000000'
-      source: 3dfilamentprofiles.com
-    White:
-      hex: '#FFFFFF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymax-petg
-  PVB Special:
-    PolyCast - Natural:
-      hex: '#E9DFD3'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polycast?variant=39574341124153
-    PolyCast - Grey:
-      hex: '#949494'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polycast?variant=39574341124153
-  PLA Color Change (UV):
-    Glow in the dark green:
-      hex: '#00FF00'
-      source: 3dfilamentprofiles.com
-    Neon Magenta:
-      hex: '#F21185'
-      source: 3dfilamentprofiles.com
-  PETG Translucent:
-    Red:
-      hex: '#FF0506'
-      source: 3dfilamentprofiles.com
-  PLA Lite:
+      hex: '#06924D'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267832889
+    Jungle Green:
+      hex: '#4E742D'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla?variant=44863271501881
+    Olive Drab Green:
+      hex: '#575B54'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-cope?variant=44207272263737
+    Polymaker Teal:
+      hex: '#4CC0C7'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267996729
+    Aqua Blue:
+      hex: '#5EBDDB'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla?variant=44863271403577
     Stone Blue:
-      hex: '#2F66C3'
-      source: 3dfilamentprofiles.com
-  PC:
-    PC-ABS White:
-      hex: '#FFFFFF'
-      source: 3dfilamentprofiles.com
-      link: https://ca.polymaker.com/products/polymaker-pc-abs?variant=44585313632574
-    Black:
-      hex: '#161619'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-pc-pbt
-    PC-ABS Black:
-      hex: '#000000'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-pc-abs?variant=39574346203193
-  ASA Basic:
-    Black:
-      hex: '#243841'
-      source: 3dfilamentprofiles.com
-      link: https://us-wholesale.polymaker.com/products/polymaker-asa
-  TPU HF:
-    PolyFlex TPU95-HF:
-      hex: '#FFFFFF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polyflex-tpu95-hf?variant=39574341713977
-  PLA+/Pro HT:
-    Gradient Fire:
-      hex: '#E13951'
-      source: 3dfilamentprofiles.com
-  TPU Polyflex:
-    RED:
-      hex: '#B11010'
-      source: 3dfilamentprofiles.com
-      link: https://polymaker.com/product/polyflex-tpu95/
-    Clear:
-      hex: '#FFFFFF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polyflex-tpu90?variant=39574341222457
-    White 95A:
-      hex: '#FFFFFF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polyflex-tpu95?variant=39574341615673
+      hex: '#487BA2'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla?variant=44863271370809
     Blue:
-      hex: '#0076CF'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polyflex-tpu95?variant=39574341484601
-    TPU90 Teal:
-      hex: '#2DCCD3'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polyflex-tpu90?variant=39574341189689
-    Orange:
-      hex: '#F57517'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polyflex-tpu95?variant=39574341386297
-  CPE:
+      hex: '#003776'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267800121
     Purple:
       hex: '#6C47B2'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-cope-regular
-    Panchroma CoPE Orange:
-      hex: '#F67405'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-cope-regular?variant=43631571599417
-    Panchroma CoPE Magenta:
-      hex: '#F24574'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-cope-regular?variant=44154775404601
-  ABS Pro:
-    Voron Red:
-      hex: '#CD3746'
-      source: 3dfilamentprofiles.com
-  PA612 PolyMide:
-    Black - PA612 - CF:
-      hex: '#000000'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/fiberon-pa612-cf
-  PVA Support:
-    PolyDissolve S1:
-      hex: '#FFFFFF'
-      source: 3dfilamentprofiles.com
-      link: https://app.polymaker.com/details/PolyDissolve%20S1
-  PLA Metal:
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla?variant=44863271600185
+    Army Beige:
+      hex: '#C28D5E'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-pla-pro?variant=39669383757881
+    Light Yellow:
+      hex: '#F4DA78'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-pla-pro?variant=40294510362681
+    Army Green:
+      hex: '#61583C'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-ht-pla-gf?variant=44469752823865
+    Light Green:
+      hex: '#C0DDA3'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-pla-pro?variant=40294510329913
+    Blue-Green:
+      hex: '#022B33'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-pla-pro?variant=41094261047353
+    Light Blue:
+      hex: '#A8D4E8'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-pla-pro?variant=40294510297145
+    Dark Purple:
+      hex: '#2C1C30'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-pla-pro?variant=40603693285433
+    Light Red:
+      hex: '#DC605A'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-pla-pro?variant=40603693187129
+    3D Print General Flat Dark Earth:
+      hex: '#90785E'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-pla-pro?variant=44933121114169
+    FDE Beige:
+      hex: '#90755D'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymax-pla?variant=40558463680569
+    Slate Grey:
+      hex: '#7DA1AA'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polysmooth?variant=39597627146297
+    Electric Blue:
+      hex: '#007ABC'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polysmooth?variant=39597627211833
+    Coral Red:
+      hex: '#F04B2A'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polysmooth?variant=39597627277369
+    Transparent:
+      hex: '#E8D9C3'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polysmooth?variant=39597627736121
+    Snow White:
+      hex: '#F5F0EC'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polysmooth?variant=39597627113529
+    Black*10:
+      hex: '#16161A'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-draft-pla?variant=41005110886457
+    Gold:
+      hex: '#A66301'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-metallic-pla-pro?variant=41019989819449
+    Silver:
+      hex: '#8A8D95'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-metallic-pla-pro?variant=41019989852217
+    Bronze:
+      hex: '#AE6840'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-metallic-pla-pro?variant=41019989884985
+    Metallic Blue:
+      hex: '#2C3449'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-metallic?variant=44228511727673
+    Metallic Red:
+      hex: '#8D352C'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-metallic-pla-pro?variant=41159685832761
+    Metallic Magenta:
+      hex: '#743063'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-metallic-pla-pro?variant=41159685799993
+    Metallic Chrome:
+      hex: '#505A5D'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-metallic-pla-pro?variant=41829654691897
+    Metallic Black:
+      hex: '#0C0E0C'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-metallic-pla-pro?variant=41829654724665
+    LM Sparkle Green:
+      hex: '#434D43'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-metallic-pla-pro?variant=45255607418937
+    Version A - Durability with extra sand-ability:
+      hex: '#A7A4A8'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-cospla?variant=41068178931769
+    Version B - Sand-ability with extra durability:
+      hex: '#BCBABB'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-cospla?variant=41068178964537
+    Polymaker Teal:
+      hex: '#50DAE4'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polysonic-pla?variant=42901488009273
+    Pearl White:
+      hex: '#F6F1EC'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polysupport-for-pla?variant=43161669632057
+    Matte Charcoal Black:
+      hex: '#2F2E30'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267013689
+    Matte Cotton White:
+      hex: '#F4EFEB'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267046457
+    Matte Army Beige:
+      hex: '#DBBAA5'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267537977
+    Matte Army Brown:
+      hex: '#795A4D'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458189369
+    Matte Earth Brown:
+      hex: '#7C594A'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267210297
+    Matte Muted White:
+      hex: '#BBADA4'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458254905
+    Matte Pastel Peanut:
+      hex: '#BF9573'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267275833
+    Matte Wood Brown:
+      hex: '#AB7449'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267308601
+    Matte Pastel Peach:
+      hex: '#F6BF8B'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458353209
+    Matte Sunrise Orange:
+      hex: '#F88B17'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267406905
+    Matte Pastel Banana:
+      hex: '#F7D475'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458418745
+    Matte Army Light Green:
+      hex: '#AB8C02'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458451513
+    Matte Savannah Yellow:
+      hex: '#F3C432'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267243065
+    Matte Lime Green:
+      hex: '#D7D602'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458517049
+    Matte Army Dark Green:
+      hex: '#5F6244'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267111993
+    Matte Pastel Mint:
+      hex: '#D2DEBB'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458582585
+    Matte Muted Green:
+      hex: '#777E71'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458648121
+    Matte Forest Green:
+      hex: '#60AD70'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267341369
+    Matte Arctic Teal:
+      hex: '#61BCC3'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267374137
+    Matte Pastel Ice:
+      hex: '#A4D0DF'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458746425
+    Matte Sapphire Blue:
+      hex: '#0163A6'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267144761
+    Matte Army Blue:
+      hex: '#2E4462'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267472441
+    Matte Muted Blue:
+      hex: '#5F778E'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458844729
+    Matte Fossil Grey:
+      hex: '#8A8C94'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267079225
+    Matte Lavender Purple:
+      hex: '#9572BF'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267570745
+    Matte Muted Purple:
+      hex: '#7C5C78'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458943033
+    Matte Pastel Candy:
+      hex: '#F0D6D9'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-matte?variant=43631458975801
+    Matte Sakura Pink:
+      hex: '#EAADBD'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267439673
+    Matte Pastel Watermelon:
+      hex: '#EE474B'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-matte?variant=43631459041337
+    Matte Lava Red:
+      hex: '#ED2F2E'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267177529
+    Matte Army Red:
+      hex: '#BF312E'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157267505209
+    Matte Muted Red:
+      hex: '#D84B2E'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-matte?variant=43631459139641
+    Matte Army Purple:
+      hex: '#36364A'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-matte?variant=43631459172409
+    Matte Ash Grey:
+      hex: '#485155'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-matte?variant=43631459205177
+    Matte Electric Indigo:
+      hex: '#6858A9'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-matte?variant=43631459237945
+    Matte Pastel Periwinkle:
+      hex: '#ADB4E6'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-matte?variant=43631459270713
+    Matte Lotus Pink:
+      hex: '#DD76C0'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-matte?variant=43631459303481
+    Matte Sky Blue:
+      hex: '#1AC5FC'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-matte?variant=43631459336249
+    Satin Black:
+      hex: '#302E30'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-satin?variant=43689639444537
+    Satin White:
+      hex: '#F5F0EC'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-satin?variant=43689639477305
+    Satin Grey:
+      hex: '#797E89'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-satin?variant=43689639510073
+    Satin Orange:
+      hex: '#FE9217'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-satin?variant=43689639542841
+    Satin Yellow:
+      hex: '#F4C131'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-satin?variant=43689639575609
+    Satin Green:
+      hex: '#5EAB71'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-satin?variant=43689639608377
+    Satin Polymaker Teal:
+      hex: '#61BBC1'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-satin?variant=43689639641145
+    Satin Blue:
+      hex: '#0162A6'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-satin?variant=43689639673913
+    Satin Purple:
+      hex: '#9272C1'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-satin?variant=43689639706681
+    Satin Red:
+      hex: '#DA1521'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-satin?variant=43689639739449
+    Galaxy Black:
+      hex: '#161617'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-galaxy?variant=43595081711673
+    Galaxy Dark Blue:
+      hex: '#18192D'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-galaxy?variant=43595081744441
+    Galaxy Dark Red:
+      hex: '#451E14'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-galaxy?variant=43595081777209
+    Galaxy Dark Green:
+      hex: '#13484D'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-galaxy?variant=43595081809977
+    Galaxy Dark Grey:
+      hex: '#4E5658'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-galaxy?variant=43595081842745
+    Hedgehog Makes - Galaxy Red:
+      hex: '#760007'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-galaxy?variant=44933539987513
+    Glow Green:
+      hex: '#F2EADB'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-glow?variant=43613187833913
+    Glow Blue:
+      hex: '#F3EADB'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-glow?variant=43613187866681
+    Glow Orange:
+      hex: '#FEBE5F'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-glow?variant=43595083415609
+    Luminous Blue:
+      hex: '#5FA8C2'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-luminous?variant=43631365521465
+    Luminous Orange:
+      hex: '#FEBE5F'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-luminous?variant=43631365554233
+    Luminous Green:
+      hex: '#BFEB8C'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-luminous?variant=43631365587001
+    Luminous Pink:
+      hex: '#FE9176'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-luminous?variant=43631365619769
+    Luminous Yellow:
+      hex: '#EEDC48'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-luminous?variant=43631365652537
+    UV Shift Natural/Orange:
+      hex: '#F1DBBF'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-uv-shift?variant=43631531393081
+    Silk Black:
+      hex: '#363538'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-silk?variant=43637560868921
+    Silk Purple:
+      hex: '#786BB0'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-silk?variant=43637560901689
+    Silk Magenta:
+      hex: '#AA538E'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-silk?variant=43637560934457
+    Silk Rose:
+      hex: '#CF6076'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-silk?variant=43637560967225
+    Silk Red:
+      hex: '#C1443F'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-silk?variant=43637560999993
+    Silk Rose Gold:
+      hex: '#CBB0B1'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561032761
+    Silk Quartz Pink:
+      hex: '#DBBBBB'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561065529
+    Silk Bronze:
+      hex: '#AF6B4C'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157266980921
+    Silk Orange:
+      hex: '#EB6232'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561131065
+    Silk White:
+      hex: '#DFE4E4'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561163833
+    Silk Gold:
+      hex: '#C49449'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157266915385
+    Silk Yellow:
+      hex: '#EEC810'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561229369
+    Silk Lime:
+      hex: '#C4CF4C'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561262137
+    Silk Green:
+      hex: '#55B687'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561294905
+    Silk Teal:
+      hex: '#66C2B6'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561327673
+    Silk Light Blue:
+      hex: '#4CC1CB'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561360441
+    Silk Blue:
+      hex: '#4999C9'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561393209
+    Silk Chrome:
+      hex: '#85898B'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561425977
+    Silk Silver:
+      hex: '#BCC2C8'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla-refill-filament?variant=45157266948153
+    Silk Brass:
+      hex: '#968162'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561491513
+    Silk Peridot Green:
+      hex: '#7F865B'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561524281
+    Silk Periwinkle:
+      hex: '#768EC7'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561557049
+    Silk Dark Blue:
+      hex: '#23599A'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561589817
+    Silk Gunmetal Grey:
+      hex: '#676B6A'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-silk?variant=43637561622585
+    Silk Pink:
+      hex: '#FFA7C4'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-silk?variant=43595091214393
+    Starlight Mercury:
+      hex: '#33322D'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-starlight?variant=43631529066553
+    Starlight Jupiter:
+      hex: '#774718'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-starlight?variant=43631529099321
+    Starlight Neptune:
+      hex: '#113148'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-starlight?variant=43631529132089
+    Starlight Comet:
+      hex: '#1F312A'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-starlight?variant=43631529164857
+    Starlight Meteor:
+      hex: '#2F3117'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-starlight?variant=43631529197625
+    Starlight Aurora:
+      hex: '#314530'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-starlight?variant=43631529230393
+    Starlight Nebula:
+      hex: '#462F32'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-starlight?variant=43631529263161
+    Starlight Twilight:
+      hex: '#1E3445'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-starlight?variant=43631529295929
+    Starlight Mars:
+      hex: '#962E31'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-starlight?variant=43631529328697
+    Starlight Midnight:
+      hex: '#475A64'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-starlight?variant=44835150364729
+    Starlight Pulsar:
+      hex: '#5C7BC1'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-starlight?variant=44835174842425
+    Neon Magenta:
+      hex: '#F21185'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-neon?variant=43595095212089
+    Neon Green:
+      hex: '#00F263'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-neon?variant=43595095244857
+    Neon Yellow:
+      hex: '#E5DB2E'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-neon?variant=43595095277625
+    Neon Orange:
+      hex: '#FF7800'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-neon?variant=43595095310393
+    Neon Pink:
+      hex: '#FF3670'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-neon?variant=43595095343161
+    Neon Red:
+      hex: '#FE2D42'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-neon?variant=43595095375929
     Metallic Gold:
       hex: '#DA9F1D'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-metallic
-    Panchroma Metallic Bronze:
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-metallic?variant=43595097342009
+    Metallic Silver:
+      hex: '#7A838E'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-metallic?variant=43595097374777
+    Metallic Bronze:
       hex: '#926043'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/panchroma-metallic
-  PETG HF:
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-metallic?variant=43595097407545
+    Translucent Cyan:
+      hex: '#08ABFB'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-translucent?variant=43595097800761
+    Translucent Magenta:
+      hex: '#D93B90'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-translucent?variant=43595097833529
+    Translucent Yellow:
+      hex: '#F9ED3D'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-translucent?variant=43595097866297
+    Translucent Grey:
+      hex: '#9199A4'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-translucent?variant=43595097899065
+    Translucent Natural:
+      hex: '#E8E6D0'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-translucent?variant=44215532060729
+    Celestial Blue:
+      hex: '#6ADCF7'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-celestial?variant=43595098619961
+    Celestial Green:
+      hex: '#6FE2D2'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-celestial?variant=43595098718265
+    Celestial Purple:
+      hex: '#9678C8'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-celestial?variant=43595098751033
+    Celestial White:
+      hex: '#DCDAD0'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-celestial?variant=44835191193657
+    Celestial Light Yellow:
+      hex: '#D7CE89'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-celestial?variant=44835191423033
+    Celestial Light Pink:
+      hex: '#C3ADB8'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-celestial?variant=44835193094201
+    Celestial Yellow:
+      hex: '#F4C76A'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-celestial?variant=44835197976633
+    Marble White:
+      hex: '#D7D4DA'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-marble?variant=43631398879289
+    Marble Slate Grey:
+      hex: '#94B9C2'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-marble?variant=43631398912057
+    Marble Brick:
+      hex: '#CD7456'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-marble?variant=43631398944825
+    Marble Limestone:
+      hex: '#BCBEBE'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-marble?variant=43631398977593
+    Marble Sandstone:
+      hex: '#C1BE97'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-marble?variant=43631399010361
+    Azure Blue:
+      hex: '#0066D9'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla?variant=44863271141433
+    Olive Brown:
+      hex: '#A79565'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-pla?variant=43818026729529
+    Dark Gray Green:
+      hex: '#4C5F46'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-pla?variant=43818026762297
+    Teal:
+      hex: '#5FCCB7'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-ht-pla?variant=44457611952185
+    Power Tool Yellow:
+      hex: '#F6B649'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-ht-pla-gf?variant=44469752856633
+    Power Tool Red:
+      hex: '#CA4140'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-ht-pla-gf?variant=44469752889401
+    Power Tool Green:
+      hex: '#CECF45'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-ht-pla-gf?variant=44469752922169
+    Power Tool Teal:
+      hex: '#215966'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-ht-pla-gf?variant=44469752954937
+    Dark Olive Drab:
+      hex: '#575B54'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/panchroma-pla?variant=44863271075897
+  TPU:
+    Black:
+      hex: '#16161A'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polyflex-tpu95-hf?variant=39574341779513
+    White:
+      hex: '#F0EBE8'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polyflex-tpu95-hf?variant=39574341713977
+    Grey:
+      hex: '#80837C'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polyflex-tpu90?variant=39574341255225
+    Polymaker Teal:
+      hex: '#01ACBA'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polyflex-tpu90?variant=39574341189689
+    Clear:
+      hex: '#DBD5D6'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polyflex-tpu95-hf?variant=39574341845049
+    Blue:
+      hex: '#003276'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polyflex-tpu95?variant=39574341484601
     Red:
-      hex: '#C23320'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221207097#productinfo
-  PETG Lite:
+      hex: '#F3442B'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polyflex-tpu95?variant=39574341615673
     Yellow:
-      hex: '#FFC845'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polylite-petg
-  PPS CF:
+      hex: '#EDA900'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polyflex-tpu95?variant=39574341550137
+    Orange:
+      hex: '#F57517'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polyflex-tpu95?variant=39574341386297
+  ABS:
+    Black:
+      hex: '#181617'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-pc-abs?variant=39574346235961
+    White:
+      hex: '#DDD6D4'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-pc-abs?variant=39574346203193
+    Grey:
+      hex: '#8C8D93'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-abs?variant=39574342697017
+    Blue:
+      hex: '#003276'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-abs?variant=39574342565945
+    Red:
+      hex: '#F3442B'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-abs?variant=39574342664249
+    Green:
+      hex: '#479161'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-abs?variant=39574342631481
+    Yellow:
+      hex: '#EDA900'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-abs?variant=39574342598713
+    Orange:
+      hex: '#F57517'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-abs?variant=39574342467641
+    Teal:
+      hex: '#01ACBA'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-abs?variant=39574342434873
+    Purple:
+      hex: '#6545A5'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-abs?variant=39574342500409
+    Pink:
+      hex: '#FFA7C4'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-abs?variant=40626872123449
+    Lime:
+      hex: '#C4D100'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-abs?variant=40626872156217
+    Light Blue:
+      hex: '#8EDBEB'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-abs?variant=40626872188985
+    Dark Grey:
+      hex: '#474648'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-abs?variant=40626872221753
+    Gold:
+      hex: '#BD6200'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-abs?variant=41007750119481
+    Dark Purple:
+      hex: '#46394E'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-abs?variant=41590530146361
+    Natural:
+      hex: '#F7F5ED'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-abs?variant=42919123976249
+    Galaxy Black:
+      hex: '#212721'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-galaxy-abs?variant=41590523592761
+    Galaxy Dark Grey:
+      hex: '#474648'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-galaxy-abs?variant=41212532129849
+    Galaxy Purple:
+      hex: '#6545A5'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-galaxy-abs?variant=41212532162617
+    Galaxy Teal:
+      hex: '#2DCCD3'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-galaxy-abs?variant=41212532195385
+    Galaxy Orange:
+      hex: '#F57517'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-galaxy-abs?variant=41212532228153
+    Neon Green:
+      hex: '#77F0A2'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-neon-abs?variant=41404997206073
+    Neon Yellow:
+      hex: '#FFC001'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-neon-abs?variant=41404997238841
+    Neon Orange:
+      hex: '#FE602B'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-neon-abs?variant=41404997271609
+    Neon Magenta:
+      hex: '#F6162E'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-neon-abs?variant=41404997304377
+    Metallic Blue:
+      hex: '#0D2441'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-abs-metallic?variant=42510087684153
+    Metallic Green:
+      hex: '#3D441E'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-abs-metallic?variant=42510087716921
+  ASA:
+    Jet Black:
+      hex: '#161618'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-asa?variant=41297658314809
+    Black:
+      hex: '#000000'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/fiberon-asa-cf08?variant=44810310484025
+    White:
+      hex: '#DBD7D6'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-asa?variant=39574343221305
+    Grey:
+      hex: '#8D8E92'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-asa?variant=39574343188537
+    Blue:
+      hex: '#003576'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-asa?variant=39574343123001
+    Red:
+      hex: '#D82B1C'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-asa?variant=39574343155769
+    Green:
+      hex: '#2E784D'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-asa?variant=40294530875449
+    Orange:
+      hex: '#F37716'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-asa?variant=39597309231161
+    Yellow:
+      hex: '#EEC000'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-asa?variant=40294530908217
+    Purple:
+      hex: '#5F4793'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-asa?variant=39597310148665
+    Polymaker Teal:
+      hex: '#0094A4'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-asa?variant=40294530940985
+    Natural:
+      hex: '#DFD3C3'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-asa?variant=39574343090233
+    Army Green:
+      hex: '#5C5E31'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-asa?variant=39597309624377
+    Army Brown:
+      hex: '#624234'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-asa?variant=40627010109497
+    Dark Grey:
+      hex: '#4D5E70'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/fiberon-asa-cf08?variant=44810332471353
+    Pop Blue:
+      hex: '#008DC3'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-asa?variant=41159525826617
+    Pop Pink:
+      hex: '#D83076'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-asa?variant=41159525859385
+    Pop Green:
+      hex: '#77D730'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-asa?variant=41159525892153
+    Dark Purple:
+      hex: '#46394E'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-asa?variant=41590534897721
+    Dark Gray Green:
+      hex: '#4C5F46'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-asa?variant=41590536634425
+    Olive Brown:
+      hex: '#A79565'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-asa?variant=41590536667193
+    Galaxy Black:
+      hex: '#212721'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-galaxy-asa?variant=41590533488697
+    Galaxy Blue:
+      hex: '#012C61'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-galaxy-asa?variant=41212531081273
+    Galaxy Red:
+      hex: '#BF1A11'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-galaxy-asa?variant=41212531114041
+    Galaxy Green:
+      hex: '#2E764C'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-galaxy-asa?variant=41212531146809
+    Light Grey:
+      hex: '#ADC4D6'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/fiberon-asa-cf08?variant=44810316611641
+    Navy Blue:
+      hex: '#30548E'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/fiberon-asa-cf08?variant=44810312155193
+    Dark Red:
+      hex: '#855261'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/fiberon-asa-cf08?variant=44810371792953
+    Desert Sand:
+      hex: '#CEB69C'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/fiberon-asa-cf08?variant=44810336206905
+  PC:
+    Transparent:
+      hex: '#DAD5D4'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-pc?variant=39574343516217
+    Black:
+      hex: '#151619'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymax-pc-fr?variant=39574348038201
+    Natural:
+      hex: '#EADAC2'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-pc-pbt?variant=39574346924089
+    White:
+      hex: '#DDD7D3'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymax-pc-fr?variant=39574348005433
+    Grey:
+      hex: '#A5A5AB'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymax-pc?variant=40314298269753
+    Blue:
+      hex: '#005DAB'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymax-pc?variant=40314298335289
+    Red:
+      hex: '#DA2A1E'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymax-pc?variant=40314298368057
+  PETG:
     Black:
       hex: '#302E2F'
-      source: 3dfilamentprofiles.com
-      link: https://fiberon.polymaker.com/product/pps-cf10/
-  PA12 Support:
-    PolySupport™ for PA12 Grass Green:
-      hex: '#ACE063'
-      source: 3dfilamentprofiles.com
-  PLA PolyWood:
-    Wood:
-      hex: '#D2A273'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polywood
-  PA6 CF:
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/fiberon-petg-rcf08?variant=43596333088825
+    Dark Grey:
+      hex: '#363D40'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221338169
+    Silver:
+      hex: '#707478'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221403705
+    Grey:
+      hex: '#A7AEB2'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221174329
+    White:
+      hex: '#EFECEB'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymax-petg?variant=39574348136505
+    Pink:
+      hex: '#F5BEE9'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221665849
+    Magenta:
+      hex: '#DC5D8C'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221633081
+    Red:
+      hex: '#C23320'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221207097
+    Orange:
+      hex: '#DC7C40'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221239865
+    Green:
+      hex: '#38B837'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221436473
+    Yellow:
+      hex: '#FBE95C'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221305401
+    Lime:
+      hex: '#F8FF6B'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221567545
+    Dark Green:
+      hex: '#223622'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221600313
+    Teal:
+      hex: '#74CABF'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221370937
+    Electric Blue:
+      hex: '#3E8CE4'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221469241
+    Blue:
+      hex: '#1B3B99'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221272633
+    Dark Blue:
+      hex: '#081B36'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221534777
+    Purple:
+      hex: '#6947B8'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221502009
+    Dark Purple:
+      hex: '#352A3B'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-petg?variant=45079221698617
+    Gold:
+      hex: '#A85D00'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-petg?variant=39597379354681
+    Polymaker Teal:
+      hex: '#0091A5'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymaker-petg?variant=39574344695865
+    Clear:
+      hex: '#DBD5D6'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-translucent-petg?variant=40303029813305
+    Translucent Blue:
+      hex: '#01062F'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-translucent-petg?variant=40303029715001
+    Translucent Red:
+      hex: '#BE0017'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-translucent-petg?variant=40303029747769
+    Translucent Green:
+      hex: '#005F2F'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polylite-translucent-petg?variant=40303029780537
+  PA:
     Black:
-      hex: '#312F2F'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/fiberon-pa6-cf20?variant=43596329287737
-  PA12 CF:
-    Fiberon™ PA12-CF10:
+      hex: '#161618'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymide-copa?variant=39574349971513
+    Natural:
+      hex: '#E8D795'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polymide-copa?variant=44102597181497
+  PA12:
+    Grass Green:
+      hex: '#ACE063'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/polysupport?variant=40698431897657
+    Black:
+      hex: '#302F2F'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/fiberon-pa12-cf10?variant=43596329156665
+  PA6:
+    Black:
+      hex: '#161618'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/fiberon-pa612-esd?variant=44327042023481
+    Grey:
+      hex: '#75787B'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/fiberon-pa6-gf25?variant=43596329582649
+  PPS:
+    Black:
+      hex: '#302E2F'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/fiberon-pps-cf10?variant=43596332400697
+    Grey:
+      hex: '#75787B'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/fiberon-pps-gf20?variant=44705061961785
+  PET:
+    Black:
       hex: '#000000'
-      source: 3dfilamentprofiles.com
-  PLA Wood:
-    Wood:
-      hex: '#D2A273'
-      source: 3dfilamentprofiles.com
-      link: https://us.polymaker.com/products/polymaker-wood-pla
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/fiberon-pet-gf15?variant=44963510419513
+    Dark Grey:
+      hex: '#0F191F'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/fiberon-pet-gf15?variant=44963510517817
+    Light Grey:
+      hex: '#A9ABAF'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/fiberon-pet-gf15?variant=44963510550585
+    White:
+      hex: '#FFFFFF'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/fiberon-pet-gf15?variant=44963510452281
+    Blue:
+      hex: '#6E9EFF'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/fiberon-pet-gf15?variant=44963510485049
+    Red:
+      hex: '#CC0033'
+      source: us.polymaker.com
+      link: https://us.polymaker.com/products/fiberon-pet-gf15?variant=44963510583353
