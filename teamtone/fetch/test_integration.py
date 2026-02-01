@@ -76,7 +76,7 @@ class TestSunluScraperIntegration:
     def test_fetch_returns_filaments(self):
         """Scraper should return a positive number of filaments"""
         scraper = SunluScraper()
-        result = scraper.fetch(max_products=5, delay=0.5)
+        result = scraper.fetch(max_products=10, delay=0.5)
 
         assert "filaments" in result
         assert len(result["filaments"]) > 0, "Expected at least 1 filament"
@@ -84,7 +84,7 @@ class TestSunluScraperIntegration:
     def test_filaments_have_required_fields(self):
         """Each filament should have manufacturer, material, color, hex"""
         scraper = SunluScraper()
-        result = scraper.fetch(max_products=5, delay=0.5)
+        result = scraper.fetch(max_products=10, delay=0.5)
 
         required_fields = ["manufacturer", "material", "color", "hex"]
         for filament in result["filaments"][:5]:
@@ -95,7 +95,7 @@ class TestSunluScraperIntegration:
     def test_manufacturer_is_sunlu(self):
         """All filaments should be from SUNLU"""
         scraper = SunluScraper()
-        result = scraper.fetch(max_products=5, delay=0.5)
+        result = scraper.fetch(max_products=10, delay=0.5)
 
         for filament in result["filaments"]:
             assert filament["manufacturer"] == "SUNLU"
