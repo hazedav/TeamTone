@@ -182,7 +182,6 @@ class PolymakerScraper(FilamentScraper):
         self, session: requests.Session, product_url: str, delay: float
     ) -> list[dict[str, Any]]:
         """Parse a product page to extract filament data with hex codes"""
-        import json
 
         filaments = []
 
@@ -302,7 +301,7 @@ class PolymakerScraper(FilamentScraper):
         if delay is None:
             delay = self.DEFAULT_DELAY
 
-        print(f"Starting Polymaker scraper...")
+        print("Starting Polymaker scraper...")
         print(f"Using {delay}s delay between requests...")
 
         session = self._get_session()
