@@ -38,3 +38,22 @@ def is_top_manufacturer(manufacturer: str) -> bool:
         top_mfr.lower() in manufacturer_lower or manufacturer_lower in top_mfr.lower()
         for top_mfr in TOP_MANUFACTURERS
     )
+
+
+def get_manufacturer_rank(manufacturer: str) -> int:
+    """
+    Get the rank of a manufacturer in the top manufacturers list.
+
+    Args:
+        manufacturer (str): Manufacturer name to check
+
+    Returns:
+        int: Rank (1-10) if in top manufacturers, 999 otherwise
+    """
+    if not TOP_MANUFACTURERS:
+        return 999
+    manufacturer_lower = manufacturer.lower()
+    for i, top_mfr in enumerate(TOP_MANUFACTURERS):
+        if top_mfr.lower() in manufacturer_lower or manufacturer_lower in top_mfr.lower():
+            return i + 1  # 1-indexed rank
+    return 999

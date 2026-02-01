@@ -5,7 +5,12 @@ Interactive script to match team colors with 3D printing filaments
 
 from . import team_colors
 from . import filament_colors
-from .filament_manufacturers import is_top_manufacturer
+from .filament_manufacturers import is_top_manufacturer, get_manufacturer_rank
+from .filament_scoring import (
+    get_best_top_manufacturer_match,
+    calculate_manufacturer_bonus,
+    calculate_weighted_score,
+)
 
 # Maximum number of filament suggestions to display per color
 MAX_SUGGESTIONS = 3
@@ -171,42 +176,53 @@ def display_team_colors(team_name, league):
                         displayed_matches.append(match)
                         break
 
-            # If none of the displayed matches are from top 10, find nearest from top 10
+            # If none of the displayed matches are from top 10, find the highest-ranked top manufacturer
             has_top_manufacturer = any(
                 is_top_manufacturer(match["manufacturer"])
                 for match in displayed_matches
             )
             if not has_top_manufacturer:
-                for match in matches:
-                    if match not in displayed_matches and is_top_manufacturer(
-                        match["manufacturer"]
-                    ):
-                        manufacturer = match["manufacturer"]
-                        material = match["material"]
-                        color_name = match["color"]
-                        temps = ""
-                        if match.get("temp_hotend") and match.get("temp_bed"):
-                            temps = f" (Hotend: {match['temp_hotend']}C, Bed: {match['temp_bed']}C)"
+                # Find all top manufacturer matches and pick the highest-ranked one
+                top_matches = [
+                    match for match in matches
+                    if match not in displayed_matches and is_top_manufacturer(match["manufacturer"])
+                ]
+                if top_matches:
+                    # Sort by manufacturer rank (lowest rank = highest priority)
+                    best_match = min(top_matches, key=lambda m: get_manufacturer_rank(m["manufacturer"]))
+                    manufacturer = best_match["manufacturer"]
+                    material = best_match["material"]
+                    color_name = best_match["color"]
+                    temps = ""
+                    if best_match.get("temp_hotend") and best_match.get("temp_bed"):
+                        temps = f" (Hotend: {best_match['temp_hotend']}C, Bed: {best_match['temp_bed']}C)"
 
-                        link = ""
-                        if match.get("link"):
-                            link = f" [{match['link']}]"
+                    link = ""
+                    if best_match.get("link"):
+                        link = f" [{best_match['link']}]"
 
-                        print("\n  Nearest exact match from top manufacturer:")
-                        print(
-                            f"    - {manufacturer} - {material} - {color_name}{temps}{link}"
-                        )
-                        break
+                    print("\n  Nearest exact match from top manufacturer:")
+                    print(
+                        f"    - {manufacturer} - {material} - {color_name}{temps}{link}"
+                    )
         else:
             print("  No exact matches found")
 
             # Try to find similar colors
             try:
-                similar_matches = filament_colors.find_similar_filament_colors(
-                    hex_code, limit=MIN_SUGGESTIONS
+                # Fetch more matches and re-sort by weighted score (similarity + manufacturer rank)
+                all_matches = filament_colors.find_similar_filament_colors(
+                    hex_code, limit=50
                 )
+                # Sort by weighted score (similarity + manufacturer bonus)
+                all_matches.sort(
+                    key=lambda m: calculate_weighted_score(m[1], m[0]["manufacturer"]),
+                    reverse=True,
+                )
+                similar_matches = all_matches[:MIN_SUGGESTIONS]
+
                 if similar_matches:
-                    print(f"  Closest {len(similar_matches)} match(es):")
+                    print(f"  Closest {len(similar_matches)} match(es) (weighted by manufacturer rank):")
 
                     # Check if any of the top matches have links
                     has_link = any(
@@ -220,6 +236,7 @@ def display_team_colors(team_name, league):
                         manufacturer = filament["manufacturer"]
                         material = filament["material"]
                         color_name = filament["color"]
+                        rank_bonus = calculate_manufacturer_bonus(manufacturer)
                         temps = ""
                         if filament.get("temp_hotend") and filament.get("temp_bed"):
                             temps = f" (Hotend: {filament['temp_hotend']}C, Bed: {filament['temp_bed']}C)"
@@ -228,16 +245,17 @@ def display_team_colors(team_name, league):
                         if filament.get("link"):
                             link = f" [{filament['link']}]"
 
+                        score_info = f"({similarity:.1f}% similar"
+                        if rank_bonus > 0:
+                            score_info += f" + {rank_bonus:.1f} rank bonus"
+                        score_info += ")"
+
                         print(
-                            f"    - {manufacturer} - {material} - {color_name} - {filament['hex']} ({similarity:.1f}% similar){temps}{link}"
+                            f"    - {manufacturer} - {material} - {color_name} - {filament['hex']} {score_info}{temps}{link}"
                         )
 
                     # If none of the top matches have links, find the nearest one with a link
                     if not has_link:
-                        # Get more matches to search for one with a link
-                        all_matches = filament_colors.find_similar_filament_colors(
-                            hex_code, limit=50
-                        )
                         for filament, similarity in all_matches:
                             if (
                                 filament.get("link")
@@ -259,39 +277,34 @@ def display_team_colors(team_name, league):
                                 displayed_filaments.append(filament)
                                 break
 
-                    # If none of the displayed matches are from top 10, find nearest from top 10
+                    # If none of the displayed matches are from top 10, find best weighted match
                     has_top_manufacturer = any(
                         is_top_manufacturer(filament["manufacturer"])
                         for filament in displayed_filaments
                     )
                     if not has_top_manufacturer:
-                        # Get more matches to search for one from top 10
-                        all_matches = filament_colors.find_similar_filament_colors(
-                            hex_code, limit=50
+                        filament, similarity = get_best_top_manufacturer_match(
+                            all_matches, displayed_filaments
                         )
-                        for filament, similarity in all_matches:
-                            if (
-                                filament not in displayed_filaments
-                                and is_top_manufacturer(filament["manufacturer"])
+                        if filament:
+                            manufacturer = filament["manufacturer"]
+                            material = filament["material"]
+                            color_name = filament["color"]
+                            temps = ""
+                            if filament.get("temp_hotend") and filament.get(
+                                "temp_bed"
                             ):
-                                manufacturer = filament["manufacturer"]
-                                material = filament["material"]
-                                color_name = filament["color"]
-                                temps = ""
-                                if filament.get("temp_hotend") and filament.get(
-                                    "temp_bed"
-                                ):
-                                    temps = f" (Hotend: {filament['temp_hotend']}C, Bed: {filament['temp_bed']}C)"
+                                temps = f" (Hotend: {filament['temp_hotend']}C, Bed: {filament['temp_bed']}C)"
 
-                                link = ""
-                                if filament.get("link"):
-                                    link = f" [{filament['link']}]"
+                            link = ""
+                            if filament.get("link"):
+                                link = f" [{filament['link']}]"
 
-                                print("\n  Nearest match from top manufacturer:")
-                                print(
-                                    f"    - {manufacturer} - {material} - {color_name} - {filament['hex']} ({similarity:.1f}% similar){temps}{link}"
-                                )
-                                break
+                            rank_bonus = calculate_manufacturer_bonus(manufacturer)
+                            print("\n  Nearest match from top manufacturer:")
+                            print(
+                                f"    - {manufacturer} - {material} - {color_name} - {filament['hex']} ({similarity:.1f}% similar + {rank_bonus:.1f} rank bonus){temps}{link}"
+                            )
             except ImportError:
                 # compare_colors module not available
                 pass

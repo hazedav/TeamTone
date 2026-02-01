@@ -2,13 +2,13 @@
 # These manufacturers are prioritized in search results for better recommendations
 
 top_manufacturers:
-  - hatchbox.yaml          # Hatchbox: Widely considered a favorite for high consistency and reliability
-  - esun.yaml              # eSUN: Known for a vast range of colors and materials
-  - polymaker.yaml         # Polymaker: High-quality engineered filaments
-  - prusament.yaml         # Prusament: Extremely high tolerance and quality control
-  - matterhackers.yaml     # MatterHackers: Build and PRO series with excellent support
-  - overture.yaml          # Overture: Excellent value and reliable quality
-  - colorfabb.yaml         # ColorFabb: Premium specialized PLA/PHA blends
-  - sunlu.yaml             # Sunlu: Budget-friendly reliable filament
-  - inland.yaml            # Inland: Micro Center house brand (great value)
-  - atomic_filament.yaml   # Atomic Filament: U.S.-based high-quality manufacturer
+  - polymaker.yaml         # Polymaker: High-quality, specialty filaments, including durable, engineering-grade, and aesthetic options
+  - hatchbox.yaml          # Hatchbox: Highly reliable, consistent, and a community favorite for PLA, ABS, and PETG
+  - esun.yaml              # eSUN: Vast range of colors, eco-friendly options, and solid performance at a good price
+  - prusament.yaml         # Prusament: Produced by Prusa Research, offering top-tier quality control and accuracy
+  - sunlu.yaml             # Sunlu: Great budget-friendly option known for solid PETG, PLA, and silk filaments
+  - overture.yaml          # Overture: Excellent all-rounder, frequently recommended for its consistency and cardboard spools
+  - matterhackers.yaml     # MatterHackers: High-quality PRO series and a wide variety of materials
+  - colorfabb.yaml         # ColorFabb: Famous for unique, high-quality PLA/PHA blends and specialty finishes
+  - eryone.yaml            # Eryone: Loved for unique tri-color, silk, and aesthetic filaments
+  - atomic_filament.yaml   # Atomic Filament: Highly rated for high-quality, made-in-USA filaments
