@@ -68,16 +68,20 @@ class TestFilamentParser:
     def test_hex_format(self, filaments):
         """Test that hex codes are properly formatted"""
         for filament in filaments[:50]:  # Check first 50
-            hex_code = filament["hex"]
+            hex_field = filament["hex"]
 
-            # Should start with # and be 7 characters (#RRGGBB)
-            assert hex_code.startswith("#"), f"Hex code should start with #: {hex_code}"
-            assert len(hex_code) == 7, f"Hex code should be 7 chars: {hex_code}"
+            # Multi-color filaments have comma-separated hex codes
+            hex_codes = [h.strip() for h in hex_field.split(",")]
 
-            # Should only contain valid hex characters
-            assert all(c in "0123456789ABCDEFabcdef#" for c in hex_code), (
-                f"Invalid hex code: {hex_code}"
-            )
+            for hex_code in hex_codes:
+                # Should start with # and be 7 characters (#RRGGBB)
+                assert hex_code.startswith("#"), f"Hex code should start with #: {hex_code}"
+                assert len(hex_code) == 7, f"Hex code should be 7 chars: {hex_code}"
+
+                # Should only contain valid hex characters
+                assert all(c in "0123456789ABCDEFabcdef#" for c in hex_code), (
+                    f"Invalid hex code: {hex_code}"
+                )
 
     def test_manufacturer_names(self, filaments):
         """Test that manufacturer names are non-empty strings"""
