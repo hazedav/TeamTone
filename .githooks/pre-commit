@@ -1,0 +1,4 @@
+#!/bin/sh
+# Pre-commit hook to run linting
+
+make lint
