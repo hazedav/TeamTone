@@ -1,20 +1,20 @@
 """
 Test suite for FilamentProfilesScraper parser
 
-Run with: pytest teamtone/fetch/test_parser.py -v
+Run with: pytest teamtone/fetch/filament_sites/test_filamentprofiles.py -v
 """
 
 import pytest
 from pathlib import Path
 from bs4 import BeautifulSoup
 
-from filament_sites.filamentprofiles import FilamentProfilesScraper
+from .filamentprofiles import FilamentProfilesScraper
 
 
 @pytest.fixture
 def html_content():
     """Load the saved HTML file for testing"""
-    html_file = Path(__file__).parent / "filaments.html"
+    html_file = Path(__file__).parent.parent / "filaments.html"
     if not html_file.exists():
         pytest.skip(f"HTML file not found: {html_file}")
 
