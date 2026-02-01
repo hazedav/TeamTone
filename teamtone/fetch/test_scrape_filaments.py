@@ -1,219 +1,210 @@
 """
-Test suite for FilamentProfilesScraper parser
+Test suite for scrape_filaments wrapper module
+
+Tests the utility functions and orchestration logic, not individual scrapers.
+Individual scraper tests live in filament_sites/test_<scraper>.py
 
 Run with: pytest teamtone/fetch/test_scrape_filaments.py -v
 """
 
-import pytest
-from pathlib import Path
-from bs4 import BeautifulSoup
-
-from filament_sites.filamentprofiles import FilamentProfilesScraper
-
-
-@pytest.fixture
-def html_content():
-    """Load the saved HTML file for testing"""
-    html_file = Path(__file__).parent / "filament_dumps" / "filamentprofiles.html"
-    if not html_file.exists():
-        pytest.fail(f"HTML file not found: {html_file}")
-
-    with open(html_file, "r", encoding="utf-8") as f:
-        return f.read()
+from scrape_filaments import (
+    sanitize_filename,
+    load_yaml,
+    save_yaml,
+    merge_filament_data,
+    load_filaments_from_folder,
+    save_filaments_to_folder,
+    SCRAPERS,
+)
 
 
-@pytest.fixture
-def soup(html_content):
-    """Parse HTML into BeautifulSoup object"""
-    return BeautifulSoup(html_content, "html.parser")
+class TestSanitizeFilename:
+    """Test filename sanitization for manufacturer names"""
+
+    def test_simple_name(self):
+        """Simple names should be lowercased"""
+        assert sanitize_filename("Polymaker") == "polymaker"
+        assert sanitize_filename("SUNLU") == "sunlu"
+
+    def test_spaces_to_underscores(self):
+        """Spaces should become underscores"""
+        assert sanitize_filename("Atomic Filament") == "atomic_filament"
+        assert sanitize_filename("Some  Double  Space") == "some_double_space"
+
+    def test_invalid_characters(self):
+        """Invalid filename characters should be replaced"""
+        assert sanitize_filename("Name<>:test") == "name___test"  # Each char replaced
+        assert sanitize_filename("File/Name\\Test") == "file_name_test"
+
+    def test_leading_trailing_cleanup(self):
+        """Leading/trailing underscores and dots should be removed"""
+        assert sanitize_filename(".hidden") == "hidden"
+        assert sanitize_filename("_underscore_") == "underscore"
+        assert sanitize_filename("..dots..") == "dots"
+
+    def test_empty_string(self):
+        """Empty string should return 'unknown'"""
+        assert sanitize_filename("") == "unknown"
+        assert sanitize_filename("...") == "unknown"
 
 
-@pytest.fixture
-def scraper():
-    """Create FilamentProfilesScraper instance"""
-    return FilamentProfilesScraper()
+class TestMergeFilamentData:
+    """Test deep merging of filament data"""
+
+    def test_merge_empty_existing(self):
+        """Merging into empty dict should return new data"""
+        new = {"Polymaker": {"PLA": {"Red": {"hex": "#FF0000"}}}}
+        result = merge_filament_data({}, new)
+        assert result == new
+
+    def test_merge_empty_new(self):
+        """Merging empty dict should return existing data"""
+        existing = {"Polymaker": {"PLA": {"Red": {"hex": "#FF0000"}}}}
+        result = merge_filament_data(existing, {})
+        assert result == existing
+
+    def test_merge_new_manufacturer(self):
+        """New manufacturer should be added"""
+        existing = {"Polymaker": {"PLA": {"Red": {"hex": "#FF0000"}}}}
+        new = {"SUNLU": {"PETG": {"Blue": {"hex": "#0000FF"}}}}
+        result = merge_filament_data(existing, new)
+
+        assert "Polymaker" in result
+        assert "SUNLU" in result
+        assert result["SUNLU"]["PETG"]["Blue"]["hex"] == "#0000FF"
+
+    def test_merge_new_material(self):
+        """New material for existing manufacturer should be added"""
+        existing = {"Polymaker": {"PLA": {"Red": {"hex": "#FF0000"}}}}
+        new = {"Polymaker": {"PETG": {"Blue": {"hex": "#0000FF"}}}}
+        result = merge_filament_data(existing, new)
+
+        assert "PLA" in result["Polymaker"]
+        assert "PETG" in result["Polymaker"]
+
+    def test_merge_new_color(self):
+        """New color for existing material should be added"""
+        existing = {"Polymaker": {"PLA": {"Red": {"hex": "#FF0000"}}}}
+        new = {"Polymaker": {"PLA": {"Blue": {"hex": "#0000FF"}}}}
+        result = merge_filament_data(existing, new)
+
+        assert "Red" in result["Polymaker"]["PLA"]
+        assert "Blue" in result["Polymaker"]["PLA"]
+
+    def test_merge_overwrites_existing_color(self):
+        """Same color should be overwritten with new data"""
+        existing = {"Polymaker": {"PLA": {"Red": {"hex": "#FF0000", "source": "old"}}}}
+        new = {"Polymaker": {"PLA": {"Red": {"hex": "#EE0000", "source": "new"}}}}
+        result = merge_filament_data(existing, new)
+
+        assert result["Polymaker"]["PLA"]["Red"]["hex"] == "#EE0000"
+        assert result["Polymaker"]["PLA"]["Red"]["source"] == "new"
+
+    def test_does_not_mutate_existing(self):
+        """Original existing dict should not be mutated"""
+        existing = {"Polymaker": {"PLA": {"Red": {"hex": "#FF0000"}}}}
+        new = {"SUNLU": {"PETG": {"Blue": {"hex": "#0000FF"}}}}
+
+        merge_filament_data(existing, new)
+
+        assert "SUNLU" not in existing
 
 
-@pytest.fixture
-def filaments(scraper, soup):
-    """Parse filaments from HTML"""
-    return scraper._parse_filaments(soup)
+class TestYamlIO:
+    """Test YAML loading and saving"""
+
+    def test_load_nonexistent_file(self, tmp_path):
+        """Loading nonexistent file should return empty dict"""
+        result = load_yaml(tmp_path / "nonexistent.yaml")
+        assert result == {}
+
+    def test_save_and_load_roundtrip(self, tmp_path):
+        """Data should survive save/load roundtrip"""
+        data = {"Polymaker": {"PLA": {"Red": {"hex": "#FF0000"}}}}
+        file_path = tmp_path / "test.yaml"
+
+        save_yaml(data, file_path)
+        loaded = load_yaml(file_path)
+
+        assert loaded == data
+
+    def test_save_creates_parent_dirs(self, tmp_path):
+        """save_yaml should create parent directories"""
+        data = {"test": "data"}
+        file_path = tmp_path / "nested" / "dirs" / "test.yaml"
+
+        save_yaml(data, file_path)
+
+        assert file_path.exists()
 
 
-class TestFilamentParser:
-    """Test the FilamentProfilesScraper parser"""
+class TestFolderIO:
+    """Test loading/saving filaments from folder"""
 
-    def test_filaments_found(self, filaments):
-        """Test that filaments are found"""
-        assert len(filaments) > 0, "No filaments were parsed from HTML"
+    def test_load_empty_folder(self, tmp_path):
+        """Loading from empty folder should return empty dict"""
+        result = load_filaments_from_folder(tmp_path)
+        assert result == {}
 
-    def test_filament_count(self, filaments):
-        """Test expected number of filaments"""
-        # Adjust this number based on your test HTML
-        assert len(filaments) > 100, f"Expected > 100 filaments, got {len(filaments)}"
+    def test_load_nonexistent_folder(self, tmp_path):
+        """Loading from nonexistent folder should return empty dict"""
+        result = load_filaments_from_folder(tmp_path / "nonexistent")
+        assert result == {}
 
-    def test_filament_structure(self, filaments):
-        """Test that each filament has required fields"""
-        required_fields = ["manufacturer", "material", "color", "hex"]
+    def test_save_and_load_folder_roundtrip(self, tmp_path):
+        """Data should survive save/load folder roundtrip"""
+        data = {
+            "Polymaker": {"PLA": {"Red": {"hex": "#FF0000"}}},
+            "SUNLU": {"PETG": {"Blue": {"hex": "#0000FF"}}},
+        }
 
-        for filament in filaments[:10]:  # Check first 10
-            for field in required_fields:
-                assert field in filament, (
-                    f"Missing field '{field}' in filament: {filament}"
-                )
-                assert filament[field], (
-                    f"Empty value for field '{field}' in filament: {filament}"
-                )
+        written = save_filaments_to_folder(data, tmp_path)
+        assert len(written) == 2
 
-    def test_hex_format(self, filaments):
-        """Test that hex codes are properly formatted"""
-        for filament in filaments[:50]:  # Check first 50
-            hex_field = filament["hex"]
+        loaded = load_filaments_from_folder(tmp_path)
+        assert loaded == data
 
-            # Multi-color filaments have comma-separated hex codes
-            hex_codes = [h.strip() for h in hex_field.split(",")]
+    def test_save_creates_individual_files(self, tmp_path):
+        """Each manufacturer should get its own file"""
+        data = {
+            "Polymaker": {"PLA": {"Red": {"hex": "#FF0000"}}},
+            "SUNLU": {"PETG": {"Blue": {"hex": "#0000FF"}}},
+        }
 
-            for hex_code in hex_codes:
-                # Should start with # and be 7 characters (#RRGGBB)
-                assert hex_code.startswith("#"), f"Hex code should start with #: {hex_code}"
-                assert len(hex_code) == 7, f"Hex code should be 7 chars: {hex_code}"
+        save_filaments_to_folder(data, tmp_path)
 
-                # Should only contain valid hex characters
-                assert all(c in "0123456789ABCDEFabcdef#" for c in hex_code), (
-                    f"Invalid hex code: {hex_code}"
-                )
-
-    def test_manufacturer_names(self, filaments):
-        """Test that manufacturer names are non-empty strings"""
-        for filament in filaments[:20]:
-            manufacturer = filament["manufacturer"]
-            assert isinstance(manufacturer, str), (
-                f"Manufacturer should be string: {type(manufacturer)}"
-            )
-            assert len(manufacturer) > 0, "Manufacturer name is empty"
-
-    def test_material_types(self, filaments):
-        """Test that material types are valid"""
-        common_materials = ["PLA", "PETG", "ABS", "TPU", "NYLON", "ASA"]
-
-        materials_found = set()
-        for filament in filaments:
-            material = filament["material"].upper()
-            materials_found.add(material.split()[0])  # Get base material
-
-        # At least some common materials should be present
-        assert any(mat in materials_found for mat in common_materials), (
-            f"No common materials found. Got: {materials_found}"
-        )
-
-    def test_link_extraction(self, filaments):
-        """Test that some filaments have purchase links"""
-        filaments_with_links = [f for f in filaments if "link" in f]
-
-        assert len(filaments_with_links) > 0, "No filaments have purchase links"
-
-        # Check link format for first few
-        for filament in filaments_with_links[:10]:
-            link = filament["link"]
-            assert link.startswith("http"), f"Link should start with http: {link}"
-
-    def test_no_duplicates(self, filaments):
-        """Test that there are no exact duplicate filaments"""
-        seen = set()
-        duplicates = []
-
-        for filament in filaments:
-            # Create unique key
-            key = (
-                filament["manufacturer"],
-                filament["material"],
-                filament["color"],
-                filament["hex"],
-            )
-
-            if key in seen:
-                duplicates.append(key)
-            seen.add(key)
-
-        # Some duplicates might be expected, but not too many
-        assert len(duplicates) < len(filaments) * 0.1, (
-            f"Too many duplicates found: {len(duplicates)}"
-        )
+        assert (tmp_path / "polymaker.yaml").exists()
+        assert (tmp_path / "sunlu.yaml").exists()
 
 
-class TestSpecificManufacturers:
-    """Test parsing of specific manufacturers"""
+class TestScrapersRegistry:
+    """Test scraper registry configuration"""
 
-    def test_abaflex_parsing(self, filaments):
-        """Test that Abaflex filaments are parsed correctly"""
-        abaflex = [f for f in filaments if "Abaflex" in f["manufacturer"]]
+    def test_scrapers_dict_not_empty(self):
+        """SCRAPERS should have entries"""
+        assert len(SCRAPERS) > 0
 
-        if not abaflex:
-            pytest.skip("Abaflex not found in test data")
+    def test_filamentprofiles_scraper_exists(self):
+        """filamentprofiles scraper should exist"""
+        assert "filamentprofiles" in SCRAPERS
 
-        assert len(abaflex) > 0, "Abaflex filaments should be found"
+    def test_polymaker_scraper_exists(self):
+        """polymaker scraper should exist"""
+        assert "polymaker" in SCRAPERS
 
-        # Check one specific example if it exists
-        transparent = [
-            f
-            for f in abaflex
-            if "PETG" in f["material"] and f["color"] == "Transparent"
-        ]
+    def test_sunlu_scraper_exists(self):
+        """sunlu scraper should exist"""
+        assert "sunlu" in SCRAPERS
 
-        if transparent:
-            filament = transparent[0]
-            assert filament["manufacturer"] == "Abaflex"
-            assert "PETG" in filament["material"]
-            assert filament["hex"] == "#BEC3C6"
+    def test_all_scrapers_are_classes(self):
+        """All scraper values should be classes"""
+        for name, scraper_class in SCRAPERS.items():
+            assert callable(scraper_class), f"{name} scraper is not callable"
 
-    def test_common_manufacturers(self, filaments):
-        """Test that common manufacturers are present"""
-        manufacturers = {f["manufacturer"] for f in filaments}
-
-        # These are just examples - adjust based on your test data
-        common_brands = ["Hatchbox", "eSUN", "Polymaker", "SUNLU", "Overture"]
-
-        # At least some should be present
-        found = [brand for brand in common_brands if brand in manufacturers]
-        assert len(found) > 0, (
-            f"None of the common brands found. Available: {list(manufacturers)[:10]}"
-        )
-
-
-class TestDataQuality:
-    """Test data quality and consistency"""
-
-    def test_color_names_non_empty(self, filaments):
-        """Test that color names are not empty"""
-        for filament in filaments[:30]:
-            assert len(filament["color"]) > 0, (
-                f"Empty color name for {filament['manufacturer']}"
-            )
-
-    def test_hex_codes_unique_per_color(self, filaments):
-        """Test that same manufacturer/material/color has same hex"""
-        from collections import defaultdict
-
-        color_hex_map = defaultdict(set)
-
-        for filament in filaments:
-            key = (filament["manufacturer"], filament["material"], filament["color"])
-            color_hex_map[key].add(filament["hex"])
-
-        # Each unique color should have only one hex code
-        conflicts = {k: v for k, v in color_hex_map.items() if len(v) > 1}
-
-        # Some variation might be acceptable
-        assert len(conflicts) < len(color_hex_map) * 0.05, (
-            f"Too many hex conflicts: {len(conflicts)}"
-        )
-
-    def test_material_type_combinations(self, filaments):
-        """Test that material type combinations make sense"""
-        for filament in filaments[:50]:
-            material = filament["material"]
-
-            # Basic sanity check - should have at least one word
-            assert len(material.split()) >= 1, (
-                f"Material type seems invalid: {material}"
-            )
+    def test_all_scrapers_have_required_methods(self):
+        """All scrapers should have fetch and site_name"""
+        for name, scraper_class in SCRAPERS.items():
+            instance = scraper_class()
+            assert hasattr(instance, "fetch"), f"{name} missing fetch method"
+            assert hasattr(instance, "site_name"), f"{name} missing site_name property"
+            assert hasattr(instance, "site_url"), f"{name} missing site_url property"

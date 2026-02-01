@@ -103,7 +103,9 @@ class SunluScraper(FilamentScraper):
             try:
                 if attempt > 0:
                     wait_time = self.RETRY_DELAY * attempt
-                    print(f"Retry {attempt}/{self.MAX_RETRIES - 1} after {wait_time}s...")
+                    print(
+                        f"Retry {attempt}/{self.MAX_RETRIES - 1} after {wait_time}s..."
+                    )
                     time.sleep(wait_time)
                 elif delay > 0:
                     time.sleep(delay)
@@ -233,11 +235,17 @@ class SunluScraper(FilamentScraper):
 
                     # Validate hex code format
                     if re.match(r"^#?[0-9A-Fa-f]{6}$", hex_cell):
-                        hex_code = hex_cell if hex_cell.startswith("#") else f"#{hex_cell}"
+                        hex_code = (
+                            hex_cell if hex_cell.startswith("#") else f"#{hex_cell}"
+                        )
                         hex_code = hex_code.upper()
 
                         # Skip header rows or empty names
-                        if color_name and color_name.lower() not in ["color", "colour", "name"]:
+                        if color_name and color_name.lower() not in [
+                            "color",
+                            "colour",
+                            "name",
+                        ]:
                             colors.append((color_name, hex_code))
 
         return colors
@@ -343,7 +351,9 @@ class SunluScraper(FilamentScraper):
 
                 collection_url = self.COLLECTIONS[collection_name]
                 print(f"\nDiscovering products from {collection_name} collection...")
-                urls = self._get_product_urls_from_collection(session, collection_url, delay)
+                urls = self._get_product_urls_from_collection(
+                    session, collection_url, delay
+                )
                 print(f"  Found {len(urls)} products")
 
                 for url in urls:

@@ -220,12 +220,17 @@ def display_team_colors(team_name, league, filament_type=None):
             if not has_top_manufacturer:
                 # Find all top manufacturer matches and pick the highest-ranked one
                 top_matches = [
-                    match for match in matches
-                    if match not in displayed_matches and is_top_manufacturer(match["manufacturer"])
+                    match
+                    for match in matches
+                    if match not in displayed_matches
+                    and is_top_manufacturer(match["manufacturer"])
                 ]
                 if top_matches:
                     # Sort by manufacturer rank (lowest rank = highest priority)
-                    best_match = min(top_matches, key=lambda m: get_manufacturer_rank(m["manufacturer"]))
+                    best_match = min(
+                        top_matches,
+                        key=lambda m: get_manufacturer_rank(m["manufacturer"]),
+                    )
                     manufacturer = best_match["manufacturer"]
                     material = best_match["material"]
                     color_name = best_match["color"]
@@ -258,7 +263,9 @@ def display_team_colors(team_name, league, filament_type=None):
                 similar_matches = all_matches[:MIN_SUGGESTIONS]
 
                 if similar_matches:
-                    print(f"  Closest {len(similar_matches)} match(es) (weighted by manufacturer rank):")
+                    print(
+                        f"  Closest {len(similar_matches)} match(es) (weighted by manufacturer rank):"
+                    )
 
                     # Check if any of the top matches have links
                     has_link = any(
@@ -327,9 +334,7 @@ def display_team_colors(team_name, league, filament_type=None):
                             material = filament["material"]
                             color_name = filament["color"]
                             temps = ""
-                            if filament.get("temp_hotend") and filament.get(
-                                "temp_bed"
-                            ):
+                            if filament.get("temp_hotend") and filament.get("temp_bed"):
                                 temps = f" (Hotend: {filament['temp_hotend']}C, Bed: {filament['temp_bed']}C)"
 
                             link = ""

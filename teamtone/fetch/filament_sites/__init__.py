@@ -5,4 +5,9 @@ from .filamentprofiles import FilamentProfilesScraper
 from .polymaker import PolymakerScraper
 from .sunlu import SunluScraper
 
-__all__ = ["FilamentScraper", "FilamentProfilesScraper", "PolymakerScraper", "SunluScraper"]
+__all__ = [
+    "FilamentScraper",
+    "FilamentProfilesScraper",
+    "PolymakerScraper",
+    "SunluScraper",
+]

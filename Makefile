@@ -13,13 +13,14 @@ endef
 help:
 	@echo "TeamTone - Available Commands:"
 	@echo ""
-	@echo "  make install     Install dependencies and tools"
-	@echo "  make lint        Run code linting with ruff"
-	@echo "  make format      Auto-format code with ruff"
-	@echo "  make test        Run test suite with pytest"
-	@echo "  make run         Run the interactive TeamTone CLI"
-	@echo "  make scrape      Scrape filament data from 3dfilamentprofiles.com"
-	@echo "  make clean       Remove Python cache files"
+	@echo "  make install          Install dependencies and tools"
+	@echo "  make lint             Run code linting with ruff"
+	@echo "  make format           Auto-format code with ruff"
+	@echo "  make test             Run unit tests with pytest"
+	@echo "  make test-integration Run integration tests (live scraper tests)"
+	@echo "  make run              Run the interactive TeamTone CLI"
+	@echo "  make scrape           Scrape filament data from 3dfilamentprofiles.com"
+	@echo "  make clean            Remove Python cache files"
 	@echo ""
 
 install:
@@ -29,6 +30,7 @@ install:
 
 lint:
 	@echo "Running ruff linter..."
+	$(call run_in_teamtone,uv run ruff format --check .)
 	$(call run_in_teamtone,uv run ruff check .)
 
 format:
@@ -37,8 +39,12 @@ format:
 	$(call run_in_teamtone,uv run ruff check --fix .)
 
 test:
-	@echo "Running test suite with pytest..."
+	@echo "Running unit tests with pytest..."
 	$(call run_in_teamtone,uv run pytest . -v)
+
+test-integration:
+	@echo "Running integration tests (live scraper tests)..."
+	$(call run_in_teamtone,uv run pytest . -v -m integration)
 
 run:
 	@echo "Starting TeamTone CLI..."

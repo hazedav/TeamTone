@@ -54,6 +54,9 @@ def get_manufacturer_rank(manufacturer: str) -> int:
         return 999
     manufacturer_lower = manufacturer.lower()
     for i, top_mfr in enumerate(TOP_MANUFACTURERS):
-        if top_mfr.lower() in manufacturer_lower or manufacturer_lower in top_mfr.lower():
+        if (
+            top_mfr.lower() in manufacturer_lower
+            or manufacturer_lower in top_mfr.lower()
+        ):
             return i + 1  # 1-indexed rank
     return 999

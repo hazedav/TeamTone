@@ -63,8 +63,7 @@ def get_best_top_manufacturer_match(matches: list, displayed: list = None) -> tu
     top_mfr_matches = [
         (filament, similarity)
         for filament, similarity in matches
-        if filament not in displayed
-        and is_top_manufacturer(filament["manufacturer"])
+        if filament not in displayed and is_top_manufacturer(filament["manufacturer"])
     ]
 
     if not top_mfr_matches:
@@ -73,6 +72,6 @@ def get_best_top_manufacturer_match(matches: list, displayed: list = None) -> tu
     # Find best match using weighted score
     best_match = max(
         top_mfr_matches,
-        key=lambda m: calculate_weighted_score(m[1], m[0]["manufacturer"])
+        key=lambda m: calculate_weighted_score(m[1], m[0]["manufacturer"]),
     )
     return best_match
