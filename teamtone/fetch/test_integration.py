@@ -22,7 +22,7 @@ class TestFilamentProfilesScraperIntegration:
     def test_fetch_returns_filaments(self):
         """Scraper should return a positive number of filaments"""
         scraper = FilamentProfilesScraper()
-        result = scraper.fetch(per_page=10, delay=0.5)
+        result = scraper.fetch(per_page=10, delay=3.0)
 
         assert "filaments" in result
         assert len(result["filaments"]) > 0, "Expected at least 1 filament"
@@ -30,7 +30,7 @@ class TestFilamentProfilesScraperIntegration:
     def test_filaments_have_required_fields(self):
         """Each filament should have manufacturer, material, color, hex"""
         scraper = FilamentProfilesScraper()
-        result = scraper.fetch(per_page=10, delay=0.5)
+        result = scraper.fetch(per_page=10, delay=3.0)
 
         required_fields = ["manufacturer", "material", "color", "hex"]
         for filament in result["filaments"][:5]:
