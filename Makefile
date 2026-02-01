@@ -38,7 +38,7 @@ format:
 
 test:
 	@echo "Running test suite with pytest..."
-	$(call run_in_teamtone,uv run pytest fetch/test_scrape_filaments.py -v)
+	$(call run_in_teamtone,uv run pytest . -v)
 
 run:
 	@echo "Starting TeamTone CLI..."
