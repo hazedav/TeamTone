@@ -7,6 +7,8 @@ They are skipped by default and can be run with: pytest -m integration
 Run with: pytest teamtone/fetch/test_integration.py -v
 """
 
+import os
+
 import pytest
 
 from filament_sites import FilamentProfilesScraper, PolymakerScraper, SunluScraper
@@ -16,6 +18,10 @@ from filament_sites import FilamentProfilesScraper, PolymakerScraper, SunluScrap
 pytestmark = pytest.mark.integration
 
 
+@pytest.mark.skipif(
+    os.environ.get("CI") == "true",
+    reason="3dfilamentprofiles.com rate-limits GitHub Actions IPs",
+)
 class TestFilamentProfilesScraperIntegration:
     """Integration tests for FilamentProfilesScraper"""
 
