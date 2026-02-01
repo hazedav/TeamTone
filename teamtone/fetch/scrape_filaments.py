@@ -19,7 +19,12 @@ except ImportError:
     print("Install with: uv sync")
     sys.exit(1)
 
-from filament_sites import FilamentProfilesScraper, PolymakerScraper, SunluScraper
+try:
+    # When running as module: python -m teamtone.fetch.scrape_filaments
+    from .filament_sites import FilamentProfilesScraper, PolymakerScraper, SunluScraper
+except ImportError:
+    # When running directly from fetch/: python scrape_filaments.py
+    from filament_sites import FilamentProfilesScraper, PolymakerScraper, SunluScraper
 
 
 # Available scrapers
@@ -180,6 +185,12 @@ def main():
         default="raw_fetch.html",
         help="Output file for --fetch-only mode (default: raw_fetch.html)",
     )
+    parser.add_argument(
+        "--max-products",
+        type=int,
+        default=None,
+        help="Maximum number of products to fetch (for testing)",
+    )
 
     args = parser.parse_args()
 
@@ -208,7 +219,10 @@ def main():
     # Fetch the data
     try:
         raw_data = scraper.fetch(
-            per_page=args.per_page, delay=args.delay, fetch_only=args.fetch_only
+            per_page=args.per_page,
+            delay=args.delay,
+            fetch_only=args.fetch_only,
+            max_products=args.max_products,
         )
     except Exception as e:
         print(f"Error during scraping: {e}")

@@ -33,8 +33,11 @@ jobs:
       - name: Run linter
         run: make lint
 
-      - name: Run tests
+      - name: Run unit and functional tests
         run: make test
+
+      - name: Run integration tests
+        run: make test-integration
 
       - name: Upload test results
         if: always()

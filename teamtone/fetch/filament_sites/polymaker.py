@@ -67,7 +67,9 @@ class PolymakerScraper(FilamentScraper):
             try:
                 if attempt > 0:
                     wait_time = self.RETRY_DELAY * attempt
-                    print(f"Retry {attempt}/{self.MAX_RETRIES - 1} after {wait_time}s...")
+                    print(
+                        f"Retry {attempt}/{self.MAX_RETRIES - 1} after {wait_time}s..."
+                    )
                     time.sleep(wait_time)
                 elif delay > 0:
                     time.sleep(delay)

@@ -45,10 +45,10 @@ class TestHexCodeExtraction:
 
     def test_extract_variant_hex_codes_basic(self, scraper):
         """Test extraction of hex codes from variant metafields"""
-        html = '''
+        html = """
         "39574341779513": {"metafields": {"hex_code": "#16161A"}}
         "39574341713977": {"metafields": {"hex_code": "#F0EBE8"}}
-        '''
+        """
         result = scraper._extract_variant_hex_codes(html)
 
         assert "39574341779513" in result

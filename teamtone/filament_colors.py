@@ -376,8 +376,7 @@ def get_filaments_by_hex_and_type(
 
     if filament_type:
         return [
-            m for m in all_matches
-            if is_filament_type(m["material"], filament_type)
+            m for m in all_matches if is_filament_type(m["material"], filament_type)
         ]
 
     return all_matches
@@ -414,8 +413,7 @@ def find_similar_filament_colors_by_type(
     # Filter by type if specified
     if filament_type:
         filaments = [
-            f for f in filaments
-            if is_filament_type(f["material"], filament_type)
+            f for f in filaments if is_filament_type(f["material"], filament_type)
         ]
 
     # Filter by manufacturer if specified
