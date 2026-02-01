@@ -8,6 +8,8 @@ import yaml
 import os
 from typing import Optional, Dict, List, Tuple
 
+from .filament_types import is_filament_type
+
 
 # Load filament data from filaments folder (one file per manufacturer)
 _current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -335,6 +337,88 @@ def find_similar_filament_colors(
 
     filaments = get_filaments_with_hex()
 
+    if manufacturer:
+        manufacturer_lower = manufacturer.lower()
+        filaments = [
+            f for f in filaments if f["manufacturer"].lower() == manufacturer_lower
+        ]
+
+    if not filaments:
+        return []
+
+    # Calculate similarity for all filaments
+    matches = []
+    for filament in filaments:
+        similarity = compare_colors.color_similarity_percentage(
+            target_hex, filament["hex"]
+        )
+        matches.append((filament, similarity))
+
+    # Sort by similarity (descending) and return top N
+    matches.sort(key=lambda x: x[1], reverse=True)
+    return matches[:limit]
+
+
+def get_filaments_by_hex_and_type(
+    hex_code: str, filament_type: Optional[str] = None
+) -> List[Dict]:
+    """
+    Find filaments matching a hex code, optionally filtered by base type.
+
+    Args:
+        hex_code: Hex color code to match
+        filament_type: Optional base type filter (e.g., 'PLA', 'PETG')
+
+    Returns:
+        List[Dict]: Matching filaments
+    """
+    all_matches = get_filaments_by_hex(hex_code)
+
+    if filament_type:
+        return [
+            m for m in all_matches
+            if is_filament_type(m["material"], filament_type)
+        ]
+
+    return all_matches
+
+
+def find_similar_filament_colors_by_type(
+    target_hex: str,
+    limit: int = 3,
+    manufacturer: Optional[str] = None,
+    filament_type: Optional[str] = None,
+) -> List[Tuple[Dict, float]]:
+    """
+    Find similar filament colors, optionally filtered by base type.
+
+    Args:
+        target_hex: Target hex color to match
+        limit: Maximum number of matches to return
+        manufacturer: Optional manufacturer filter
+        filament_type: Optional base type filter (e.g., 'PLA', 'PETG')
+
+    Returns:
+        List[Tuple[Dict, float]]: (filament_info, similarity_percentage) tuples
+    """
+    try:
+        from . import compare_colors
+    except ImportError:
+        try:
+            import compare_colors
+        except ImportError:
+            raise ImportError("compare_colors module is required for color matching")
+
+    filaments = get_filaments_with_hex()
+
+    # Filter by type if specified
+    if filament_type:
+        filaments = [
+            f for f in filaments
+            if is_filament_type(f["material"], filament_type)
+        ]
+
+    # Filter by manufacturer if specified
     if manufacturer:
         manufacturer_lower = manufacturer.lower()
         filaments = [
