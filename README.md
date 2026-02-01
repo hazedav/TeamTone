@@ -48,7 +48,60 @@ Perfect for:
 2. Filament colors are normalized into the same color space
 3. Colors are converted into a perceptual color space (such as LAB)
 4. A color-distance metric is applied to find the closest matches
-5. Results are ranked and returned per team color
+5. Results are ranked by **weighted score** (color similarity + manufacturer bonus)
+
+---
+
+## 📊 Filament Scoring
+
+TeamTone uses a **weighted scoring system** that balances color accuracy with manufacturer reliability. This ensures you get recommendations that are both visually accurate and easy to purchase.
+
+### Weighted Score Formula
+
+```
+Weighted Score = Color Similarity (%) + Manufacturer Rank Bonus
+```
+
+### Color Similarity
+
+Color similarity is calculated using the **CIELAB color space** with the **ΔE (Delta E)** metric, which measures perceptual color difference. A 100% match means identical colors; lower percentages indicate greater visual difference.
+
+### Manufacturer Rank Bonus
+
+Top manufacturers receive a bonus based on their rank (1-10):
+
+| Rank | Manufacturer | Bonus |
+|------|--------------|-------|
+| 1 | Polymaker | +5.6 |
+| 2 | Hatchbox | +5.0 |
+| 3 | eSUN | +4.5 |
+| 4 | Prusament | +3.9 |
+| 5 | SUNLU | +3.4 |
+| 6 | Overture | +2.8 |
+| 7 | MatterHackers | +2.2 |
+| 8 | ColorFabb | +1.7 |
+| 9 | Eryone | +1.1 |
+| 10 | Atomic Filament | +0.6 |
+| Unranked | Others | +0.0 |
+
+### Why This Matters
+
+The ~5% bonus spread means:
+- A **95% similar** match from a **#1 manufacturer** (95 + 5.6 = 100.6) beats a **100% similar** match from an **unranked manufacturer** (100 + 0 = 100)
+- You get filaments that are both close in color *and* widely available from trusted brands
+- The output transparently shows both components: `(98.6% similar + 5.0 rank bonus)`
+
+### Example
+
+For Chicago Blackhawks Red (#CF0A2C):
+```
+Closest 3 match(es) (weighted by manufacturer rank):
+  - Hatchbox - PLA Matte - Cherry Red - #D2042D (98.6% similar + 5.0 rank bonus)
+  - HP 3DF - PLA Silk - Silk Red - #D3102E (98.8% similar)
+  - eSUN - PLA+ - Fire Engine Red - #CE2029 (98.1% similar + 4.5 rank bonus)
+```
+
+Hatchbox appears first despite 98.6% similarity because its weighted score (103.6) exceeds HP 3DF's unranked score (98.8).
 
 ---
 
@@ -100,26 +153,17 @@ Matching Filaments:
 
 Purple (#552583):
   No exact matches found
-  Closest 3 match(es):
+  Closest 3 match(es) (weighted by manufacturer rank):
+    - eSUN - PLA+ - Purple - #5A2F8D (96.2% similar + 4.5 rank bonus) [https://www.amazon.com/dp/B01EKEMFQS]
     - add:north - PLA Economy - Glitz Purple - #57257F (97.5% similar)
-    - ELEGOO - PLA Silk Triple - Blue / Purple / Black - #57217D,#1450A1,#292D34 (97.3% similar)
-    - Geeetech - PETG Basic - Purple - #4B267E (95.7% similar)
-
-  Nearest match with purchase link:
-    - Polymaker - PolyTerra PLA Matte - Lavender Purple - #5F2A84 (96.8% similar) [https://us.polymaker.com/products/...]
-
-  Nearest match from top manufacturer:
-    - eSUN - PLA+ - Purple - #5A2F8D (96.2% similar) [https://www.amazon.com/dp/B01EKEMFQS]
+    - Eryone - PLA Silk Triple - Blue / Purple / Black - #57217D,#1450A1,#292D34 (97.3% similar + 1.1 rank bonus)
 
 Gold (#FDB927):
   No exact matches found
-  Closest 3 match(es):
-    - eSUN - PLA Glitter - eTwinkling Gold - #FFBB29 (99.3% similar) [https://www.esun3d.com/...]
-    - FlashForge - ABS Pro - Yellow - #FFBD2C (98.3% similar)
-    - SUNLU - PLA Basic - Transparent Orange - #F8B525 (98.2% similar)
-
-  Nearest match from top manufacturer:
-    - Hatchbox - PLA - True Gold - #FFB521 (98.9% similar) [https://www.amazon.com/dp/B00UEYJZ4O]
+  Closest 3 match(es) (weighted by manufacturer rank):
+    - Hatchbox - PLA - True Gold - #FFB521 (98.9% similar + 5.0 rank bonus) [https://www.amazon.com/dp/B00UEYJZ4O]
+    - eSUN - PLA Glitter - eTwinkling Gold - #FFBB29 (99.3% similar + 4.5 rank bonus) [https://www.esun3d.com/...]
+    - SUNLU - PLA Basic - Transparent Orange - #F8B525 (98.2% similar + 3.4 rank bonus)
 
 Black (#000000):
   Found 1449 exact match(es), showing top 3:
