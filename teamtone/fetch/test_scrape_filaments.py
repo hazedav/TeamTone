@@ -196,6 +196,10 @@ class TestScrapersRegistry:
         """sunlu scraper should exist"""
         assert "sunlu" in SCRAPERS
 
+    def test_overture_scraper_exists(self):
+        """overture scraper should exist"""
+        assert "overture" in SCRAPERS
+
     def test_all_scrapers_are_classes(self):
         """All scraper values should be classes"""
         for name, scraper_class in SCRAPERS.items():

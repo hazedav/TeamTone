@@ -11,7 +11,12 @@ import os
 
 import pytest
 
-from filament_sites import FilamentProfilesScraper, PolymakerScraper, SunluScraper
+from filament_sites import (
+    FilamentProfilesScraper,
+    OvertureScraper,
+    PolymakerScraper,
+    SunluScraper,
+)
 
 
 # Mark all tests in this module as integration tests
@@ -105,3 +110,34 @@ class TestSunluScraperIntegration:
 
         for filament in result["filaments"]:
             assert filament["manufacturer"] == "SUNLU"
+
+
+class TestOvertureScraperIntegration:
+    """Integration tests for OvertureScraper"""
+
+    def test_fetch_returns_filaments(self):
+        """Scraper should return a positive number of filaments"""
+        scraper = OvertureScraper()
+        result = scraper.fetch(max_products=5, delay=0.5)
+
+        assert "filaments" in result
+        assert len(result["filaments"]) > 0, "Expected at least 1 filament"
+
+    def test_filaments_have_required_fields(self):
+        """Each filament should have manufacturer, material, color, hex"""
+        scraper = OvertureScraper()
+        result = scraper.fetch(max_products=5, delay=0.5)
+
+        required_fields = ["manufacturer", "material", "color", "hex"]
+        for filament in result["filaments"][:5]:
+            for field in required_fields:
+                assert field in filament, f"Missing {field} in {filament}"
+                assert filament[field], f"Empty {field} in {filament}"
+
+    def test_manufacturer_is_overture(self):
+        """All filaments should be from Overture"""
+        scraper = OvertureScraper()
+        result = scraper.fetch(max_products=5, delay=0.5)
+
+        for filament in result["filaments"]:
+            assert filament["manufacturer"] == "Overture"
