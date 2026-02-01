@@ -21,16 +21,27 @@ except ImportError:
 
 try:
     # When running as module: python -m teamtone.fetch.scrape_filaments
-    from .filament_sites import FilamentProfilesScraper, PolymakerScraper, SunluScraper
+    from .filament_sites import (
+        FilamentProfilesScraper,
+        OvertureScraper,
+        PolymakerScraper,
+        SunluScraper,
+    )
 except ImportError:
     # When running directly from fetch/: python scrape_filaments.py
-    from filament_sites import FilamentProfilesScraper, PolymakerScraper, SunluScraper
+    from filament_sites import (
+        FilamentProfilesScraper,
+        OvertureScraper,
+        PolymakerScraper,
+        SunluScraper,
+    )
 
 
 # Available scrapers
 SCRAPERS = {
     "filamentprofiles": FilamentProfilesScraper,
     "3dfilamentprofiles": FilamentProfilesScraper,  # Alias
+    "overture": OvertureScraper,
     "polymaker": PolymakerScraper,
     "sunlu": SunluScraper,
 }

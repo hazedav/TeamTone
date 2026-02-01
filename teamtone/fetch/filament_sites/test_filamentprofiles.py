@@ -106,7 +106,7 @@ class TestFilamentParser:
                     id=2, brand_name="eSUN", color="White", rgb="#FFFFFF"
                 ),
                 make_filament_entry(
-                    id=3, brand_name="Overture", color="Red", rgb="#FF0000"
+                    id=3, brand_name="Prusament", color="Red", rgb="#FF0000"
                 ),
             ]
         )
@@ -116,7 +116,7 @@ class TestFilamentParser:
 
         assert len(filaments) == 3
         manufacturers = {f["manufacturer"] for f in filaments}
-        assert manufacturers == {"Hatchbox", "eSUN", "Overture"}
+        assert manufacturers == {"Hatchbox", "eSUN", "Prusament"}
 
     def test_extracts_website_link(self, scraper):
         """Should extract website URL when present"""
@@ -283,13 +283,16 @@ class TestManufacturerFiltering:
         assert len(filaments) == 1
         assert filaments[0]["manufacturer"] == "eSUN"
 
-    def test_skips_case_insensitive(self, scraper):
-        """Manufacturer filtering should be case insensitive"""
+    def test_skips_overture(self, scraper):
+        """Should skip Overture (has dedicated scraper)"""
         html = make_script_html(
             [
-                make_filament_entry(brand_name="polymaker", color="Red", rgb="#FF0000"),
-                make_filament_entry(brand_name="sunlu", color="Red", rgb="#FF0000"),
-                make_filament_entry(brand_name="Overture", color="Red", rgb="#FF0000"),
+                make_filament_entry(
+                    brand_name="Overture", color="Black", rgb="#000000"
+                ),
+                make_filament_entry(
+                    brand_name="Hatchbox", color="Black", rgb="#000000"
+                ),
             ]
         )
         soup = BeautifulSoup(html, "html.parser")
@@ -297,7 +300,24 @@ class TestManufacturerFiltering:
         filaments = scraper._parse_filaments(soup)
 
         assert len(filaments) == 1
-        assert filaments[0]["manufacturer"] == "Overture"
+        assert filaments[0]["manufacturer"] == "Hatchbox"
+
+    def test_skips_case_insensitive(self, scraper):
+        """Manufacturer filtering should be case insensitive"""
+        html = make_script_html(
+            [
+                make_filament_entry(brand_name="polymaker", color="Red", rgb="#FF0000"),
+                make_filament_entry(brand_name="sunlu", color="Red", rgb="#FF0000"),
+                make_filament_entry(brand_name="overture", color="Red", rgb="#FF0000"),
+                make_filament_entry(brand_name="Hatchbox", color="Red", rgb="#FF0000"),
+            ]
+        )
+        soup = BeautifulSoup(html, "html.parser")
+
+        filaments = scraper._parse_filaments(soup)
+
+        assert len(filaments) == 1
+        assert filaments[0]["manufacturer"] == "Hatchbox"
 
 
 class TestScraperProperties:
