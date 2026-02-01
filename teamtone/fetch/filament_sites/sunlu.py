@@ -54,6 +54,10 @@ class SunluScraper(FilamentScraper):
     def site_url(self) -> str:
         return "https://store.sunlu.com"
 
+    @property
+    def manufacturer(self) -> str:
+        return "SUNLU"
+
     def _get_product_urls_from_sitemap(
         self, session: requests.Session, delay: float
     ) -> list[str]:

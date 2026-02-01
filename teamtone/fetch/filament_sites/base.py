@@ -19,6 +19,20 @@ class FilamentScraper(ABC):
         """Base URL of the site"""
         pass
 
+    @property
+    def manufacturer(self) -> str | None:
+        """
+        Manufacturer name this scraper is dedicated to.
+
+        Dedicated scrapers (e.g., Polymaker, Sunlu, Overture) should return
+        the manufacturer name they handle. Aggregate scrapers that handle
+        multiple manufacturers should return None.
+
+        Returns:
+            Manufacturer name string, or None if not a dedicated scraper
+        """
+        return None
+
     @abstractmethod
     def fetch(self, **kwargs) -> dict[str, Any]:
         """

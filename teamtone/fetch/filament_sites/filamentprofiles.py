@@ -205,7 +205,10 @@ class FilamentProfilesScraper(FilamentScraper):
                         rgb = match.group(5)
 
                         # Skip manufacturers that have dedicated scrapers
-                        if brand_name.lower() in ("polymaker", "sunlu", "overture"):
+                        # Import here to avoid circular import
+                        from . import get_dedicated_manufacturers
+
+                        if brand_name.lower() in get_dedicated_manufacturers():
                             continue
 
                         filament = {
