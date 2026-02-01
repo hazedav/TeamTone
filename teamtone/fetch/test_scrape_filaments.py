@@ -7,7 +7,6 @@ Individual scraper tests live in filament_sites/test_<scraper>.py
 Run with: pytest teamtone/fetch/test_scrape_filaments.py -v
 """
 
-
 from scrape_filaments import (
     sanitize_filename,
     load_yaml,

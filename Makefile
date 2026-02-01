@@ -30,6 +30,7 @@ install:
 
 lint:
 	@echo "Running ruff linter..."
+	$(call run_in_teamtone,uv run ruff format --check .)
 	$(call run_in_teamtone,uv run ruff check .)
 
 format:
