@@ -184,7 +184,7 @@ class OvertureScraper(FilamentScraper):
     def _parse_product_page(
         self, session: requests.Session, product_url: str, delay: float
     ) -> list[dict[str, Any]]:
-        """Parse a product page to extract filament colors from data-hex_code attributes"""
+        """Parse a product page to extract filament colors"""
         filaments = []
 
         response = self._fetch_with_retry(session, product_url, delay)
@@ -202,12 +202,14 @@ class OvertureScraper(FilamentScraper):
         if material == "PLA":
             material = self._extract_material_from_url(product_url)
 
-        # Find all labels with data-hex_code attribute
+        # Try method 1: data-hex_code attributes on labels
         # Structure: <label data-hex_code="#142B4B"><span class="js-value">Starry Blue</span></label>
         color_labels = soup.find_all("label", attrs={"data-hex_code": True})
 
         if color_labels:
-            print(f"  Found {len(color_labels)} colors in: {product_title[:50]}...")
+            print(
+                f"  Found {len(color_labels)} colors (data-hex_code) in: {product_title[:50]}..."
+            )
             for label in color_labels:
                 hex_code = label.get("data-hex_code", "").strip()
 
@@ -236,8 +238,65 @@ class OvertureScraper(FilamentScraper):
                         filaments.append(filament)
                         print(f"    {color_name}: {hex_code}")
 
-            # Fix any swapped Black/White hex codes
+        # Try method 2: hex codes embedded in text like "Black(HEX Code - #000000)"
+        if not filaments:
+            filaments = self._parse_hex_from_text(
+                soup, product_title, material, product_url
+            )
+
+        # Fix any swapped Black/White hex codes
+        if filaments:
             filaments = self._fix_swapped_black_white(filaments)
+
+        return filaments
+
+    def _parse_hex_from_text(
+        self, soup: BeautifulSoup, product_title: str, material: str, product_url: str
+    ) -> list[dict[str, Any]]:
+        """Parse hex codes from text content like 'Black(HEX Code - #000000)'"""
+        filaments = []
+
+        # Pattern to match "ColorName(HEX Code - #XXXXXX)" or similar variations
+        # Color name must be on one line (no newlines), 1-30 chars
+        hex_pattern = re.compile(
+            r"([A-Za-z][A-Za-z0-9 ]{0,29})\s*\(\s*HEX\s*Code\s*[-–:]\s*#?([0-9A-Fa-f]{6})\s*\)",
+            re.IGNORECASE,
+        )
+
+        # Search the entire page text for hex code patterns
+        page_text = soup.get_text()
+        matches = hex_pattern.findall(page_text)
+
+        if matches:
+            print(
+                f"  Found {len(matches)} colors (text pattern) in: {product_title[:50]}..."
+            )
+            seen_colors = set()
+            for color_name, hex_value in matches:
+                # Clean up the color name - remove extra whitespace
+                color_name = " ".join(color_name.split())
+
+                # Skip if color name is empty or just whitespace
+                if not color_name or len(color_name) < 2:
+                    continue
+
+                hex_code = f"#{hex_value.upper()}"
+
+                # Avoid duplicates
+                color_key = (color_name.lower(), hex_code)
+                if color_key in seen_colors:
+                    continue
+                seen_colors.add(color_key)
+
+                filament = {
+                    "manufacturer": "Overture",
+                    "material": material,
+                    "color": color_name,
+                    "hex": hex_code,
+                    "link": product_url,
+                }
+                filaments.append(filament)
+                print(f"    {color_name}: {hex_code}")
 
         return filaments
 
