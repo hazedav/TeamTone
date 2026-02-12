@@ -8,7 +8,7 @@ define run_in_teamtone
 	cd $(TEAMTONE_DIR) && $(1)
 endef
 
-.PHONY: help install lint format test run scrape clean
+.PHONY: help install lint format test test-integration coverage-report run scrape clean
 
 help:
 	@echo "TeamTone - Available Commands:"
@@ -16,8 +16,9 @@ help:
 	@echo "  make install          Install dependencies and tools"
 	@echo "  make lint             Run code linting with ruff"
 	@echo "  make format           Auto-format code with ruff"
-	@echo "  make test             Run unit tests with pytest"
+	@echo "  make test             Run unit tests with coverage"
 	@echo "  make test-integration Run integration tests (live scraper tests)"
+	@echo "  make coverage-report  Generate HTML coverage report"
 	@echo "  make run              Run the interactive TeamTone CLI"
 	@echo "  make scrape           Scrape filament data from 3dfilamentprofiles.com"
 	@echo "  make clean            Remove Python cache files"
@@ -39,12 +40,17 @@ format:
 	$(call run_in_teamtone,uv run ruff check --fix .)
 
 test:
-	@echo "Running unit tests with pytest..."
-	$(call run_in_teamtone,uv run pytest . -v)
+	@echo "Running unit tests with coverage..."
+	cd $(TEAMTONE_DIR) && uv run pytest ../$(TEAMTONE_DIR) --cov=$(TEAMTONE_DIR) --cov-report=term-missing -v
 
 test-integration:
-	@echo "Running integration tests (live scraper tests)..."
-	$(call run_in_teamtone,uv run pytest . -v -m integration)
+	@echo "Running integration tests with coverage..."
+	cd $(TEAMTONE_DIR) && uv run pytest ../$(TEAMTONE_DIR) --cov=$(TEAMTONE_DIR) --cov-report=term-missing -v -m integration
+
+coverage-report:
+	@echo "Generating HTML coverage report..."
+	cd $(TEAMTONE_DIR) && uv run pytest ../$(TEAMTONE_DIR) --cov=$(TEAMTONE_DIR) --cov-report=html
+	@echo "Coverage report generated at $(TEAMTONE_DIR)/htmlcov/index.html"
 
 run:
 	@echo "Starting TeamTone CLI..."
