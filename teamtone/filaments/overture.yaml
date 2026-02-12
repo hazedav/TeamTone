@@ -15,11 +15,11 @@ Overture:
     Light Gray:
       hex: '#D5D8DD'
       source: overture3d.com
-      link: https://overture3d.com/products/overture-petg-3d-printer-filament-1-75mm-tgif
+      link: https://overture3d.com/products/overture-petg
     Red:
       hex: '#FF0000'
       source: overture3d.com
-      link: https://overture3d.com/products/overture-petg-3d-printer-filament-1-75mm-tgif
+      link: https://overture3d.com/products/overture-petg
     Magenta:
       hex: '#C80181'
       source: overture3d.com
@@ -55,7 +55,7 @@ Overture:
     Army Green:
       hex: '#404720'
       source: overture3d.com
-      link: https://overture3d.com/products/overture-petg-3d-printer-filament-1-75mm-tgif
+      link: https://overture3d.com/products/overture-petg
     Digital Blue:
       hex: '#0378D0'
       source: overture3d.com
@@ -77,14 +77,14 @@ Overture:
       source: overture3d.com
       link: https://overture3d.com/products/overture-petg
   PLA:
+    Pink:
+      hex: '#F09BB5'
+      source: overture3d.com
+      link: https://overture3d.com/products/overture-pla
     Wine:
       hex: '#800020'
       source: overture3d.com
       link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm
-    Pink:
-      hex: '#F092B3'
-      source: overture3d.com
-      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm-copy
     Black:
       hex: '#000000'
       source: overture3d.com
@@ -104,15 +104,15 @@ Overture:
     Silver Metal:
       hex: '#C9D0D4'
       source: overture3d.com
-      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm-copy
+      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm
     Fresh red:
       hex: '#F00000'
       source: overture3d.com
       link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm
     Red:
-      hex: '#FF0505'
+      hex: '#E9301E'
       source: overture3d.com
-      link: https://overture3d.com/products/overture-pla-professional-3d-printer-filament-1-75mm-copy
+      link: https://overture3d.com/products/overture-pla
     Chocolate:
       hex: '#57361C'
       source: overture3d.com
@@ -345,23 +345,19 @@ Overture:
       hex: '#000000'
       source: overture3d.com
       link: https://overture3d.com/products/overture-pla-3d-printing-filament-2kg
-    Black 3kg:
-      hex: '#000000'
-      source: overture3d.com
-      link: https://overture3d.com/products/overture-pla-3d-printer-filament-1-75mm-3-kg
     White 3kg:
       hex: '#FFFEFA'
       source: overture3d.com
       link: https://overture3d.com/products/overture-pla-3d-printer-filament-1-75mm-3-kg
-    Glow White (Green in Dark):
-      hex: '#EBF1E0'
+    Black 3kg:
+      hex: '#000000'
       source: overture3d.com
-      link: https://overture3d.com/products/overture-glow-pla-3d-printer-filament-1-75mm-tgif
+      link: https://overture3d.com/products/overture-pla-3d-printer-filament-1-75mm-3-kg
   TPU:
     Black:
       hex: '#000000'
       source: overture3d.com
-      link: https://overture3d.com/products/overture-tpu-3d-printer-filament-1-75mm-tgif
+      link: https://overture3d.com/products/overture-high-speed-tpu-3d-printer-filament-1-75mm-2-kg
     Space Gray:
       hex: '#90999D'
       source: overture3d.com
@@ -373,11 +369,11 @@ Overture:
     White:
       hex: '#FFFFFF'
       source: overture3d.com
-      link: https://overture3d.com/products/overture-tpu-3d-printer-filament-1-75mm-tgif
+      link: https://overture3d.com/products/overture-high-speed-tpu-3d-printer-filament-1-75mm
     Red:
       hex: '#D7021C'
       source: overture3d.com
-      link: https://overture3d.com/products/overture-tpu-3d-printer-filament-1-75mm-tgif
+      link: https://overture3d.com/products/overture-tpu
     Bright Pink:
       hex: '#FFBDD1'
       source: overture3d.com
@@ -427,12 +423,12 @@ Overture:
       source: overture3d.com
       link: https://overture3d.com/products/overture-high-speed-tpu-3d-printer-filament-1-75mm
   PLA Silk:
-    Silk Gold:
-      hex: '#F9E352'
-      source: overture3d.com
-      link: https://overture3d.com/products/overture-silk-pla-3d-printer-filament-1-75mm
     Silk Copper:
       hex: '#641501'
+      source: overture3d.com
+      link: https://overture3d.com/products/overture-silk-pla-3d-printer-filament-1-75mm
+    Silk Gold:
+      hex: '#F9E352'
       source: overture3d.com
       link: https://overture3d.com/products/overture-silk-pla-3d-printer-filament-1-75mm
     Silk Gray:
@@ -532,7 +528,7 @@ Overture:
     White:
       hex: '#E6DEDE'
       source: overture3d.com
-      link: https://overture3d.com/products/overture-matte-pla-3d-printer-filament-1-75mm-tgif
+      link: https://overture3d.com/products/overture-matte-pla
     Black:
       hex: '#1D1E1E'
       source: overture3d.com
@@ -540,7 +536,7 @@ Overture:
     Light gray:
       hex: '#BAC4C4'
       source: overture3d.com
-      link: https://overture3d.com/products/overture-matte-pla-3d-printer-filament-1-75mm-tgif
+      link: https://overture3d.com/products/overture-matte-pla
     Pink:
       hex: '#FFE0E1'
       source: overture3d.com
@@ -556,11 +552,11 @@ Overture:
     Orange:
       hex: '#F3C102'
       source: overture3d.com
-      link: https://overture3d.com/products/overture-matte-pla-3d-printer-filament-1-75mm-tgif
+      link: https://overture3d.com/products/overture-matte-pla
     Yellow:
       hex: '#EFDC4C'
       source: overture3d.com
-      link: https://overture3d.com/products/overture-matte-pla-3d-printer-filament-1-75mm-tgif
+      link: https://overture3d.com/products/overture-matte-pla
     Skin:
       hex: '#F0DDC2'
       source: overture3d.com
@@ -576,7 +572,7 @@ Overture:
     Chocolate:
       hex: '#503529'
       source: overture3d.com
-      link: https://overture3d.com/products/overture-matte-pla-3d-printer-filament-1-75mm-tgif
+      link: https://overture3d.com/products/overture-matte-pla
     Grass green:
       hex: '#CEFF5C'
       source: overture3d.com
@@ -624,7 +620,7 @@ Overture:
     Lilac:
       hex: '#ECD1FF'
       source: overture3d.com
-      link: https://overture3d.com/products/overture-matte-pla-3d-printer-filament-1-75mm-tgif
+      link: https://overture3d.com/products/overture-matte-pla
     Turquoise:
       hex: '#60F0E7'
       source: overture3d.com
@@ -713,6 +709,10 @@ Overture:
       source: overture3d.com
       link: https://overture3d.com/products/overture-pc-professional-filament
   PLA+:
+    Sakura Pink:
+      hex: '#FFCCCD'
+      source: overture3d.com
+      link: https://overture3d.com/products/overture-super-pla-3d-printer-filament-1-75mm
     Orange:
       hex: '#FF7A33'
       source: overture3d.com
@@ -735,10 +735,6 @@ Overture:
       link: https://overture3d.com/products/overture-super-pla-3d-printer-filament-1-75mm
     Pink:
       hex: '#FF5786'
-      source: overture3d.com
-      link: https://overture3d.com/products/overture-super-pla-3d-printer-filament-1-75mm
-    Sakura Pink:
-      hex: '#FFCCCD'
       source: overture3d.com
       link: https://overture3d.com/products/overture-super-pla-3d-printer-filament-1-75mm
     Light Brown:
