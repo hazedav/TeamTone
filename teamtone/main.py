@@ -27,7 +27,7 @@ def print_header(text):
 
 
 def select_league():
-    """Prompt user to select a league"""
+    """Prompt user to select a league or manual color entry"""
     print_header("Select a League")
 
     leagues = team_colors.list_all_leagues()
@@ -35,6 +35,10 @@ def select_league():
     if not leagues:
         print("No leagues found!")
         return None
+
+    # Display manual entry option first
+    print("  0. Enter color manually (hex code)")
+    print()
 
     # Display leagues with numbers
     for i, league in enumerate(leagues, 1):
@@ -48,10 +52,12 @@ def select_league():
                 return None
 
             choice_num = int(choice)
+            if choice_num == 0:
+                return "manual"
             if 1 <= choice_num <= len(leagues):
                 return leagues[choice_num - 1]
             else:
-                print(f"Please enter a number between 1 and {len(leagues)}")
+                print(f"Please enter a number between 0 and {len(leagues)}")
         except ValueError:
             print("Please enter a valid number or 'q' to quit")
 
@@ -91,6 +97,32 @@ def select_team(league):
                 print(f"Please enter a number between 1 and {len(team_names)}")
         except ValueError:
             print("Please enter a valid number, 'b' to go back, or 'q' to quit")
+
+
+def get_manual_hex_color():
+    """Prompt user to enter a hex color manually"""
+    print_header("Enter Hex Color")
+
+    print("  Enter a hex color code (e.g., #FF0000 or FF0000)")
+    print("  The '#' prefix is optional.")
+
+    while True:
+        choice = input("\nHex color (or 'b' to go back, 'q' to quit): ").strip()
+        if choice.lower() == "q":
+            return None
+        if choice.lower() == "b":
+            return "back"
+
+        # Normalize the hex code
+        hex_code = choice.lstrip("#").upper()
+
+        # Validate hex format
+        if len(hex_code) == 6 and all(c in "0123456789ABCDEF" for c in hex_code):
+            return f"#{hex_code}"
+        else:
+            print(
+                "Invalid hex code. Please enter a 6-character hex value (e.g., FF0000)"
+            )
 
 
 def select_filament_type():
@@ -351,6 +383,194 @@ def display_team_colors(team_name, league, filament_type=None):
                 pass
 
 
+def display_manual_color(hex_code, filament_type=None):
+    """Display filament matches for a manually entered hex color"""
+    type_label = f" [{filament_type}]" if filament_type else ""
+    print_header(f"Manual Color: {hex_code}{type_label}")
+
+    print(f"\nTarget Color: {hex_code}")
+
+    # Find matching filaments
+    print("\n" + "-" * 70)
+    if filament_type:
+        print(f"Matching Filaments ({filament_type} only):")
+    else:
+        print("Matching Filaments:")
+    print("-" * 70)
+
+    # Find exact matches (filtered by type if specified)
+    matches = filament_colors.get_filaments_by_hex_and_type(hex_code, filament_type)
+
+    if matches:
+        total_matches = len(matches)
+        display_matches = matches[:MAX_SUGGESTIONS]
+
+        if total_matches > MAX_SUGGESTIONS:
+            print(
+                f"\nFound {total_matches} exact match(es), showing top {MAX_SUGGESTIONS}:"
+            )
+        else:
+            print(f"\nFound {total_matches} exact match(es):")
+
+        # Check if any of the top matches have links
+        has_link = any(match.get("link") for match in display_matches)
+
+        # Track displayed matches for top manufacturer check
+        displayed_matches = list(display_matches)
+
+        for match in display_matches:
+            manufacturer = match["manufacturer"]
+            material = match["material"]
+            color_name = match["color"]
+            temps = ""
+            if match.get("temp_hotend") and match.get("temp_bed"):
+                temps = f" (Hotend: {match['temp_hotend']}C, Bed: {match['temp_bed']}C)"
+
+            link = ""
+            if match.get("link"):
+                link = f" [{match['link']}]"
+
+            print(f"  - {manufacturer} - {material} - {color_name}{temps}{link}")
+
+        # If none of the top matches have links, find the first one with a link
+        if not has_link:
+            for match in matches[MAX_SUGGESTIONS:]:
+                if match.get("link"):
+                    manufacturer = match["manufacturer"]
+                    material = match["material"]
+                    color_name = match["color"]
+                    temps = ""
+                    if match.get("temp_hotend") and match.get("temp_bed"):
+                        temps = f" (Hotend: {match['temp_hotend']}C, Bed: {match['temp_bed']}C)"
+
+                    print("\nFirst exact match with purchase link:")
+                    print(
+                        f"  - {manufacturer} - {material} - {color_name}{temps} [{match['link']}]"
+                    )
+                    displayed_matches.append(match)
+                    break
+
+        # If none of the displayed matches are from top 10, find the highest-ranked top manufacturer
+        has_top_manufacturer = any(
+            is_top_manufacturer(match["manufacturer"]) for match in displayed_matches
+        )
+        if not has_top_manufacturer:
+            top_matches = [
+                match
+                for match in matches
+                if match not in displayed_matches
+                and is_top_manufacturer(match["manufacturer"])
+            ]
+            if top_matches:
+                best_match = min(
+                    top_matches,
+                    key=lambda m: get_manufacturer_rank(m["manufacturer"]),
+                )
+                manufacturer = best_match["manufacturer"]
+                material = best_match["material"]
+                color_name = best_match["color"]
+                temps = ""
+                if best_match.get("temp_hotend") and best_match.get("temp_bed"):
+                    temps = f" (Hotend: {best_match['temp_hotend']}C, Bed: {best_match['temp_bed']}C)"
+
+                link = ""
+                if best_match.get("link"):
+                    link = f" [{best_match['link']}]"
+
+                print("\nNearest exact match from top manufacturer:")
+                print(f"  - {manufacturer} - {material} - {color_name}{temps}{link}")
+    else:
+        print("\nNo exact matches found")
+
+        # Try to find similar colors
+        try:
+            all_matches = filament_colors.find_similar_filament_colors_by_type(
+                hex_code, limit=50, filament_type=filament_type
+            )
+            all_matches.sort(
+                key=lambda m: calculate_weighted_score(m[1], m[0]["manufacturer"]),
+                reverse=True,
+            )
+            similar_matches = all_matches[:MIN_SUGGESTIONS]
+
+            if similar_matches:
+                print(
+                    f"Closest {len(similar_matches)} match(es) (weighted by manufacturer rank):"
+                )
+
+                has_link = any(filament.get("link") for filament, _ in similar_matches)
+                displayed_filaments = [filament for filament, _ in similar_matches]
+
+                for filament, similarity in similar_matches:
+                    manufacturer = filament["manufacturer"]
+                    material = filament["material"]
+                    color_name = filament["color"]
+                    rank_bonus = calculate_manufacturer_bonus(manufacturer)
+                    temps = ""
+                    if filament.get("temp_hotend") and filament.get("temp_bed"):
+                        temps = f" (Hotend: {filament['temp_hotend']}C, Bed: {filament['temp_bed']}C)"
+
+                    link = ""
+                    if filament.get("link"):
+                        link = f" [{filament['link']}]"
+
+                    score_info = f"({similarity:.1f}% similar"
+                    if rank_bonus > 0:
+                        score_info += f" + {rank_bonus:.1f} rank bonus"
+                    score_info += ")"
+
+                    print(
+                        f"  - {manufacturer} - {material} - {color_name} - {filament['hex']} {score_info}{temps}{link}"
+                    )
+
+                # If none of the top matches have links, find the nearest one with a link
+                if not has_link:
+                    for filament, similarity in all_matches:
+                        if filament.get("link") and filament not in displayed_filaments:
+                            manufacturer = filament["manufacturer"]
+                            material = filament["material"]
+                            color_name = filament["color"]
+                            temps = ""
+                            if filament.get("temp_hotend") and filament.get("temp_bed"):
+                                temps = f" (Hotend: {filament['temp_hotend']}C, Bed: {filament['temp_bed']}C)"
+
+                            print("\nNearest match with purchase link:")
+                            print(
+                                f"  - {manufacturer} - {material} - {color_name} - {filament['hex']} ({similarity:.1f}% similar){temps} [{filament['link']}]"
+                            )
+                            displayed_filaments.append(filament)
+                            break
+
+                # If none of the displayed matches are from top 10, find best weighted match
+                has_top_manufacturer = any(
+                    is_top_manufacturer(filament["manufacturer"])
+                    for filament in displayed_filaments
+                )
+                if not has_top_manufacturer:
+                    filament, similarity = get_best_top_manufacturer_match(
+                        all_matches, displayed_filaments
+                    )
+                    if filament:
+                        manufacturer = filament["manufacturer"]
+                        material = filament["material"]
+                        color_name = filament["color"]
+                        temps = ""
+                        if filament.get("temp_hotend") and filament.get("temp_bed"):
+                            temps = f" (Hotend: {filament['temp_hotend']}C, Bed: {filament['temp_bed']}C)"
+
+                        link = ""
+                        if filament.get("link"):
+                            link = f" [{filament['link']}]"
+
+                        rank_bonus = calculate_manufacturer_bonus(manufacturer)
+                        print("\nNearest match from top manufacturer:")
+                        print(
+                            f"  - {manufacturer} - {material} - {color_name} - {filament['hex']} ({similarity:.1f}% similar + {rank_bonus:.1f} rank bonus){temps}{link}"
+                        )
+        except ImportError:
+            pass
+
+
 def main():
     """Main interactive CLI"""
     print("\n")
@@ -365,11 +585,44 @@ def main():
     print("*" * 70)
 
     while True:
-        # Select league
+        # Select league or manual entry
         league = select_league()
         if league is None:
             print("\nGoodbye!")
             break
+
+        # Handle manual color entry
+        if league == "manual":
+            while True:
+                hex_code = get_manual_hex_color()
+                if hex_code is None:
+                    print("\nGoodbye!")
+                    return
+                if hex_code == "back":
+                    break  # Go back to league selection
+
+                # Select filament type
+                filament_type = select_filament_type()
+                if filament_type is None:
+                    print("\nGoodbye!")
+                    return
+                if filament_type == "back":
+                    continue  # Go back to hex input
+
+                # Display matches
+                display_manual_color(hex_code, filament_type if filament_type else None)
+
+                # Ask if user wants to enter another color
+                print("\n" + "=" * 70)
+                choice = (
+                    input("\nEnter another color? (y/n/b to go back): ").strip().lower()
+                )
+                if choice == "n":
+                    print("\nGoodbye!")
+                    return
+                elif choice == "b":
+                    break
+            continue  # Go back to league selection
 
         while True:
             # Select team
